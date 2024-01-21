@@ -1,8 +1,26 @@
 import os
 from sqlbuilder import build_sql_database_framework
-from reader import csv_to_df
+from reader import Reader
 
-print(csv_to_df())
+'''
+                    !!! IMPORTANT NOTES !!!
+    If a csv file is downloaded from a game played by someone else,
+    it must be edited at the bottom to include that player's exact username.
+    This will change the "you" player to them, which is necessary because
+    otherwise the program will not function properly :)
 
-if not os.path.exists("./pokernow_sqlite.db"):
-    build_sql_database_framework()
+    Also, hands played without the "you" player 
+    (after they go broke) will not be recorded.
+ '''
+
+r = Reader("smashthategg")
+
+for fileName in os.listdir('./game_logs'): 
+    r.set_csv(fileName)
+    r.csv_to_txt()
+    r.csv_to_data()
+
+
+r.print_all_players_as_df()
+r.print_player_as_df("smashthategg")
+r.print_player_as_df("Shawnkemp40")
