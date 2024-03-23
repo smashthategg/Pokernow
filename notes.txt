@@ -1,0 +1,5 @@
+Bayesian Inference
+update probability model based on new infromation (action)
+
+
+

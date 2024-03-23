@@ -28,12 +28,12 @@ class Reader():
         '''
         { 
             name : {
-                    'hand_ids' : []     list of integers
-                    'stacks' : []             ^^^
-                    'stacksinbbs' : []  list of floats rounded to 1/10.
+                    'hand_id' : []     list of integers
+                    'stack' : []             ^^^
+                    'stackinbbs' : []  list of floats rounded to 1/10.
                     'blinds' : []       list of ordered pair of integers (sb, bb)
-                    'hands' : []        list of strings either the player's hand or 'none' if it was never revealed
-                    'positions': []     list of strings taken from the list 'positions'
+                    'hand' : []        list of strings either the player's hand or 'none' if it was never revealed
+                    'position': []     list of strings taken from the list 'positions'
 
                                     'preflop': [] # list of strings 
                                     'flop': []             ^
@@ -41,7 +41,7 @@ class Reader():
                                     'river': []            ^
      
                     'net' : []          list of floats rounded to 1/10
-                    'all_in': []        list of booleans
+                    'showdown': []        list of booleans
                     }
         }
         '''
@@ -86,47 +86,46 @@ class Reader():
                 index += 1
 
             self.players_in_hand = re.findall(r'"(.*?)"', self.log[index])
-            if self.you not in self.players_in_hand:
-                break
             stacks = re.findall(r'\((.*?)\)', self.log[index])
             for name in self.players_in_hand:
                 if name not in self.players:
                     # Initialize the key-value pair in players if player has not been added yet.
                     self.players[name] = {
-                                            'hand_ids' : [],
-                                            'hands': [],
-                                            'stacks': [],
-                                            'stacksinbbs': [],
+                                            'hand_id' : [],
+                                            'hand': [],
+                                            'stack': [],
+                                            'stackinbbs': [],
                                             'blinds': [],
-                                            'positions': [],
+                                            'position': [],
                                             'preflop': [],
                                             'flop': [],
                                             'turn': [],
                                             'river': [],
                                             'net': [],
-                                            'all_in': [],
+                                            'showdown': [],
                                             'board': []
                                          }
                 # Record the player's current stack and hand_id
-                self.players[name]['stacks'].append(int(stacks[self.players_in_hand.index(name)]))
-                self.players[name]['hand_ids'].append(self.hand_id)
+                self.players[name]['stack'].append(int(stacks[self.players_in_hand.index(name)]))
+                self.players[name]['hand_id'].append(self.hand_id)
                 
                 # Initialize default values for player in this hand.
-                self.players[name]['positions'].append("BB")
-                self.players[name]['hands'].append("NA")
+                self.players[name]['position'].append("BB")
+                self.players[name]['hand'].append("NA")
                 self.players[name]['preflop'].append("NA")
                 self.players[name]['flop'].append("NA")
                 self.players[name]['turn'].append("NA")
                 self.players[name]['river'].append("NA")
                 self.players[name]['net'].append(0)
-                self.players[name]['all_in'].append(False)
+                self.players[name]['showdown'].append(False)
                 self.players[name]['board'].append("NA")
 
             index += 1
             
             # Record the "you" player's hand
-            self.players[self.you]['hands'][-1] = self.log[index][13:]
-            index += 1
+            if self.log[index][0] == 'Y': 
+                self.players[self.you]['hand'][-1] = self.log[index][13:]
+                index += 1
 
             # Record the current blind level
             dead_sb = False
@@ -149,53 +148,55 @@ class Reader():
 
             # Divide all stacks by bb size to get stacks in bbs.
             for name in self.players_in_hand:
-                self.players[name]['stacksinbbs'].append(round(self.players[name]['stacks'][-1] / self.bb, 1))
+                self.players[name]['stackinbbs'].append(round(self.players[name]['stack'][-1] / self.bb, 1))
             
             # Record each player's position
             if index + 7 < len(self.log):
                 for i in range(8-len(self.players_in_hand),8):
-                    self.players[self.update_curr_player(self.log[index])]['positions'][-1] = positions[i-dead_sb]
+                    self.players[self.update_curr_player(self.log[index])]['position'][-1] = positions[i-dead_sb]
                     self.record_action(self.log[index], 'preflop')
                     index += 1
                 while index < len(self.log) and self.log[index][:4] not in ['Flop', '-- s']: # Until the flop/end of hand...
-                    if self.log[index][0] == '"':
+                    if self.log[index][0] in ['"', 'U']:
                         self.update_curr_player(self.log[index])
                         self.record_action(self.log[index], 'preflop')
                     index += 1
-                if self.log[index][:4] == 'Flop':
+                if index < len(self.log) and self.log[index][:4] == 'Flop':
                     for name in self.players_in_hand:
                         self.players[name]['board'][-1] = self.log[index][6:]
                     index += 1
                     while index < len(self.log) and self.log[index][:4] not in ['Turn', '-- s']:
-                        if self.log[index][0] == '"':
+                        if self.log[index][0] in ['"', 'U']:
                             self.update_curr_player(self.log[index])
                             self.record_action(self.log[index], 'flop')
                         index += 1
-                    if self.log[index][:4] == 'Turn':
+                    if index < len(self.log) and self.log[index][:4] == 'Turn':
                         for name in self.players_in_hand:
                             self.players[name]['board'][-1] = "[" + re.sub(r'[\[\]]','',self.log[index][6:]) + "]"
                         index += 1
                         while index < len(self.log) and self.log[index][:4] not in ['Rive', '-- s']:
-                            if self.log[index][0] == '"':
+                            if self.log[index][0] in ['"', 'U']:
                                 self.update_curr_player(self.log[index])
                                 self.record_action(self.log[index], 'turn')
                             index += 1
-                        if self.log[index][:4] == 'Rive':
+                        if index < len(self.log) and self.log[index][:4] == 'Rive':
                             for name in self.players_in_hand:
                                 self.players[name]['board'][-1] = "[" + re.sub(r'[\]\[]','',self.log[index][7:]) + "]"
                             index += 1
                             while index < len(self.log) and self.log[index][:4] != '-- s':
-                                if self.log[index][0] == '"':
+                                if self.log[index][0] in ['"', 'U']:
                                     self.update_curr_player(self.log[index])
                                     self.record_action(self.log[index], 'river')
                                 index += 1
-            # Skip over lines until reader arrives at next hand. Also quits reading if target player is no longer in game.
+            if len(self.players_in_hand) > 1:
+                for name in self.players_in_hand:
+                    self.players[name]['showdown'][-1] = True
+            # Skip over lines until reader arrives at next hand
             while index < len(self.log) and self.log[index][:4] != '-- s':
                 index += 1
 
             self.hand_id += 1
         
-        print('DONE')
         return
 
 
@@ -208,9 +209,8 @@ class Reader():
 
     def record_action(self, line, stage):
         nline = re.sub(r'"(.*?)" ', "", line).split()
-        if nline[-1] == 'in':
-            self.players[self.curr_player]['all_in'][-1] = True
         action = "NA"
+        amount = 0
         match nline[0]:
             case 'folds':
                 self.players_in_hand.remove(self.curr_player)
@@ -219,27 +219,45 @@ class Reader():
                 action = 'X'
             case 'calls':
                 amount = round(int(nline[1])/self.bb, 1)
-                action = 'C{}'.format(amount)
-                self.players[self.curr_player]['net'][-1] -= amount
+                action = 'C'
             case 'raises':
                 amount = round(int(nline[2])/self.bb, 1)
-                action = 'R{}'.format(amount)
-                self.players[self.curr_player]['net'][-1] -= amount
+                action = 'R'
+            case 'bets':
+                amount = round(int(nline[1])/self.bb, 1)
+                action = 'B'
             case 'Uncalled':
-                self.players[self.curr_player]['net'][-1] += round(int(nline[3])/self.bb, 1)
+                amount = round(int(nline[3])/self.bb, 1)
             case 'shows':
-                self.players[self.curr_player]['hands'][-1] = nline[-2] + " " + nline[-1][:-1]
+                self.players[self.curr_player]['hand'][-1] = nline[-2] + " " + nline[-1][:-1]
             case 'collected':
-                self.players[self.curr_player]['net'][-1] += round(int(nline[1])/self.bb, 1)
+                amount = round(int(nline[1])/self.bb, 1)
             case _:
                 return
-        if self.players[self.curr_player][stage][-1] == 'NA': 
-            self.players[self.curr_player][stage][-1] = action
+        if stage == 'preflop' and  self.players[self.curr_player][stage][-1] == 'NA': 
+            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'SB':
+                self.players[self.curr_player]['net'][-1] += 0.5
+            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'BB':
+                self.players[self.curr_player]['net'][-1] += 1
+        if action != 'NA': 
+            if amount != 0: # If player called/bet/raised, we want to include the amount.
+                action += str(amount)
+            if self.players[self.curr_player][stage][-1] == 'NA': # If this is the player's first action in the stage
+                self.players[self.curr_player][stage][-1] = action
+            else:
+                self.players[self.curr_player][stage][-1] += "-" + action
+            # Now we change the "net" values.
+            if amount < 0: # If the player c/b/r
+                for past_action in self.players[self.curr_player][stage][-1].split('-'):
+                    if past_action[0] in ['B','C','R']: # We dont also want to deduct past bets in the same stage.
+                        self.players[self.curr_player]['net'][-1] += float(past_action[1:])
+            self.players[self.curr_player]['net'][-1] -= amount
         else:
-            if action != 'NA': self.players[self.curr_player][stage][-1] += action
-        print(line)
+            self.players[self.curr_player]['net'][-1] += amount
+
         return
     
+    pd.set_option('display.max_rows', 500)
     # Test Function
     def print_player_as_df(self, name):
         df = pd.DataFrame(self.players[name])

@@ -20,7 +20,4 @@ for fileName in os.listdir('./game_logs'):
     r.csv_to_txt()
     r.csv_to_data()
 
-
-r.print_all_players_as_df()
 r.print_player_as_df("smashthategg")
-r.print_player_as_df("Shawnkemp40")
