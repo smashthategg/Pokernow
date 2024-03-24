@@ -7,7 +7,8 @@ class Deck():
         self.cards = []
         for suit in ['♣','♦','♥','♠']:
             for value in ['2','3','4','5','6','7','8','9','T','J','Q','K','A']:
-                self.cards.append(Card(value, suit))    
+                self.cards.append(Card(value, suit))
+        self.shuffle()    
     def __str__(self):
         result = ""
         for card in self.cards:
