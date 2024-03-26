@@ -7,7 +7,7 @@ class Game:
         self.players = []
         for i in range(numOfPlayers):
             self.players.append(playerList[i])
-        self.graveYard = []
+        self.graveYard = []  #aka burnpile
         self.pot = 0
         
     def start(self):
@@ -19,11 +19,13 @@ class Game:
     def bettingRound(self):
         for player in self.players:
             amount = int(input(f"{player.name}'s bet: "))
-            if player.bet(amount) == -1:
+            if player.bet(amount) == -1:  #bet higher than remaining chips
                 break
             else:
                 self.pot += amount
-        
+    
+    #todo: add winner evaluation, gamestatus, and complete game logic
+                
     def play(self):
         self.start()
         self.bettingRound()

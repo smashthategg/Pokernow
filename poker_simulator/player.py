@@ -20,3 +20,6 @@ class Player:
   
   def status(self):
     print(f"{self.name} {self.hand} {self.chips}")
+    for card in self.hand:
+      print(f"{card}", end = "")
+    print()
