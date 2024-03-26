@@ -16,3 +16,6 @@ class Player:
     else:
       print(f"{self.name} doesn't have enough chips to bet {amount}.")
       return False
+    
+  def status(self):
+    print(f"{self.name} {self.hand} {self.chips}")
