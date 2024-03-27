@@ -7,14 +7,20 @@ class Game:
         self.players = []
         for i in range(numOfPlayers):
             self.players.append(playerList[i])
+        self.table = []
         self.graveYard = []  #aka burnpile
         self.pot = 0
         
     def start(self):
         self.deck.shuffle()
-        self.graveYard.append(self.deck.deal(1))  #burn 1
+        self.burn1()
         for player in self.players:
             player.deal(self.deck.deal(2))
+
+    def deal1(self):
+        self.burn1()
+        self.deck.deal(1)
+        self.table.append(self.deck.deal(1))
 
     def bettingRound(self):
         for player in self.players:
@@ -23,9 +29,25 @@ class Game:
                 break
             else:
                 self.pot += amount
+    def burn1(self):
+        self.graveYard.append(self.deck.deal(1))
+
+    #def handEvaluation(self):
+        
     
     #todo: add winner evaluation, gamestatus, and complete game logic
                 
     def play(self):
         self.start()
+        self.bettingRound()  #pre flop
+        self.burn1()
+        for i in range(3):   #flop
+            self.deal1()
         self.bettingRound()
+        self.burn1()
+        self.deal1()    #turn
+        self.bettingRound()
+        self.burn1()
+        self.deal1()    #river
+        self.bettingRound()
+        #compare hands and announce winners
