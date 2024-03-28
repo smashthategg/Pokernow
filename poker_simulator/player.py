@@ -1,18 +1,28 @@
-# player.py
+from deck import Deck
 
-from card import Card
+class Player:
+  def __init__(self, name, chips):
+    self.name = name
+    self.hand = []
+    self.chips = chips
 
-class Player():
-    def __init__(self):
-        self.hand = [None, None]
+  def deal(self, cards):
+    for card in cards:
+      self.hand.append(card)
 
-    def add_to_hand(self, card):
-        if not self.hand[0]:
-            self.hand[0] = card
-        elif not self.hand[1]:
-            self.hand[1] = card
-        else:
-            raise Exception('Hand is full!')
-
+  def bet(self, amount):
+    if amount <= self.chips:
+      self.chips -= amount
+      return amount
+    else:
+      print(f"{self.name} doesn't have enough chips to bet {amount}.")
+      return -1
+  
+  def status(self):
+    print(f"{self.name} {self.hand} {self.chips}")
+    for card in self.hand:
+      print(f"{card}", end = "")
+    print()
+    
     def get_hand(self):
         return [str(self.hand[0]),str(self.hand[1])]

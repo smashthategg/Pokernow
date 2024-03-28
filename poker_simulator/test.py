@@ -1,6 +1,8 @@
 from card import Card
 from deck import Deck
+=======
 from equity_calculator import *
+>>>>>>> main
 
 c1 = Card('3','hearts')
 c2 = Card('4','clubs')
@@ -14,5 +16,3 @@ cards = [c1,c2,c3,c4,c5,c6,c7]
 
 print(find_best_combo(cards)[0])
 
-for card in find_best_combo(cards)[1]:
-    print(card)

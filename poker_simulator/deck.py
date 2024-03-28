@@ -20,6 +20,9 @@ class Deck():
             temp = self.cards[i]
             self.cards[i] = self.cards[j]
             self.cards[j] = temp
-    def deal(self):
-        return self.cards.pop()
+    def deal(self, number):  #returns array of cards added
+        dealtCards = []
+        for i in range(number):
+            dealtCards.append(self.cards.pop())
+        return dealtCards
     
