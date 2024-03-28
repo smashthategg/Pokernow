@@ -2,4 +2,21 @@ Bayesian Inference
 update probability model based on new infromation (action)
 
 
+CREATING A BOT:
+
+-- strategy
+Decide which hands to play preflop -- based on bet sizing and number of players? 
+ex. play the best 10% of your hands.
+ 
+equity calculator.
+
+Made hand = Value bet aggressively
+Draw hand = call aggressively (high equity)
+
+Decide based on players
+FOLD hard
+....
+...
+
+
 

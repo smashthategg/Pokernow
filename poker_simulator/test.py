@@ -1,29 +1,18 @@
 from card import Card
 from deck import Deck
-from player import Player
-from game import Game
+=======
+from equity_calculator import *
+>>>>>>> main
 
-d = Deck()
+c1 = Card('3','hearts')
+c2 = Card('4','clubs')
+c3 = Card('A','clubs')
+c4 = Card('2','spades')
+c5 = Card('T','diamonds')
+c6 = Card('4','hearts')
+c7 = Card('K','clubs')
 
-print(d)
+cards = [c1,c2,c3,c4,c5,c6,c7]
 
-d.shuffle()
+print(find_best_combo(cards)[0])
 
-print(d)
-
-d.shuffle()
-
-print(d)
-
-print()
-dylan = Player("Dylan", 100)
-dylan.status()
-print()
-
-johnny = Player("Johnny", 100)
-johnny.status()
-tempList = [dylan, johnny]
-game = Game(2, tempList)
-game.play()
-dylan.status()
-johnny.status()

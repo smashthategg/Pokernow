@@ -23,3 +23,6 @@ class Player:
     for card in self.hand:
       print(f"{card}", end = "")
     print()
+    
+    def get_hand(self):
+        return [str(self.hand[0]),str(self.hand[1])]
