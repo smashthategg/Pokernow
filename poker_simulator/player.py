@@ -24,5 +24,5 @@ class Player:
       print(f"{card}", end = "")
     print()
     
-    def get_hand(self):
-        return [str(self.hand[0]),str(self.hand[1])]
+  def get_hand(self):
+    return([str(card) for card in self.hand])

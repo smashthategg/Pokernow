@@ -25,4 +25,6 @@ class Deck():
         for i in range(number):
             dealtCards.append(self.cards.pop())
         return dealtCards
+    def remove(self, card):
+        self.cards.remove(card)
     

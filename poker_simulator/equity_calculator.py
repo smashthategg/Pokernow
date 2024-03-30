@@ -6,7 +6,18 @@ import itertools
 
 def calculate_equity(players, board):
     rankings = ['High Card','Pair','Two Pair','Three of a Kind','Straight','Flush','Full House','Four of a Kind','Straight Flush','Royal Flush']
-    #while len(board) < 5: to do later.
+    deck = Deck() 
+    for player in players:
+        for card in player.hand:
+            deck.remove(card)
+    for card in board:
+        deck.remove(card)
+    if len(board) == 5:
+        player_rankings = {player: find_best_combo(board.append(player.hand)) for player in players}
+        print(player_rankings)
+        
+
+    
          
 # takes in a list of 7 cards, determines best 5-card combination
 # returns a tuple (String *type of hand*, List of cards *best combo*)
