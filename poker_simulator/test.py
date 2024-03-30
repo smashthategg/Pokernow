@@ -20,7 +20,6 @@ board = d.deal(4)
 print(board)
 
 print(calculate_equity(hero.hand,opp_hands,board))
-
 '''
 equity = 0
 for i in range(2500):
