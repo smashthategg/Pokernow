@@ -2,6 +2,7 @@ from card import Card
 from player import Player
 from deck import Deck
 from collections import Counter
+import itertools
 
 def calculate_equity(players, board):
     rankings = ['High Card','Pair','Two Pair','Three of a Kind','Straight','Flush','Full House','Four of a Kind','Straight Flush','Royal Flush']
