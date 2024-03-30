@@ -10,6 +10,9 @@ class Player:
     for card in cards:
       self.hand.append(card)
 
+  def clear_hand(self):
+    self.hand = []
+
   def bet(self, amount):
     if amount <= self.chips:
       self.chips -= amount
@@ -26,3 +29,6 @@ class Player:
     
   def get_hand(self):
     return([str(card) for card in self.hand])
+  
+  def __str__(self):
+    return self.name

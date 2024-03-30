@@ -10,10 +10,7 @@ class Deck():
                 self.cards.append(Card(value, suit))
         self.shuffle()    
     def __str__(self):
-        result = ""
-        for card in self.cards:
-            result += str(card) + ", "
-        return result
+        return str(self.cards)
     def shuffle(self):
         for i in range(0,50):
             j = random.randint(i,51)

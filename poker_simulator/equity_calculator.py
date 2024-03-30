@@ -3,19 +3,38 @@ from player import Player
 from deck import Deck
 from collections import Counter
 import itertools
+import array 
 
-def calculate_equity(players, board):
+def calculate_equity(hero_hand, opp_hands, board):
     rankings = ['High Card','Pair','Two Pair','Three of a Kind','Straight','Flush','Full House','Four of a Kind','Straight Flush','Royal Flush']
     deck = Deck() 
-    for player in players:
-        for card in player.hand:
+    for card in hero_hand:
+        deck.remove(card)
+    for hand in opp_hands:
+        for card in hand:
             deck.remove(card)
     for card in board:
         deck.remove(card)
     if len(board) == 5:
-        player_rankings = {player: find_best_combo(board.append(player.hand)) for player in players}
-        print(player_rankings)
+        num_winners = 1
+        hero = find_best_combo(board + hero_hand)
+        for opp_hand in opp_hands:
+            opp = find_best_combo(board + opp_hand)
+            if rankings.index(hero[0]) < rankings.index(opp[0]):
+                return 0
+            if rankings.index(hero[0]) == rankings.index(opp[0]):
+                if hero[1] < opp[1]:
+                    return 0
+                if hero[1] == opp[1]:
+                    num_winners += 1
+        return 1/num_winners
+    else:
+        outcomes = []
+        for card in deck.cards:
+            outcomes.append(calculate_equity(hero_hand,opp_hands,board + [card]))
+        return round(sum(outcomes)/len(deck.cards),2)
         
+
 
     
          

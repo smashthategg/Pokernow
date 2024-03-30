@@ -25,3 +25,12 @@ class Card():
                             'spades': '♠'
                         }
         return self.value + suit_to_emoji[self.suit]
+    
+    def __repr__(self):
+        suit_to_emoji = {
+                            'clubs': '♣',
+                            'diamonds': '♦',
+                            'hearts': '♥',
+                            'spades': '♠'
+                        }
+        return self.value + suit_to_emoji[self.suit]
