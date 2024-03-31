@@ -9,6 +9,9 @@ class Player:
   def deal(self, cards):
     for card in cards:
       self.hand.append(card)
+  
+  def add_card(self, card):
+    self.hand.append(card)
 
   def clear_hand(self):
     self.hand = []

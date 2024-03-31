@@ -2,19 +2,12 @@ from card import Card
 from player import Player
 from deck import Deck
 from collections import Counter
-import itertools
+from itertools import combinations
+from math import comb
 import array 
 
-def calculate_equity(hero_hand, opp_hands, board):
+def calculate_equity(hero_hand, opp_hands, board): 
     rankings = ['High Card','Pair','Two Pair','Three of a Kind','Straight','Flush','Full House','Four of a Kind','Straight Flush','Royal Flush']
-    deck = Deck() 
-    for card in hero_hand:
-        deck.remove(card)
-    for hand in opp_hands:
-        for card in hand:
-            deck.remove(card)
-    for card in board:
-        deck.remove(card)
     if len(board) == 5:
         num_winners = 1
         hero = find_best_combo(board + hero_hand)
@@ -29,10 +22,18 @@ def calculate_equity(hero_hand, opp_hands, board):
                     num_winners += 1
         return 1/num_winners
     else:
+        deck = Deck() 
+        for card in hero_hand:
+            deck.remove(card)
+        for hand in opp_hands:
+            for card in hand:
+                deck.remove(card)
+        for card in board:
+            deck.remove(card)
         outcomes = []
-        for card in deck.cards:
-            outcomes.append(calculate_equity(hero_hand,opp_hands,board + [card]))
-        return round(sum(outcomes)/len(deck.cards),2)
+        for runout in combinations(deck.cards, 5-len(board)):
+            outcomes.append(calculate_equity(hero_hand,opp_hands,board + list(runout)))
+        return round(sum(outcomes)/comb(len(deck.cards),5-len(board)),2)
         
 
 
