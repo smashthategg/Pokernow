@@ -1,0 +1,1 @@
+https://network.pokernow.club/sng_tournaments
