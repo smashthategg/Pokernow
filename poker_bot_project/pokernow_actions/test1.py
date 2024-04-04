@@ -7,8 +7,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 chromedriver_path = r"C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
-discord_user = "4245229250"
-discord_pass = "hyperion2005"
+discord_user = ""
+discord_pass = ""
 
 
 
