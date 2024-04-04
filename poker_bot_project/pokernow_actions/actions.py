@@ -224,7 +224,6 @@ if __name__ == "__main__":
 
 
     # discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
-    # discord_login(driver, "4245229250", "hyperion2005")
 
     # register_for_game(driver) # remove if already a game in progress
 
