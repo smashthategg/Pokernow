@@ -1,0 +1,518 @@
+entry,at,order
+"The player ""PokerLobo @ Hk6Ia_x0Hn"" quits the game with a stack of 8000.",2024-04-06T02:21:06.723Z,171237006672300
+"The player ""Jimmtrause @ TSkBBkPt_L"" quits the game with a stack of 0.",2024-04-06T02:15:06.620Z,171236970662000
+"-- ending hand #23 --",2024-04-06T02:15:00.597Z,171236970059701
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 1790 from pot with Pair, 3's (combination: 3♦, 3♥, A♥, K♠, J♣)",2024-04-06T02:15:00.597Z,171236970059700
+"River: 5♦, K♠, J♣, 8♦ [3♥]",2024-04-06T02:14:56.585Z,171236969658500
+"Turn: 5♦, K♠, J♣ [8♦]",2024-04-06T02:14:52.532Z,171236969253200
+"Flop:  [5♦, K♠, J♣]",2024-04-06T02:14:48.520Z,171236968852000
+"""Jimmtrause @ TSkBBkPt_L"" shows a 10♠, 6♣.",2024-04-06T02:14:44.513Z,171236968451301
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a A♥, 3♦.",2024-04-06T02:14:44.513Z,171236968451300
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 895",2024-04-06T02:14:43.709Z,171236968370900
+"""Jimmtrause @ TSkBBkPt_L"" raises to 895 and go all in",2024-04-06T02:14:42.570Z,171236968257000
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a big blind of 100",2024-04-06T02:14:40.120Z,171236968012005
+"""Jimmtrause @ TSkBBkPt_L"" posts a small blind of 50",2024-04-06T02:14:40.120Z,171236968012004
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (7105) | #2 ""Jimmtrause @ TSkBBkPt_L"" (895)",2024-04-06T02:14:40.120Z,171236968012001
+"-- starting hand #23 (id: k7e5imeuaojq)  (No Limit Texas Hold'em) (dealer: ""Jimmtrause @ TSkBBkPt_L"") --",2024-04-06T02:14:40.120Z,171236968012000
+"-- ending hand #22 --",2024-04-06T02:14:37.210Z,171236967721002
+"""Jimmtrause @ TSkBBkPt_L"" collected 200 from pot",2024-04-06T02:14:37.210Z,171236967721001
+"Uncalled bet of 695 returned to ""Jimmtrause @ TSkBBkPt_L""",2024-04-06T02:14:37.210Z,171236967721000
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:14:36.348Z,171236967634800
+"""Jimmtrause @ TSkBBkPt_L"" raises to 795 and go all in",2024-04-06T02:14:34.355Z,171236967435500
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 100",2024-04-06T02:14:31.554Z,171236967155400
+"""Jimmtrause @ TSkBBkPt_L"" posts a big blind of 100",2024-04-06T02:14:29.430Z,171236966943006
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a small blind of 50",2024-04-06T02:14:29.430Z,171236966943005
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (7205) | #2 ""Jimmtrause @ TSkBBkPt_L"" (795)",2024-04-06T02:14:29.430Z,171236966943002
+"-- starting hand #22 (id: pdfmhpoycccr)  (No Limit Texas Hold'em) (dealer: ""PokerLobo @ Hk6Ia_x0Hn"") --",2024-04-06T02:14:29.430Z,171236966943001
+"The player ""Treex3 @ RUAAWMPzDZ"" quits the game with a stack of 0.",2024-04-06T02:14:29.430Z,171236966943000
+"-- ending hand #21 --",2024-04-06T02:14:23.421Z,171236966342101
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 6200 from pot with Pair, J's (combination: J♣, J♥, 10♠, 8♦, 7♣)",2024-04-06T02:14:23.421Z,171236966342100
+"River: J♥, 10♠, 8♦, 4♥ [3♥]",2024-04-06T02:14:19.417Z,171236965941700
+"""Treex3 @ RUAAWMPzDZ"" shows a 6♠, 6♦.",2024-04-06T02:14:15.408Z,171236965540801
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a 7♣, J♣.",2024-04-06T02:14:15.408Z,171236965540800
+"""Treex3 @ RUAAWMPzDZ"" calls 2050 and go all in",2024-04-06T02:14:14.591Z,171236965459100
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 2050",2024-04-06T02:14:11.739Z,171236965173900
+"Turn: J♥, 10♠, 8♦ [4♥]",2024-04-06T02:14:09.001Z,171236964900100
+"""Treex3 @ RUAAWMPzDZ"" calls 700",2024-04-06T02:14:08.173Z,171236964817300
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 700",2024-04-06T02:14:06.607Z,171236964660700
+"Flop:  [J♥, 10♠, 8♦]",2024-04-06T02:14:01.831Z,171236964183100
+"""Treex3 @ RUAAWMPzDZ"" calls 300",2024-04-06T02:14:01.013Z,171236964101300
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:14:00.120Z,171236964012000
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 300",2024-04-06T02:13:52.329Z,171236963232900
+"""Treex3 @ RUAAWMPzDZ"" calls 100",2024-04-06T02:13:47.628Z,171236962762800
+"""Jimmtrause @ TSkBBkPt_L"" posts a big blind of 100",2024-04-06T02:13:45.668Z,171236962566806
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a small blind of 50",2024-04-06T02:13:45.668Z,171236962566805
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (4055) | #2 ""Jimmtrause @ TSkBBkPt_L"" (895) | #6 ""Treex3 @ RUAAWMPzDZ"" (3050)",2024-04-06T02:13:45.668Z,171236962566801
+"-- starting hand #21 (id: i6xy32th7bhf)  (No Limit Texas Hold'em) (dealer: ""Treex3 @ RUAAWMPzDZ"") --",2024-04-06T02:13:45.668Z,171236962566800
+"-- ending hand #20 --",2024-04-06T02:13:42.723Z,171236962272302
+"""Treex3 @ RUAAWMPzDZ"" collected 300 from pot",2024-04-06T02:13:42.723Z,171236962272301
+"Uncalled bet of 100 returned to ""Treex3 @ RUAAWMPzDZ""",2024-04-06T02:13:42.723Z,171236962272300
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:13:41.878Z,171236962187800
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:13:30.314Z,171236961031400
+"""Treex3 @ RUAAWMPzDZ"" bets 100",2024-04-06T02:13:28.902Z,171236960890200
+"Flop:  [2♥, J♣, 4♥]",2024-04-06T02:13:25.456Z,171236960545600
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T02:13:24.604Z,171236960460400
+"""Treex3 @ RUAAWMPzDZ"" calls 100",2024-04-06T02:13:22.741Z,171236960274100
+"""Jimmtrause @ TSkBBkPt_L"" calls 100",2024-04-06T02:13:20.528Z,171236960052800
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a big blind of 100",2024-04-06T02:13:18.750Z,171236959875008
+"""Treex3 @ RUAAWMPzDZ"" posts a small blind of 50",2024-04-06T02:13:18.750Z,171236959875007
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (4155) | #2 ""Jimmtrause @ TSkBBkPt_L"" (995) | #6 ""Treex3 @ RUAAWMPzDZ"" (2850)",2024-04-06T02:13:18.750Z,171236959875003
+"-- starting hand #20 (id: 5fe1bjxqtn8v)  (No Limit Texas Hold'em) (dead button) --",2024-04-06T02:13:18.750Z,171236959875002
+"The player ""floppynuts @ s8o62OfXVN"" quits the game with a stack of 0.",2024-04-06T02:13:18.750Z,171236959875001
+"The player ""Milly milly @ B64N3PmFsg"" quits the game with a stack of 0.",2024-04-06T02:13:18.750Z,171236959875000
+"-- ending hand #19 --",2024-04-06T02:13:12.690Z,171236959269002
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 180 from pot with Full House, K's over A's (combination: K♥, K♦, K♠, A♥, A♣)",2024-04-06T02:13:12.690Z,171236959269001
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 1570 from pot with Full House, K's over A's (combination: K♥, K♦, K♠, A♥, A♣)",2024-04-06T02:13:12.690Z,171236959269000
+"River: Q♠, K♠, A♥, A♣ [8♠]",2024-04-06T02:13:08.651Z,171236958865100
+"Turn: Q♠, K♠, A♥ [A♣]",2024-04-06T02:13:04.629Z,171236958462900
+"""floppynuts @ s8o62OfXVN"" shows a K♣, 9♣.",2024-04-06T02:13:00.623Z,171236958062302
+"""Milly milly @ B64N3PmFsg"" shows a 10♥, J♥.",2024-04-06T02:13:00.623Z,171236958062301
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a K♥, K♦.",2024-04-06T02:13:00.623Z,171236958062300
+"""Milly milly @ B64N3PmFsg"" calls 390 and go all in",2024-04-06T02:12:59.785Z,171236957978500
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 480",2024-04-06T02:12:57.205Z,171236957720500
+"""floppynuts @ s8o62OfXVN"" raises to 480 and go all in",2024-04-06T02:12:53.245Z,171236957324500
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:12:48.165Z,171236956816500
+"""Milly milly @ B64N3PmFsg"" bets 100",2024-04-06T02:12:46.177Z,171236956617700
+"Flop:  [Q♠, K♠, A♥]",2024-04-06T02:12:40.689Z,171236956068900
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:12:39.860Z,171236955986000
+"""Milly milly @ B64N3PmFsg"" calls 100",2024-04-06T02:12:38.999Z,171236955899900
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:12:37.178Z,171236955717800
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 100",2024-04-06T02:12:21.299Z,171236954129900
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-06T02:12:16.149Z,171236953614900
+"""Treex3 @ RUAAWMPzDZ"" posts a big blind of 100",2024-04-06T02:12:14.342Z,171236953434208
+"""Milly milly @ B64N3PmFsg"" posts a small blind of 50",2024-04-06T02:12:14.342Z,171236953434207
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (2985) | #2 ""Jimmtrause @ TSkBBkPt_L"" (995) | #3 ""Milly milly @ B64N3PmFsg"" (490) | #6 ""Treex3 @ RUAAWMPzDZ"" (2950) | #7 ""floppynuts @ s8o62OfXVN"" (580)",2024-04-06T02:12:14.342Z,171236953434201
+"-- starting hand #19 (id: co9bbfbgpjlc)  (No Limit Texas Hold'em) (dealer: ""Jimmtrause @ TSkBBkPt_L"") --",2024-04-06T02:12:14.342Z,171236953434200
+"-- ending hand #18 --",2024-04-06T02:12:11.362Z,171236953136202
+"""Milly milly @ B64N3PmFsg"" collected 100 from pot",2024-04-06T02:12:11.362Z,171236953136201
+"Uncalled bet of 50 returned to ""Milly milly @ B64N3PmFsg""",2024-04-06T02:12:11.362Z,171236953136200
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:12:10.535Z,171236953053500
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:11:54.684Z,171236951468400
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:11:53.784Z,171236951378400
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:11:52.869Z,171236951286900
+"""Milly milly @ B64N3PmFsg"" posts a big blind of 100",2024-04-06T02:11:41.143Z,171236950114308
+"""Jimmtrause @ TSkBBkPt_L"" posts a small blind of 50",2024-04-06T02:11:41.143Z,171236950114307
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (2985) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1045) | #3 ""Milly milly @ B64N3PmFsg"" (440) | #6 ""Treex3 @ RUAAWMPzDZ"" (2950) | #7 ""floppynuts @ s8o62OfXVN"" (580)",2024-04-06T02:11:41.143Z,171236950114301
+"-- starting hand #18 (id: 2wiwv88grlxy)  (No Limit Texas Hold'em) (dealer: ""PokerLobo @ Hk6Ia_x0Hn"") --",2024-04-06T02:11:41.143Z,171236950114300
+"-- ending hand #17 --",2024-04-06T02:11:35.090Z,171236949509003
+"""Jimmtrause @ TSkBBkPt_L"" shows a 7♣, 6♣.",2024-04-06T02:11:35.090Z,171236949509002
+"""Treex3 @ RUAAWMPzDZ"" collected 2950 from pot with Pair, 4's (combination: 4♣, 4♦, Q♠, J♥, 10♦)",2024-04-06T02:11:35.090Z,171236949509001
+"""Treex3 @ RUAAWMPzDZ"" shows a 10♦, 7♠.",2024-04-06T02:11:35.090Z,171236949509000
+"""Treex3 @ RUAAWMPzDZ"" calls 350 and go all in",2024-04-06T02:11:34.226Z,171236949422600
+"""Jimmtrause @ TSkBBkPt_L"" bets 350",2024-04-06T02:11:32.685Z,171236949268500
+"River: 2♥, Q♠, J♥, 4♣ [4♦]",2024-04-06T02:11:19.380Z,171236947938000
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:11:18.560Z,171236947856000
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T02:11:16.716Z,171236947671600
+"Turn: 2♥, Q♠, J♥ [4♣]",2024-04-06T02:11:08.460Z,171236946846000
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:11:07.646Z,171236946764600
+"""Treex3 @ RUAAWMPzDZ"" calls 750",2024-04-06T02:11:06.754Z,171236946675400
+"""Jimmtrause @ TSkBBkPt_L"" bets 750",2024-04-06T02:11:05.434Z,171236946543400
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T02:11:01.304Z,171236946130400
+"Flop:  [2♥, Q♠, J♥]",2024-04-06T02:10:58.959Z,171236945895900
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 250",2024-04-06T02:10:58.139Z,171236945813900
+"""Treex3 @ RUAAWMPzDZ"" calls 250",2024-04-06T02:10:56.448Z,171236945644800
+"""Jimmtrause @ TSkBBkPt_L"" raises to 250",2024-04-06T02:10:54.925Z,171236945492500
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 100",2024-04-06T02:10:51.273Z,171236945127300
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:10:48.996Z,171236944899600
+"""Treex3 @ RUAAWMPzDZ"" calls 100",2024-04-06T02:10:47.604Z,171236944760400
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:10:46.655Z,171236944665500
+"""Jimmtrause @ TSkBBkPt_L"" posts a big blind of 100",2024-04-06T02:10:44.772Z,171236944477208
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a small blind of 50",2024-04-06T02:10:44.772Z,171236944477207
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3235) | #2 ""Jimmtrause @ TSkBBkPt_L"" (2395) | #3 ""Milly milly @ B64N3PmFsg"" (440) | #6 ""Treex3 @ RUAAWMPzDZ"" (1350) | #7 ""floppynuts @ s8o62OfXVN"" (580)",2024-04-06T02:10:44.772Z,171236944477201
+"-- starting hand #17 (id: fv3zjdtxtfis)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-06T02:10:44.772Z,171236944477200
+"""Jimmtrause @ TSkBBkPt_L"" shows a Q♠, A♥.",2024-04-06T02:10:43.486Z,171236944348600
+"-- ending hand #16 --",2024-04-06T02:10:41.145Z,171236944114502
+"""Jimmtrause @ TSkBBkPt_L"" collected 250 from pot",2024-04-06T02:10:41.145Z,171236944114501
+"Uncalled bet of 125 returned to ""Jimmtrause @ TSkBBkPt_L""",2024-04-06T02:10:41.145Z,171236944114500
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:10:40.312Z,171236944031200
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:10:39.056Z,171236943905600
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:10:38.188Z,171236943818800
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:10:37.332Z,171236943733200
+"""Jimmtrause @ TSkBBkPt_L"" raises to 225",2024-04-06T02:10:33.777Z,171236943377700
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a big blind of 100",2024-04-06T02:10:29.337Z,171236942933710
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-06T02:10:29.337Z,171236942933709
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3335) | #2 ""Jimmtrause @ TSkBBkPt_L"" (2245) | #3 ""Milly milly @ B64N3PmFsg"" (440) | #6 ""Treex3 @ RUAAWMPzDZ"" (1350) | #7 ""floppynuts @ s8o62OfXVN"" (630)",2024-04-06T02:10:29.337Z,171236942933703
+"-- starting hand #16 (id: lvd8kh3rnyup)  (No Limit Texas Hold'em) (dealer: ""Treex3 @ RUAAWMPzDZ"") --",2024-04-06T02:10:29.337Z,171236942933702
+"The game's big blind was changed from 60 to 100.",2024-04-06T02:10:29.337Z,171236942933701
+"The game's small blind was changed from 30 to 50.",2024-04-06T02:10:29.337Z,171236942933700
+"-- ending hand #15 --",2024-04-06T02:10:26.379Z,171236942637902
+"""Jimmtrause @ TSkBBkPt_L"" collected 900 from pot",2024-04-06T02:10:26.379Z,171236942637901
+"Uncalled bet of 675 returned to ""Jimmtrause @ TSkBBkPt_L""",2024-04-06T02:10:26.379Z,171236942637900
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:10:25.535Z,171236942553500
+"""Jimmtrause @ TSkBBkPt_L"" bets 675",2024-04-06T02:10:24.286Z,171236942428600
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T02:10:19.321Z,171236941932100
+"Flop:  [8♠, 3♣, 2♥]",2024-04-06T02:10:14.556Z,171236941455600
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 405",2024-04-06T02:10:13.747Z,171236941374700
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:10:11.812Z,171236941181200
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:10:10.951Z,171236941095100
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:10:10.091Z,171236941009100
+"""Jimmtrause @ TSkBBkPt_L"" raises to 405",2024-04-06T02:10:05.092Z,171236940509200
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 180",2024-04-06T02:10:00.676Z,171236940067600
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 60",2024-04-06T02:09:57.073Z,171236939707308
+"""Treex3 @ RUAAWMPzDZ"" posts a small blind of 30",2024-04-06T02:09:57.073Z,171236939707307
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3740) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1750) | #3 ""Milly milly @ B64N3PmFsg"" (440) | #6 ""Treex3 @ RUAAWMPzDZ"" (1380) | #7 ""floppynuts @ s8o62OfXVN"" (690)",2024-04-06T02:09:57.073Z,171236939707301
+"-- starting hand #15 (id: mko5miktyxny)  (No Limit Texas Hold'em) (dead button) --",2024-04-06T02:09:57.073Z,171236939707300
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a K♠, A♦.",2024-04-06T02:09:54.084Z,171236939408400
+"-- ending hand #14 --",2024-04-06T02:09:53.452Z,171236939345202
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 1200 from pot",2024-04-06T02:09:53.452Z,171236939345201
+"Uncalled bet of 600 returned to ""PokerLobo @ Hk6Ia_x0Hn""",2024-04-06T02:09:53.452Z,171236939345200
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:09:52.641Z,171236939264100
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 600",2024-04-06T02:09:46.789Z,171236938678900
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:09:34.964Z,171236937496400
+"River: 7♠, A♥, Q♥, A♠ [8♠]",2024-04-06T02:09:32.696Z,171236937269600
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T02:09:31.861Z,171236937186100
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:09:28.529Z,171236936852900
+"Turn: 7♠, A♥, Q♥ [A♠]",2024-04-06T02:09:24.286Z,171236936428600
+"""Treex3 @ RUAAWMPzDZ"" calls 360",2024-04-06T02:09:23.471Z,171236936347100
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 360",2024-04-06T02:09:22.538Z,171236936253800
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:09:19.314Z,171236935931400
+"Flop:  [7♠, A♥, Q♥]",2024-04-06T02:09:15.514Z,171236935551400
+"""Treex3 @ RUAAWMPzDZ"" calls 240",2024-04-06T02:09:14.658Z,171236935465800
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:09:13.777Z,171236935377700
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:09:09.526Z,171236934952600
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 240",2024-04-06T02:09:03.032Z,171236934303200
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:08:58.137Z,171236933813700
+"""Treex3 @ RUAAWMPzDZ"" posts a big blind of 60",2024-04-06T02:08:56.705Z,171236933670509
+"Dead Small Blind",2024-04-06T02:08:56.705Z,171236933670508
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3140) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1750) | #3 ""Milly milly @ B64N3PmFsg"" (440) | #6 ""Treex3 @ RUAAWMPzDZ"" (1980) | #7 ""floppynuts @ s8o62OfXVN"" (690)",2024-04-06T02:08:56.705Z,171236933670502
+"-- starting hand #14 (id: 2lnttntmegsu)  (No Limit Texas Hold'em) (dealer: ""Milly milly @ B64N3PmFsg"") --",2024-04-06T02:08:56.705Z,171236933670501
+"The player ""JacobyMatt @ PCk2vitmFr"" quits the game with a stack of 0.",2024-04-06T02:08:56.705Z,171236933670500
+"-- ending hand #13 --",2024-04-06T02:08:50.616Z,171236933061601
+"""Treex3 @ RUAAWMPzDZ"" collected 1716 from pot with Pair, A's (combination: A♦, A♥, Q♦, 8♠, 7♠)",2024-04-06T02:08:50.616Z,171236933061600
+"River: 8♠, 4♣, Q♦, A♥ [7♠]",2024-04-06T02:08:46.600Z,171236932660000
+"""Treex3 @ RUAAWMPzDZ"" shows a 6♥, A♦.",2024-04-06T02:08:42.595Z,171236932259501
+"""JacobyMatt @ PCk2vitmFr"" shows a 5♣, Q♣.",2024-04-06T02:08:42.595Z,171236932259500
+"""JacobyMatt @ PCk2vitmFr"" calls 273 and go all in",2024-04-06T02:08:41.753Z,171236932175300
+"""Treex3 @ RUAAWMPzDZ"" bets 273",2024-04-06T02:08:40.518Z,171236932051800
+"""JacobyMatt @ PCk2vitmFr"" checks",2024-04-06T02:08:36.073Z,171236931607300
+"Turn: 8♠, 4♣, Q♦ [A♥]",2024-04-06T02:08:33.463Z,171236931346300
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:08:32.585Z,171236931258500
+"""Treex3 @ RUAAWMPzDZ"" calls 390",2024-04-06T02:08:27.510Z,171236930751000
+"""JacobyMatt @ PCk2vitmFr"" bets 390",2024-04-06T02:08:24.519Z,171236930451900
+"Flop:  [8♠, 4♣, Q♦]",2024-04-06T02:08:20.986Z,171236930098600
+"""Treex3 @ RUAAWMPzDZ"" calls 120",2024-04-06T02:08:20.090Z,171236930009000
+"""JacobyMatt @ PCk2vitmFr"" calls 120",2024-04-06T02:08:19.174Z,171236929917400
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:08:10.962Z,171236929096200
+"""Jimmtrause @ TSkBBkPt_L"" raises to 120",2024-04-06T02:08:09.481Z,171236928948100
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:08:06.059Z,171236928605900
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:08:05.024Z,171236928502400
+"""Treex3 @ RUAAWMPzDZ"" calls 60",2024-04-06T02:08:04.136Z,171236928413600
+"""JacobyMatt @ PCk2vitmFr"" posts a big blind of 60",2024-04-06T02:07:58.544Z,171236927854409
+"""Milly milly @ B64N3PmFsg"" posts a small blind of 30",2024-04-06T02:07:58.544Z,171236927854408
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3140) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1870) | #3 ""Milly milly @ B64N3PmFsg"" (470) | #4 ""JacobyMatt @ PCk2vitmFr"" (783) | #6 ""Treex3 @ RUAAWMPzDZ"" (1047) | #7 ""floppynuts @ s8o62OfXVN"" (690)",2024-04-06T02:07:58.544Z,171236927854401
+"-- starting hand #13 (id: c0ja4qybmezp)  (No Limit Texas Hold'em) (dealer: ""Jimmtrause @ TSkBBkPt_L"") --",2024-04-06T02:07:58.544Z,171236927854400
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a K♦, 4♦.",2024-04-06T02:07:53.034Z,171236927303400
+"-- ending hand #12 --",2024-04-06T02:07:52.003Z,171236927200304
+"""Milly milly @ B64N3PmFsg"" shows a 2♣, K♣.",2024-04-06T02:07:52.003Z,171236927200303
+"""Jimmtrause @ TSkBBkPt_L"" shows a 3♣, J♣.",2024-04-06T02:07:52.003Z,171236927200302
+"""Treex3 @ RUAAWMPzDZ"" collected 180 from pot with Pair, 6's (combination: 6♦, 6♥, K♥, Q♦, 9♠)",2024-04-06T02:07:52.003Z,171236927200301
+"""Treex3 @ RUAAWMPzDZ"" shows a K♥, 9♠.",2024-04-06T02:07:52.003Z,171236927200300
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:07:51.181Z,171236927118100
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:07:50.318Z,171236927031800
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T02:07:48.531Z,171236926853100
+"River: 6♦, 4♠, Q♦, 8♣ [6♥]",2024-04-06T02:07:23.490Z,171236924349000
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:07:22.611Z,171236924261100
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:07:21.715Z,171236924171500
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T02:07:17.796Z,171236923779600
+"Turn: 6♦, 4♠, Q♦ [8♣]",2024-04-06T02:07:14.758Z,171236923475800
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:07:13.924Z,171236923392400
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:07:13.044Z,171236923304400
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T02:07:09.166Z,171236922916600
+"Flop:  [6♦, 4♠, Q♦]",2024-04-06T02:07:04.700Z,171236922470000
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:07:03.872Z,171236922387200
+"""Jimmtrause @ TSkBBkPt_L"" calls 60",2024-04-06T02:06:59.765Z,171236921976500
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:06:57.099Z,171236921709900
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:06:52.209Z,171236921220900
+"""Treex3 @ RUAAWMPzDZ"" calls 60",2024-04-06T02:06:51.294Z,171236921129400
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:06:50.256Z,171236921025600
+"""Milly milly @ B64N3PmFsg"" posts a big blind of 60",2024-04-06T02:06:47.013Z,171236920701309
+"""Jimmtrause @ TSkBBkPt_L"" posts a small blind of 30",2024-04-06T02:06:47.013Z,171236920701308
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (3140) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1930) | #3 ""Milly milly @ B64N3PmFsg"" (530) | #4 ""JacobyMatt @ PCk2vitmFr"" (783) | #6 ""Treex3 @ RUAAWMPzDZ"" (927) | #7 ""floppynuts @ s8o62OfXVN"" (690)",2024-04-06T02:06:47.013Z,171236920701301
+"-- starting hand #12 (id: 2objnkmwe4tw)  (No Limit Texas Hold'em) (dealer: ""PokerLobo @ Hk6Ia_x0Hn"") --",2024-04-06T02:06:47.013Z,171236920701300
+"-- ending hand #11 --",2024-04-06T02:06:41.002Z,171236920100201
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 3140 from pot with Flush, Kd High (combination: K♦, 10♦, 9♦, 8♦, 2♦)",2024-04-06T02:06:41.002Z,171236920100200
+"River: 10♦, 2♦, 5♥, K♦ [9♠]",2024-04-06T02:06:37.000Z,171236919700000
+"""JacobyMatt @ PCk2vitmFr"" shows a 4♣, A♥.",2024-04-06T02:06:32.961Z,171236919296101
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a 8♦, 9♦.",2024-04-06T02:06:32.961Z,171236919296100
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 790 and go all in",2024-04-06T02:06:32.111Z,171236919211100
+"""JacobyMatt @ PCk2vitmFr"" bets 790",2024-04-06T02:06:30.279Z,171236919027900
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T02:06:26.560Z,171236918656000
+"Turn: 10♦, 2♦, 5♥ [K♦]",2024-04-06T02:06:23.145Z,171236918314500
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 570",2024-04-06T02:06:22.309Z,171236918230900
+"""JacobyMatt @ PCk2vitmFr"" raises to 570",2024-04-06T02:06:20.861Z,171236918086100
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 180",2024-04-06T02:06:18.483Z,171236917848300
+"Flop:  [10♦, 2♦, 5♥]",2024-04-06T02:06:12.256Z,171236917225600
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:06:11.378Z,171236917137800
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:06:08.864Z,171236916886400
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 150",2024-04-06T02:06:03.414Z,171236916341400
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:05:57.734Z,171236915773400
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:05:56.885Z,171236915688500
+"""JacobyMatt @ PCk2vitmFr"" raises to 150",2024-04-06T02:05:55.974Z,171236915597400
+"""Milly milly @ B64N3PmFsg"" calls 60",2024-04-06T02:05:51.651Z,171236915165100
+"""Jimmtrause @ TSkBBkPt_L"" posts a big blind of 60",2024-04-06T02:05:45.924Z,171236914592409
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a small blind of 30",2024-04-06T02:05:45.924Z,171236914592408
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1510) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1990) | #3 ""Milly milly @ B64N3PmFsg"" (590) | #4 ""JacobyMatt @ PCk2vitmFr"" (2293) | #6 ""Treex3 @ RUAAWMPzDZ"" (927) | #7 ""floppynuts @ s8o62OfXVN"" (690)",2024-04-06T02:05:45.924Z,171236914592401
+"-- starting hand #11 (id: 79hcvtjkvonz)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-06T02:05:45.924Z,171236914592400
+"-- ending hand #10 --",2024-04-06T02:05:42.984Z,171236914298402
+"""Jimmtrause @ TSkBBkPt_L"" collected 510 from pot",2024-04-06T02:05:42.984Z,171236914298401
+"Uncalled bet of 255 returned to ""Jimmtrause @ TSkBBkPt_L""",2024-04-06T02:05:42.984Z,171236914298400
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:05:42.154Z,171236914215400
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:05:39.369Z,171236913936900
+"""Jimmtrause @ TSkBBkPt_L"" bets 255",2024-04-06T02:05:33.945Z,171236913394500
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-06T02:05:28.689Z,171236912868900
+"Flop:  [8♥, 6♠, Q♣]",2024-04-06T02:05:25.568Z,171236912556800
+"""Jimmtrause @ TSkBBkPt_L"" calls 150",2024-04-06T02:05:24.751Z,171236912475100
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:05:20.428Z,171236912042800
+"""floppynuts @ s8o62OfXVN"" calls 150",2024-04-06T02:05:18.309Z,171236911830900
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:05:17.416Z,171236911741600
+"""JacobyMatt @ PCk2vitmFr"" raises to 150",2024-04-06T02:05:16.523Z,171236911652300
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:05:11.313Z,171236911131300
+"""Jimmtrause @ TSkBBkPt_L"" calls 60",2024-04-06T02:05:08.874Z,171236910887400
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a big blind of 60",2024-04-06T02:05:05.519Z,171236910551911
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 30",2024-04-06T02:05:05.519Z,171236910551910
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1570) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1630) | #3 ""Milly milly @ B64N3PmFsg"" (590) | #4 ""JacobyMatt @ PCk2vitmFr"" (2443) | #6 ""Treex3 @ RUAAWMPzDZ"" (927) | #7 ""floppynuts @ s8o62OfXVN"" (840)",2024-04-06T02:05:05.519Z,171236910551903
+"-- starting hand #10 (id: jflrco2erq1b)  (No Limit Texas Hold'em) (dealer: ""Treex3 @ RUAAWMPzDZ"") --",2024-04-06T02:05:05.519Z,171236910551902
+"The game's big blind was changed from 40 to 60.",2024-04-06T02:05:05.519Z,171236910551901
+"The game's small blind was changed from 20 to 30.",2024-04-06T02:05:05.519Z,171236910551900
+"""Milly milly @ B64N3PmFsg"" shows a 6♠, 7♠.",2024-04-06T02:05:03.118Z,171236910311800
+"-- ending hand #9 --",2024-04-06T02:05:01.875Z,171236910187502
+"""Milly milly @ B64N3PmFsg"" collected 200 from pot",2024-04-06T02:05:01.875Z,171236910187501
+"Uncalled bet of 390 returned to ""Milly milly @ B64N3PmFsg""",2024-04-06T02:05:01.875Z,171236910187500
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:05:01.069Z,171236910106900
+"""Milly milly @ B64N3PmFsg"" bets 390 and go all in",2024-04-06T02:04:54.972Z,171236909497200
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:04:51.293Z,171236909129300
+"River: 8♠, Q♥, A♥, J♠ [9♠]",2024-04-06T02:04:46.586Z,171236908658600
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:04:45.762Z,171236908576200
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T02:04:42.878Z,171236908287800
+"Turn: 8♠, Q♥, A♥ [J♠]",2024-04-06T02:04:40.575Z,171236908057500
+"""Milly milly @ B64N3PmFsg"" calls 40",2024-04-06T02:04:39.712Z,171236907971200
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:04:31.363Z,171236907136300
+"""Treex3 @ RUAAWMPzDZ"" bets 40",2024-04-06T02:04:20.503Z,171236906050300
+"Flop:  [8♠, Q♥, A♥]",2024-04-06T02:04:17.212Z,171236905721200
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-06T02:04:16.336Z,171236905633600
+"""Treex3 @ RUAAWMPzDZ"" calls 40",2024-04-06T02:04:04.019Z,171236904401900
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:04:03.068Z,171236904306800
+"""Milly milly @ B64N3PmFsg"" calls 40",2024-04-06T02:04:02.116Z,171236904211600
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:03:57.593Z,171236903759300
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:03:48.021Z,171236902802100
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 40",2024-04-06T02:03:43.712Z,171236902371209
+"""Treex3 @ RUAAWMPzDZ"" posts a small blind of 20",2024-04-06T02:03:43.712Z,171236902371208
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1570) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1630) | #3 ""Milly milly @ B64N3PmFsg"" (470) | #4 ""JacobyMatt @ PCk2vitmFr"" (2443) | #6 ""Treex3 @ RUAAWMPzDZ"" (1007) | #7 ""floppynuts @ s8o62OfXVN"" (880)",2024-04-06T02:03:43.712Z,171236902371201
+"-- starting hand #9 (id: 6epp6pyxgpvu)  (No Limit Texas Hold'em) (dealer: ""JacobyMatt @ PCk2vitmFr"") --",2024-04-06T02:03:43.712Z,171236902371200
+"-- ending hand #8 --",2024-04-06T02:03:37.689Z,171236901768901
+"""floppynuts @ s8o62OfXVN"" collected 880 from pot with Two Pair, A's & 10's (combination: A♣, A♠, 10♣, 10♠, K♦)",2024-04-06T02:03:37.689Z,171236901768900
+"River: A♣, 10♠, 7♦, A♠ [4♥]",2024-04-06T02:03:33.650Z,171236901365000
+"Turn: A♣, 10♠, 7♦ [A♠]",2024-04-06T02:03:29.643Z,171236900964300
+"Flop:  [A♣, 10♠, 7♦]",2024-04-06T02:03:25.639Z,171236900563900
+"""floppynuts @ s8o62OfXVN"" shows a K♦, 10♣.",2024-04-06T02:03:21.631Z,171236900163101
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a K♥, Q♦.",2024-04-06T02:03:21.631Z,171236900163100
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:03:20.781Z,171236900078100
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 320",2024-04-06T02:03:15.315Z,171236899531500
+"""floppynuts @ s8o62OfXVN"" raises to 320 and go all in",2024-04-06T02:03:12.637Z,171236899263700
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:03:01.473Z,171236898147300
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:03:00.608Z,171236898060800
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:02:59.745Z,171236897974500
+"""Jimmtrause @ TSkBBkPt_L"" calls 180",2024-04-06T02:02:56.659Z,171236897665900
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 180",2024-04-06T02:02:50.089Z,171236897008900
+"""floppynuts @ s8o62OfXVN"" calls 40",2024-04-06T02:02:45.467Z,171236896546700
+"""Treex3 @ RUAAWMPzDZ"" posts a big blind of 40",2024-04-06T02:02:41.676Z,171236896167609
+"""JacobyMatt @ PCk2vitmFr"" posts a small blind of 20",2024-04-06T02:02:41.676Z,171236896167608
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1890) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1810) | #3 ""Milly milly @ B64N3PmFsg"" (470) | #4 ""JacobyMatt @ PCk2vitmFr"" (2463) | #6 ""Treex3 @ RUAAWMPzDZ"" (1047) | #7 ""floppynuts @ s8o62OfXVN"" (320)",2024-04-06T02:02:41.676Z,171236896167601
+"-- starting hand #8 (id: bzx9qlcldac8)  (No Limit Texas Hold'em) (dealer: ""Milly milly @ B64N3PmFsg"") --",2024-04-06T02:02:41.676Z,171236896167600
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a 9♦, 3♥.",2024-04-06T02:02:40.224Z,171236896022400
+"-- ending hand #7 --",2024-04-06T02:02:38.050Z,171236895805002
+"""Jimmtrause @ TSkBBkPt_L"" collected 720 from pot",2024-04-06T02:02:38.050Z,171236895805001
+"Uncalled bet of 470 returned to ""Jimmtrause @ TSkBBkPt_L""",2024-04-06T02:02:38.050Z,171236895805000
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:02:37.162Z,171236895716200
+"""Jimmtrause @ TSkBBkPt_L"" bets 470",2024-04-06T02:02:35.357Z,171236895535700
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:02:25.561Z,171236894556100
+"River: 10♥, K♥, K♠, 10♠ [3♠]",2024-04-06T02:02:23.325Z,171236894332500
+"""Milly milly @ B64N3PmFsg"" calls 180",2024-04-06T02:02:22.469Z,171236894246900
+"""Jimmtrause @ TSkBBkPt_L"" bets 180",2024-04-06T02:02:20.365Z,171236894036500
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:02:09.589Z,171236892958900
+"Turn: 10♥, K♥, K♠ [10♠]",2024-04-06T02:02:07.038Z,171236892703800
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:02:06.232Z,171236892623200
+"""Milly milly @ B64N3PmFsg"" calls 120",2024-04-06T02:02:03.607Z,171236892360700
+"""Jimmtrause @ TSkBBkPt_L"" bets 120",2024-04-06T02:02:01.528Z,171236892152800
+"""JacobyMatt @ PCk2vitmFr"" checks",2024-04-06T02:01:51.028Z,171236891102800
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T02:01:49.372Z,171236890937200
+"Flop:  [10♥, K♥, K♠]",2024-04-06T02:01:46.538Z,171236890653800
+"""JacobyMatt @ PCk2vitmFr"" checks",2024-04-06T02:01:45.677Z,171236890567700
+"""Milly milly @ B64N3PmFsg"" calls 40",2024-04-06T02:01:44.373Z,171236890437300
+"""Jimmtrause @ TSkBBkPt_L"" calls 40",2024-04-06T02:01:41.220Z,171236890122000
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:01:40.288Z,171236890028800
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:01:35.858Z,171236889585800
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:01:34.288Z,171236889428800
+"""JacobyMatt @ PCk2vitmFr"" posts a big blind of 40",2024-04-06T02:01:31.729Z,171236889172909
+"""Milly milly @ B64N3PmFsg"" posts a small blind of 20",2024-04-06T02:01:31.729Z,171236889172908
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1890) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1430) | #3 ""Milly milly @ B64N3PmFsg"" (810) | #4 ""JacobyMatt @ PCk2vitmFr"" (2503) | #6 ""Treex3 @ RUAAWMPzDZ"" (1047) | #7 ""floppynuts @ s8o62OfXVN"" (320)",2024-04-06T02:01:31.729Z,171236889172901
+"-- starting hand #7 (id: xofkmibqrt2y)  (No Limit Texas Hold'em) (dealer: ""Jimmtrause @ TSkBBkPt_L"") --",2024-04-06T02:01:31.729Z,171236889172900
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a Q♦, Q♣.",2024-04-06T02:01:28.939Z,171236888893900
+"-- ending hand #6 --",2024-04-06T02:01:28.111Z,171236888811102
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 360 from pot",2024-04-06T02:01:28.111Z,171236888811101
+"Uncalled bet of 360 returned to ""PokerLobo @ Hk6Ia_x0Hn""",2024-04-06T02:01:28.111Z,171236888811100
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:01:27.258Z,171236888725800
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T02:01:24.731Z,171236888473100
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T02:01:19.755Z,171236887975500
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T02:01:16.419Z,171236887641900
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 460",2024-04-06T02:01:06.918Z,171236886691800
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-06T02:01:03.659Z,171236886365900
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T02:01:00.572Z,171236886057200
+"""JacobyMatt @ PCk2vitmFr"" raises to 100",2024-04-06T02:00:59.637Z,171236885963700
+"""Milly milly @ B64N3PmFsg"" posts a big blind of 40",2024-04-06T02:00:52.434Z,171236885243410
+"""Jimmtrause @ TSkBBkPt_L"" posts a small blind of 20",2024-04-06T02:00:52.434Z,171236885243409
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1630) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1450) | #3 ""Milly milly @ B64N3PmFsg"" (850) | #4 ""JacobyMatt @ PCk2vitmFr"" (2603) | #6 ""Treex3 @ RUAAWMPzDZ"" (1047) | #7 ""floppynuts @ s8o62OfXVN"" (420)",2024-04-06T02:00:52.434Z,171236885243402
+"-- starting hand #6 (id: kykpx337yuff)  (No Limit Texas Hold'em) (dealer: ""PokerLobo @ Hk6Ia_x0Hn"") --",2024-04-06T02:00:52.434Z,171236885243401
+"The player ""Mr.Moore98 @ UdxKlhGWvf"" quits the game with a stack of 0.",2024-04-06T02:00:52.434Z,171236885243400
+"-- ending hand #5 --",2024-04-06T02:00:46.428Z,171236884642803
+"""Mr.Moore98 @ UdxKlhGWvf"" shows a 2♠, A♠.",2024-04-06T02:00:46.428Z,171236884642802
+"""Jimmtrause @ TSkBBkPt_L"" collected 1160 from pot with Flush, Ac High (combination: A♣, J♣, 9♣, 5♣, 4♣)",2024-04-06T02:00:46.428Z,171236884642801
+"""Jimmtrause @ TSkBBkPt_L"" shows a 4♣, 5♣.",2024-04-06T02:00:46.428Z,171236884642800
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 260 and go all in",2024-04-06T02:00:45.542Z,171236884554200
+"""Jimmtrause @ TSkBBkPt_L"" bets 260",2024-04-06T02:00:36.307Z,171236883630700
+"River: 9♣, 5♦, A♣, J♣ [Q♦]",2024-04-06T02:00:31.051Z,171236883105100
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 160",2024-04-06T02:00:30.212Z,171236883021200
+"""Jimmtrause @ TSkBBkPt_L"" bets 160",2024-04-06T02:00:28.836Z,171236882883600
+"Turn: 9♣, 5♦, A♣ [J♣]",2024-04-06T02:00:17.464Z,171236881746400
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T02:00:16.656Z,171236881665600
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 80",2024-04-06T02:00:15.612Z,171236881561200
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T02:00:14.738Z,171236881473800
+"""Jimmtrause @ TSkBBkPt_L"" bets 80",2024-04-06T02:00:03.294Z,171236880329400
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T01:59:56.720Z,171236879672000
+"Flop:  [9♣, 5♦, A♣]",2024-04-06T01:59:47.747Z,171236878774700
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T01:59:46.911Z,171236878691100
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 40",2024-04-06T01:59:44.291Z,171236878429100
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 40",2024-04-06T01:59:41.967Z,171236878196700
+"""floppynuts @ s8o62OfXVN"" calls 40",2024-04-06T01:59:41.100Z,171236878110000
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T01:59:37.706Z,171236877770600
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T01:59:34.637Z,171236877463700
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T01:59:33.757Z,171236877375700
+"""Jimmtrause @ TSkBBkPt_L"" posts a big blind of 40",2024-04-06T01:59:29.525Z,171236876952512
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a small blind of 20",2024-04-06T01:59:29.525Z,171236876952511
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1670) | #2 ""Jimmtrause @ TSkBBkPt_L"" (830) | #3 ""Milly milly @ B64N3PmFsg"" (850) | #4 ""JacobyMatt @ PCk2vitmFr"" (2603) | #6 ""Treex3 @ RUAAWMPzDZ"" (1047) | #7 ""floppynuts @ s8o62OfXVN"" (460) | #8 ""Mr.Moore98 @ UdxKlhGWvf"" (540)",2024-04-06T01:59:29.525Z,171236876952503
+"-- starting hand #5 (id: wv65l8edv7tt)  (No Limit Texas Hold'em) (dealer: ""Mr.Moore98 @ UdxKlhGWvf"") --",2024-04-06T01:59:29.525Z,171236876952502
+"The game's big blind was changed from 20 to 40.",2024-04-06T01:59:29.525Z,171236876952501
+"The game's small blind was changed from 10 to 20.",2024-04-06T01:59:29.525Z,171236876952500
+"-- ending hand #4 --",2024-04-06T01:59:23.521Z,171236876352102
+"""JacobyMatt @ PCk2vitmFr"" collected 1836 from pot with Two Pair, 7's & 2's (combination: 7♣, 7♠, 2♦, 2♣, A♦)",2024-04-06T01:59:23.521Z,171236876352101
+"""JacobyMatt @ PCk2vitmFr"" shows a A♦, 7♣.",2024-04-06T01:59:23.521Z,171236876352100
+"""Treex3 @ RUAAWMPzDZ"" calls 459",2024-04-06T01:59:22.699Z,171236876269900
+"""JacobyMatt @ PCk2vitmFr"" bets 459",2024-04-06T01:59:21.704Z,171236876170400
+"River: 2♦, 4♣, 7♠, 6♣ [2♣]",2024-04-06T01:59:17.718Z,171236875771800
+"""Treex3 @ RUAAWMPzDZ"" calls 172",2024-04-06T01:59:16.901Z,171236875690100
+"""JacobyMatt @ PCk2vitmFr"" bets 172",2024-04-06T01:59:12.439Z,171236875243900
+"Turn: 2♦, 4♣, 7♠ [6♣]",2024-04-06T01:59:10.884Z,171236875088400
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T01:59:10.066Z,171236875006600
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T01:59:07.895Z,171236874789500
+"""Treex3 @ RUAAWMPzDZ"" calls 172",2024-04-06T01:59:05.833Z,171236874583300
+"""JacobyMatt @ PCk2vitmFr"" bets 172",2024-04-06T01:59:04.046Z,171236874404600
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T01:58:53.562Z,171236873356200
+"Flop:  [2♦, 4♣, 7♠]",2024-04-06T01:58:48.216Z,171236872821600
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T01:58:47.351Z,171236872735100
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 50",2024-04-06T01:58:31.459Z,171236871145900
+"""Mr.Moore98 @ UdxKlhGWvf"" folds",2024-04-06T01:58:24.619Z,171236870461900
+"""floppynuts @ s8o62OfXVN"" calls 50",2024-04-06T01:58:23.758Z,171236870375800
+"""Treex3 @ RUAAWMPzDZ"" calls 50",2024-04-06T01:58:22.189Z,171236870218900
+"""JacobyMatt @ PCk2vitmFr"" raises to 50",2024-04-06T01:58:19.254Z,171236869925400
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T01:58:16.036Z,171236869603600
+"""Jimmtrause @ TSkBBkPt_L"" calls 20",2024-04-06T01:58:10.998Z,171236869099800
+"""PokerLobo @ Hk6Ia_x0Hn"" posts a big blind of 20",2024-04-06T01:57:58.186Z,171236867818610
+"""Mr.Moore98 @ UdxKlhGWvf"" posts a small blind of 10",2024-04-06T01:57:58.186Z,171236867818609
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1720) | #2 ""Jimmtrause @ TSkBBkPt_L"" (850) | #3 ""Milly milly @ B64N3PmFsg"" (850) | #4 ""JacobyMatt @ PCk2vitmFr"" (1620) | #6 ""Treex3 @ RUAAWMPzDZ"" (1900) | #7 ""floppynuts @ s8o62OfXVN"" (510) | #8 ""Mr.Moore98 @ UdxKlhGWvf"" (550)",2024-04-06T01:57:58.186Z,171236867818601
+"-- starting hand #4 (id: ckar12csjgu1)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-06T01:57:58.186Z,171236867818600
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a 7♥, J♠.",2024-04-06T01:57:52.508Z,171236867250800
+"-- ending hand #3 --",2024-04-06T01:57:51.683Z,171236867168302
+"""JacobyMatt @ PCk2vitmFr"" collected 1140 from pot with Three of a Kind, 3's (combination: 3♠, 3♣, 3♥, J♣, 10♣)",2024-04-06T01:57:51.683Z,171236867168301
+"""JacobyMatt @ PCk2vitmFr"" shows a 3♠, 10♣.",2024-04-06T01:57:51.683Z,171236867168300
+"""floppynuts @ s8o62OfXVN"" calls 200",2024-04-06T01:57:50.829Z,171236867082900
+"""JacobyMatt @ PCk2vitmFr"" bets 200",2024-04-06T01:57:49.339Z,171236866933900
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-06T01:57:44.495Z,171236866449500
+"River: 9♠, 3♣, 3♥, J♣ [7♦]",2024-04-06T01:57:42.099Z,171236866209900
+"""floppynuts @ s8o62OfXVN"" calls 140",2024-04-06T01:57:41.276Z,171236866127600
+"""JacobyMatt @ PCk2vitmFr"" raises to 140",2024-04-06T01:57:39.143Z,171236865914300
+"""floppynuts @ s8o62OfXVN"" bets 60",2024-04-06T01:57:30.975Z,171236865097500
+"Turn: 9♠, 3♣, 3♥ [J♣]",2024-04-06T01:57:24.944Z,171236864494400
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T01:57:24.080Z,171236864408000
+"""JacobyMatt @ PCk2vitmFr"" calls 80",2024-04-06T01:57:23.214Z,171236864321400
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T01:57:20.816Z,171236864081600
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T01:57:15.669Z,171236863566900
+"""Mr.Moore98 @ UdxKlhGWvf"" folds",2024-04-06T01:57:01.876Z,171236862187600
+"""floppynuts @ s8o62OfXVN"" bets 80",2024-04-06T01:57:00.390Z,171236862039000
+"Flop:  [9♠, 3♣, 3♥]",2024-04-06T01:56:54.883Z,171236861488300
+"""Milly milly @ B64N3PmFsg"" calls 50",2024-04-06T01:56:54.055Z,171236861405500
+"""Jimmtrause @ TSkBBkPt_L"" calls 50",2024-04-06T01:56:48.119Z,171236860811900
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 50",2024-04-06T01:56:43.533Z,171236860353300
+"""floppynuts @ s8o62OfXVN"" calls 50",2024-04-06T01:56:39.620Z,171236859962000
+"""Treex3 @ RUAAWMPzDZ"" calls 50",2024-04-06T01:56:34.749Z,171236859474900
+"""JacobyMatt @ PCk2vitmFr"" raises to 50",2024-04-06T01:56:32.296Z,171236859229600
+"""Milly milly @ B64N3PmFsg"" calls 20",2024-04-06T01:56:27.572Z,171236858757200
+"""Jimmtrause @ TSkBBkPt_L"" calls 20",2024-04-06T01:56:24.388Z,171236858438800
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T01:56:20.349Z,171236858034900
+"""Mr.Moore98 @ UdxKlhGWvf"" posts a big blind of 20",2024-04-06T01:56:02.591Z,171236856259110
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 10",2024-04-06T01:56:02.591Z,171236856259109
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1720) | #2 ""Jimmtrause @ TSkBBkPt_L"" (900) | #3 ""Milly milly @ B64N3PmFsg"" (900) | #4 ""JacobyMatt @ PCk2vitmFr"" (950) | #6 ""Treex3 @ RUAAWMPzDZ"" (1950) | #7 ""floppynuts @ s8o62OfXVN"" (980) | #8 ""Mr.Moore98 @ UdxKlhGWvf"" (600)",2024-04-06T01:56:02.591Z,171236856259101
+"-- starting hand #3 (id: wf0fvc5z2zpl)  (No Limit Texas Hold'em) (dealer: ""Treex3 @ RUAAWMPzDZ"") --",2024-04-06T01:56:02.591Z,171236856259100
+"-- ending hand #2 --",2024-04-06T01:55:56.574Z,171236855657402
+"""PokerLobo @ Hk6Ia_x0Hn"" collected 1120 from pot with Three of a Kind, 5's (combination: 5♦, 5♥, 5♣, Q♥, J♠)",2024-04-06T01:55:56.574Z,171236855657401
+"""PokerLobo @ Hk6Ia_x0Hn"" shows a 5♦, 5♥.",2024-04-06T01:55:56.574Z,171236855657400
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 300",2024-04-06T01:55:55.767Z,171236855576700
+"""Treex3 @ RUAAWMPzDZ"" folds",2024-04-06T01:55:54.906Z,171236855490600
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T01:55:53.983Z,171236855398300
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T01:55:52.541Z,171236855254100
+"""PokerLobo @ Hk6Ia_x0Hn"" bets 300",2024-04-06T01:55:36.691Z,171236853669100
+"""Mr.Moore98 @ UdxKlhGWvf"" checks",2024-04-06T01:55:27.239Z,171236852723900
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T01:55:23.800Z,171236852380000
+"River: 2♥, 8♦, J♠, Q♥ [5♣]",2024-04-06T01:55:20.450Z,171236852045000
+"""Milly milly @ B64N3PmFsg"" checks",2024-04-06T01:55:19.641Z,171236851964100
+"""Jimmtrause @ TSkBBkPt_L"" checks",2024-04-06T01:55:17.987Z,171236851798700
+"""PokerLobo @ Hk6Ia_x0Hn"" checks",2024-04-06T01:55:16.644Z,171236851664400
+"""Mr.Moore98 @ UdxKlhGWvf"" checks",2024-04-06T01:55:13.945Z,171236851394500
+"""Treex3 @ RUAAWMPzDZ"" checks",2024-04-06T01:55:11.915Z,171236851191500
+"Turn: 2♥, 8♦, J♠ [Q♥]",2024-04-06T01:55:08.999Z,171236850899900
+"""Milly milly @ B64N3PmFsg"" calls 20",2024-04-06T01:55:08.181Z,171236850818100
+"""Jimmtrause @ TSkBBkPt_L"" calls 20",2024-04-06T01:55:03.890Z,171236850389000
+"""PokerLobo @ Hk6Ia_x0Hn"" calls 20",2024-04-06T01:54:56.935Z,171236849693500
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 20",2024-04-06T01:54:55.475Z,171236849547500
+"""Treex3 @ RUAAWMPzDZ"" bets 20",2024-04-06T01:54:53.265Z,171236849326500
+"Flop:  [2♥, 8♦, J♠]",2024-04-06T01:54:49.825Z,171236848982500
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 80",2024-04-06T01:54:49.004Z,171236848900400
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T01:54:48.159Z,171236848815900
+"""Treex3 @ RUAAWMPzDZ"" calls 80",2024-04-06T01:54:37.538Z,171236847753800
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T01:54:36.622Z,171236847662200
+"""Milly milly @ B64N3PmFsg"" calls 80",2024-04-06T01:54:35.705Z,171236847570500
+"""Jimmtrause @ TSkBBkPt_L"" calls 80",2024-04-06T01:54:33.864Z,171236847386400
+"""PokerLobo @ Hk6Ia_x0Hn"" raises to 80",2024-04-06T01:54:31.988Z,171236847198800
+"""Mr.Moore98 @ UdxKlhGWvf"" calls 20",2024-04-06T01:54:25.971Z,171236846597100
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 20",2024-04-06T01:54:23.660Z,171236846366011
+"""Treex3 @ RUAAWMPzDZ"" posts a small blind of 10",2024-04-06T01:54:23.660Z,171236846366010
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1000) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1000) | #3 ""Milly milly @ B64N3PmFsg"" (1000) | #4 ""JacobyMatt @ PCk2vitmFr"" (950) | #6 ""Treex3 @ RUAAWMPzDZ"" (2050) | #7 ""floppynuts @ s8o62OfXVN"" (1000) | #8 ""Mr.Moore98 @ UdxKlhGWvf"" (1000)",2024-04-06T01:54:23.660Z,171236846366002
+"-- starting hand #2 (id: 8ggvov0ki5rk)  (No Limit Texas Hold'em) (dead button) --",2024-04-06T01:54:23.660Z,171236846366001
+"The player ""ManuelCalavera @ -tYMT97Tdw"" quits the game with a stack of 0.",2024-04-06T01:54:23.660Z,171236846366000
+"-- ending hand #1 --",2024-04-06T01:54:17.647Z,171236845764701
+"""Treex3 @ RUAAWMPzDZ"" collected 2050 from pot with Two Pair, K's & 10's (combination: K♥, K♦, 10♠, 10♥, Q♠)",2024-04-06T01:54:17.647Z,171236845764700
+"River: K♦, 10♠, 7♥, 9♦ [10♥]",2024-04-06T01:54:13.636Z,171236845363600
+"Turn: K♦, 10♠, 7♥ [9♦]",2024-04-06T01:54:09.574Z,171236844957400
+"Flop:  [K♦, 10♠, 7♥]",2024-04-06T01:54:05.563Z,171236844556300
+"""Treex3 @ RUAAWMPzDZ"" shows a K♥, Q♠.",2024-04-06T01:54:01.515Z,171236844151501
+"""ManuelCalavera @ -tYMT97Tdw"" shows a 4♣, 8♥.",2024-04-06T01:54:01.515Z,171236844151500
+"""JacobyMatt @ PCk2vitmFr"" folds",2024-04-06T01:54:00.677Z,171236844067700
+"""Treex3 @ RUAAWMPzDZ"" calls 1000 and go all in",2024-04-06T01:53:59.768Z,171236843976800
+"""ManuelCalavera @ -tYMT97Tdw"" raises to 1000 and go all in",2024-04-06T01:53:56.681Z,171236843668100
+"""JacobyMatt @ PCk2vitmFr"" raises to 50",2024-04-06T01:53:51.744Z,171236843174400
+"""Milly milly @ B64N3PmFsg"" folds",2024-04-06T01:53:48.272Z,171236842827200
+"""Jimmtrause @ TSkBBkPt_L"" folds",2024-04-06T01:53:47.093Z,171236842709300
+"""PokerLobo @ Hk6Ia_x0Hn"" folds",2024-04-06T01:53:31.194Z,171236841119400
+"""Mr.Moore98 @ UdxKlhGWvf"" folds",2024-04-06T01:53:30.186Z,171236841018600
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-06T01:53:29.269Z,171236840926900
+"""Treex3 @ RUAAWMPzDZ"" posts a big blind of 20",2024-04-06T01:53:27.285Z,171236840728519
+"""ManuelCalavera @ -tYMT97Tdw"" posts a small blind of 10",2024-04-06T01:53:27.285Z,171236840728518
+"Player stacks: #1 ""PokerLobo @ Hk6Ia_x0Hn"" (1000) | #2 ""Jimmtrause @ TSkBBkPt_L"" (1000) | #3 ""Milly milly @ B64N3PmFsg"" (1000) | #4 ""JacobyMatt @ PCk2vitmFr"" (1000) | #5 ""ManuelCalavera @ -tYMT97Tdw"" (1000) | #6 ""Treex3 @ RUAAWMPzDZ"" (1000) | #7 ""floppynuts @ s8o62OfXVN"" (1000) | #8 ""Mr.Moore98 @ UdxKlhGWvf"" (1000)",2024-04-06T01:53:27.285Z,171236840728509
+"The player ""Mr.Moore98 @ UdxKlhGWvf"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728508
+"The player ""floppynuts @ s8o62OfXVN"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728507
+"The player ""Treex3 @ RUAAWMPzDZ"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728506
+"The player ""ManuelCalavera @ -tYMT97Tdw"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728505
+"The player ""JacobyMatt @ PCk2vitmFr"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728504
+"The player ""Milly milly @ B64N3PmFsg"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728503
+"The player ""Jimmtrause @ TSkBBkPt_L"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728502
+"The player ""PokerLobo @ Hk6Ia_x0Hn"" joined the game with a stack of 1000.",2024-04-06T01:53:27.285Z,171236840728501
+"-- starting hand #1 (id: 6vzel9gzufmt)  (No Limit Texas Hold'em) (dealer: ""JacobyMatt @ PCk2vitmFr"") --",2024-04-06T01:53:27.285Z,171236840728500
