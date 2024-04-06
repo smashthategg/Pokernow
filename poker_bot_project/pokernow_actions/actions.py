@@ -207,7 +207,7 @@ def raise_func(driver, amount):
 
 if __name__ == "__main__":
    
-    chromedriver_path = r"C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
+    chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
     service = Service(executable_path=chromedriver_path)
     driver = webdriver.Chrome(service=service)
 

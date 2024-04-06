@@ -264,6 +264,10 @@ class Reader():
         df.index.name = name
         print(df)
 
+    def get_player_df(self, name):
+        df = pd.DataFrame(self.players[name])
+        return df
+    
     def print_all_players_as_df(self):
         for name in self.players.keys():
             df = pd.DataFrame(self.players[name])

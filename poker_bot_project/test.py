@@ -1,6 +1,7 @@
 from card import Card
 from deck import Deck
 from equity_calculator import *
+from range import build_range
 
 
 hero = Player('p1',1000)
@@ -20,7 +21,7 @@ def test_case1():
     board = d.deal(3)
     print(board)
 
-    print(calculate_equity(hero.hand,opp_hands,[]))
+    print(calculate_equity(hero.hand,opp_hands,board))
 
 
 def test_case2():
@@ -47,4 +48,7 @@ def test_case3():
 
     print(calculate_equity(hero.hand,[o1.hand],d.deal(3)))
 
-print([Card('K','clubs'), Card('7', 'spades')] > [Card('A','diamonds'), Card('7', 'spades')])
+range = build_range(.12)
+print(range)
+
+print(len(range))

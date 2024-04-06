@@ -1,0 +1,4 @@
+loop through all the players in our data
+    VPIP? count up all the rows that have at least one R or C. / total number of rows. 
+
+    
