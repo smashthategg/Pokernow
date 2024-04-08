@@ -1,17 +1,25 @@
-# range.py aims to construct a list of all the default poker hands ordered by profitability.
+# By default, range.py aims to construct a list of all the default poker hands ordered by profitability.
 # Hands in parantheses are "suited"
 # Order provided by ProPokerTools.com
 
 from card import Card
 import numpy as np
 
-''' ------------- DOCUMENTATION ------------------
+''' ------------- DOCUMENTATION ------------------ 
 
-# def __init__(self, percent = 1)  
+# def set_range(percent) 
 #   percent: the top % of default poker hands to be included in the range.
+#   sets self.range (and self.simple_range accordingly) to the first *percent* x 1326 elements of the list
+#   in other words, the best X% default hands.
 
-# def build_range(percent) 
-#   is only used for the __init__
+# def set_custom_range(self, range): 
+#   range: a list, something like this ['66+','A7s+','KTs+','QJs','KJo+','ATo+']
+#       66+ => 66, 77, 88, 99, TT, JJ, QQ, KK, AA
+#       A7s+ => A7s, A8s, A9s, ATs, AJs, AQs, AKs
+#       KTs+ => KTs, KJs, KQs
+#       QJs => QJs
+#       KJo+ => KJo, KQo
+#       ATo+ => ATo, AJo, AQo, AKo
 
 # def visualize_range()
 #   prints out the range in readable format like below
@@ -40,16 +48,23 @@ import numpy as np
     ['   ' '   ' '   ' '   ' '   ' '   ' '   ' '   ' '   ' '   ' '   ' '   ' '  ']
     ]
  '''
+values = ['2','3','4','5','6','7','8','9','T','J','Q','K','A']
+suits = ["clubs","diamonds","hearts","spades"]
+
 
 class Range():
-    def __init__(self, percent = 1): 
+    def __init__(self, data=None): # we can call set_range/set_custom_range through the constructor (read them)
         self.simple_range = []
-        self.range = self.build_range(percent)
+        self.range = []
+        if isinstance(data, list):
+            self.set_custom_range(data)
+        if isinstance(data, float):
+            self.set_range(data)
 
-    def build_range(self, percent): # returns the first *percent* x 1326 elements of the list. the best X% of default hands.
+    def set_range(self, percent = 1): # sets self.(simple_)range to the first *percent* x 1326 elements of the list. the best X% of default hands.
 
-        output = []
-
+        self.reset_range()
+        
         ordered_range = ["AA","KK","QQ","JJ","TT","AKs","AKo","AQs",
                         "99","AJs","AQo","88","ATs","AJo","KQs","77",
                         "KJs","ATo","KQo","A9s","KTs","66","A8s","QJs",
@@ -72,30 +87,65 @@ class Range():
                         "74o","84o","T2o","53o","94o","93o","43o","63o","92o","73o",
                         "83o","52o","82o","42o","62o","72o","32o"]
 
-
-        suits = ["clubs","diamonds","hearts","spades"]
         for hand in ordered_range:
-            if len(output) > percent * 1326:
+            if len(self.range) > percent * 1326:
                 break
             else:
-                self.simple_range.append(hand)
-                if len(hand) == 2: # if hand is a pocket pair (6 combos)
-                    for i in range(0,4):
-                        for j in range(i+1,4):
-                            output.append([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
-                elif hand[2] == "s": # if hand is suited (4 combos)
-                    for suit in suits:
-                        output.append([Card(hand[0], suit), Card(hand[1], suit)])
-                else: # if hand is offsuit (12 combos)
-                    for i in range(0,4): 
-                        for j in range(i+1,4):
-                            output.append([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
-                            output.append([Card(hand[0], suits[j]), Card(hand[1], suits[i])])
-        while len(output) > percent * 1326: # clears out extra hands
-            output.pop()
-        return output
-    
-    def visualize_range(self):
+                self.add_hand_to_range(hand)
+        while len(self.range) > percent * 1326: # clears out extra hands
+            self.range.pop()
+
+    def set_custom_range(self, r): 
+        self.reset_range()
+        for hand in r:
+            if hand[-1] == '+': # if we need to append a whole range
+                val1 = values.index(hand[0])
+                val2 = values.index(hand[1])
+                if val1 == val2: # if pocket pair
+                    for i in range(val1, 13):
+                        self.add_hand_to_range(values[i] * 2)
+                else:
+                    for i in range(val2, 13):
+                        hand = hand.replace(hand[1], values[i])
+                        self.add_hand_to_range(hand[:-1])
+            else:
+                self.add_hand_to_range(hand)
+
+    def add_hand_to_range(self, hand):
+        self.simple_range.append(hand)
+        if len(hand) == 2: # if hand is a pocket pair (6 combos)
+            for i in range(0,4):
+                for j in range(i+1,4):
+                    self.range.append([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
+        elif hand[2] == "s": # if hand is suited (4 combos)
+            for suit in suits:
+                self.range.append([Card(hand[0], suit), Card(hand[1], suit)])
+        else: # if hand is offsuit (12 combos)
+            for i in range(0,4): 
+                for j in range(i+1,4):
+                    self.range.append([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
+                    self.range.append([Card(hand[0], suits[j]), Card(hand[1], suits[i])])
+
+    def remove_from_range(self, hand):
+        self.simple_range.remove(hand)
+        if len(hand) == 2: # if hand is a pocket pair (6 combos)
+            for i in range(0,4):
+                for j in range(i+1,4):
+                    self.range.remove([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
+        elif hand[2] == "s": # if hand is suited (4 combos)
+            for suit in suits:
+                self.range.remove([Card(hand[0], suit), Card(hand[1], suit)])
+        else: # if hand is offsuit (12 combos)
+            for i in range(0,4): 
+                for j in range(i+1,4):
+                    self.range.remove([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
+                    self.range.remove([Card(hand[0], suits[j]), Card(hand[1], suits[i])])
+
+    def reset_range(self):
+        self.simple_range.clear()
+        self.range.clear()
+
+    def __str__(self):
         visual = np.array([
         ['AA','AKs','AQs','AJs','ATs','A9s','A8s','A7s','A6s','A5s','A4s','A3s','A2s'],
         ['AKo','KK','KQs','KJs','KTs','K9s','K8s','K7s','K6s','K5s','K4s','K3s','K2s'],
@@ -115,5 +165,12 @@ class Range():
             for j in range(0,13):
                 if visual[i,j] not in self.simple_range:
                     visual[i,j] = ' ' * len(visual[i,j])
-        print(visual)
+        return str(visual)
+    
+    def __sub__(self, other):
+        res = Range()
+        for hand in self.simple_range:
+            if hand not in other.simple_range:
+                res.add_hand_to_range(hand)
+        return res
 

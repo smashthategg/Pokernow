@@ -50,6 +50,12 @@ def test_case3():
 
 np.set_printoptions(linewidth=100)
 
-r = Range(0.078755) # the number is the best X% of hands to be included in the range. (ex. 0.1 corresponds to 10%)
+
+r = Range() # the number is the best X% of hands to be included in the range. (ex. 0.1 corresponds to 10%)
+r.set_range(0.12)
+r.set_custom_range(['66+','A7s+','KTs+','QJs','KJo+','ATo+'])
 print(r.range)
-r.visualize_range()
+print(r.simple_range)
+print(r)
+
+
