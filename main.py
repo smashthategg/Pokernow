@@ -1,5 +1,4 @@
 import os
-from sqlbuilder import build_sql_database_framework
 from reader import Reader
 
 '''
@@ -20,6 +19,5 @@ for fileName in os.listdir('./game_logs'):
     r.csv_to_txt()
     r.csv_to_data()
 
-r.print_all_players_as_df()
-
+print(r.get_player_df('cpncandy'))
 
