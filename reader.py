@@ -12,7 +12,7 @@ import pandas as pd
 
     Also, hands played without the "you" player 
     (after they go broke) will not be recorded.
- '''
+ '''  
 class Reader():
     # Assign "global" variables
     def __init__(self, you = "smashthategg"):
