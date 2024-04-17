@@ -14,8 +14,11 @@ class Card():
     def __lt__(self, rhs):
         return self.num < rhs.num
     
-    def __eq__(self, rhs):
+    def equal_in_value(self, rhs):
         return self.num == rhs.num
+    
+    def __eq__(self, rhs):
+        return self.num == rhs.num and self.suit == rhs.suit
     
     def __str__(self):
         suit_to_emoji = {

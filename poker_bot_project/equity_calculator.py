@@ -18,8 +18,12 @@ def calculate_equity(hero_hand, opp_hands, board):
             if rankings.index(hero[0]) == rankings.index(opp[0]):
                 if hero[1] < opp[1]:
                     return 0
-                if hero[1] == opp[1]:
-                    num_winners += 1
+                equal = True
+                for i in range(5):
+                    if not hero[1][i].equal_in_value(opp[1][i]):
+                        equal = False
+                        break
+                num_winners += equal
         return 1/num_winners
     else:
         deck = Deck() 

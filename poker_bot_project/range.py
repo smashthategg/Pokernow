@@ -141,6 +141,18 @@ class Range():
                     self.range.remove([Card(hand[0], suits[i]), Card(hand[1], suits[j])])
                     self.range.remove([Card(hand[0], suits[j]), Card(hand[1], suits[i])])
 
+    def get_range_without_cards(self, cards):
+        res = []
+        for hand in self.range:
+            conflicts = False
+            for card in cards:
+                if card in hand:
+                    conflicts = True
+                    break
+            if not conflicts:
+                res.append(hand)
+        return res
+
     def reset_range(self):
         self.simple_range.clear()
         self.range.clear()
@@ -167,10 +179,6 @@ class Range():
                     visual[i,j] = ' ' * len(visual[i,j])
         return str(visual)
     
-    def __sub__(self, other):
-        res = Range()
-        for hand in self.simple_range:
-            if hand not in other.simple_range:
-                res.add_hand_to_range(hand)
-        return res
-
+    
+    def __contains__(self, hand):
+        return hand in self.range or [hand[1],hand[0]] in self.range

@@ -22,8 +22,13 @@ def calculate_stats(dict):
                 WSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
             else:
                 WTSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i]) 
-        df.update({players: ['VPIP: ' + str(VPIP), 'SD: ' + str(SD), 
-                             'WSD: ' + str(WSD), 'WTSD: ' + str(WTSD)]})
+        df.update({players: {
+                    'VPIP': VPIP, 
+                    'SD': SD, 
+                    'WSD': WSD, 
+                    'WTSD': WTSD
+                    }
+                   })
     
     return df
 # VPIP: Voluntarily put into pot        
@@ -31,5 +36,12 @@ def calculate_stats(dict):
 # WSD: total won/lost at showdown
 # WTSD: total won/lost without showdown
 
+
 df = calculate_stats(dict)
-print(df.get('smashthategg'))
+numplayers = 0
+totalvpip = 0
+for player in df:
+    numplayers += 1
+    totalvpip += df[player]['VPIP']
+
+print(totalvpip/numplayers)
