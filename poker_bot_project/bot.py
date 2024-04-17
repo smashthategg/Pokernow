@@ -113,8 +113,9 @@ count = 0
 for i in range(1):
     d = Deck(True)
     hand = d.deal(2)
-    p1 = Opponent('p1', 'reg', 1000, 20)
-    p2 = Opponent('p2', 'rec', 1000, 20)
+    p1 = Opponent('p1', 'reg')
+    p2 = Opponent('p2', 'rec')
+    p1.set_bet(20)
     print(hand)
     print(get_preflop_strategy(hand, 1000, 20, 'BTN', [p1], [p2]))
     print(p1.range)

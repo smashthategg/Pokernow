@@ -1,13 +1,14 @@
 from range import Range
 from ranges import *
 
+
 class Opponent():
-    def __init__(self, name, type, stack, bet):
+    def __init__(self, name, type):
         self.name = name
-        self.stack = stack
+        self.stack = 1000 # we update stack and bet with set_stack() and set_bet()
+        self.bet = 0
         self.type = type
         self.range = Range()
-        self.bet = bet
 
     def update_preflop_range(self, bet, bbsize):
         percent_stack = bet/self.stack
@@ -21,3 +22,9 @@ class Opponent():
             self.range = new_range['15%']
         else:
             self.range = new_range['30%']
+
+    def set_stack(self, stack):
+        self.stack = stack
+
+    def set_bet(self, bet):
+        self.bet = bet
