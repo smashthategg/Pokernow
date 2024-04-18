@@ -19,4 +19,6 @@ for fileName in os.listdir('./game_logs'):
     r.csv_to_txt()
     r.csv_to_data()
 
+
+
 r.print_all_players_as_df()
