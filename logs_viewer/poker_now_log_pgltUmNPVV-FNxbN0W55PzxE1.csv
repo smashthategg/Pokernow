@@ -1,0 +1,919 @@
+2024-04-17
+-- starting hand #1 (id: pkvbpdrbunjz)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+The player "wolfbirdpilot" joined the game with a stack of 1000.
+The player "WesleyLiao" joined the game with a stack of 1000.
+The player "1GlancingEagle" joined the game with a stack of 1000.
+The player "yolo_!" joined the game with a stack of 1000.
+The player "zazaman" joined the game with a stack of 1000.
+The player "Generalsteve" joined the game with a stack of 1000.
+The player "Zohanrin" joined the game with a stack of 1000.
+The player "jexx" joined the game with a stack of 1000.
+Player stacks: #1 "wolfbirdpilot" (1000) | #2 "WesleyLiao" (1000) | #3 "1GlancingEagle" (1000) | #4 "yolo_!" (1000) | #5 "zazaman" (1000) | #6 "Generalsteve" (1000) | #7 "Zohanrin" (1000) | #8 "jexx" (1000)
+"zazaman" posts a small blind of 10
+"Generalsteve" posts a big blind of 20
+"Zohanrin" raises to 60
+"jexx" folds
+"wolfbirdpilot" folds
+"WesleyLiao" folds
+"1GlancingEagle" calls 60
+"yolo_!" folds
+"zazaman" calls 60
+"Generalsteve" folds
+Flop:  [K♠, 5♣, A♥]
+"zazaman" checks
+"Zohanrin" bets 100
+"1GlancingEagle" calls 100
+"zazaman" calls 100
+Turn: K♠, 5♣, A♥ [7♠]
+"zazaman" checks
+"Zohanrin" bets 250
+"1GlancingEagle" calls 250
+"zazaman" folds
+River: K♠, 5♣, A♥, 7♠ [5♦]
+"Zohanrin" checks
+"1GlancingEagle" bets 590 and go all in
+"Zohanrin" calls 590 and go all in
+"Zohanrin" shows a A♠, 2♠.
+"Zohanrin" collected 2180 from pot with Two Pair, A's & 5's (combination: A♠, A♥, 5♣, 5♦, K♠)
+"1GlancingEagle" shows a 3♦, J♦.
+-- ending hand #1 --
+The player "1GlancingEagle" quits the game with a stack of 0.
+-- starting hand #2 (id: ohhszbutnhte)  (No Limit Texas Hold'em) (dealer: "zazaman") --
+Player stacks: #1 "wolfbirdpilot" (1000) | #2 "WesleyLiao" (1000) | #4 "yolo_!" (1000) | #5 "zazaman" (840) | #6 "Generalsteve" (980) | #7 "Zohanrin" (2180) | #8 "jexx" (1000)
+"Generalsteve" posts a small blind of 10
+"Zohanrin" posts a big blind of 20
+"jexx" raises to 40
+"wolfbirdpilot" folds
+"WesleyLiao" folds
+"yolo_!" raises to 60
+"zazaman" calls 60
+"Generalsteve" folds
+"Zohanrin" calls 60
+"jexx" calls 60
+Flop:  [Q♠, 6♠, Q♣]
+"Zohanrin" checks
+"jexx" checks
+"yolo_!" checks
+"zazaman" bets 80
+"Zohanrin" folds
+"jexx" raises to 190
+"yolo_!" calls 190
+"zazaman" calls 190
+Turn: Q♠, 6♠, Q♣ [K♦]
+"jexx" bets 160
+"yolo_!" calls 160
+"zazaman" calls 160
+River: Q♠, 6♠, Q♣, K♦ [6♥]
+"jexx" bets 590 and go all in
+"yolo_!" folds
+"zazaman" calls 430 and go all in
+Uncalled bet of 160 returned to "jexx"
+"jexx" shows a Q♥, A♦.
+"jexx" collected 2160 from pot with Full House, Q's over 6's (combination: Q♥, Q♠, Q♣, 6♠, 6♥)
+"zazaman" shows a 6♦, J♠.
+-- ending hand #2 --
+"yolo_!" shows a A♠, K♠.
+The player "zazaman" quits the game with a stack of 0.
+-- starting hand #3 (id: hhuv22okl3qg)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (1000) | #2 "WesleyLiao" (1000) | #4 "yolo_!" (590) | #6 "Generalsteve" (970) | #7 "Zohanrin" (2120) | #8 "jexx" (2320)
+"Zohanrin" posts a small blind of 10
+"jexx" posts a big blind of 20
+"wolfbirdpilot" raises to 40
+"WesleyLiao" folds
+"yolo_!" folds
+"Generalsteve" calls 40
+"Zohanrin" raises to 100
+"jexx" calls 100
+"wolfbirdpilot" calls 100
+"Generalsteve" calls 100
+Flop:  [9♣, T♥, 7♣]
+"Zohanrin" bets 200
+"jexx" folds
+"wolfbirdpilot" folds
+"Generalsteve" folds
+Uncalled bet of 200 returned to "Zohanrin"
+"Zohanrin" collected 400 from pot
+-- ending hand #3 --
+-- starting hand #4 (id: kltbrrgh9ijq)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (900) | #2 "WesleyLiao" (1000) | #4 "yolo_!" (590) | #6 "Generalsteve" (870) | #7 "Zohanrin" (2420) | #8 "jexx" (2220)
+"jexx" posts a small blind of 10
+"wolfbirdpilot" posts a big blind of 20
+"WesleyLiao" calls 20
+"yolo_!" raises to 55
+"Generalsteve" folds
+"Zohanrin" folds
+"jexx" folds
+"wolfbirdpilot" folds
+"WesleyLiao" calls 55
+Flop:  [3♦, 6♠, J♦]
+"WesleyLiao" checks
+"yolo_!" checks
+Turn: 3♦, 6♠, J♦ [5♠]
+"WesleyLiao" bets 40
+"yolo_!" calls 40
+River: 3♦, 6♠, J♦, 5♠ [5♣]
+"WesleyLiao" bets 185
+"yolo_!" folds
+Uncalled bet of 185 returned to "WesleyLiao"
+"WesleyLiao" collected 220 from pot
+-- ending hand #4 --
+The game's small blind was changed from 10 to 20.
+The game's big blind was changed from 20 to 40.
+-- starting hand #5 (id: ixs9ysyf3k8r)  (No Limit Texas Hold'em) (dealer: "jexx") --
+Player stacks: #1 "wolfbirdpilot" (880) | #2 "WesleyLiao" (1125) | #4 "yolo_!" (495) | #6 "Generalsteve" (870) | #7 "Zohanrin" (2420) | #8 "jexx" (2210)
+"wolfbirdpilot" posts a small blind of 20
+"WesleyLiao" posts a big blind of 40
+"yolo_!" raises to 120
+"Generalsteve" folds
+"Zohanrin" folds
+"jexx" folds
+"wolfbirdpilot" folds
+"WesleyLiao" calls 120
+Flop:  [9♣, 4♦, A♦]
+"WesleyLiao" checks
+"yolo_!" checks
+Turn: 9♣, 4♦, A♦ [8♣]
+"WesleyLiao" checks
+"yolo_!" checks
+River: 9♣, 4♦, A♦, 8♣ [A♣]
+"WesleyLiao" checks
+"yolo_!" checks
+"yolo_!" shows a Q♥, K♥.
+"yolo_!" collected 260 from pot with Pair, A's (combination: A♦, A♣, K♥, Q♥, 9♣)
+"WesleyLiao" shows a Q♠, 2♦.
+-- ending hand #5 --
+-- starting hand #6 (id: qy52gq6o4ey6)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (860) | #2 "WesleyLiao" (1005) | #4 "yolo_!" (635) | #6 "Generalsteve" (870) | #7 "Zohanrin" (2420) | #8 "jexx" (2210)
+"WesleyLiao" posts a small blind of 20
+"yolo_!" posts a big blind of 40
+"Generalsteve" folds
+"Zohanrin" folds
+"jexx" raises to 80
+"wolfbirdpilot" folds
+"WesleyLiao" calls 80
+"yolo_!" raises to 120
+"jexx" calls 120
+"WesleyLiao" calls 120
+Flop:  [J♣, 4♣, J♥]
+"WesleyLiao" checks
+"yolo_!" checks
+"jexx" bets 80
+"WesleyLiao" folds
+"yolo_!" calls 80
+Turn: J♣, 4♣, J♥ [3♥]
+"yolo_!" checks
+"jexx" bets 160
+"yolo_!" calls 160
+River: J♣, 4♣, J♥, 3♥ [3♦]
+"yolo_!" checks
+"jexx" bets 275
+"yolo_!" calls 275 and go all in
+"yolo_!" shows a 8♥, 8♠.
+"yolo_!" collected 1390 from pot with Two Pair, J's & 8's (combination: J♣, J♥, 8♥, 8♠, 4♣)
+"jexx" shows a 7♦, K♦.
+-- ending hand #6 --
+-- starting hand #7 (id: peskluogykg8)  (No Limit Texas Hold'em) (dealer: "WesleyLiao") --
+Player stacks: #1 "wolfbirdpilot" (860) | #2 "WesleyLiao" (885) | #4 "yolo_!" (1390) | #6 "Generalsteve" (870) | #7 "Zohanrin" (2420) | #8 "jexx" (1575)
+"yolo_!" posts a small blind of 20
+"Generalsteve" posts a big blind of 40
+"Zohanrin" folds
+"jexx" calls 40
+"wolfbirdpilot" folds
+"WesleyLiao" folds
+"yolo_!" raises to 110
+"Generalsteve" folds
+"jexx" folds
+Uncalled bet of 70 returned to "yolo_!"
+"yolo_!" collected 120 from pot
+-- ending hand #7 --
+-- starting hand #8 (id: ygtdgespcb7l)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (860) | #2 "WesleyLiao" (885) | #4 "yolo_!" (1470) | #6 "Generalsteve" (830) | #7 "Zohanrin" (2420) | #8 "jexx" (1535)
+"Generalsteve" posts a small blind of 20
+"Zohanrin" posts a big blind of 40
+"jexx" calls 40
+"wolfbirdpilot" folds
+"WesleyLiao" folds
+"yolo_!" raises to 110
+"Generalsteve" calls 110
+"Zohanrin" folds
+"jexx" folds
+Flop:  [9♣, J♣, 3♣]
+"Generalsteve" checks
+"yolo_!" checks
+Turn: 9♣, J♣, 3♣ [Q♠]
+"Generalsteve" checks
+"yolo_!" bets 40
+"Generalsteve" folds
+Uncalled bet of 40 returned to "yolo_!"
+"yolo_!" collected 300 from pot
+-- ending hand #8 --
+-- starting hand #9 (id: vy42l1bnoqso)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (860) | #2 "WesleyLiao" (885) | #4 "yolo_!" (1660) | #6 "Generalsteve" (720) | #7 "Zohanrin" (2380) | #8 "jexx" (1495)
+"Zohanrin" posts a small blind of 20
+"jexx" posts a big blind of 40
+"wolfbirdpilot" folds
+"WesleyLiao" folds
+"yolo_!" folds
+"Generalsteve" folds
+"Zohanrin" folds
+Uncalled bet of 20 returned to "jexx"
+"jexx" collected 40 from pot
+-- ending hand #9 --
+-- starting hand #10 (id: sxyptxymxrpw)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (860) | #2 "WesleyLiao" (885) | #4 "yolo_!" (1660) | #6 "Generalsteve" (720) | #7 "Zohanrin" (2360) | #8 "jexx" (1515)
+"jexx" posts a small blind of 20
+"wolfbirdpilot" posts a big blind of 40
+"WesleyLiao" raises to 160
+"yolo_!" folds
+"Generalsteve" folds
+"Zohanrin" folds
+"jexx" folds
+"wolfbirdpilot" folds
+Uncalled bet of 120 returned to "WesleyLiao"
+"WesleyLiao" collected 100 from pot
+-- ending hand #10 --
+-- starting hand #11 (id: r5b91wonbmux)  (No Limit Texas Hold'em) (dealer: "jexx") --
+Player stacks: #1 "wolfbirdpilot" (820) | #2 "WesleyLiao" (945) | #4 "yolo_!" (1660) | #6 "Generalsteve" (720) | #7 "Zohanrin" (2360) | #8 "jexx" (1495)
+"wolfbirdpilot" posts a small blind of 20
+"WesleyLiao" posts a big blind of 40
+"yolo_!" calls 40
+"Generalsteve" folds
+"Zohanrin" folds
+"jexx" raises to 120
+"wolfbirdpilot" folds
+"WesleyLiao" calls 120
+"yolo_!" calls 120
+Flop:  [7♠, 7♣, A♠]
+"WesleyLiao" checks
+"yolo_!" checks
+"jexx" bets 120
+"WesleyLiao" calls 120
+"yolo_!" folds
+Turn: 7♠, 7♣, A♠ [J♥]
+"WesleyLiao" checks
+"jexx" bets 160
+"WesleyLiao" raises to 705 and go all in
+"jexx" calls 705
+"WesleyLiao" shows a 3♣, 3♦.
+"jexx" shows a K♥, K♣.
+River: 7♠, 7♣, A♠, J♥ [3♥]
+"WesleyLiao" collected 2030 from pot with Full House, 3's over 7's (combination: 3♣, 3♦, 3♥, 7♠, 7♣)
+-- ending hand #11 --
+The game's small blind was changed from 20 to 30.
+The game's big blind was changed from 40 to 60.
+-- starting hand #12 (id: 3ugpffael6eo)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (800) | #2 "WesleyLiao" (2030) | #4 "yolo_!" (1540) | #6 "Generalsteve" (720) | #7 "Zohanrin" (2360) | #8 "jexx" (550)
+"WesleyLiao" posts a small blind of 30
+"yolo_!" posts a big blind of 60
+"Generalsteve" raises to 120
+"Zohanrin" folds
+"jexx" folds
+"wolfbirdpilot" folds
+"WesleyLiao" calls 120
+"yolo_!" folds
+Flop:  [8♥, 4♥, 3♣]
+"WesleyLiao" checks
+"Generalsteve" checks
+Turn: 8♥, 4♥, 3♣ [8♣]
+"WesleyLiao" checks
+"Generalsteve" checks
+River: 8♥, 4♥, 3♣, 8♣ [J♣]
+"WesleyLiao" checks
+"Generalsteve" bets 120
+"WesleyLiao" folds
+Uncalled bet of 120 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #12 --
+-- starting hand #13 (id: v9zwpszc0qne)  (No Limit Texas Hold'em) (dealer: "WesleyLiao") --
+Player stacks: #1 "wolfbirdpilot" (800) | #2 "WesleyLiao" (1910) | #4 "yolo_!" (1480) | #6 "Generalsteve" (900) | #7 "Zohanrin" (2360) | #8 "jexx" (550)
+"yolo_!" posts a small blind of 30
+"Generalsteve" posts a big blind of 60
+"Zohanrin" folds
+"jexx" calls 60
+"wolfbirdpilot" calls 60
+"WesleyLiao" raises to 200
+"yolo_!" calls 200
+"Generalsteve" calls 200
+"jexx" calls 200
+"wolfbirdpilot" calls 200
+Flop:  [J♦, T♠, T♣]
+"yolo_!" checks
+"Generalsteve" checks
+"jexx" bets 60
+"wolfbirdpilot" folds
+"WesleyLiao" raises to 480
+"yolo_!" calls 480
+"Generalsteve" folds
+"jexx" calls 350 and go all in
+Turn: J♦, T♠, T♣ [3♣]
+"yolo_!" checks
+"WesleyLiao" bets 800
+"yolo_!" calls 800 and go all in
+"WesleyLiao" shows a J♠, A♦.
+"yolo_!" shows a T♦, A♣.
+"jexx" shows a A♥, 6♦.
+River: J♦, T♠, T♣, 3♣ [7♠]
+"yolo_!" collected 2050 from pot with Three of a Kind, 10's (combination: T♦, T♠, T♣, A♣, J♦)
+"yolo_!" collected 1860 from pot with Three of a Kind, 10's (combination: T♦, T♠, T♣, A♣, J♦)
+-- ending hand #13 --
+The player "jexx" quits the game with a stack of 0.
+-- starting hand #14 (id: 6noupqh3vejn)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (600) | #2 "WesleyLiao" (430) | #4 "yolo_!" (3910) | #6 "Generalsteve" (700) | #7 "Zohanrin" (2360)
+"Generalsteve" posts a small blind of 30
+"Zohanrin" posts a big blind of 60
+"wolfbirdpilot" folds
+"WesleyLiao" calls 60
+"yolo_!" raises to 150
+"Generalsteve" folds
+"Zohanrin" folds
+"WesleyLiao" raises to 430 and go all in
+"yolo_!" calls 430
+"WesleyLiao" shows a 7♠, K♥.
+"yolo_!" shows a K♠, A♦.
+Flop:  [2♣, 6♥, 9♣]
+Turn: 2♣, 6♥, 9♣ [J♣]
+River: 2♣, 6♥, 9♣, J♣ [5♣]
+"yolo_!" collected 950 from pot with A High (combination: A♦, K♠, J♣, 9♣, 6♥)
+-- ending hand #14 --
+The player "WesleyLiao" quits the game with a stack of 0.
+-- starting hand #15 (id: lgdmuibynocq)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (600) | #4 "yolo_!" (4430) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2300)
+"Zohanrin" posts a small blind of 30
+"wolfbirdpilot" posts a big blind of 60
+"yolo_!" calls 60
+"Generalsteve" folds
+"Zohanrin" calls 60
+"wolfbirdpilot" raises to 120
+"yolo_!" calls 120
+"Zohanrin" calls 120
+Flop:  [6♣, 7♦, 4♠]
+"Zohanrin" checks
+"wolfbirdpilot" checks
+"yolo_!" checks
+Turn: 6♣, 7♦, 4♠ [2♠]
+"Zohanrin" checks
+"wolfbirdpilot" checks
+"yolo_!" checks
+River: 6♣, 7♦, 4♠, 2♠ [J♥]
+"Zohanrin" checks
+"wolfbirdpilot" bets 60
+"yolo_!" folds
+"Zohanrin" folds
+Uncalled bet of 60 returned to "wolfbirdpilot"
+"wolfbirdpilot" collected 360 from pot
+-- ending hand #15 --
+-- starting hand #16 (id: grewotdpchsc)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (840) | #4 "yolo_!" (4310) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2180)
+"wolfbirdpilot" posts a small blind of 30
+"yolo_!" posts a big blind of 60
+"Generalsteve" folds
+"Zohanrin" raises to 120
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 60 returned to "Zohanrin"
+"Zohanrin" collected 150 from pot
+-- ending hand #16 --
+The game's small blind was changed from 30 to 50.
+The game's big blind was changed from 60 to 100.
+-- starting hand #17 (id: iucqvw9wmudy)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (810) | #4 "yolo_!" (4250) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2270)
+"yolo_!" posts a small blind of 50
+"Generalsteve" posts a big blind of 100
+"Zohanrin" folds
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 50 returned to "Generalsteve"
+"Generalsteve" collected 100 from pot
+-- ending hand #17 --
+-- starting hand #18 (id: x6g1sawgt1wp)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (810) | #4 "yolo_!" (4200) | #6 "Generalsteve" (720) | #7 "Zohanrin" (2270)
+"Generalsteve" posts a small blind of 50
+"Zohanrin" posts a big blind of 100
+"wolfbirdpilot" folds
+"yolo_!" calls 100
+"Generalsteve" calls 100
+"Zohanrin" checks
+Flop:  [2♥, 8♥, 4♥]
+"Generalsteve" checks
+"Zohanrin" checks
+"yolo_!" bets 100
+"Generalsteve" folds
+"Zohanrin" folds
+Uncalled bet of 100 returned to "yolo_!"
+"yolo_!" collected 300 from pot
+-- ending hand #18 --
+-- starting hand #19 (id: k3vqrvf4gtf8)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (810) | #4 "yolo_!" (4400) | #6 "Generalsteve" (620) | #7 "Zohanrin" (2170)
+"Zohanrin" posts a small blind of 50
+"wolfbirdpilot" posts a big blind of 100
+"yolo_!" folds
+"Generalsteve" raises to 200
+"Zohanrin" raises to 500
+"wolfbirdpilot" folds
+"Generalsteve" folds
+Uncalled bet of 300 returned to "Zohanrin"
+"Zohanrin" collected 500 from pot
+-- ending hand #19 --
+-- starting hand #20 (id: yssnxsuhnniz)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (710) | #4 "yolo_!" (4400) | #6 "Generalsteve" (420) | #7 "Zohanrin" (2470)
+"wolfbirdpilot" posts a small blind of 50
+"yolo_!" posts a big blind of 100
+"Generalsteve" folds
+"Zohanrin" folds
+"wolfbirdpilot" folds
+Uncalled bet of 50 returned to "yolo_!"
+"yolo_!" collected 100 from pot
+-- ending hand #20 --
+-- starting hand #21 (id: skxvzyqjxaou)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (660) | #4 "yolo_!" (4450) | #6 "Generalsteve" (420) | #7 "Zohanrin" (2470)
+"yolo_!" posts a small blind of 50
+"Generalsteve" posts a big blind of 100
+"Zohanrin" folds
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 50 returned to "Generalsteve"
+"Generalsteve" collected 100 from pot
+-- ending hand #21 --
+-- starting hand #22 (id: ecmugx3qjfsq)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (660) | #4 "yolo_!" (4400) | #6 "Generalsteve" (470) | #7 "Zohanrin" (2470)
+"Generalsteve" posts a small blind of 50
+"Zohanrin" posts a big blind of 100
+"wolfbirdpilot" calls 100
+"yolo_!" folds
+"Generalsteve" calls 100
+"Zohanrin" checks
+Flop:  [2♦, 4♥, J♦]
+"Generalsteve" bets 370 and go all in
+"Zohanrin" folds
+"wolfbirdpilot" folds
+Uncalled bet of 370 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #22 --
+-- starting hand #23 (id: 6jseoeyb6yrt)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (560) | #4 "yolo_!" (4400) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2370)
+"Zohanrin" posts a small blind of 50
+"wolfbirdpilot" posts a big blind of 100
+"yolo_!" calls 100
+"Generalsteve" raises to 200
+"Zohanrin" folds
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 100 returned to "Generalsteve"
+"Generalsteve" collected 350 from pot
+-- ending hand #23 --
+-- starting hand #24 (id: mbskl5dwgtoc)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (460) | #4 "yolo_!" (4300) | #6 "Generalsteve" (920) | #7 "Zohanrin" (2320)
+"wolfbirdpilot" posts a small blind of 50
+"yolo_!" posts a big blind of 100
+"Generalsteve" raises to 920 and go all in
+"Zohanrin" folds
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 820 returned to "Generalsteve"
+"Generalsteve" collected 250 from pot
+-- ending hand #24 --
+-- starting hand #25 (id: 2uakz9gctqlj)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (410) | #4 "yolo_!" (4200) | #6 "Generalsteve" (1070) | #7 "Zohanrin" (2320)
+"yolo_!" posts a small blind of 50
+"Generalsteve" posts a big blind of 100
+"Zohanrin" raises to 300
+"wolfbirdpilot" folds
+"yolo_!" folds
+"Generalsteve" calls 300
+Flop:  [4♠, 5♠, J♠]
+"Generalsteve" checks
+"Zohanrin" bets 325
+"Generalsteve" folds
+Uncalled bet of 325 returned to "Zohanrin"
+"Zohanrin" collected 650 from pot
+-- ending hand #25 --
+-- starting hand #26 (id: aeisy9fcoahs)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (410) | #4 "yolo_!" (4150) | #6 "Generalsteve" (770) | #7 "Zohanrin" (2670)
+"Generalsteve" posts a small blind of 50
+"Zohanrin" posts a big blind of 100
+"wolfbirdpilot" folds
+"yolo_!" folds
+"Generalsteve" calls 100
+"Zohanrin" raises to 300
+"Generalsteve" folds
+Uncalled bet of 200 returned to "Zohanrin"
+"Zohanrin" collected 200 from pot
+-- ending hand #26 --
+-- starting hand #27 (id: ut8mwot6etfq)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (410) | #4 "yolo_!" (4150) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2770)
+"Zohanrin" posts a small blind of 50
+"wolfbirdpilot" posts a big blind of 100
+"yolo_!" folds
+"Generalsteve" folds
+"Zohanrin" folds
+Uncalled bet of 50 returned to "wolfbirdpilot"
+"wolfbirdpilot" collected 100 from pot
+-- ending hand #27 --
+-- starting hand #28 (id: qyirkqq16nyq)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (460) | #4 "yolo_!" (4150) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2720)
+"wolfbirdpilot" posts a small blind of 50
+"yolo_!" posts a big blind of 100
+"Generalsteve" folds
+"Zohanrin" folds
+"wolfbirdpilot" raises to 200
+"yolo_!" folds
+Uncalled bet of 100 returned to "wolfbirdpilot"
+"wolfbirdpilot" collected 200 from pot
+-- ending hand #28 --
+-- starting hand #29 (id: 8t5zpvuwkjqu)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (560) | #4 "yolo_!" (4050) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2720)
+"yolo_!" posts a small blind of 50
+"Generalsteve" posts a big blind of 100
+"Zohanrin" folds
+"wolfbirdpilot" raises to 200
+"yolo_!" folds
+"Generalsteve" folds
+Uncalled bet of 100 returned to "wolfbirdpilot"
+"wolfbirdpilot" collected 250 from pot
+-- ending hand #29 --
+-- starting hand #30 (id: siqwnbjtax0i)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (710) | #4 "yolo_!" (4000) | #6 "Generalsteve" (570) | #7 "Zohanrin" (2720)
+"Generalsteve" posts a small blind of 50
+"Zohanrin" posts a big blind of 100
+"wolfbirdpilot" folds
+"yolo_!" folds
+"Generalsteve" calls 100
+"Zohanrin" checks
+Flop:  [6♣, 2♦, A♥]
+"Generalsteve" checks
+"Zohanrin" checks
+Turn: 6♣, 2♦, A♥ [2♥]
+"Generalsteve" bets 100
+"Zohanrin" folds
+Uncalled bet of 100 returned to "Generalsteve"
+"Generalsteve" collected 200 from pot
+-- ending hand #30 --
+-- starting hand #31 (id: skp00qj2p61a)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #1 "wolfbirdpilot" (710) | #4 "yolo_!" (4000) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2620)
+"Zohanrin" posts a small blind of 50
+"wolfbirdpilot" posts a big blind of 100
+"yolo_!" folds
+"Generalsteve" calls 100
+"Zohanrin" folds
+"wolfbirdpilot" checks
+Flop:  [2♣, 9♠, A♥]
+"wolfbirdpilot" folds
+"Generalsteve" collected 250 from pot
+-- ending hand #31 --
+-- starting hand #32 (id: b3vjodyionly)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #1 "wolfbirdpilot" (610) | #4 "yolo_!" (4000) | #6 "Generalsteve" (820) | #7 "Zohanrin" (2570)
+"wolfbirdpilot" posts a small blind of 50
+"yolo_!" posts a big blind of 100
+"Generalsteve" folds
+"Zohanrin" raises to 400
+"wolfbirdpilot" folds
+"yolo_!" folds
+Uncalled bet of 300 returned to "Zohanrin"
+"Zohanrin" collected 250 from pot
+-- ending hand #32 --
+The game's small blind was changed from 50 to 75.
+The game's big blind was changed from 100 to 150.
+-- starting hand #33 (id: vpinu4zeplbn)  (No Limit Texas Hold'em) (dealer: "wolfbirdpilot") --
+Player stacks: #1 "wolfbirdpilot" (560) | #4 "yolo_!" (3900) | #6 "Generalsteve" (820) | #7 "Zohanrin" (2720)
+"yolo_!" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+"wolfbirdpilot" raises to 300
+"yolo_!" folds
+"Generalsteve" folds
+Uncalled bet of 150 returned to "wolfbirdpilot"
+"wolfbirdpilot" collected 375 from pot
+-- ending hand #33 --
+-- starting hand #34 (id: 42wa3gzjsaib)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #1 "wolfbirdpilot" (785) | #4 "yolo_!" (3825) | #6 "Generalsteve" (670) | #7 "Zohanrin" (2720)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"wolfbirdpilot" calls 150
+"yolo_!" folds
+"Generalsteve" folds
+"Zohanrin" raises to 450
+"wolfbirdpilot" raises to 785 and go all in
+"Zohanrin" calls 785
+"wolfbirdpilot" shows a Q♥, Q♦.
+"Zohanrin" shows a A♦, T♠.
+Flop:  [J♣, A♣, 2♥]
+Turn: J♣, A♣, 2♥ [A♥]
+River: J♣, A♣, 2♥, A♥ [4♠]
+"Zohanrin" collected 1645 from pot with Three of a Kind, A's (combination: A♦, A♣, A♥, J♣, T♠)
+-- ending hand #34 --
+The player "wolfbirdpilot" quits the game with a stack of 0.
+-- starting hand #35 (id: jppq43s1ujni)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #4 "yolo_!" (3825) | #6 "Generalsteve" (595) | #7 "Zohanrin" (3580)
+"Zohanrin" posts a small blind of 75
+"yolo_!" posts a big blind of 150
+"Generalsteve" raises to 595 and go all in
+"Zohanrin" calls 595
+"yolo_!" folds
+"Generalsteve" shows a 8♠, A♦.
+"Zohanrin" shows a A♠, 4♠.
+Flop:  [2♣, 8♣, 9♦]
+Turn: 2♣, 8♣, 9♦ [7♥]
+River: 2♣, 8♣, 9♦, 7♥ [3♣]
+"Generalsteve" collected 1340 from pot with Pair, 8's (combination: 8♠, 8♣, A♦, 9♦, 7♥)
+-- ending hand #35 --
+-- starting hand #36 (id: neebbublzmeo)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #4 "yolo_!" (3675) | #6 "Generalsteve" (1340) | #7 "Zohanrin" (2985)
+"yolo_!" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" calls 150
+"yolo_!" folds
+"Generalsteve" checks
+Flop:  [T♥, Q♠, 9♦]
+"Generalsteve" checks
+"Zohanrin" checks
+Turn: T♥, Q♠, 9♦ [2♣]
+"Generalsteve" checks
+"Zohanrin" checks
+River: T♥, Q♠, 9♦, 2♣ [Q♦]
+"Generalsteve" checks
+"Zohanrin" checks
+"Generalsteve" shows a 8♦, K♣.
+"Generalsteve" collected 375 from pot with Pair, Q's (combination: Q♠, Q♦, K♣, T♥, 9♦)
+-- ending hand #36 --
+-- starting hand #37 (id: uxchnhozjtwr)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #4 "yolo_!" (3600) | #6 "Generalsteve" (1565) | #7 "Zohanrin" (2835)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"yolo_!" folds
+"Generalsteve" calls 150
+"Zohanrin" checks
+Flop:  [Q♥, K♠, 7♣]
+"Generalsteve" checks
+"Zohanrin" bets 1415
+"Generalsteve" folds
+Uncalled bet of 1415 returned to "Zohanrin"
+"Zohanrin" collected 300 from pot
+-- ending hand #37 --
+-- starting hand #38 (id: soyhyenjxovs)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #4 "yolo_!" (3600) | #6 "Generalsteve" (1415) | #7 "Zohanrin" (2985)
+"Zohanrin" posts a small blind of 75
+"yolo_!" posts a big blind of 150
+"Generalsteve" folds
+"Zohanrin" folds
+Uncalled bet of 75 returned to "yolo_!"
+"yolo_!" collected 150 from pot
+-- ending hand #38 --
+-- starting hand #39 (id: fcffesr9fvam)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #4 "yolo_!" (3675) | #6 "Generalsteve" (1415) | #7 "Zohanrin" (2910)
+"yolo_!" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+"yolo_!" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #39 --
+-- starting hand #40 (id: noyw2ysv5yvy)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #4 "yolo_!" (3600) | #6 "Generalsteve" (1490) | #7 "Zohanrin" (2910)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"yolo_!" folds
+"Generalsteve" calls 150
+"Zohanrin" checks
+Flop:  [J♣, 9♠, 2♦]
+"Generalsteve" bets 1340 and go all in
+"Zohanrin" folds
+Uncalled bet of 1340 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #40 --
+-- starting hand #41 (id: 6vpe7ptuqo0p)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #4 "yolo_!" (3600) | #6 "Generalsteve" (1640) | #7 "Zohanrin" (2760)
+"Zohanrin" posts a small blind of 75
+"yolo_!" posts a big blind of 150
+"Generalsteve" calls 150
+"Zohanrin" folds
+"yolo_!" folds
+"Generalsteve" collected 375 from pot
+-- ending hand #41 --
+-- starting hand #42 (id: cihgzfvty1yt)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #4 "yolo_!" (3450) | #6 "Generalsteve" (1865) | #7 "Zohanrin" (2685)
+"yolo_!" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+"yolo_!" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #42 --
+-- starting hand #43 (id: b4drgijv874w)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #4 "yolo_!" (3375) | #6 "Generalsteve" (1940) | #7 "Zohanrin" (2685)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"yolo_!" folds
+"Generalsteve" raises to 448
+"Zohanrin" folds
+Uncalled bet of 298 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #43 --
+-- starting hand #44 (id: wlvylkhkzbyy)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #4 "yolo_!" (3375) | #6 "Generalsteve" (2090) | #7 "Zohanrin" (2535)
+"Zohanrin" posts a small blind of 75
+"yolo_!" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+"yolo_!" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 375 from pot
+-- ending hand #44 --
+-- starting hand #45 (id: aplpodq58gaq)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #4 "yolo_!" (3225) | #6 "Generalsteve" (2315) | #7 "Zohanrin" (2460)
+"yolo_!" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+"yolo_!" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #45 --
+-- starting hand #46 (id: 7ffq1itjusyq)  (No Limit Texas Hold'em) (dealer: "yolo_!") --
+Player stacks: #4 "yolo_!" (3150) | #6 "Generalsteve" (2390) | #7 "Zohanrin" (2460)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"yolo_!" folds
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #46 --
+-- starting hand #47 (id: 3spple8jceph)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #4 "yolo_!" (3150) | #6 "Generalsteve" (2540) | #7 "Zohanrin" (2310)
+"Zohanrin" posts a small blind of 75
+"yolo_!" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+"yolo_!" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 375 from pot
+-- ending hand #47 --
+The player "yolo_!" quits the game with a stack of 3000.
+-- starting hand #48 (id: tpn1kixj8rlk)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (2765) | #7 "Zohanrin" (2235)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #48 --
+-- starting hand #49 (id: ykwtbypjczl8)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (2840) | #7 "Zohanrin" (2160)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #49 --
+-- starting hand #50 (id: k9ockdg26mft)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (2990) | #7 "Zohanrin" (2010)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #50 --
+-- starting hand #51 (id: yzzijejl0aro)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (3065) | #7 "Zohanrin" (1935)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #51 --
+-- starting hand #52 (id: qhdkdfgk68jy)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (3215) | #7 "Zohanrin" (1785)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #52 --
+-- starting hand #53 (id: pmgxcqdgbmbh)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (3290) | #7 "Zohanrin" (1710)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #53 --
+-- starting hand #54 (id: dxlz1bl5ipys)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (3440) | #7 "Zohanrin" (1560)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #54 --
+-- starting hand #55 (id: 9nsszx2aisq4)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (3515) | #7 "Zohanrin" (1485)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #55 --
+-- starting hand #56 (id: rhcedwfyzbzy)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (3665) | #7 "Zohanrin" (1335)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #56 --
+-- starting hand #57 (id: 10r70eyoxhxm)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (3740) | #7 "Zohanrin" (1260)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #57 --
+-- starting hand #58 (id: 2sje7ib03x0a)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (3890) | #7 "Zohanrin" (1110)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #58 --
+-- starting hand #59 (id: nii4sx3tskme)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (3965) | #7 "Zohanrin" (1035)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #59 --
+-- starting hand #60 (id: g0hbsxolomzg)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (4115) | #7 "Zohanrin" (885)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #60 --
+-- starting hand #61 (id: uumtippe7zp2)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (4190) | #7 "Zohanrin" (810)
+"Generalsteve" posts a small blind of 75
+"Zohanrin" posts a big blind of 150
+"Generalsteve" raises to 300
+"Zohanrin" folds
+Uncalled bet of 150 returned to "Generalsteve"
+"Generalsteve" collected 300 from pot
+-- ending hand #61 --
+-- starting hand #62 (id: y9xttmclavgp)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (4340) | #7 "Zohanrin" (660)
+"Zohanrin" posts a small blind of 75
+"Generalsteve" posts a big blind of 150
+"Zohanrin" folds
+Uncalled bet of 75 returned to "Generalsteve"
+"Generalsteve" collected 150 from pot
+-- ending hand #62 --
+The game's small blind was changed from 75 to 100.
+The game's big blind was changed from 150 to 200.
+-- starting hand #63 (id: 6y3tbqkohggn)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (4415) | #7 "Zohanrin" (585)
+"Generalsteve" posts a small blind of 100
+"Zohanrin" posts a big blind of 200
+"Generalsteve" raises to 400
+"Zohanrin" folds
+Uncalled bet of 200 returned to "Generalsteve"
+"Generalsteve" collected 400 from pot
+-- ending hand #63 --
+-- starting hand #64 (id: ygl49m5j2t6v)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (4615) | #7 "Zohanrin" (385)
+"Zohanrin" posts a small blind of 100
+"Generalsteve" posts a big blind of 200
+"Zohanrin" folds
+Uncalled bet of 100 returned to "Generalsteve"
+"Generalsteve" collected 200 from pot
+-- ending hand #64 --
+-- starting hand #65 (id: srwrglzwivwt)  (No Limit Texas Hold'em) (dealer: "Generalsteve") --
+Player stacks: #6 "Generalsteve" (4715) | #7 "Zohanrin" (285)
+"Generalsteve" posts a small blind of 100
+"Zohanrin" posts a big blind of 200
+"Generalsteve" raises to 285
+"Zohanrin" folds
+Uncalled bet of 85 returned to "Generalsteve"
+"Generalsteve" collected 400 from pot
+-- ending hand #65 --
+-- starting hand #66 (id: wubdmf604ahx)  (No Limit Texas Hold'em) (dealer: "Zohanrin") --
+Player stacks: #6 "Generalsteve" (4915) | #7 "Zohanrin" (85)
+"Zohanrin" posts a small blind of 85 and go all in 
+"Generalsteve" posts a big blind of 200
+Uncalled bet of 115 returned to "Generalsteve"
+"Generalsteve" shows a 2♦, 5♦.
+"Zohanrin" shows a 8♦, 7♥.
+Flop:  [9♥, 5♠, 9♠]
+Turn: 9♥, 5♠, 9♠ [9♦]
+River: 9♥, 5♠, 9♠, 9♦ [T♦]
+"Generalsteve" collected 170 from pot with Full House, 9's over 5's (combination: 9♥, 9♠, 9♦, 5♦, 5♠)
+-- ending hand #66 --
+The player "Zohanrin" quits the game with a stack of 0.
+The player "Generalsteve" quits the game with a stack of 5000.
