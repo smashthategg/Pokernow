@@ -126,3 +126,67 @@ def find_flush(cards):
     else:
         return None
     
+def classify_hand(cards): 
+    hand_type = find_best_combo(cards)[0]
+    if hand_type == 'High Card':
+        strdraw = find_straight_draw(cards)
+        flshdraw = find_flush_draw(cards)
+        if strdraw and flshdraw:
+            return strdraw + " + " + flshdraw
+        if strdraw:
+            return strdraw
+        if flshdraw:
+            return flshdraw
+    return hand_type 
+  
+def find_straight_draw(cards):
+    # first, let's get rid of duplicate value cards (but append another ace card if it exists for the low straights)
+    unique_cards = [cards[0]]
+    for i in range(1,len(cards)):
+        if cards[i] != cards[i-1]:
+            unique_cards.append(cards[i])
+    if unique_cards[0].value == 'A':
+        unique_cards.append(cards[0])
+    # now look for 5 in a row
+    if len(unique_cards) >= 4:
+        i = 0
+        while i < len(unique_cards) - 4:
+            gutshot = 0
+            straight_draw = True
+            for j in range(i, i+3):
+                if unique_cards[j].num - unique_cards[j+1].num not in [1,-12]: # -12 checks for 2, A (where Ace has value 14).
+                    if unique_cards[j].num - unique_cards[j+1].num == 2:
+                        gutshot += 1
+                        straight_draw = False
+                    else:
+                        straight_draw = False
+                        gutshot = False
+                        break
+                    if gutshot > 1:
+                        gutshot = False
+                        break
+            if straight_draw:
+                return "Open-Ended Straight Draw"
+            if gutshot:
+                return "Gutshot Straight Draw"
+            i += 1
+    return None
+
+def find_flush_draw(cards):
+ # count the suits
+    suit_count = {}
+    for card in cards:
+        if card.suit in suit_count:
+            suit_count[card.suit] += 1
+        else:
+            suit_count[card.suit] = 1
+    max_suit = max(suit_count, key = suit_count.get)
+    max_count = suit_count[max_suit]
+
+    # if flush
+    if max_count == 3:
+        return "Backdoor Flush Draw"
+    if max_count == 4: 
+        return "Flush Draw"
+    return None
+

@@ -53,3 +53,9 @@ def test_case3():
 
 np.set_printoptions(linewidth=100)
 
+for i in range(1000):
+    deck = Deck(shuffle = True)
+    cards = deck.deal(6)
+    if 'Straight Draw' in classify_hand(cards):
+        print(cards)
+        print(classify_hand(cards))

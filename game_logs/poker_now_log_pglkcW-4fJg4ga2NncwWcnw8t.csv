@@ -1,0 +1,489 @@
+entry,at,order
+"The player ""AbV @ mq_vGB-Xu6"" quits the game with a stack of 8000.",2024-04-17T20:17:23.983Z,171338504398300
+"The player ""deech @ HCITKMF3z_"" quits the game with a stack of 0.",2024-04-17T20:11:29.906Z,171338468990600
+"-- ending hand #28 --",2024-04-17T20:11:23.869Z,171338468386901
+"""AbV @ mq_vGB-Xu6"" collected 40 from pot with Pair, 7's (combination: 7♥, 7♦, K♠, 10♦, 8♠)",2024-04-17T20:11:23.869Z,171338468386900
+"River: 5♠, 7♥, 8♠, K♠ [7♦]",2024-04-17T20:11:19.850Z,171338467985000
+"Turn: 5♠, 7♥, 8♠ [K♠]",2024-04-17T20:11:15.814Z,171338467581400
+"Flop:  [5♠, 7♥, 8♠]",2024-04-17T20:11:11.775Z,171338467177500
+"""AbV @ mq_vGB-Xu6"" shows a 10♦, 3♥.",2024-04-17T20:11:07.766Z,171338466776602
+"""deech @ HCITKMF3z_"" shows a 3♦, 6♦.",2024-04-17T20:11:07.766Z,171338466776601
+"Uncalled bet of 40 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:11:07.766Z,171338466776600
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:11:06.914Z,171338466691405
+"""deech @ HCITKMF3z_"" posts a small blind of 20 and go all in ",2024-04-17T20:11:06.914Z,171338466691404
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (20) | #2 ""AbV @ mq_vGB-Xu6"" (7980)",2024-04-17T20:11:06.914Z,171338466691401
+"-- starting hand #28 (id: v6wmyl4qb9zn)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:11:06.914Z,171338466691400
+"-- ending hand #27 --",2024-04-17T20:11:03.991Z,171338466399102
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:11:03.991Z,171338466399101
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:11:03.991Z,171338466399100
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:11:03.152Z,171338466315200
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:11:02.350Z,171338466235000
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:11:00.746Z,171338466074601
+"Flop:  [2♥, J♥, J♦]",2024-04-17T20:11:00.746Z,171338466074600
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:59.907Z,171338465990700
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:10:59.090Z,171338465909000
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:10:58.303Z,171338465830305
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:10:58.303Z,171338465830304
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (80) | #2 ""AbV @ mq_vGB-Xu6"" (7920)",2024-04-17T20:10:58.303Z,171338465830301
+"-- starting hand #27 (id: p3stg6a0o1fc)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:10:58.303Z,171338465830300
+"-- ending hand #26 --",2024-04-17T20:10:55.340Z,171338465534002
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:10:55.340Z,171338465534001
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:55.340Z,171338465534000
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:54.498Z,171338465449806
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:10:54.498Z,171338465449805
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:10:54.498Z,171338465449804
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (110) | #2 ""AbV @ mq_vGB-Xu6"" (7890)",2024-04-17T20:10:54.498Z,171338465449801
+"-- starting hand #26 (id: irnwgu5qmfkj)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:10:54.498Z,171338465449800
+"-- ending hand #25 --",2024-04-17T20:10:51.538Z,171338465153802
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:10:51.538Z,171338465153801
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:51.538Z,171338465153800
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:50.699Z,171338465069900
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:10:49.876Z,171338464987600
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:48.503Z,171338464850301
+"Flop:  [Q♠, 5♦, 4♣]",2024-04-17T20:10:48.503Z,171338464850300
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:47.693Z,171338464769300
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:10:46.823Z,171338464682300
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:10:46.017Z,171338464601705
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:10:46.017Z,171338464601704
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (170) | #2 ""AbV @ mq_vGB-Xu6"" (7830)",2024-04-17T20:10:46.017Z,171338464601701
+"-- starting hand #25 (id: qg1nubkjvoia)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:10:46.017Z,171338464601700
+"-- ending hand #24 --",2024-04-17T20:10:43.028Z,171338464302802
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:10:43.028Z,171338464302801
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:43.028Z,171338464302800
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:42.206Z,171338464220606
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:10:42.206Z,171338464220605
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:10:42.206Z,171338464220604
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (200) | #2 ""AbV @ mq_vGB-Xu6"" (7800)",2024-04-17T20:10:42.206Z,171338464220601
+"-- starting hand #24 (id: koeozmcsalqf)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:10:42.206Z,171338464220600
+"-- ending hand #23 --",2024-04-17T20:10:39.236Z,171338463923602
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:10:39.236Z,171338463923601
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:39.236Z,171338463923600
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:38.402Z,171338463840200
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:10:37.537Z,171338463753700
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:35.856Z,171338463585601
+"Flop:  [7♥, 3♦, 9♣]",2024-04-17T20:10:35.856Z,171338463585600
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:35.015Z,171338463501500
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:10:34.192Z,171338463419200
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:10:33.492Z,171338463349205
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:10:33.492Z,171338463349204
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (260) | #2 ""AbV @ mq_vGB-Xu6"" (7740)",2024-04-17T20:10:33.492Z,171338463349201
+"-- starting hand #23 (id: u5uxnrsyefvg)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:10:33.492Z,171338463349200
+"-- ending hand #22 --",2024-04-17T20:10:30.571Z,171338463057102
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:10:30.571Z,171338463057101
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:30.571Z,171338463057100
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:29.674Z,171338462967406
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:10:29.674Z,171338462967405
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:10:29.674Z,171338462967404
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (290) | #2 ""AbV @ mq_vGB-Xu6"" (7710)",2024-04-17T20:10:29.674Z,171338462967401
+"-- starting hand #22 (id: 4ha3qxvwox9n)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:10:29.674Z,171338462967400
+"-- ending hand #21 --",2024-04-17T20:10:26.750Z,171338462675002
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:10:26.750Z,171338462675001
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:26.750Z,171338462675000
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:25.927Z,171338462592700
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:10:25.112Z,171338462511200
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:23.350Z,171338462335001
+"Flop:  [A♥, 9♠, K♠]",2024-04-17T20:10:23.350Z,171338462335000
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:22.547Z,171338462254700
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:10:21.729Z,171338462172900
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:10:20.547Z,171338462054705
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:10:20.547Z,171338462054704
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (350) | #2 ""AbV @ mq_vGB-Xu6"" (7650)",2024-04-17T20:10:20.547Z,171338462054701
+"-- starting hand #21 (id: 3en73sigzn3n)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:10:20.547Z,171338462054700
+"-- ending hand #20 --",2024-04-17T20:10:17.639Z,171338461763902
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:10:17.639Z,171338461763901
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:17.639Z,171338461763900
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:16.826Z,171338461682606
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:10:16.826Z,171338461682605
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:10:16.826Z,171338461682604
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (380) | #2 ""AbV @ mq_vGB-Xu6"" (7620)",2024-04-17T20:10:16.826Z,171338461682601
+"-- starting hand #20 (id: zzmm46o5ldjw)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:10:16.826Z,171338461682600
+"-- ending hand #19 --",2024-04-17T20:10:13.871Z,171338461387102
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:10:13.871Z,171338461387101
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:13.871Z,171338461387100
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:13.017Z,171338461301700
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:10:12.206Z,171338461220600
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:10.729Z,171338461072901
+"Flop:  [Q♠, A♦, 6♣]",2024-04-17T20:10:10.729Z,171338461072900
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:10:09.926Z,171338460992600
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:10:09.076Z,171338460907600
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:10:07.924Z,171338460792405
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:10:07.924Z,171338460792404
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (440) | #2 ""AbV @ mq_vGB-Xu6"" (7560)",2024-04-17T20:10:07.924Z,171338460792401
+"-- starting hand #19 (id: 75vd55psm7lc)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:10:07.924Z,171338460792400
+"-- ending hand #18 --",2024-04-17T20:10:04.977Z,171338460497702
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:10:04.977Z,171338460497701
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:04.977Z,171338460497700
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:04.120Z,171338460412006
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:10:04.120Z,171338460412005
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:10:04.120Z,171338460412004
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (470) | #2 ""AbV @ mq_vGB-Xu6"" (7530)",2024-04-17T20:10:04.120Z,171338460412001
+"-- starting hand #18 (id: rdc1dfhvbnim)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:10:04.120Z,171338460412000
+"-- ending hand #17 --",2024-04-17T20:10:01.201Z,171338460120102
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:10:01.201Z,171338460120101
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:10:01.201Z,171338460120100
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:10:00.360Z,171338460036000
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:09:59.539Z,171338459953900
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:58.117Z,171338459811701
+"Flop:  [5♣, K♦, 6♠]",2024-04-17T20:09:58.117Z,171338459811700
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:57.246Z,171338459724600
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:09:56.419Z,171338459641900
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:09:55.916Z,171338459591605
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:09:55.916Z,171338459591604
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (530) | #2 ""AbV @ mq_vGB-Xu6"" (7470)",2024-04-17T20:09:55.916Z,171338459591601
+"-- starting hand #17 (id: e4v3gu0sh09x)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:09:55.916Z,171338459591600
+"-- ending hand #16 --",2024-04-17T20:09:52.977Z,171338459297702
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:09:52.977Z,171338459297701
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:52.977Z,171338459297700
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:52.155Z,171338459215506
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:09:52.155Z,171338459215505
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:09:52.155Z,171338459215504
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (560) | #2 ""AbV @ mq_vGB-Xu6"" (7440)",2024-04-17T20:09:52.155Z,171338459215501
+"-- starting hand #16 (id: alanlyiuwwjb)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:09:52.155Z,171338459215500
+"-- ending hand #15 --",2024-04-17T20:09:49.238Z,171338458923802
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:09:49.238Z,171338458923801
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:49.238Z,171338458923800
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:48.383Z,171338458838300
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:09:47.551Z,171338458755100
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:44.900Z,171338458490001
+"Flop:  [3♣, 9♣, A♦]",2024-04-17T20:09:44.900Z,171338458490000
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:44.036Z,171338458403600
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:09:43.173Z,171338458317300
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:09:42.343Z,171338458234305
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:09:42.343Z,171338458234304
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (620) | #2 ""AbV @ mq_vGB-Xu6"" (7380)",2024-04-17T20:09:42.343Z,171338458234301
+"-- starting hand #15 (id: gfor1ozpumuf)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:09:42.343Z,171338458234300
+"-- ending hand #14 --",2024-04-17T20:09:39.434Z,171338457943402
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:09:39.434Z,171338457943401
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:39.434Z,171338457943400
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:38.541Z,171338457854106
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:09:38.541Z,171338457854105
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:09:38.541Z,171338457854104
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (650) | #2 ""AbV @ mq_vGB-Xu6"" (7350)",2024-04-17T20:09:38.541Z,171338457854101
+"-- starting hand #14 (id: ejmlk9m9pk3v)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:09:38.541Z,171338457854100
+"-- ending hand #13 --",2024-04-17T20:09:35.629Z,171338457562902
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:09:35.629Z,171338457562901
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:35.629Z,171338457562900
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:34.736Z,171338457473600
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:09:33.925Z,171338457392500
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:31.428Z,171338457142801
+"Flop:  [5♣, 3♠, 9♠]",2024-04-17T20:09:31.428Z,171338457142800
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:30.538Z,171338457053800
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:09:29.703Z,171338456970300
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:09:26.833Z,171338456683305
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:09:26.833Z,171338456683304
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (710) | #2 ""AbV @ mq_vGB-Xu6"" (7290)",2024-04-17T20:09:26.833Z,171338456683301
+"-- starting hand #13 (id: os87cekvehej)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:09:26.833Z,171338456683300
+"-- ending hand #12 --",2024-04-17T20:09:23.863Z,171338456386302
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:09:23.863Z,171338456386301
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:23.863Z,171338456386300
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:23.041Z,171338456304106
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:09:23.041Z,171338456304105
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:09:23.041Z,171338456304104
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (740) | #2 ""AbV @ mq_vGB-Xu6"" (7260)",2024-04-17T20:09:23.041Z,171338456304101
+"-- starting hand #12 (id: gz16a3rycxbj)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:09:23.041Z,171338456304100
+"-- ending hand #11 --",2024-04-17T20:09:20.127Z,171338456012702
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot",2024-04-17T20:09:20.127Z,171338456012701
+"Uncalled bet of 60 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:20.127Z,171338456012700
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:19.261Z,171338455926100
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:09:18.429Z,171338455842900
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:12.008Z,171338455200801
+"Flop:  [8♠, 3♣, 10♦]",2024-04-17T20:09:12.008Z,171338455200800
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:09:11.135Z,171338455113500
+"""AbV @ mq_vGB-Xu6"" calls 60",2024-04-17T20:09:10.311Z,171338455031100
+"""deech @ HCITKMF3z_"" posts a big blind of 60",2024-04-17T20:09:06.855Z,171338454685505
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 30",2024-04-17T20:09:06.855Z,171338454685504
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (800) | #2 ""AbV @ mq_vGB-Xu6"" (7200)",2024-04-17T20:09:06.855Z,171338454685501
+"-- starting hand #11 (id: jgk0afbm2mei)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:09:06.855Z,171338454685500
+"-- ending hand #10 --",2024-04-17T20:09:03.917Z,171338454391702
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot",2024-04-17T20:09:03.917Z,171338454391701
+"Uncalled bet of 30 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:09:03.917Z,171338454391700
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:09:03.100Z,171338454310012
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 60",2024-04-17T20:09:03.100Z,171338454310011
+"""deech @ HCITKMF3z_"" posts a small blind of 30",2024-04-17T20:09:03.100Z,171338454310010
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (830) | #2 ""AbV @ mq_vGB-Xu6"" (7170)",2024-04-17T20:09:03.100Z,171338454310007
+"-- starting hand #10 (id: nzumldpngblh)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:09:03.100Z,171338454310006
+"The game's big blind was changed from 40 to 60.",2024-04-17T20:09:03.100Z,171338454310005
+"The game's small blind was changed from 20 to 30.",2024-04-17T20:09:03.100Z,171338454310004
+"The player ""curryboy @ uynbrdkMKB"" quits the game with a stack of 0.",2024-04-17T20:09:03.100Z,171338454310003
+"The player ""Kar7ik @ r21KDAgDzF"" quits the game with a stack of 0.",2024-04-17T20:09:03.100Z,171338454310002
+"The player ""innocentTSJ @ RHxf0rUXKn"" quits the game with a stack of 0.",2024-04-17T20:09:03.100Z,171338454310001
+"The player ""TritonSr @ 9FgAgrM_Rv"" quits the game with a stack of 0.",2024-04-17T20:09:03.100Z,171338454310000
+"-- ending hand #9 --",2024-04-17T20:08:57.085Z,171338453708504
+"""AbV @ mq_vGB-Xu6"" collected 800 from pot with Straight, 10 High (combination: 10♣, 9♠, 8♥, 7♣, 6♠)",2024-04-17T20:08:57.085Z,171338453708503
+"""AbV @ mq_vGB-Xu6"" collected 60 from pot with Straight, 10 High (combination: 10♣, 9♠, 8♥, 7♣, 6♠)",2024-04-17T20:08:57.085Z,171338453708502
+"""AbV @ mq_vGB-Xu6"" collected 1472 from pot with Straight, 10 High (combination: 10♣, 9♠, 8♥, 7♣, 6♠)",2024-04-17T20:08:57.085Z,171338453708501
+"""AbV @ mq_vGB-Xu6"" collected 1820 from pot with Straight, 10 High (combination: 10♣, 9♠, 8♥, 7♣, 6♠)",2024-04-17T20:08:57.085Z,171338453708500
+"River: 7♣, 9♠, 8♥, 10♣ [9♦]",2024-04-17T20:08:53.076Z,171338453307600
+"Turn: 7♣, 9♠, 8♥ [10♣]",2024-04-17T20:08:49.015Z,171338452901500
+"""Kar7ik @ r21KDAgDzF"" shows a Q♥, 5♥.",2024-04-17T20:08:44.967Z,171338452496704
+"""curryboy @ uynbrdkMKB"" shows a 2♣, 2♦.",2024-04-17T20:08:44.967Z,171338452496703
+"""TritonSr @ 9FgAgrM_Rv"" shows a Q♣, A♥.",2024-04-17T20:08:44.967Z,171338452496702
+"""innocentTSJ @ RHxf0rUXKn"" shows a A♠, K♠.",2024-04-17T20:08:44.967Z,171338452496701
+"""AbV @ mq_vGB-Xu6"" shows a 3♦, 6♠.",2024-04-17T20:08:44.967Z,171338452496700
+"""AbV @ mq_vGB-Xu6"" calls 400",2024-04-17T20:08:44.117Z,171338452411700
+"""curryboy @ uynbrdkMKB"" raises to 400 and go all in",2024-04-17T20:08:42.483Z,171338452248300
+"""AbV @ mq_vGB-Xu6"" bets 200",2024-04-17T20:08:39.081Z,171338451908100
+"Flop:  [7♣, 9♠, 8♥]",2024-04-17T20:08:32.284Z,171338451228400
+"""AbV @ mq_vGB-Xu6"" calls 748",2024-04-17T20:08:31.448Z,171338451144800
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:08:30.243Z,171338451024300
+"""Kar7ik @ r21KDAgDzF"" calls 360 and go all in",2024-04-17T20:08:29.420Z,171338450942000
+"""curryboy @ uynbrdkMKB"" calls 748",2024-04-17T20:08:27.644Z,171338450764400
+"""TritonSr @ 9FgAgrM_Rv"" calls 728 and go all in",2024-04-17T20:08:24.988Z,171338450498800
+"""innocentTSJ @ RHxf0rUXKn"" raises to 748 and go all in",2024-04-17T20:08:22.751Z,171338450275100
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 40",2024-04-17T20:08:14.322Z,171338449432209
+"""deech @ HCITKMF3z_"" posts a small blind of 20",2024-04-17T20:08:14.322Z,171338449432208
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (850) | #2 ""AbV @ mq_vGB-Xu6"" (4166) | #3 ""innocentTSJ @ RHxf0rUXKn"" (748) | #4 ""TritonSr @ 9FgAgrM_Rv"" (728) | #5 ""curryboy @ uynbrdkMKB"" (1148) | #8 ""Kar7ik @ r21KDAgDzF"" (360)",2024-04-17T20:08:14.322Z,171338449432201
+"-- starting hand #9 (id: bds5mpjesepe)  (No Limit Texas Hold'em) (dealer: ""Kar7ik @ r21KDAgDzF"") --",2024-04-17T20:08:14.322Z,171338449432200
+"-- ending hand #8 --",2024-04-17T20:08:11.356Z,171338449135602
+"""AbV @ mq_vGB-Xu6"" collected 380 from pot",2024-04-17T20:08:11.356Z,171338449135601
+"Uncalled bet of 160 returned to ""AbV @ mq_vGB-Xu6""",2024-04-17T20:08:11.356Z,171338449135600
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T20:08:10.533Z,171338449053300
+"""AbV @ mq_vGB-Xu6"" bets 160",2024-04-17T20:08:08.743Z,171338448874300
+"River: 4♦, 7♣, 8♥, 10♦ [2♠]",2024-04-17T20:08:04.717Z,171338448471700
+"""TritonSr @ 9FgAgrM_Rv"" calls 80",2024-04-17T20:08:03.870Z,171338448387000
+"""AbV @ mq_vGB-Xu6"" bets 80",2024-04-17T20:08:02.223Z,171338448222300
+"Turn: 4♦, 7♣, 8♥ [10♦]",2024-04-17T20:07:58.135Z,171338447813500
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:07:57.307Z,171338447730700
+"""TritonSr @ 9FgAgrM_Rv"" calls 40",2024-04-17T20:07:56.469Z,171338447646900
+"""AbV @ mq_vGB-Xu6"" bets 40",2024-04-17T20:07:54.657Z,171338447465700
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:07:52.829Z,171338447282900
+"Flop:  [4♦, 7♣, 8♥]",2024-04-17T20:07:37.805Z,171338445780500
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:07:36.945Z,171338445694500
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:07:36.096Z,171338445609600
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T20:07:34.551Z,171338445455100
+"""TritonSr @ 9FgAgrM_Rv"" calls 40",2024-04-17T20:07:33.632Z,171338445363200
+"""innocentTSJ @ RHxf0rUXKn"" folds",2024-04-17T20:07:28.613Z,171338444861300
+"""AbV @ mq_vGB-Xu6"" calls 40",2024-04-17T20:07:25.819Z,171338444581900
+"""deech @ HCITKMF3z_"" posts a big blind of 40",2024-04-17T20:07:12.902Z,171338443290209
+"""Kar7ik @ r21KDAgDzF"" posts a small blind of 20",2024-04-17T20:07:12.902Z,171338443290208
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (890) | #2 ""AbV @ mq_vGB-Xu6"" (3946) | #3 ""innocentTSJ @ RHxf0rUXKn"" (748) | #4 ""TritonSr @ 9FgAgrM_Rv"" (888) | #5 ""curryboy @ uynbrdkMKB"" (1148) | #8 ""Kar7ik @ r21KDAgDzF"" (380)",2024-04-17T20:07:12.902Z,171338443290201
+"-- starting hand #8 (id: hxumhmnhvlhn)  (No Limit Texas Hold'em) (dealer: ""curryboy @ uynbrdkMKB"") --",2024-04-17T20:07:12.902Z,171338443290200
+"""Kar7ik @ r21KDAgDzF"" shows a 5♠, 4♦.",2024-04-17T20:07:08.020Z,171338442802000
+"-- ending hand #7 --",2024-04-17T20:07:06.299Z,171338442629903
+"""innocentTSJ @ RHxf0rUXKn"" shows a 8♣, 6♠.",2024-04-17T20:07:06.299Z,171338442629902
+"""AbV @ mq_vGB-Xu6"" collected 3000 from pot with Two Pair, A's & 3's (combination: A♣, A♦, 3♠, 3♥, 7♦)",2024-04-17T20:07:06.299Z,171338442629901
+"""AbV @ mq_vGB-Xu6"" shows a 2♦, A♣.",2024-04-17T20:07:06.299Z,171338442629900
+"""AbV @ mq_vGB-Xu6"" calls 900",2024-04-17T20:07:05.430Z,171338442543000
+"""innocentTSJ @ RHxf0rUXKn"" bets 900",2024-04-17T20:07:03.526Z,171338442352600
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:07:00.875Z,171338442087500
+"River: 3♠, 3♥, 7♦, A♦ [5♣]",2024-04-17T20:06:55.669Z,171338441566900
+"""AbV @ mq_vGB-Xu6"" calls 420",2024-04-17T20:06:54.781Z,171338441478100
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:06:49.186Z,171338440918600
+"""innocentTSJ @ RHxf0rUXKn"" raises to 420",2024-04-17T20:06:48.034Z,171338440803400
+"""AbV @ mq_vGB-Xu6"" bets 120",2024-04-17T20:06:41.848Z,171338440184800
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T20:06:38.188Z,171338439818800
+"Turn: 3♠, 3♥, 7♦ [A♦]",2024-04-17T20:06:34.503Z,171338439450300
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:06:33.671Z,171338439367100
+"""Kar7ik @ r21KDAgDzF"" calls 40",2024-04-17T20:06:32.815Z,171338439281500
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T20:06:30.688Z,171338439068800
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T20:06:29.842Z,171338438984200
+"""innocentTSJ @ RHxf0rUXKn"" calls 40",2024-04-17T20:06:19.028Z,171338437902800
+"""AbV @ mq_vGB-Xu6"" bets 40",2024-04-17T20:06:16.630Z,171338437663000
+"""deech @ HCITKMF3z_"" checks",2024-04-17T20:06:14.028Z,171338437402800
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T20:06:13.055Z,171338437305500
+"""curryboy @ uynbrdkMKB"" checks",2024-04-17T20:06:11.275Z,171338437127500
+"Flop:  [3♠, 3♥, 7♦]",2024-04-17T20:06:00.974Z,171338436097400
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T20:06:00.098Z,171338436009800
+"""curryboy @ uynbrdkMKB"" calls 40",2024-04-17T20:05:58.085Z,171338435808500
+"""TritonSr @ 9FgAgrM_Rv"" calls 40",2024-04-17T20:05:57.152Z,171338435715200
+"""innocentTSJ @ RHxf0rUXKn"" calls 40",2024-04-17T20:05:56.012Z,171338435601200
+"""AbV @ mq_vGB-Xu6"" calls 40",2024-04-17T20:05:51.061Z,171338435106100
+"""deech @ HCITKMF3z_"" calls 40",2024-04-17T20:05:50.155Z,171338435015500
+"""Kar7ik @ r21KDAgDzF"" posts a big blind of 40",2024-04-17T20:05:48.996Z,171338434899609
+"""curryboy @ uynbrdkMKB"" posts a small blind of 20",2024-04-17T20:05:48.996Z,171338434899608
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (930) | #2 ""AbV @ mq_vGB-Xu6"" (2346) | #3 ""innocentTSJ @ RHxf0rUXKn"" (2148) | #4 ""TritonSr @ 9FgAgrM_Rv"" (928) | #5 ""curryboy @ uynbrdkMKB"" (1188) | #8 ""Kar7ik @ r21KDAgDzF"" (460)",2024-04-17T20:05:48.996Z,171338434899601
+"-- starting hand #7 (id: 1bmowcsvomux)  (No Limit Texas Hold'em) (dealer: ""TritonSr @ 9FgAgrM_Rv"") --",2024-04-17T20:05:48.996Z,171338434899600
+"""TritonSr @ 9FgAgrM_Rv"" shows a 5♠, 2♦.",2024-04-17T20:05:47.732Z,171338434773200
+"""AbV @ mq_vGB-Xu6"" shows a 3♥, K♣.",2024-04-17T20:05:46.921Z,171338434692100
+"-- ending hand #6 --",2024-04-17T20:05:44.673Z,171338434467302
+"""curryboy @ uynbrdkMKB"" collected 600 from pot",2024-04-17T20:05:44.673Z,171338434467301
+"Uncalled bet of 450 returned to ""curryboy @ uynbrdkMKB""",2024-04-17T20:05:44.673Z,171338434467300
+"""innocentTSJ @ RHxf0rUXKn"" folds",2024-04-17T20:05:43.861Z,171338434386100
+"""curryboy @ uynbrdkMKB"" bets 450",2024-04-17T20:05:40.716Z,171338434071600
+"Flop:  [5♣, 5♦, 3♠]",2024-04-17T20:05:34.862Z,171338433486200
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T20:05:34.012Z,171338433401200
+"""innocentTSJ @ RHxf0rUXKn"" calls 240",2024-04-17T20:05:32.809Z,171338433280900
+"""AbV @ mq_vGB-Xu6"" folds",2024-04-17T20:05:29.292Z,171338432929200
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:05:28.315Z,171338432831500
+"""curryboy @ uynbrdkMKB"" raises to 240",2024-04-17T20:05:26.399Z,171338432639900
+"""TritonSr @ 9FgAgrM_Rv"" calls 40",2024-04-17T20:05:14.940Z,171338431494000
+"""innocentTSJ @ RHxf0rUXKn"" calls 40",2024-04-17T20:05:13.368Z,171338431336800
+"""AbV @ mq_vGB-Xu6"" calls 40",2024-04-17T20:05:02.582Z,171338430258200
+"""deech @ HCITKMF3z_"" calls 40",2024-04-17T20:05:01.657Z,171338430165700
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:04:46.807Z,171338428680700
+"""curryboy @ uynbrdkMKB"" posts a big blind of 40",2024-04-17T20:04:41.177Z,171338428117709
+"""TritonSr @ 9FgAgrM_Rv"" posts a small blind of 20",2024-04-17T20:04:41.177Z,171338428117708
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (970) | #2 ""AbV @ mq_vGB-Xu6"" (2386) | #3 ""innocentTSJ @ RHxf0rUXKn"" (2388) | #4 ""TritonSr @ 9FgAgrM_Rv"" (968) | #5 ""curryboy @ uynbrdkMKB"" (828) | #8 ""Kar7ik @ r21KDAgDzF"" (460)",2024-04-17T20:04:41.177Z,171338428117701
+"-- starting hand #6 (id: 9amo8ijd2ltm)  (No Limit Texas Hold'em) (dealer: ""innocentTSJ @ RHxf0rUXKn"") --",2024-04-17T20:04:41.177Z,171338428117700
+"""curryboy @ uynbrdkMKB"" shows a 5♥, 6♠.",2024-04-17T20:04:37.498Z,171338427749800
+"-- ending hand #5 --",2024-04-17T20:04:34.653Z,171338427465302
+"""TritonSr @ 9FgAgrM_Rv"" collected 100 from pot with Pair, A's (combination: A♥, A♦, K♦, 10♦, 8♠)",2024-04-17T20:04:34.653Z,171338427465301
+"""TritonSr @ 9FgAgrM_Rv"" shows a K♦, 7♥.",2024-04-17T20:04:34.653Z,171338427465300
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:04:33.802Z,171338427380200
+"""TritonSr @ 9FgAgrM_Rv"" checks",2024-04-17T20:04:30.922Z,171338427092200
+"River: A♥, 6♥, 8♠, 10♦ [A♦]",2024-04-17T20:04:26.825Z,171338426682500
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:04:26.015Z,171338426601500
+"""TritonSr @ 9FgAgrM_Rv"" checks",2024-04-17T20:04:16.341Z,171338425634100
+"Turn: A♥, 6♥, 8♠ [10♦]",2024-04-17T20:04:12.266Z,171338425226600
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:04:11.425Z,171338425142500
+"""TritonSr @ 9FgAgrM_Rv"" checks",2024-04-17T20:04:05.942Z,171338424594200
+"Flop:  [A♥, 6♥, 8♠]",2024-04-17T20:04:00.790Z,171338424079000
+"""TritonSr @ 9FgAgrM_Rv"" checks",2024-04-17T20:03:59.968Z,171338423996800
+"""innocentTSJ @ RHxf0rUXKn"" folds",2024-04-17T20:03:58.686Z,171338423868600
+"""AbV @ mq_vGB-Xu6"" calls 40",2024-04-17T20:03:54.828Z,171338423482800
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:03:48.525Z,171338422852500
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:03:47.503Z,171338422750300
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T20:03:46.166Z,171338422616600
+"""TritonSr @ 9FgAgrM_Rv"" posts a big blind of 40",2024-04-17T20:03:42.947Z,171338422294711
+"""innocentTSJ @ RHxf0rUXKn"" posts a small blind of 20",2024-04-17T20:03:42.947Z,171338422294710
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (970) | #2 ""AbV @ mq_vGB-Xu6"" (2426) | #3 ""innocentTSJ @ RHxf0rUXKn"" (2408) | #4 ""TritonSr @ 9FgAgrM_Rv"" (908) | #5 ""curryboy @ uynbrdkMKB"" (828) | #8 ""Kar7ik @ r21KDAgDzF"" (460)",2024-04-17T20:03:42.947Z,171338422294703
+"-- starting hand #5 (id: ak2wugqr6nxl)  (No Limit Texas Hold'em) (dealer: ""AbV @ mq_vGB-Xu6"") --",2024-04-17T20:03:42.947Z,171338422294702
+"The game's big blind was changed from 20 to 40.",2024-04-17T20:03:42.947Z,171338422294701
+"The game's small blind was changed from 10 to 20.",2024-04-17T20:03:42.947Z,171338422294700
+"""innocentTSJ @ RHxf0rUXKn"" shows a 4♦, A♥.",2024-04-17T20:03:37.437Z,171338421743700
+"-- ending hand #4 --",2024-04-17T20:03:36.349Z,171338421634902
+"""AbV @ mq_vGB-Xu6"" collected 1648 from pot with Straight, 8 High (combination: 8♣, 7♠, 6♠, 5♣, 4♣)",2024-04-17T20:03:36.349Z,171338421634901
+"""AbV @ mq_vGB-Xu6"" shows a 6♠, 5♣.",2024-04-17T20:03:36.349Z,171338421634900
+"""innocentTSJ @ RHxf0rUXKn"" calls 400",2024-04-17T20:03:35.516Z,171338421551600
+"""AbV @ mq_vGB-Xu6"" bets 400",2024-04-17T20:03:32.227Z,171338421222700
+"River: 6♣, 7♠, 4♣, 4♥ [8♣]",2024-04-17T20:03:23.113Z,171338420311300
+"""AbV @ mq_vGB-Xu6"" calls 190",2024-04-17T20:03:22.199Z,171338420219900
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T20:03:20.694Z,171338420069400
+"""innocentTSJ @ RHxf0rUXKn"" bets 190",2024-04-17T20:03:16.455Z,171338419645500
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:03:03.573Z,171338418357300
+"Turn: 6♣, 7♠, 4♣ [4♥]",2024-04-17T20:02:53.054Z,171338417305400
+"""curryboy @ uynbrdkMKB"" calls 60",2024-04-17T20:02:52.182Z,171338417218200
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T20:02:43.783Z,171338416378300
+"""innocentTSJ @ RHxf0rUXKn"" calls 60",2024-04-17T20:02:31.715Z,171338415171500
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T20:02:29.909Z,171338414990900
+"Flop:  [6♣, 7♠, 4♣]",2024-04-17T20:02:21.591Z,171338414159100
+"""TritonSr @ 9FgAgrM_Rv"" calls 72",2024-04-17T20:02:20.755Z,171338414075500
+"""innocentTSJ @ RHxf0rUXKn"" calls 72",2024-04-17T20:02:19.536Z,171338413953600
+"""AbV @ mq_vGB-Xu6"" calls 72",2024-04-17T20:02:17.353Z,171338413735300
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:02:15.165Z,171338413516500
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:02:14.329Z,171338413432900
+"""curryboy @ uynbrdkMKB"" raises to 72",2024-04-17T20:02:13.159Z,171338413315900
+"""TritonSr @ 9FgAgrM_Rv"" calls 20",2024-04-17T20:02:07.653Z,171338412765300
+"""innocentTSJ @ RHxf0rUXKn"" posts a big blind of 20",2024-04-17T20:01:56.796Z,171338411679611
+"""AbV @ mq_vGB-Xu6"" posts a small blind of 10",2024-04-17T20:01:56.796Z,171338411679610
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (970) | #2 ""AbV @ mq_vGB-Xu6"" (1500) | #3 ""innocentTSJ @ RHxf0rUXKn"" (3130) | #4 ""TritonSr @ 9FgAgrM_Rv"" (980) | #5 ""curryboy @ uynbrdkMKB"" (960) | #8 ""Kar7ik @ r21KDAgDzF"" (460)",2024-04-17T20:01:56.796Z,171338411679603
+"-- starting hand #4 (id: igd8mtrsvy6l)  (No Limit Texas Hold'em) (dealer: ""deech @ HCITKMF3z_"") --",2024-04-17T20:01:56.796Z,171338411679602
+"The player ""BeeWest @ lseGrHWTGg"" quits the game with a stack of 0.",2024-04-17T20:01:56.796Z,171338411679601
+"The player ""BryceEYC @ -phKFoTJPD"" quits the game with a stack of 0.",2024-04-17T20:01:56.796Z,171338411679600
+"""curryboy @ uynbrdkMKB"" shows a 4♦, 7♠.",2024-04-17T20:01:53.480Z,171338411348000
+"-- ending hand #3 --",2024-04-17T20:01:50.264Z,171338411026403
+"""AbV @ mq_vGB-Xu6"" collected 960 from pot with Two Pair, 10's & 5's (combination: 10♦, 10♠, 5♦, 5♣, 6♣)",2024-04-17T20:01:50.264Z,171338411026402
+"""AbV @ mq_vGB-Xu6"" collected 120 from pot with Two Pair, 10's & 5's (combination: 10♦, 10♠, 5♦, 5♣, 6♣)",2024-04-17T20:01:50.264Z,171338411026401
+"""innocentTSJ @ RHxf0rUXKn"" collected 3130 from pot with Straight, 6 High (combination: 6♣, 5♣, 4♥, 3♥, 2♥)",2024-04-17T20:01:50.264Z,171338411026400
+"River: 6♣, 3♥, 10♠, 2♣ [5♣]",2024-04-17T20:01:46.251Z,171338410625100
+"""BryceEYC @ -phKFoTJPD"" shows a A♥, A♣.",2024-04-17T20:01:42.196Z,171338410219603
+"""BeeWest @ lseGrHWTGg"" shows a K♦, 10♣.",2024-04-17T20:01:42.196Z,171338410219602
+"""innocentTSJ @ RHxf0rUXKn"" shows a 4♥, 2♥.",2024-04-17T20:01:42.196Z,171338410219601
+"""AbV @ mq_vGB-Xu6"" shows a 5♦, 10♦.",2024-04-17T20:01:42.196Z,171338410219600
+"""AbV @ mq_vGB-Xu6"" calls 369",2024-04-17T20:01:41.376Z,171338410137600
+"""BeeWest @ lseGrHWTGg"" bets 369 and go all in",2024-04-17T20:01:39.138Z,171338409913800
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T20:01:29.660Z,171338408966000
+"Turn: 6♣, 3♥, 10♠ [2♣]",2024-04-17T20:01:26.975Z,171338408697500
+"""innocentTSJ @ RHxf0rUXKn"" calls 670 and go all in",2024-04-17T20:01:26.154Z,171338408615400
+"""AbV @ mq_vGB-Xu6"" calls 821",2024-04-17T20:01:22.124Z,171338408212400
+"""BryceEYC @ -phKFoTJPD"" calls 710 and go all in",2024-04-17T20:01:18.724Z,171338407872400
+"""BeeWest @ lseGrHWTGg"" raises to 821",2024-04-17T20:01:17.743Z,171338407774300
+"""innocentTSJ @ RHxf0rUXKn"" calls 200",2024-04-17T20:01:05.159Z,171338406515900
+"""AbV @ mq_vGB-Xu6"" bets 200",2024-04-17T20:01:03.607Z,171338406360700
+"Flop:  [6♣, 3♥, 10♠]",2024-04-17T20:00:54.590Z,171338405459000
+"""BeeWest @ lseGrHWTGg"" calls 110",2024-04-17T20:00:53.752Z,171338405375200
+"""innocentTSJ @ RHxf0rUXKn"" calls 110",2024-04-17T20:00:52.547Z,171338405254700
+"""AbV @ mq_vGB-Xu6"" calls 110",2024-04-17T20:00:44.533Z,171338404453300
+"""deech @ HCITKMF3z_"" folds",2024-04-17T20:00:43.288Z,171338404328800
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T20:00:42.372Z,171338404237200
+"""BryceEYC @ -phKFoTJPD"" raises to 110",2024-04-17T20:00:41.196Z,171338404119600
+"""BeeWest @ lseGrHWTGg"" calls 20",2024-04-17T20:00:35.792Z,171338403579200
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T20:00:33.274Z,171338403327400
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T20:00:32.366Z,171338403236600
+"""innocentTSJ @ RHxf0rUXKn"" calls 20",2024-04-17T20:00:30.952Z,171338403095200
+"""AbV @ mq_vGB-Xu6"" posts a big blind of 20",2024-04-17T20:00:28.843Z,171338402884311
+"""deech @ HCITKMF3z_"" posts a small blind of 10",2024-04-17T20:00:28.843Z,171338402884310
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (980) | #2 ""AbV @ mq_vGB-Xu6"" (1720) | #3 ""innocentTSJ @ RHxf0rUXKn"" (780) | #4 ""TritonSr @ 9FgAgrM_Rv"" (980) | #5 ""curryboy @ uynbrdkMKB"" (960) | #6 ""BeeWest @ lseGrHWTGg"" (1300) | #7 ""BryceEYC @ -phKFoTJPD"" (820) | #8 ""Kar7ik @ r21KDAgDzF"" (460)",2024-04-17T20:00:28.843Z,171338402884301
+"-- starting hand #3 (id: es2i5p7ct7di)  (No Limit Texas Hold'em) (dealer: ""Kar7ik @ r21KDAgDzF"") --",2024-04-17T20:00:28.843Z,171338402884300
+"""innocentTSJ @ RHxf0rUXKn"" shows a 2♦, 7♦.",2024-04-17T20:00:22.852Z,171338402285200
+"-- ending hand #2 --",2024-04-17T20:00:22.336Z,171338402233602
+"""AbV @ mq_vGB-Xu6"" collected 1420 from pot with Pair, A's (combination: A♣, A♦, K♦, 6♠, 5♥)",2024-04-17T20:00:22.336Z,171338402233601
+"""AbV @ mq_vGB-Xu6"" shows a A♣, 4♠.",2024-04-17T20:00:22.336Z,171338402233600
+"""Kar7ik @ r21KDAgDzF"" calls 300",2024-04-17T20:00:21.489Z,171338402148900
+"""innocentTSJ @ RHxf0rUXKn"" folds",2024-04-17T20:00:16.026Z,171338401602600
+"""AbV @ mq_vGB-Xu6"" bets 300",2024-04-17T20:00:14.670Z,171338401467000
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T20:00:10.818Z,171338401081800
+"River: 5♥, A♦, K♦, 3♣ [6♠]",2024-04-17T20:00:08.909Z,171338400890900
+"""AbV @ mq_vGB-Xu6"" calls 140",2024-04-17T20:00:08.079Z,171338400807900
+"""Kar7ik @ r21KDAgDzF"" calls 140",2024-04-17T20:00:06.854Z,171338400685400
+"""BryceEYC @ -phKFoTJPD"" folds",2024-04-17T20:00:03.984Z,171338400398400
+"""innocentTSJ @ RHxf0rUXKn"" raises to 140",2024-04-17T19:59:57.983Z,171338399798300
+"""AbV @ mq_vGB-Xu6"" raises to 80",2024-04-17T19:59:53.776Z,171338399377600
+"""Kar7ik @ r21KDAgDzF"" calls 20",2024-04-17T19:59:50.191Z,171338399019100
+"""BryceEYC @ -phKFoTJPD"" calls 20",2024-04-17T19:59:49.018Z,171338398901800
+"""innocentTSJ @ RHxf0rUXKn"" bets 20",2024-04-17T19:59:46.451Z,171338398645100
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T19:59:43.817Z,171338398381700
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T19:59:42.741Z,171338398274100
+"Turn: 5♥, A♦, K♦ [3♣]",2024-04-17T19:59:34.341Z,171338397434100
+"""deech @ HCITKMF3z_"" folds",2024-04-17T19:59:33.482Z,171338397348200
+"""Kar7ik @ r21KDAgDzF"" calls 60",2024-04-17T19:59:32.563Z,171338397256300
+"""BryceEYC @ -phKFoTJPD"" calls 60",2024-04-17T19:59:31.402Z,171338397140200
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T19:59:19.137Z,171338395913700
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T19:59:18.152Z,171338395815200
+"""innocentTSJ @ RHxf0rUXKn"" calls 60",2024-04-17T19:59:16.900Z,171338395690000
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T19:59:14.376Z,171338395437600
+"""deech @ HCITKMF3z_"" checks",2024-04-17T19:59:07.934Z,171338394793400
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T19:59:07.078Z,171338394707800
+"Flop:  [5♥, A♦, K♦]",2024-04-17T19:59:02.909Z,171338394290900
+"""deech @ HCITKMF3z_"" checks",2024-04-17T19:59:02.095Z,171338394209500
+"""Kar7ik @ r21KDAgDzF"" calls 20",2024-04-17T19:59:00.247Z,171338394024700
+"""BryceEYC @ -phKFoTJPD"" calls 20",2024-04-17T19:58:58.966Z,171338393896600
+"""BeeWest @ lseGrHWTGg"" folds",2024-04-17T19:58:58.084Z,171338393808400
+"""curryboy @ uynbrdkMKB"" calls 20",2024-04-17T19:58:57.114Z,171338393711400
+"""TritonSr @ 9FgAgrM_Rv"" calls 20",2024-04-17T19:58:56.133Z,171338393613300
+"""innocentTSJ @ RHxf0rUXKn"" calls 20",2024-04-17T19:58:54.873Z,171338393487300
+"""AbV @ mq_vGB-Xu6"" calls 20",2024-04-17T19:58:51.366Z,171338393136600
+"""deech @ HCITKMF3z_"" posts a big blind of 20",2024-04-17T19:58:49.600Z,171338392960011
+"""Kar7ik @ r21KDAgDzF"" posts a small blind of 10",2024-04-17T19:58:49.600Z,171338392960010
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (1000) | #2 ""AbV @ mq_vGB-Xu6"" (820) | #3 ""innocentTSJ @ RHxf0rUXKn"" (1000) | #4 ""TritonSr @ 9FgAgrM_Rv"" (1000) | #5 ""curryboy @ uynbrdkMKB"" (980) | #6 ""BeeWest @ lseGrHWTGg"" (1300) | #7 ""BryceEYC @ -phKFoTJPD"" (920) | #8 ""Kar7ik @ r21KDAgDzF"" (980)",2024-04-17T19:58:49.600Z,171338392960001
+"-- starting hand #2 (id: dzujrxth9fjd)  (No Limit Texas Hold'em) (dealer: ""BryceEYC @ -phKFoTJPD"") --",2024-04-17T19:58:49.600Z,171338392960000
+"-- ending hand #1 --",2024-04-17T19:58:43.593Z,171338392359303
+"""AbV @ mq_vGB-Xu6"" shows a 5♣, A♥.",2024-04-17T19:58:43.593Z,171338392359302
+"""BeeWest @ lseGrHWTGg"" collected 480 from pot with Pair, J's (combination: J♠, J♣, K♦, 10♠, 6♦)",2024-04-17T19:58:43.593Z,171338392359301
+"""BeeWest @ lseGrHWTGg"" shows a J♠, K♦.",2024-04-17T19:58:43.593Z,171338392359300
+"""BeeWest @ lseGrHWTGg"" checks",2024-04-17T19:58:42.706Z,171338392270600
+"""AbV @ mq_vGB-Xu6"" checks",2024-04-17T19:58:40.338Z,171338392033800
+"River: 5♦, 2♦, 6♦, J♣ [10♠]",2024-04-17T19:58:37.381Z,171338391738100
+"""BryceEYC @ -phKFoTJPD"" folds",2024-04-17T19:58:36.483Z,171338391648300
+"""BeeWest @ lseGrHWTGg"" calls 100",2024-04-17T19:58:35.660Z,171338391566000
+"""AbV @ mq_vGB-Xu6"" bets 100",2024-04-17T19:58:33.520Z,171338391352000
+"""BryceEYC @ -phKFoTJPD"" checks",2024-04-17T19:58:28.067Z,171338390806700
+"Turn: 5♦, 2♦, 6♦ [J♣]",2024-04-17T19:58:13.050Z,171338389305000
+"""Kar7ik @ r21KDAgDzF"" folds",2024-04-17T19:58:12.224Z,171338389222400
+"""BryceEYC @ -phKFoTJPD"" calls 60",2024-04-17T19:58:11.006Z,171338389100600
+"""BeeWest @ lseGrHWTGg"" calls 60",2024-04-17T19:58:10.083Z,171338389008300
+"""curryboy @ uynbrdkMKB"" folds",2024-04-17T19:58:06.016Z,171338388601600
+"""AbV @ mq_vGB-Xu6"" bets 60",2024-04-17T19:58:05.131Z,171338388513100
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T19:58:01.239Z,171338388123900
+"""BryceEYC @ -phKFoTJPD"" checks",2024-04-17T19:57:59.293Z,171338387929300
+"Flop:  [5♦, 2♦, 6♦]",2024-04-17T19:57:52.421Z,171338387242100
+"""Kar7ik @ r21KDAgDzF"" checks",2024-04-17T19:57:51.594Z,171338387159400
+"""BryceEYC @ -phKFoTJPD"" calls 20",2024-04-17T19:57:50.365Z,171338387036500
+"""BeeWest @ lseGrHWTGg"" calls 20",2024-04-17T19:57:49.478Z,171338386947800
+"""curryboy @ uynbrdkMKB"" calls 20",2024-04-17T19:57:46.092Z,171338386609200
+"""TritonSr @ 9FgAgrM_Rv"" folds",2024-04-17T19:57:45.202Z,171338386520200
+"""innocentTSJ @ RHxf0rUXKn"" folds",2024-04-17T19:57:44.003Z,171338386400300
+"""AbV @ mq_vGB-Xu6"" calls 20",2024-04-17T19:57:28.143Z,171338384814300
+"""deech @ HCITKMF3z_"" folds",2024-04-17T19:57:19.565Z,171338383956500
+"""Kar7ik @ r21KDAgDzF"" posts a big blind of 20",2024-04-17T19:57:17.752Z,171338383775219
+"""BryceEYC @ -phKFoTJPD"" posts a small blind of 10",2024-04-17T19:57:17.752Z,171338383775218
+"Player stacks: #1 ""deech @ HCITKMF3z_"" (1000) | #2 ""AbV @ mq_vGB-Xu6"" (1000) | #3 ""innocentTSJ @ RHxf0rUXKn"" (1000) | #4 ""TritonSr @ 9FgAgrM_Rv"" (1000) | #5 ""curryboy @ uynbrdkMKB"" (1000) | #6 ""BeeWest @ lseGrHWTGg"" (1000) | #7 ""BryceEYC @ -phKFoTJPD"" (1000) | #8 ""Kar7ik @ r21KDAgDzF"" (1000)",2024-04-17T19:57:17.752Z,171338383775209
+"The player ""Kar7ik @ r21KDAgDzF"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775208
+"The player ""BryceEYC @ -phKFoTJPD"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775207
+"The player ""BeeWest @ lseGrHWTGg"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775206
+"The player ""curryboy @ uynbrdkMKB"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775205
+"The player ""TritonSr @ 9FgAgrM_Rv"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775204
+"The player ""innocentTSJ @ RHxf0rUXKn"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775203
+"The player ""AbV @ mq_vGB-Xu6"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775202
+"The player ""deech @ HCITKMF3z_"" joined the game with a stack of 1000.",2024-04-17T19:57:17.752Z,171338383775201
+"-- starting hand #1 (id: 8crwkkxbgvys)  (No Limit Texas Hold'em) (dealer: ""BeeWest @ lseGrHWTGg"") --",2024-04-17T19:57:17.752Z,171338383775200

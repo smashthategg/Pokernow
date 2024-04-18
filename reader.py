@@ -17,7 +17,7 @@ class Reader():
     # Assign "global" variables
     def __init__(self, you = "smashthategg"):
         self.players_in_hand = []
-        self.bb = 0
+        self.bb = 20
         self.you = you
         self.curr_player = ""
         self.csv = ""
@@ -86,7 +86,7 @@ class Reader():
                 index += 1
 
             self.players_in_hand = re.findall(r'"(.*?)"', self.log[index])
-            stacks = re.findall(r'\((.*?)\)', self.log[index])
+            stacks = re.findall(r'\((\d+)\)', self.log[index])
             for name in self.players_in_hand:
                 if name not in self.players:
                     # Initialize the key-value pair in players if player has not been added yet.
@@ -129,19 +129,29 @@ class Reader():
 
             # Record the current blind level
             dead_sb = False
-            if 'posts a big blind' in self.log[index]:
-                self.bb = int(self.log[index].split()[-1])
-                self.players[self.update_curr_player(self.log[index])]['net'][-1] -= 1
-            else:
-                if self.log[index] == 'Dead Small Blind':
-                    positions.remove('SB')
-                    dead_sb = True
+            if self.log[index] == 'Dead Small Blind':
+                positions.remove('SB')
+                dead_sb = True
+            else: # on the posts a small blind line
+                sbplayer = self.update_curr_player(self.log[index])
+                if 'and go all in' in self.log[index]:
+                    self.log[index] = self.log[index][:-14]
+                    tempsb = int(self.log[index].split()[-1])
+                    self.players[sbplayer]['net'][-1] -= round(tempsb/self.bb, 1)
+                    self.players[sbplayer]['blinds'].append((self.bb//2, self.bb))
+                    self.players_in_hand.remove(sbplayer)
                 else:
-                    self.players[self.update_curr_player(self.log[index])]['net'][-1] -= 0.5
-                index += 1
-                self.bb = int(self.log[index].split()[-1])
-                
-                self.players[self.update_curr_player(self.log[index])]['net'][-1] -= 1
+                    self.players[sbplayer]['net'][-1] -= 0.5
+            index += 1 # now on the posts a big blind line
+            bbplayer = self.update_curr_player(self.log[index])
+            if 'and go all in' in self.log[index]:
+                self.log[index] = self.log[index][:-14]
+                tempbb = int(self.log[index].split()[-1])
+                self.players[bbplayer]['net'][-1] -= round(tempbb/self.bb, 1)
+                self.players[bbplayer]['blinds'].append((self.bb//2, self.bb))
+                self.players_in_hand.remove(bbplayer)
+            else:
+                self.players[bbplayer]['net'][-1] -= 1
             for name in self.players_in_hand:
                 self.players[name]['blinds'].append((self.bb//2, self.bb))
             index += 1
@@ -193,6 +203,8 @@ class Reader():
                     self.players[name]['showdown'][-1] = True
             # Skip over lines until reader arrives at next hand
             while index < len(self.log) and self.log[index][:4] != '-- s':
+                if self.log[index][:12] == "The game's b":
+                    self.bb = int(self.log[index].split()[-1])
                 index += 1
 
             self.hand_id += 1

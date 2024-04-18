@@ -38,6 +38,8 @@ def calculate_stats(dict):
 df = calculate_stats(dict)
 # print(df.get('smashthategg')) # use this format to get a specific player
 stats = json.dumps(df, indent = 4) # use this format to get ALL players
-print(stats)
+
 with open('stats', 'w') as player_stats:
     json.dump(df, player_stats)
+
+print(df[''])

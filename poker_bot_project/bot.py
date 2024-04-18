@@ -77,7 +77,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, po
 
     '''advantage_to_value = 1.25
     advantage_to_bluff = 0.5
-    for player in players_acted:
+    for player in players_acted + players_to_act:
         if player.type == 'rec':
             advantage_to_bluff *= 1.3
         if player.type == 'reg':
