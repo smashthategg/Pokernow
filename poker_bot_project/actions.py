@@ -32,6 +32,8 @@ import time
 
 # fold(driver) # WORKS
 
+# get_cards()
+
 
 #----------------- NOTES -------------------
 # using x_path for most identifications - reliable, but not fast
@@ -230,6 +232,28 @@ def fold(driver):
     print("Clicked Fold button")
 
 
+# ----------------- GET CARDS FUNCTION -------------------
+
+def get_cards(driver):
+    card1 = 0
+    card2 = 0
+    suit1 = ""
+    suit2 = ""
+
+    cards_xpath = "//div[contains(@class, 'table-player') and contains(@class, 'you-player')]"
+    cards_css_selector = "div.table-player.table-player-1.you-player"
+
+    WebDriverWait(driver, 5).until(
+        EC.visibility_of_element_located((By.XPATH, cards_xpath))
+    )
+
+    # Find the cards and return them
+    cards = driver.find_element(By.CSS_SELECTOR, "div.cards")
+
+    return [card1, suit1, card2, suit2]
+
+
+
 if __name__ == "__main__":
    
     # chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
@@ -245,11 +269,11 @@ if __name__ == "__main__":
 
     # go_to_game2(driver)
 
-    # driver.get(r"https://www.pokernow.club/games/pglB7XuZa4_E41m7NtpAENUC9")
+    driver.get(r"https://www.pokernow.club/games/pglUX7ONrPrZpt6e9q0bN7GBE")
     time.sleep(1)
     
-    # log = read_log(driver)
-    # print(log)
+    log = read_log(driver)
+    print(log)
     # call(driver)
     # raise_func(driver, "500")
     # check(driver)
