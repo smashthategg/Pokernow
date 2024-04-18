@@ -189,3 +189,104 @@ driver.quit()
 #w1 learn
 #w2 program
 #w3 integrate
+
+
+'''
+Found log
+12:57
+-- ending hand #6 --
+12:57
+luc2 collected 20 from pot
+12:57
+Uncalled bet of 10 returned to luc2
+12:57
+luc1 folds
+12:57
+luc2 posts a big blind of 20
+12:57
+luc1 posts a small blind of 10
+12:57
+Player stacks: #1 luc1 (970) | #2 luc2 (1030)
+12:57
+-- starting hand #6 (id: fisdtpueve27) (No Limit Texas Hold'em) (dealer: luc1) --     
+12:56
+-- ending hand #5 --
+12:56
+luc1 collected 20 from pot
+12:56
+Uncalled bet of 10 returned to luc1
+12:56
+luc2 folds
+12:56
+luc1 posts a big blind of 20
+12:56
+luc2 posts a small blind of 10
+12:56
+Player stacks: #1 luc1 (960) | #2 luc2 (1040)
+12:56
+-- starting hand #5 (id: onlqnbidryow) (No Limit Texas Hold'em) (dealer: luc2) --     
+12:56
+-- ending hand #4 --
+12:56
+luc2 collected 20 from pot
+12:56
+Uncalled bet of 10 returned to luc2
+12:56
+luc1 folds
+12:56
+luc2 posts a big blind of 20
+12:56
+luc1 posts a small blind of 10
+12:56
+Player stacks: #1 luc1 (970) | #2 luc2 (1030)
+12:56
+-- starting hand #4 (id: we3qhagujazj) (No Limit Texas Hold'em) (dealer: luc1) --     
+12:56
+-- ending hand #3 --
+12:56
+luc1 collected 20 from pot
+12:56
+Uncalled bet of 10 returned to luc1
+12:56
+luc2 folds
+12:55
+luc1 posts a big blind of 20
+12:55
+luc2 posts a small blind of 10
+12:55
+Player stacks: #1 luc1 (960) | #2 luc2 (1040)
+12:55
+-- starting hand #3 (id: hvsqmmxaoe6z) (No Limit Texas Hold'em) (dealer: luc2) --     
+12:55
+-- ending hand #2 --
+12:55
+luc2 collected 160 from pot
+12:55
+Uncalled bet of 80 returned to luc2
+12:55
+luc1 folds
+12:55
+luc2 raises to 120
+12:55
+luc1 bets 40
+12:55
+luc2 checks
+12:55
+Flop: [Q♣, 7♠, 8♣]
+12:55
+luc1 calls 40
+12:55
+luc2 raises to 40
+12:55
+luc1 calls 20
+12:55
+luc2 posts a big blind of 20
+12:55
+luc1 posts a small blind of 10
+12:55
+Player stacks: #1 luc1 (1040) | #2 luc2 (960)
+12:55
+-- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     
+12:55
+
+'''

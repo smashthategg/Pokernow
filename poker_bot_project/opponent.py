@@ -3,9 +3,9 @@ from ranges import *
 
 
 class Opponent():
-    def __init__(self, name, type):
+    def __init__(self, name, type='rec', stack=1000):
         self.name = name
-        self.stack = 1000 # we update stack and bet with set_stack() and set_bet()
+        self.stack = stack # we update stack and bet with set_stack() and set_bet()
         self.bet = 0
         self.type = type
         self.range = Range()
