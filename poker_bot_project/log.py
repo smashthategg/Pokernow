@@ -11,23 +11,17 @@ from game_state import Game_State
 
 # read_log(log) - TESTED
 
-# is_new_hand(log) - DONE
+# is_new_hand(log) - TESTED
 
-# get_opponnents_and_stacks(stacks_string) - DONE
+# get_opponnents_and_stacks(stacks_string) - TESTED
 
-# update_opponents_and_stacks(Game_State, opponents) - TESTED
-
-# read_blinds(blinds_string) 
-
-# update_blinds(Game_State, big_blind)
-
-# later:
-
-# update_game_actions(action)
+# read_blinds(blinds_string) - TESTED
 
 # is_turn() 
 
 # is_updated(log, new_log)
+
+# update_game_actions(action)
 
 # check_updates(log, new_log) - determine which function to use
 
@@ -70,31 +64,22 @@ def get_opponents_and_stacks(stacks_string):
     return player_stacks
 
 
-# ----------------- UPDATE OPPONENTS FUNCTION -------------------
-
-def update_opponents_and_stacks(Game_State, player_stacks):
-    for opponent in Game_State.opponents:
-        for player in player_stacks:
-            if opponent.name == player:
-                opponent.stack = player_stacks[player]
-
-
 
 # ----------------- READ BLINDS FUNCTION -------------------
 
 def read_blinds(blinds_string):
-    big_blind = 20
-    return big_blind
-
-
-# ----------------- UPDATE BLINDS FUNCTION -------------------
-
-def update_blinds(Game_State, big_blind):
-    pass
-
-
-    
-
+    # Regular expression to find the player's name and the "big/small blind" text and extract both the name and the amount
+    match = re.search(r'(\w+) posts a big blind of (\d+)', blinds_string)
+    match2 = re.search(r'(\w+) posts a small blind of (\d+)', blinds_string)
+    if match and match2:
+        # match.group(1) captures the player's name
+        # match.group(2) captures the numeric value of the big blind
+        return match.group(1), int(match.group(2)), True
+    elif match:
+        return match.group(1), int(match.group(2)), False
+    else:
+        # If no match is found, return None or raise an error depending on your error handling preference
+        return None, None, False
 
 
 # ----------------- CHECK UPDATES FUNCTION -------------------
@@ -161,11 +146,13 @@ if __name__ == "__main__":
     print(player_stacks)
     # output: {'luc1': 960, 'luc2': 1040}'''
 
-    game = Game_State([Opponent("luc1"), Opponent("luc2")], "Player stacks: #1 luc1 (1000) | #2 luc2 (1000)")
-    # game.print()
-    game.new_hand([Opponent("luc1"), Opponent("luc2")], 1000, 20, [Card('2', 'spades'), Card('7', 'hearts')], 0, Deck(), -1)
-    
-    update_opponents_and_stacks(game, {'luc1': 960, 'luc2': 1040})
-
+    '''
+    game = Game_State("luc1", [Opponent("luc2"), Opponent("luc3")], "Player stacks: #1 luc1 (1000) | #2 luc2 (1000)")
     game.print()
+
+    game.new_hand({'luc1': 960, 'luc2': 1040}, 20, [Card('2', 'spades'), Card('7', 'hearts')], 0, Deck(), -1)    
+    game.print()
+    '''
+    print(read_blinds("luc2 posts a big blind of 20"))
+
 
