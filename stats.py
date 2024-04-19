@@ -42,4 +42,4 @@ stats = json.dumps(df, indent = 4) # use this format to get ALL players
 with open('stats', 'w') as player_stats:
     json.dump(df, player_stats)
 
-print(df[''])
+print(df['smashthategg'])

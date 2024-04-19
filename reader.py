@@ -17,7 +17,7 @@ class Reader():
     # Assign "global" variables
     def __init__(self, you = "smashthategg"):
         self.players_in_hand = []
-        self.bb = 20
+        self.bb = 0
         self.you = you
         self.curr_player = ""
         self.csv = ""
@@ -79,8 +79,8 @@ class Reader():
     def csv_to_data(self):
         # Now to iterate through the log line by line
         index = 0
+        self.bb = 20
         while index < len(self.log):
-            positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
             # Skip filler lines
             while self.log[index][0] != 'P':
                 index += 1
@@ -129,6 +129,7 @@ class Reader():
 
             # Record the current blind level
             dead_sb = False
+            positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
             if self.log[index] == 'Dead Small Blind':
                 positions.remove('SB')
                 dead_sb = True
@@ -138,8 +139,6 @@ class Reader():
                     self.log[index] = self.log[index][:-14]
                     tempsb = int(self.log[index].split()[-1])
                     self.players[sbplayer]['net'][-1] -= round(tempsb/self.bb, 1)
-                    self.players[sbplayer]['blinds'].append((self.bb//2, self.bb))
-                    self.players_in_hand.remove(sbplayer)
                 else:
                     self.players[sbplayer]['net'][-1] -= 0.5
             index += 1 # now on the posts a big blind line
@@ -148,8 +147,6 @@ class Reader():
                 self.log[index] = self.log[index][:-14]
                 tempbb = int(self.log[index].split()[-1])
                 self.players[bbplayer]['net'][-1] -= round(tempbb/self.bb, 1)
-                self.players[bbplayer]['blinds'].append((self.bb//2, self.bb))
-                self.players_in_hand.remove(bbplayer)
             else:
                 self.players[bbplayer]['net'][-1] -= 1
             for name in self.players_in_hand:
@@ -157,58 +154,52 @@ class Reader():
             index += 1
 
             # Divide all stacks by bb size to get stacks in bbs.
+            bbindex = self.players_in_hand.index(bbplayer) + 1
+            self.players_in_hand = self.players_in_hand[bbindex:] + self.players_in_hand[:bbindex]
             for name in self.players_in_hand:
                 self.players[name]['stackinbbs'].append(round(self.players[name]['stack'][-1] / self.bb, 1))
-            
-            # Record each player's position
-            if index + 7 < len(self.log):
-                for i in range(8-len(self.players_in_hand),8):
-                    self.players[self.update_curr_player(self.log[index])]['position'][-1] = positions[i-dead_sb]
+                # Record each player's position
+                self.players[name]['position'][-1] = positions[self.players_in_hand.index(name) + (8 - len(self.players_in_hand) - dead_sb)]
+
+
+            while index < len(self.log) and self.log[index][:4] not in ['Flop', '-- s']: # Until the flop/end of hand...
+                if self.log[index][0] in ['"', 'U']:
+                    self.update_curr_player(self.log[index])
                     self.record_action(self.log[index], 'preflop')
-                    index += 1
-                while index < len(self.log) and self.log[index][:4] not in ['Flop', '-- s']: # Until the flop/end of hand...
+                index += 1
+            if index < len(self.log) and self.log[index][:4] == 'Flop':
+                for name in self.players_in_hand:
+                    self.players[name]['board'][-1] = self.log[index][6:]
+                index += 1
+                while index < len(self.log) and self.log[index][:4] not in ['Turn', '-- s']:
                     if self.log[index][0] in ['"', 'U']:
                         self.update_curr_player(self.log[index])
-                        self.record_action(self.log[index], 'preflop')
+                        self.record_action(self.log[index], 'flop')
                     index += 1
-                if index < len(self.log) and self.log[index][:4] == 'Flop':
+                if index < len(self.log) and self.log[index][:4] == 'Turn':
                     for name in self.players_in_hand:
-                        self.players[name]['board'][-1] = self.log[index][6:]
+                        self.players[name]['board'][-1] = "[" + re.sub(r'[\[\]]','',self.log[index][6:]) + "]"
                     index += 1
-                    while index < len(self.log) and self.log[index][:4] not in ['Turn', '-- s']:
+                    while index < len(self.log) and self.log[index][:4] not in ['Rive', '-- s']:
                         if self.log[index][0] in ['"', 'U']:
                             self.update_curr_player(self.log[index])
-                            self.record_action(self.log[index], 'flop')
+                            self.record_action(self.log[index], 'turn')
                         index += 1
-                    if index < len(self.log) and self.log[index][:4] == 'Turn':
+                    if index < len(self.log) and self.log[index][:4] == 'Rive':
                         for name in self.players_in_hand:
-                            self.players[name]['board'][-1] = "[" + re.sub(r'[\[\]]','',self.log[index][6:]) + "]"
+                            self.players[name]['board'][-1] = "[" + re.sub(r'[\]\[]','',self.log[index][7:]) + "]"
                         index += 1
-                        while index < len(self.log) and self.log[index][:4] not in ['Rive', '-- s']:
+                        while index < len(self.log) and self.log[index][:4] != '-- s':
                             if self.log[index][0] in ['"', 'U']:
                                 self.update_curr_player(self.log[index])
-                                self.record_action(self.log[index], 'turn')
+                                self.record_action(self.log[index], 'river')
+                            if self.log[index][:12] == "The game's b":
+                                self.bb = int(self.log[index].split()[-1][:-1])
                             index += 1
-                        if index < len(self.log) and self.log[index][:4] == 'Rive':
-                            for name in self.players_in_hand:
-                                self.players[name]['board'][-1] = "[" + re.sub(r'[\]\[]','',self.log[index][7:]) + "]"
-                            index += 1
-                            while index < len(self.log) and self.log[index][:4] != '-- s':
-                                if self.log[index][0] in ['"', 'U']:
-                                    self.update_curr_player(self.log[index])
-                                    self.record_action(self.log[index], 'river')
-                                index += 1
             if len(self.players_in_hand) > 1:
                 for name in self.players_in_hand:
                     self.players[name]['showdown'][-1] = True
-            # Skip over lines until reader arrives at next hand
-            while index < len(self.log) and self.log[index][:4] != '-- s':
-                if self.log[index][:12] == "The game's b":
-                    self.bb = int(self.log[index].split()[-1])
-                index += 1
-
             self.hand_id += 1
-        
         return
 
 
@@ -251,18 +242,17 @@ class Reader():
                 self.players[self.curr_player]['net'][-1] += 0.5
             if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'BB':
                 self.players[self.curr_player]['net'][-1] += 1
-        if action != 'NA': 
-            if amount != 0: # If player called/bet/raised, we want to include the amount.
-                action += str(amount)
+        if action in ['X','F','B','C','R']:
             if self.players[self.curr_player][stage][-1] == 'NA': # If this is the player's first action in the stage
-                self.players[self.curr_player][stage][-1] = action
+                self.players[self.curr_player][stage][-1] = action   
             else:
-                self.players[self.curr_player][stage][-1] += "-" + action
+                self.players[self.curr_player][stage][-1] += "-" + action         
+        if action in ['B','C','R']: 
+            self.players[self.curr_player][stage][-1] += str(amount)
             # Now we change the "net" values.
-            if amount < 0: # If the player c/b/r
-                for past_action in self.players[self.curr_player][stage][-1].split('-'):
-                    if past_action[0] in ['B','C','R']: # We dont also want to deduct past bets in the same stage.
-                        self.players[self.curr_player]['net'][-1] += float(past_action[1:])
+            for past_action in self.players[self.curr_player][stage][-1].split('-')[:-1]:
+                if past_action[0] in ['B','C','R']: # We dont also want to deduct past bets in the same stage.
+                    self.players[self.curr_player]['net'][-1] += float(past_action[1:])
             self.players[self.curr_player]['net'][-1] -= amount
         else:
             self.players[self.curr_player]['net'][-1] += amount
