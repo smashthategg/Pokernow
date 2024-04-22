@@ -3,6 +3,7 @@ from deck import Deck
 from equity_calculator import *
 from range import Range
 import numpy as np
+from ranges import *
 
 hero = Player('p1',1000)
 o1 = Player('p2',1000)
@@ -48,14 +49,10 @@ def test_case3():
 
     print(calculate_equity(hero.hand,[o1.hand],d.deal(3)))
 
+
+
 np.set_printoptions(linewidth=100)
 
+x = [1,2,3]
 
-r = Range() # the number is the best X% of hands to be included in the range. (ex. 0.1 corresponds to 10%)
-r.set_range(0.12)
-r.set_custom_range(['66+','A7s+','KTs+','QJs','KJo+','ATo+'])
-print(r.range)
-print(r.simple_range)
-print(r)
-
-
+print(x[:-1])

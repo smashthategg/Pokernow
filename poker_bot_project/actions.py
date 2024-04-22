@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.alert import Alert
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 import re
 import time
@@ -31,6 +31,11 @@ import time
 # check(driver) # WORKS
 
 # fold(driver) # WORKS
+
+# get_cards(driver) # WORKS
+
+# close_log(driver) # WORKS
+
 
 
 #----------------- NOTES -------------------
@@ -230,6 +235,49 @@ def fold(driver):
     print("Clicked Fold button")
 
 
+# ----------------- GET CARDS FUNCTION -------------------
+
+def get_cards(driver):
+    # Find the container that holds the relevant cards
+    card_container = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.CSS_SELECTOR, "div.table-player-cards"))
+    )
+
+    # Within this container, find all card elements that contain both value and suit
+    card_elements = card_container.find_elements(By.CSS_SELECTOR, ".card-container")
+    
+    cards_list = []  # Initialize a list to store card values and suits
+    suit_map = {'d': 'diamonds', 'h': 'hearts', 's': 'spades', 'c': 'clubs'}  # Mapping of suit symbols to words
+    
+    # Extract values and suits for each card
+    for card in card_elements:
+        try:
+            # Check for the presence of value and suit elements within each card
+            value = WebDriverWait(card, 5).until(
+                EC.presence_of_element_located((By.CSS_SELECTOR, ".value"))
+            ).text
+            # Get all suit elements and filter out the ones with non-empty text
+            suit_elements = WebDriverWait(card, 5).until(
+                EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".suit"))
+            )
+            suit_symbol = next((el.text for el in suit_elements if el.text), 'unknown')
+            suit = suit_map.get(suit_symbol, 'unknown')
+
+            cards_list.extend([value, suit])
+        except TimeoutException:
+            print("Timed out waiting for card details to load.")
+        except NoSuchElementException:
+            print("One of the elements (value or suit) was not found for a card.")
+    
+    return cards_list
+
+
+# ----------------- CLOSE LOG FUNCTION -------------------
+def close_log(driver):
+    pass
+
+
+
 if __name__ == "__main__":
    
     # chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
@@ -245,13 +293,16 @@ if __name__ == "__main__":
 
     # go_to_game2(driver)
 
-    # driver.get(r"https://www.pokernow.club/games/pglB7XuZa4_E41m7NtpAENUC9")
+    time.sleep(10)
+    driver.get(r"https://www.pokernow.club/games/pglUnScXjSkxcXUC9Q-qcKEFe")
     time.sleep(1)
     
-    # log = read_log(driver)
+    #log = read_log(driver)
     # print(log)
     # call(driver)
     # raise_func(driver, "500")
     # check(driver)
     # fold(driver)
+
+    print(get_cards(driver))
     time.sleep(10)

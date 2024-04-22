@@ -1,0 +1,1105 @@
+entry,at,order
+"The player ""az505 @ bapGZYUk_z"" quits the game with a stack of 7000.",2024-04-17T21:32:43.378Z,171338956337800
+"The player ""mori2627 @ THzJmqlswQ"" quits the game with a stack of 0.",2024-04-17T21:27:06.201Z,171338922620100
+"-- ending hand #72 --",2024-04-17T21:27:00.192Z,171338922019201
+"""az505 @ bapGZYUk_z"" collected 3360 from pot with Pair, 6's (combination: 6♥, 6♠, K♦, Q♥, J♥)",2024-04-17T21:27:00.192Z,171338922019200
+"River: 4♣, 7♠, 6♠, K♦ [Q♥]",2024-04-17T21:26:56.188Z,171338921618800
+"Turn: 4♣, 7♠, 6♠ [K♦]",2024-04-17T21:26:52.134Z,171338921213400
+"Flop:  [4♣, 7♠, 6♠]",2024-04-17T21:26:48.131Z,171338920813100
+"""az505 @ bapGZYUk_z"" shows a J♥, 6♥.",2024-04-17T21:26:44.126Z,171338920412601
+"""mori2627 @ THzJmqlswQ"" shows a A♠, 9♦.",2024-04-17T21:26:44.126Z,171338920412600
+"""az505 @ bapGZYUk_z"" calls 1680",2024-04-17T21:26:43.319Z,171338920331900
+"""mori2627 @ THzJmqlswQ"" raises to 1680 and go all in",2024-04-17T21:26:40.577Z,171338920057700
+"""az505 @ bapGZYUk_z"" posts a big blind of 300",2024-04-17T21:26:35.964Z,171338919596405
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 150",2024-04-17T21:26:35.964Z,171338919596404
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1680) | #5 ""az505 @ bapGZYUk_z"" (5320)",2024-04-17T21:26:35.964Z,171338919596401
+"-- starting hand #72 (id: 1dmzhtaevgzy)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:26:35.964Z,171338919596400
+"-- ending hand #71 --",2024-04-17T21:26:29.956Z,171338918995603
+"""mori2627 @ THzJmqlswQ"" shows a 4♥, 5♣.",2024-04-17T21:26:29.956Z,171338918995602
+"""az505 @ bapGZYUk_z"" collected 5320 from pot with Three of a Kind, 7's (combination: 7♣, 7♥, 7♠, A♥, J♥)",2024-04-17T21:26:29.956Z,171338918995601
+"""az505 @ bapGZYUk_z"" shows a 7♣, A♥.",2024-04-17T21:26:29.956Z,171338918995600
+"""mori2627 @ THzJmqlswQ"" calls 1760",2024-04-17T21:26:29.129Z,171338918912900
+"""az505 @ bapGZYUk_z"" raises to 1760 and go all in",2024-04-17T21:26:22.162Z,171338918216200
+"""mori2627 @ THzJmqlswQ"" bets 300",2024-04-17T21:26:17.392Z,171338917739200
+"River: 2♥, 4♣, 7♥, J♥ [7♠]",2024-04-17T21:26:12.349Z,171338917234900
+"""az505 @ bapGZYUk_z"" calls 300",2024-04-17T21:26:11.530Z,171338917153000
+"""mori2627 @ THzJmqlswQ"" bets 300",2024-04-17T21:26:08.259Z,171338916825900
+"Turn: 2♥, 4♣, 7♥ [J♥]",2024-04-17T21:26:06.034Z,171338916603400
+"""az505 @ bapGZYUk_z"" calls 300",2024-04-17T21:26:05.147Z,171338916514700
+"""mori2627 @ THzJmqlswQ"" bets 300",2024-04-17T21:26:02.205Z,171338916220500
+"Flop:  [2♥, 4♣, 7♥]",2024-04-17T21:25:57.842Z,171338915784200
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:25:57.039Z,171338915703900
+"""az505 @ bapGZYUk_z"" calls 300",2024-04-17T21:25:52.990Z,171338915299000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 300",2024-04-17T21:25:49.996Z,171338914999605
+"""az505 @ bapGZYUk_z"" posts a small blind of 150",2024-04-17T21:25:49.996Z,171338914999604
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4340) | #5 ""az505 @ bapGZYUk_z"" (2660)",2024-04-17T21:25:49.996Z,171338914999601
+"-- starting hand #71 (id: zze6gfya3mld)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:25:49.996Z,171338914999600
+"-- ending hand #70 --",2024-04-17T21:25:47.032Z,171338914703202
+"""az505 @ bapGZYUk_z"" collected 600 from pot",2024-04-17T21:25:47.032Z,171338914703201
+"Uncalled bet of 2060 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:25:47.032Z,171338914703200
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:25:46.204Z,171338914620400
+"""az505 @ bapGZYUk_z"" raises to 2360 and go all in",2024-04-17T21:25:37.727Z,171338913772700
+"""mori2627 @ THzJmqlswQ"" calls 300",2024-04-17T21:25:35.110Z,171338913511000
+"""az505 @ bapGZYUk_z"" posts a big blind of 300",2024-04-17T21:25:30.417Z,171338913041705
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 150",2024-04-17T21:25:30.417Z,171338913041704
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4640) | #5 ""az505 @ bapGZYUk_z"" (2360)",2024-04-17T21:25:30.417Z,171338913041701
+"-- starting hand #70 (id: tjq6xd4vo9xw)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:25:30.417Z,171338913041700
+"-- ending hand #69 --",2024-04-17T21:25:27.504Z,171338912750402
+"""mori2627 @ THzJmqlswQ"" collected 600 from pot",2024-04-17T21:25:27.504Z,171338912750401
+"Uncalled bet of 300 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:25:27.504Z,171338912750400
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:25:26.697Z,171338912669700
+"""mori2627 @ THzJmqlswQ"" bets 300",2024-04-17T21:25:24.191Z,171338912419100
+"Turn: 10♠, 5♠, J♣ [6♦]",2024-04-17T21:25:21.302Z,171338912130200
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:25:20.490Z,171338912049000
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:25:17.842Z,171338911784200
+"Flop:  [10♠, 5♠, J♣]",2024-04-17T21:25:15.777Z,171338911577700
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:25:14.920Z,171338911492000
+"""az505 @ bapGZYUk_z"" calls 300",2024-04-17T21:25:12.249Z,171338911224900
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 300",2024-04-17T21:25:07.571Z,171338910757105
+"""az505 @ bapGZYUk_z"" posts a small blind of 150",2024-04-17T21:25:07.571Z,171338910757104
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4340) | #5 ""az505 @ bapGZYUk_z"" (2660)",2024-04-17T21:25:07.571Z,171338910757101
+"-- starting hand #69 (id: roixwolh03tz)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:25:07.571Z,171338910757100
+"-- ending hand #68 --",2024-04-17T21:25:04.643Z,171338910464302
+"""az505 @ bapGZYUk_z"" collected 300 from pot",2024-04-17T21:25:04.643Z,171338910464301
+"Uncalled bet of 150 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:25:04.643Z,171338910464300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:25:03.777Z,171338910377700
+"""az505 @ bapGZYUk_z"" posts a big blind of 300",2024-04-17T21:24:59.840Z,171338909984007
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 150",2024-04-17T21:24:59.840Z,171338909984006
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4490) | #5 ""az505 @ bapGZYUk_z"" (2510)",2024-04-17T21:24:59.840Z,171338909984003
+"-- starting hand #68 (id: 9mmwmzrmvmr8)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:24:59.840Z,171338909984002
+"The game's big blind was changed from 200 to 300.",2024-04-17T21:24:59.840Z,171338909984001
+"The game's small blind was changed from 100 to 150.",2024-04-17T21:24:59.840Z,171338909984000
+"-- ending hand #67 --",2024-04-17T21:24:56.881Z,171338909688102
+"""az505 @ bapGZYUk_z"" collected 1200 from pot",2024-04-17T21:24:56.881Z,171338909688101
+"Uncalled bet of 1310 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:24:56.881Z,171338909688100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:24:56.047Z,171338909604700
+"""az505 @ bapGZYUk_z"" raises to 1710 and go all in",2024-04-17T21:24:54.280Z,171338909428000
+"""mori2627 @ THzJmqlswQ"" bets 400",2024-04-17T21:24:47.939Z,171338908793900
+"Turn: 7♥, 3♠, 10♠ [9♠]",2024-04-17T21:24:42.741Z,171338908274100
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:24:41.882Z,171338908188200
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:24:39.801Z,171338907980100
+"Flop:  [7♥, 3♠, 10♠]",2024-04-17T21:24:37.833Z,171338907783300
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:24:36.969Z,171338907696900
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:24:34.170Z,171338907417000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:24:32.630Z,171338907263005
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:24:32.630Z,171338907263004
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (5090) | #5 ""az505 @ bapGZYUk_z"" (1910)",2024-04-17T21:24:32.630Z,171338907263001
+"-- starting hand #67 (id: wjnxqpryhmxh)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:24:32.630Z,171338907263000
+"-- ending hand #66 --",2024-04-17T21:24:29.719Z,171338906971902
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:24:29.719Z,171338906971901
+"Uncalled bet of 400 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:24:29.719Z,171338906971900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:24:28.910Z,171338906891000
+"""mori2627 @ THzJmqlswQ"" raises to 600",2024-04-17T21:24:27.740Z,171338906774000
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:24:22.815Z,171338906281505
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:24:22.815Z,171338906281504
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4890) | #5 ""az505 @ bapGZYUk_z"" (2110)",2024-04-17T21:24:22.815Z,171338906281501
+"-- starting hand #66 (id: g2iztivzf7ra)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:24:22.815Z,171338906281500
+"-- ending hand #65 --",2024-04-17T21:24:19.874Z,171338905987402
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:24:19.874Z,171338905987401
+"Uncalled bet of 200 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:24:19.874Z,171338905987400
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:24:19.043Z,171338905904300
+"""mori2627 @ THzJmqlswQ"" bets 200",2024-04-17T21:24:17.870Z,171338905787000
+"Turn: A♣, 8♦, K♥ [3♦]",2024-04-17T21:24:15.394Z,171338905539400
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:24:14.570Z,171338905457000
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:24:11.732Z,171338905173200
+"Flop:  [A♣, 8♦, K♥]",2024-04-17T21:24:08.304Z,171338904830400
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:24:07.451Z,171338904745100
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:24:05.800Z,171338904580000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:24:04.378Z,171338904437805
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:24:04.378Z,171338904437804
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4690) | #5 ""az505 @ bapGZYUk_z"" (2310)",2024-04-17T21:24:04.378Z,171338904437801
+"-- starting hand #65 (id: st29ywsc3jih)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:24:04.378Z,171338904437800
+"-- ending hand #64 --",2024-04-17T21:24:01.448Z,171338904144802
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:24:01.448Z,171338904144801
+"Uncalled bet of 400 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:24:01.448Z,171338904144800
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:24:00.640Z,171338904064000
+"""mori2627 @ THzJmqlswQ"" raises to 600",2024-04-17T21:23:59.433Z,171338903943300
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:23:53.217Z,171338903321705
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:23:53.217Z,171338903321704
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4490) | #5 ""az505 @ bapGZYUk_z"" (2510)",2024-04-17T21:23:53.217Z,171338903321701
+"-- starting hand #64 (id: qplmr4vgxi4y)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:23:53.217Z,171338903321700
+"-- ending hand #63 --",2024-04-17T21:23:50.296Z,171338903029602
+"""az505 @ bapGZYUk_z"" collected 400 from pot",2024-04-17T21:23:50.296Z,171338903029601
+"Uncalled bet of 200 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:23:50.296Z,171338903029600
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:23:49.456Z,171338902945600
+"""az505 @ bapGZYUk_z"" bets 200",2024-04-17T21:23:48.070Z,171338902807000
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:23:45.969Z,171338902596900
+"Flop:  [6♦, A♦, 6♥]",2024-04-17T21:23:40.378Z,171338902037800
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:23:39.508Z,171338901950800
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:23:36.571Z,171338901657100
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:23:30.569Z,171338901056905
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:23:30.569Z,171338901056904
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4690) | #5 ""az505 @ bapGZYUk_z"" (2310)",2024-04-17T21:23:30.569Z,171338901056901
+"-- starting hand #63 (id: dkl8ii9c9v8c)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:23:30.569Z,171338901056900
+"-- ending hand #62 --",2024-04-17T21:23:27.621Z,171338900762102
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:23:27.621Z,171338900762101
+"Uncalled bet of 400 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:23:27.621Z,171338900762100
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:23:26.808Z,171338900680800
+"""mori2627 @ THzJmqlswQ"" raises to 600",2024-04-17T21:23:25.533Z,171338900553300
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:23:19.128Z,171338899912805
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:23:19.128Z,171338899912804
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (4490) | #5 ""az505 @ bapGZYUk_z"" (2510)",2024-04-17T21:23:19.128Z,171338899912801
+"-- starting hand #62 (id: rmtvmhwji4s4)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:23:19.128Z,171338899912800
+"-- ending hand #61 --",2024-04-17T21:23:16.165Z,171338899616502
+"""mori2627 @ THzJmqlswQ"" collected 1200 from pot",2024-04-17T21:23:16.165Z,171338899616501
+"Uncalled bet of 2510 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:23:16.165Z,171338899616500
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:23:15.354Z,171338899535400
+"""mori2627 @ THzJmqlswQ"" bets 2510",2024-04-17T21:23:14.017Z,171338899401700
+"River: 7♣, 7♦, 6♦, K♠ [3♦]",2024-04-17T21:23:08.159Z,171338898815900
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:23:07.300Z,171338898730000
+"""mori2627 @ THzJmqlswQ"" bets 200",2024-04-17T21:23:05.417Z,171338898541700
+"Turn: 7♣, 7♦, 6♦ [K♠]",2024-04-17T21:23:02.799Z,171338898279900
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:23:01.980Z,171338898198000
+"""mori2627 @ THzJmqlswQ"" bets 200",2024-04-17T21:22:59.427Z,171338897942700
+"Flop:  [7♣, 7♦, 6♦]",2024-04-17T21:22:56.691Z,171338897669100
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:22:55.851Z,171338897585100
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:22:52.591Z,171338897259100
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:22:50.286Z,171338897028605
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:22:50.286Z,171338897028604
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (3890) | #5 ""az505 @ bapGZYUk_z"" (3110)",2024-04-17T21:22:50.286Z,171338897028601
+"-- starting hand #61 (id: fgozs3tafi8c)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:22:50.286Z,171338897028600
+"-- ending hand #60 --",2024-04-17T21:22:47.379Z,171338896737902
+"""az505 @ bapGZYUk_z"" collected 200 from pot",2024-04-17T21:22:47.379Z,171338896737901
+"Uncalled bet of 100 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:22:47.379Z,171338896737900
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:22:46.544Z,171338896654400
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:22:44.212Z,171338896421205
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:22:44.212Z,171338896421204
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (3990) | #5 ""az505 @ bapGZYUk_z"" (3010)",2024-04-17T21:22:44.212Z,171338896421201
+"-- starting hand #60 (id: cr34yk4feqlm)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:22:44.212Z,171338896421200
+"""mori2627 @ THzJmqlswQ"" shows a K♥, A♥.",2024-04-17T21:22:41.940Z,171338896194000
+"-- ending hand #59 --",2024-04-17T21:22:40.610Z,171338896061002
+"""mori2627 @ THzJmqlswQ"" collected 200 from pot",2024-04-17T21:22:40.610Z,171338896061001
+"Uncalled bet of 100 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:22:40.610Z,171338896061000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:22:39.800Z,171338895980000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:22:38.273Z,171338895827305
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:22:38.273Z,171338895827304
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (3890) | #5 ""az505 @ bapGZYUk_z"" (3110)",2024-04-17T21:22:38.273Z,171338895827301
+"-- starting hand #59 (id: 2mpshezezlzo)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:22:38.273Z,171338895827300
+"-- ending hand #58 --",2024-04-17T21:22:35.313Z,171338895531302
+"""az505 @ bapGZYUk_z"" collected 200 from pot",2024-04-17T21:22:35.313Z,171338895531301
+"Uncalled bet of 100 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:22:35.313Z,171338895531300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:22:34.510Z,171338895451000
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:22:31.958Z,171338895195805
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:22:31.958Z,171338895195804
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (3990) | #5 ""az505 @ bapGZYUk_z"" (3010)",2024-04-17T21:22:31.958Z,171338895195801
+"-- starting hand #58 (id: qfnfixrqvjcr)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:22:31.958Z,171338895195800
+"-- ending hand #57 --",2024-04-17T21:22:25.917Z,171338894591701
+"""mori2627 @ THzJmqlswQ"" collected 3990 from pot with Two Pair, Q's & J's (combination: Q♣, Q♥, J♣, J♥, 10♦)",2024-04-17T21:22:25.917Z,171338894591700
+"River: 7♦, 7♣, J♥, Q♥ [10♦]",2024-04-17T21:22:21.866Z,171338894186600
+"Turn: 7♦, 7♣, J♥ [Q♥]",2024-04-17T21:22:17.793Z,171338893779300
+"Flop:  [7♦, 7♣, J♥]",2024-04-17T21:22:13.741Z,171338893374100
+"""az505 @ bapGZYUk_z"" shows a 2♣, 2♦.",2024-04-17T21:22:09.731Z,171338892973101
+"""mori2627 @ THzJmqlswQ"" shows a J♣, Q♣.",2024-04-17T21:22:09.731Z,171338892973100
+"""mori2627 @ THzJmqlswQ"" calls 1995 and go all in",2024-04-17T21:22:08.908Z,171338892890800
+"""az505 @ bapGZYUk_z"" raises to 1995",2024-04-17T21:22:03.010Z,171338892301000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:21:59.464Z,171338891946405
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:21:59.464Z,171338891946404
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1995) | #5 ""az505 @ bapGZYUk_z"" (5005)",2024-04-17T21:21:59.464Z,171338891946401
+"-- starting hand #57 (id: ish5gj0pdzus)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:21:59.464Z,171338891946400
+"-- ending hand #56 --",2024-04-17T21:21:56.517Z,171338891651702
+"""az505 @ bapGZYUk_z"" collected 400 from pot",2024-04-17T21:21:56.517Z,171338891651701
+"Uncalled bet of 1995 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:21:56.517Z,171338891651700
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:21:55.701Z,171338891570100
+"""az505 @ bapGZYUk_z"" raises to 2195",2024-04-17T21:21:53.195Z,171338891319500
+"""mori2627 @ THzJmqlswQ"" calls 200",2024-04-17T21:21:50.314Z,171338891031400
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:21:47.188Z,171338890718805
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:21:47.188Z,171338890718804
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (2195) | #5 ""az505 @ bapGZYUk_z"" (4805)",2024-04-17T21:21:47.188Z,171338890718801
+"-- starting hand #56 (id: mjrnss5f9fix)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:21:47.188Z,171338890718800
+"-- ending hand #55 --",2024-04-17T21:21:44.266Z,171338890426602
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:21:44.266Z,171338890426601
+"Uncalled bet of 400 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:21:44.266Z,171338890426600
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:21:43.440Z,171338890344000
+"""mori2627 @ THzJmqlswQ"" bets 400",2024-04-17T21:21:41.535Z,171338890153500
+"Flop:  [3♣, 9♠, 9♥]",2024-04-17T21:21:28.659Z,171338888865900
+"""mori2627 @ THzJmqlswQ"" checks",2024-04-17T21:21:27.794Z,171338888779400
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:21:25.774Z,171338888577400
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:21:24.360Z,171338888436005
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:21:24.360Z,171338888436004
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1995) | #5 ""az505 @ bapGZYUk_z"" (5005)",2024-04-17T21:21:24.360Z,171338888436001
+"-- starting hand #55 (id: xkprwrtb800l)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:21:24.360Z,171338888436000
+"-- ending hand #54 --",2024-04-17T21:21:21.453Z,171338888145302
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:21:21.453Z,171338888145301
+"Uncalled bet of 200 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:21:21.453Z,171338888145300
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:21:20.650Z,171338888065000
+"""mori2627 @ THzJmqlswQ"" bets 200",2024-04-17T21:21:19.713Z,171338887971300
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:21:15.939Z,171338887593900
+"Flop:  [10♠, J♥, 4♥]",2024-04-17T21:21:14.450Z,171338887445000
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:21:13.630Z,171338887363000
+"""mori2627 @ THzJmqlswQ"" calls 200",2024-04-17T21:21:12.080Z,171338887208000
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:21:05.445Z,171338886544505
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:21:05.445Z,171338886544504
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1795) | #5 ""az505 @ bapGZYUk_z"" (5205)",2024-04-17T21:21:05.445Z,171338886544501
+"-- starting hand #54 (id: a4dqdumxvzvg)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:21:05.445Z,171338886544500
+"-- ending hand #53 --",2024-04-17T21:21:02.511Z,171338886251102
+"""mori2627 @ THzJmqlswQ"" collected 200 from pot",2024-04-17T21:21:02.511Z,171338886251101
+"Uncalled bet of 100 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:21:02.511Z,171338886251100
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:21:01.670Z,171338886167000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:21:00.458Z,171338886045805
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:21:00.458Z,171338886045804
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1695) | #5 ""az505 @ bapGZYUk_z"" (5305)",2024-04-17T21:21:00.458Z,171338886045801
+"-- starting hand #53 (id: d6ha3sw6tg2c)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:21:00.458Z,171338886045800
+"-- ending hand #52 --",2024-04-17T21:20:57.525Z,171338885752502
+"""az505 @ bapGZYUk_z"" collected 200 from pot",2024-04-17T21:20:57.525Z,171338885752501
+"Uncalled bet of 100 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:20:57.525Z,171338885752500
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:20:56.713Z,171338885671300
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:20:53.724Z,171338885372405
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:20:53.724Z,171338885372404
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1795) | #5 ""az505 @ bapGZYUk_z"" (5205)",2024-04-17T21:20:53.724Z,171338885372401
+"-- starting hand #52 (id: vuhwzryvkqmf)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:20:53.724Z,171338885372400
+"-- ending hand #51 --",2024-04-17T21:20:50.811Z,171338885081102
+"""mori2627 @ THzJmqlswQ"" collected 400 from pot",2024-04-17T21:20:50.811Z,171338885081101
+"Uncalled bet of 1395 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:20:50.811Z,171338885081100
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:20:50.000Z,171338885000000
+"""mori2627 @ THzJmqlswQ"" raises to 1595 and go all in",2024-04-17T21:20:48.966Z,171338884896600
+"""az505 @ bapGZYUk_z"" calls 200",2024-04-17T21:20:42.442Z,171338884244200
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:20:40.394Z,171338884039405
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:20:40.394Z,171338884039404
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1595) | #5 ""az505 @ bapGZYUk_z"" (5405)",2024-04-17T21:20:40.394Z,171338884039401
+"-- starting hand #51 (id: uhyweu8oskn4)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:20:40.394Z,171338884039400
+"-- ending hand #50 --",2024-04-17T21:20:37.483Z,171338883748302
+"""az505 @ bapGZYUk_z"" collected 200 from pot",2024-04-17T21:20:37.483Z,171338883748301
+"Uncalled bet of 100 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:20:37.483Z,171338883748300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:20:36.615Z,171338883661500
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:20:34.110Z,171338883411006
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:20:34.110Z,171338883411005
+"Player stacks: #4 ""mori2627 @ THzJmqlswQ"" (1695) | #5 ""az505 @ bapGZYUk_z"" (5305)",2024-04-17T21:20:34.110Z,171338883411002
+"-- starting hand #50 (id: wng7qatsudya)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:20:34.110Z,171338883411001
+"The player ""🆁🅸🆇 @ oRqSMSWW61"" quits the game with a stack of 0.",2024-04-17T21:20:34.110Z,171338883411000
+"-- ending hand #49 --",2024-04-17T21:20:28.077Z,171338882807701
+"""az505 @ bapGZYUk_z"" collected 1380 from pot with Pair, K's (combination: K♣, K♦, J♥, 10♣, 8♥)",2024-04-17T21:20:28.077Z,171338882807700
+"River: K♦, J♥, 10♣, 7♠ [3♠]",2024-04-17T21:20:24.016Z,171338882401600
+"Turn: K♦, J♥, 10♣ [7♠]",2024-04-17T21:20:19.989Z,171338881998900
+"Flop:  [K♦, J♥, 10♣]",2024-04-17T21:20:15.960Z,171338881596000
+"""az505 @ bapGZYUk_z"" shows a K♣, 8♥.",2024-04-17T21:20:11.896Z,171338881189601
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 8♣, 7♣.",2024-04-17T21:20:11.896Z,171338881189600
+"""az505 @ bapGZYUk_z"" calls 640",2024-04-17T21:20:11.060Z,171338881106000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:20:10.069Z,171338881006900
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 640 and go all in",2024-04-17T21:20:06.650Z,171338880665000
+"""az505 @ bapGZYUk_z"" posts a big blind of 200",2024-04-17T21:20:03.887Z,171338880388706
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 100",2024-04-17T21:20:03.887Z,171338880388705
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (640) | #4 ""mori2627 @ THzJmqlswQ"" (1795) | #5 ""az505 @ bapGZYUk_z"" (4565)",2024-04-17T21:20:03.887Z,171338880388701
+"-- starting hand #49 (id: exmonshkddk4)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:20:03.887Z,171338880388700
+"-- ending hand #48 --",2024-04-17T21:20:00.954Z,171338880095402
+"""mori2627 @ THzJmqlswQ"" collected 200 from pot",2024-04-17T21:20:00.954Z,171338880095401
+"Uncalled bet of 100 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:20:00.954Z,171338880095400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:20:00.144Z,171338880014400
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:19:58.555Z,171338879855500
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 200",2024-04-17T21:19:57.432Z,171338879743206
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 100",2024-04-17T21:19:57.432Z,171338879743205
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (740) | #4 ""mori2627 @ THzJmqlswQ"" (1695) | #5 ""az505 @ bapGZYUk_z"" (4565)",2024-04-17T21:19:57.432Z,171338879743201
+"-- starting hand #48 (id: jyswhowkjagc)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:19:57.432Z,171338879743200
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 10♣, 3♦.",2024-04-17T21:19:55.200Z,171338879520000
+"-- ending hand #47 --",2024-04-17T21:19:53.829Z,171338879382902
+"""mori2627 @ THzJmqlswQ"" collected 500 from pot",2024-04-17T21:19:53.829Z,171338879382901
+"Uncalled bet of 400 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:19:53.829Z,171338879382900
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:19:52.978Z,171338879297800
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:19:52.046Z,171338879204600
+"""mori2627 @ THzJmqlswQ"" raises to 600",2024-04-17T21:19:50.273Z,171338879027300
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 200",2024-04-17T21:19:44.059Z,171338878405908
+"""az505 @ bapGZYUk_z"" posts a small blind of 100",2024-04-17T21:19:44.059Z,171338878405907
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (940) | #4 ""mori2627 @ THzJmqlswQ"" (1395) | #5 ""az505 @ bapGZYUk_z"" (4665)",2024-04-17T21:19:44.059Z,171338878405903
+"-- starting hand #47 (id: fxhopnjffyfz)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:19:44.059Z,171338878405902
+"The game's big blind was changed from 150 to 200.",2024-04-17T21:19:44.059Z,171338878405901
+"The game's small blind was changed from 75 to 100.",2024-04-17T21:19:44.059Z,171338878405900
+"-- ending hand #46 --",2024-04-17T21:19:41.129Z,171338878112902
+"""mori2627 @ THzJmqlswQ"" collected 300 from pot",2024-04-17T21:19:41.129Z,171338878112901
+"Uncalled bet of 300 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:19:41.129Z,171338878112900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:19:40.257Z,171338878025700
+"""mori2627 @ THzJmqlswQ"" raises to 450",2024-04-17T21:19:38.655Z,171338877865500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:19:30.265Z,171338877026500
+"""az505 @ bapGZYUk_z"" posts a big blind of 150",2024-04-17T21:19:28.950Z,171338876895006
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 75",2024-04-17T21:19:28.950Z,171338876895005
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (940) | #4 ""mori2627 @ THzJmqlswQ"" (1245) | #5 ""az505 @ bapGZYUk_z"" (4815)",2024-04-17T21:19:28.950Z,171338876895001
+"-- starting hand #46 (id: vcl2q6cfijbd)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:19:28.950Z,171338876895000
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a A♠, 5♠.",2024-04-17T21:19:26.282Z,171338876628200
+"-- ending hand #45 --",2024-04-17T21:19:25.308Z,171338876530802
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 300 from pot",2024-04-17T21:19:25.308Z,171338876530801
+"Uncalled bet of 640 returned to ""🆁🅸🆇 @ oRqSMSWW61""",2024-04-17T21:19:25.308Z,171338876530800
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:19:24.469Z,171338876446900
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 790 and go all in",2024-04-17T21:19:21.726Z,171338876172600
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:19:18.705Z,171338875870500
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 150",2024-04-17T21:19:15.029Z,171338875502906
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 75",2024-04-17T21:19:15.029Z,171338875502905
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (790) | #4 ""mori2627 @ THzJmqlswQ"" (1395) | #5 ""az505 @ bapGZYUk_z"" (4815)",2024-04-17T21:19:15.029Z,171338875502901
+"-- starting hand #45 (id: bsycv1x3wqa2)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:19:15.029Z,171338875502900
+"""az505 @ bapGZYUk_z"" shows a A♥, 6♣.",2024-04-17T21:19:12.760Z,171338875276000
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 10♦, 6♠.",2024-04-17T21:19:11.250Z,171338875125000
+"-- ending hand #44 --",2024-04-17T21:19:10.694Z,171338875069402
+"""az505 @ bapGZYUk_z"" collected 300 from pot",2024-04-17T21:19:10.694Z,171338875069401
+"Uncalled bet of 790 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:19:10.694Z,171338875069400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:19:09.868Z,171338874986800
+"""az505 @ bapGZYUk_z"" raises to 940",2024-04-17T21:19:07.791Z,171338874779100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:19:05.368Z,171338874536800
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 150",2024-04-17T21:19:03.683Z,171338874368306
+"""az505 @ bapGZYUk_z"" posts a small blind of 75",2024-04-17T21:19:03.683Z,171338874368305
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (940) | #4 ""mori2627 @ THzJmqlswQ"" (1395) | #5 ""az505 @ bapGZYUk_z"" (4665)",2024-04-17T21:19:03.683Z,171338874368301
+"-- starting hand #44 (id: pwzr0zx7b38s)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:19:03.683Z,171338874368300
+"-- ending hand #43 --",2024-04-17T21:19:00.758Z,171338874075802
+"""az505 @ bapGZYUk_z"" collected 150 from pot",2024-04-17T21:19:00.758Z,171338874075801
+"Uncalled bet of 75 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:19:00.758Z,171338874075800
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:18:59.932Z,171338873993200
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:18:57.995Z,171338873799500
+"""az505 @ bapGZYUk_z"" posts a big blind of 150",2024-04-17T21:18:54.012Z,171338873401206
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 75",2024-04-17T21:18:54.012Z,171338873401205
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (940) | #4 ""mori2627 @ THzJmqlswQ"" (1470) | #5 ""az505 @ bapGZYUk_z"" (4590)",2024-04-17T21:18:54.012Z,171338873401201
+"-- starting hand #43 (id: 0rqsawxsurgb)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:18:54.012Z,171338873401200
+"-- ending hand #42 --",2024-04-17T21:18:51.089Z,171338873108902
+"""mori2627 @ THzJmqlswQ"" collected 150 from pot",2024-04-17T21:18:51.089Z,171338873108901
+"Uncalled bet of 75 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:18:51.089Z,171338873108900
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:18:50.267Z,171338873026700
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:18:44.896Z,171338872489600
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 150",2024-04-17T21:18:41.162Z,171338872116206
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 75",2024-04-17T21:18:41.162Z,171338872116205
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1015) | #4 ""mori2627 @ THzJmqlswQ"" (1395) | #5 ""az505 @ bapGZYUk_z"" (4590)",2024-04-17T21:18:41.162Z,171338872116201
+"-- starting hand #42 (id: j8xodp20zhyd)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:18:41.162Z,171338872116200
+"-- ending hand #41 --",2024-04-17T21:18:38.231Z,171338871823102
+"""az505 @ bapGZYUk_z"" collected 300 from pot",2024-04-17T21:18:38.231Z,171338871823101
+"Uncalled bet of 1015 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:18:38.231Z,171338871823100
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:18:37.412Z,171338871741200
+"""az505 @ bapGZYUk_z"" raises to 1165",2024-04-17T21:18:32.545Z,171338871254500
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:18:28.646Z,171338870864600
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 150",2024-04-17T21:18:25.749Z,171338870574906
+"""az505 @ bapGZYUk_z"" posts a small blind of 75",2024-04-17T21:18:25.749Z,171338870574905
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1165) | #4 ""mori2627 @ THzJmqlswQ"" (1395) | #5 ""az505 @ bapGZYUk_z"" (4440)",2024-04-17T21:18:25.749Z,171338870574901
+"-- starting hand #41 (id: 1tz9gfutlwpk)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:18:25.749Z,171338870574900
+"-- ending hand #40 --",2024-04-17T21:18:22.811Z,171338870281102
+"""mori2627 @ THzJmqlswQ"" collected 600 from pot",2024-04-17T21:18:22.811Z,171338870281101
+"Uncalled bet of 150 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:18:22.811Z,171338870281100
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:18:21.949Z,171338870194900
+"""mori2627 @ THzJmqlswQ"" bets 150",2024-04-17T21:18:17.364Z,171338869736400
+"Flop:  [5♦, 5♣, 4♦]",2024-04-17T21:18:13.893Z,171338869389300
+"""az505 @ bapGZYUk_z"" calls 300",2024-04-17T21:18:13.065Z,171338869306500
+"""mori2627 @ THzJmqlswQ"" raises to 300",2024-04-17T21:18:10.917Z,171338869091700
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:18:05.847Z,171338868584700
+"""az505 @ bapGZYUk_z"" posts a big blind of 150",2024-04-17T21:18:01.236Z,171338868123606
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 75",2024-04-17T21:18:01.236Z,171338868123605
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1165) | #4 ""mori2627 @ THzJmqlswQ"" (1095) | #5 ""az505 @ bapGZYUk_z"" (4740)",2024-04-17T21:18:01.236Z,171338868123601
+"-- starting hand #40 (id: noav6zefznfe)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:18:01.236Z,171338868123600
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 9♣, A♣.",2024-04-17T21:17:58.882Z,171338867888200
+"-- ending hand #39 --",2024-04-17T21:17:57.583Z,171338867758302
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 300 from pot",2024-04-17T21:17:57.583Z,171338867758301
+"Uncalled bet of 865 returned to ""🆁🅸🆇 @ oRqSMSWW61""",2024-04-17T21:17:57.583Z,171338867758300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:17:56.729Z,171338867672900
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 1015 and go all in",2024-04-17T21:17:49.126Z,171338866912600
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:17:43.120Z,171338866312000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 150",2024-04-17T21:17:41.364Z,171338866136406
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 75",2024-04-17T21:17:41.364Z,171338866136405
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1015) | #4 ""mori2627 @ THzJmqlswQ"" (1245) | #5 ""az505 @ bapGZYUk_z"" (4740)",2024-04-17T21:17:41.364Z,171338866136401
+"-- starting hand #39 (id: qae5kxnsiytr)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:17:41.364Z,171338866136400
+"""az505 @ bapGZYUk_z"" shows a 7♦, Q♠.",2024-04-17T21:17:39.430Z,171338865943000
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 10♠, 3♣.",2024-04-17T21:17:37.940Z,171338865794000
+"-- ending hand #38 --",2024-04-17T21:17:37.060Z,171338865706002
+"""az505 @ bapGZYUk_z"" collected 300 from pot",2024-04-17T21:17:37.060Z,171338865706001
+"Uncalled bet of 225 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:17:37.060Z,171338865706000
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:17:36.218Z,171338865621800
+"""az505 @ bapGZYUk_z"" bets 225",2024-04-17T21:17:34.030Z,171338865403000
+"River: A♥, 2♦, Q♣, 2♣ [8♦]",2024-04-17T21:17:29.892Z,171338864989200
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:17:29.052Z,171338864905200
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:17:24.347Z,171338864434700
+"Turn: A♥, 2♦, Q♣ [2♣]",2024-04-17T21:17:21.554Z,171338864155400
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:17:20.715Z,171338864071500
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:17:15.479Z,171338863547900
+"Flop:  [A♥, 2♦, Q♣]",2024-04-17T21:17:13.641Z,171338863364100
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:17:12.828Z,171338863282800
+"""az505 @ bapGZYUk_z"" calls 150",2024-04-17T21:17:08.887Z,171338862888700
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:17:04.950Z,171338862495000
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 150",2024-04-17T21:17:03.332Z,171338862333206
+"""az505 @ bapGZYUk_z"" posts a small blind of 75",2024-04-17T21:17:03.332Z,171338862333205
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1165) | #4 ""mori2627 @ THzJmqlswQ"" (1245) | #5 ""az505 @ bapGZYUk_z"" (4590)",2024-04-17T21:17:03.332Z,171338862333201
+"-- starting hand #38 (id: 9rvyqhzrhmod)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:17:03.332Z,171338862333200
+"-- ending hand #37 --",2024-04-17T21:17:00.383Z,171338862038302
+"""az505 @ bapGZYUk_z"" collected 150 from pot",2024-04-17T21:17:00.383Z,171338862038301
+"Uncalled bet of 75 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:17:00.383Z,171338862038300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:16:59.565Z,171338861956500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:16:55.369Z,171338861536900
+"""az505 @ bapGZYUk_z"" posts a big blind of 150",2024-04-17T21:16:48.909Z,171338860890906
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 75",2024-04-17T21:16:48.909Z,171338860890905
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1165) | #4 ""mori2627 @ THzJmqlswQ"" (1320) | #5 ""az505 @ bapGZYUk_z"" (4515)",2024-04-17T21:16:48.909Z,171338860890901
+"-- starting hand #37 (id: b7u5knoqsj96)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:16:48.909Z,171338860890900
+"-- ending hand #36 --",2024-04-17T21:16:45.970Z,171338860597002
+"""az505 @ bapGZYUk_z"" collected 375 from pot",2024-04-17T21:16:45.970Z,171338860597001
+"Uncalled bet of 1320 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:16:45.970Z,171338860597000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:16:45.167Z,171338860516700
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:16:42.893Z,171338860289300
+"""az505 @ bapGZYUk_z"" raises to 1470",2024-04-17T21:16:40.104Z,171338860010400
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 150",2024-04-17T21:16:34.816Z,171338859481607
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 75",2024-04-17T21:16:34.816Z,171338859481606
+"Player stacks: #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1240) | #4 ""mori2627 @ THzJmqlswQ"" (1470) | #5 ""az505 @ bapGZYUk_z"" (4290)",2024-04-17T21:16:34.816Z,171338859481602
+"-- starting hand #36 (id: wfy3lkee4j6b)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:16:34.816Z,171338859481601
+"The player ""robq94 @ ULR2Ksq9EW"" quits the game with a stack of 0.",2024-04-17T21:16:34.816Z,171338859481600
+"-- ending hand #35 --",2024-04-17T21:16:28.805Z,171338858880501
+"""az505 @ bapGZYUk_z"" collected 2270 from pot with Pair, K's (combination: K♠, K♦, Q♣, 8♠, 5♣)",2024-04-17T21:16:28.805Z,171338858880500
+"River: 3♠, K♦, 4♦, 8♠ [5♣]",2024-04-17T21:16:24.785Z,171338858478500
+"Turn: 3♠, K♦, 4♦ [8♠]",2024-04-17T21:16:20.783Z,171338858078300
+"Flop:  [3♠, K♦, 4♦]",2024-04-17T21:16:16.777Z,171338857677700
+"""az505 @ bapGZYUk_z"" shows a Q♣, K♠.",2024-04-17T21:16:12.771Z,171338857277102
+"""robq94 @ ULR2Ksq9EW"" shows a 9♦, A♠.",2024-04-17T21:16:12.771Z,171338857277101
+"Uncalled bet of 860 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:16:12.771Z,171338857277100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:16:11.923Z,171338857192300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:16:10.072Z,171338857007200
+"""robq94 @ ULR2Ksq9EW"" calls 910 and go all in",2024-04-17T21:16:08.402Z,171338856840200
+"""az505 @ bapGZYUk_z"" raises to 1770",2024-04-17T21:16:06.171Z,171338856617100
+"""mori2627 @ THzJmqlswQ"" raises to 300",2024-04-17T21:16:00.816Z,171338856081600
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 150",2024-04-17T21:15:54.862Z,171338855486208
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-17T21:15:54.862Z,171338855486207
+"Player stacks: #2 ""robq94 @ ULR2Ksq9EW"" (910) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1390) | #4 ""mori2627 @ THzJmqlswQ"" (1770) | #5 ""az505 @ bapGZYUk_z"" (2930)",2024-04-17T21:15:54.862Z,171338855486202
+"-- starting hand #35 (id: hxgvlq4dfnb1)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:15:54.862Z,171338855486201
+"The player ""Cabes805 @ -xtTmiLonr"" quits the game with a stack of 0.",2024-04-17T21:15:54.862Z,171338855486200
+"-- ending hand #34 --",2024-04-17T21:15:48.853Z,171338854885301
+"""mori2627 @ THzJmqlswQ"" collected 1620 from pot with Pair, Q's (combination: Q♠, Q♣, A♣, 7♦, 6♠)",2024-04-17T21:15:48.853Z,171338854885300
+"River: 6♠, Q♠, Q♣, 3♦ [7♦]",2024-04-17T21:15:44.847Z,171338854484700
+"Turn: 6♠, Q♠, Q♣ [3♦]",2024-04-17T21:15:40.843Z,171338854084300
+"""mori2627 @ THzJmqlswQ"" shows a 4♦, A♣.",2024-04-17T21:15:36.840Z,171338853684002
+"""Cabes805 @ -xtTmiLonr"" shows a K♦, J♣.",2024-04-17T21:15:36.840Z,171338853684001
+"Uncalled bet of 150 returned to ""mori2627 @ THzJmqlswQ""",2024-04-17T21:15:36.840Z,171338853684000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:15:36.012Z,171338853601200
+"""mori2627 @ THzJmqlswQ"" bets 150 and go all in",2024-04-17T21:15:34.256Z,171338853425600
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:15:31.491Z,171338853149100
+"Flop:  [6♠, Q♠, Q♣]",2024-04-17T21:15:29.331Z,171338852933100
+"""mori2627 @ THzJmqlswQ"" calls 540",2024-04-17T21:15:28.464Z,171338852846400
+"""robq94 @ ULR2Ksq9EW"" calls 540",2024-04-17T21:15:27.270Z,171338852727000
+"""Cabes805 @ -xtTmiLonr"" raises to 540 and go all in",2024-04-17T21:15:22.892Z,171338852289200
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:15:20.288Z,171338852028800
+"""mori2627 @ THzJmqlswQ"" raises to 300",2024-04-17T21:15:19.393Z,171338851939300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:15:15.061Z,171338851506100
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-17T21:15:11.696Z,171338851169608
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 75",2024-04-17T21:15:11.696Z,171338851169607
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (540) | #2 ""robq94 @ ULR2Ksq9EW"" (1450) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1390) | #4 ""mori2627 @ THzJmqlswQ"" (690) | #5 ""az505 @ bapGZYUk_z"" (2930)",2024-04-17T21:15:11.696Z,171338851169601
+"-- starting hand #34 (id: jb1kqnakqnif)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:15:11.696Z,171338851169600
+"-- ending hand #33 --",2024-04-17T21:15:05.686Z,171338850568601
+"""az505 @ bapGZYUk_z"" collected 2930 from pot with Pair, 3's (combination: 3♥, 3♠, K♣, Q♦, J♠)",2024-04-17T21:15:05.686Z,171338850568600
+"River: Q♦, 9♦, 2♠, 3♥ [3♠]",2024-04-17T21:15:01.638Z,171338850163800
+"Turn: Q♦, 9♦, 2♠ [3♥]",2024-04-17T21:14:57.590Z,171338849759000
+"Flop:  [Q♦, 9♦, 2♠]",2024-04-17T21:14:53.499Z,171338849349900
+"""az505 @ bapGZYUk_z"" shows a J♠, K♣.",2024-04-17T21:14:49.494Z,171338848949401
+"""Cabes805 @ -xtTmiLonr"" shows a J♣, 10♣.",2024-04-17T21:14:49.494Z,171338848949400
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:14:48.683Z,171338848868300
+"""Cabes805 @ -xtTmiLonr"" calls 1390",2024-04-17T21:14:46.918Z,171338848691800
+"""az505 @ bapGZYUk_z"" raises to 1390 and go all in",2024-04-17T21:14:44.415Z,171338848441500
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:14:40.554Z,171338848055400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:14:38.839Z,171338847883900
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-17T21:14:34.470Z,171338847447000
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 150",2024-04-17T21:14:32.945Z,171338847294510
+"""az505 @ bapGZYUk_z"" posts a small blind of 75",2024-04-17T21:14:32.945Z,171338847294509
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1930) | #2 ""robq94 @ ULR2Ksq9EW"" (1600) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1390) | #4 ""mori2627 @ THzJmqlswQ"" (690) | #5 ""az505 @ bapGZYUk_z"" (1390)",2024-04-17T21:14:32.945Z,171338847294503
+"-- starting hand #33 (id: rh2zsxz3grcj)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:14:32.945Z,171338847294502
+"The game's big blind was changed from 100 to 150.",2024-04-17T21:14:32.945Z,171338847294501
+"The game's small blind was changed from 50 to 75.",2024-04-17T21:14:32.945Z,171338847294500
+"-- ending hand #32 --",2024-04-17T21:14:26.938Z,171338846693802
+"""az505 @ bapGZYUk_z"" collected 450 from pot with Two Pair, 9's & 7's (combination: 9♣, 9♥, 7♦, 7♥, Q♥)",2024-04-17T21:14:26.938Z,171338846693801
+"""az505 @ bapGZYUk_z"" shows a Q♥, 7♦.",2024-04-17T21:14:26.938Z,171338846693800
+"""Cabes805 @ -xtTmiLonr"" calls 100",2024-04-17T21:14:26.065Z,171338846606500
+"""az505 @ bapGZYUk_z"" bets 100",2024-04-17T21:14:19.631Z,171338845963100
+"River: 9♣, J♣, 9♥, 4♥ [7♥]",2024-04-17T21:14:17.575Z,171338845757500
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:14:16.729Z,171338845672900
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:14:13.572Z,171338845357200
+"Turn: 9♣, J♣, 9♥ [4♥]",2024-04-17T21:14:06.505Z,171338844650500
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:14:05.642Z,171338844564200
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:14:01.625Z,171338844162500
+"Flop:  [9♣, J♣, 9♥]",2024-04-17T21:13:59.025Z,171338843902500
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:13:58.210Z,171338843821000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:13:57.330Z,171338843733000
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:13:56.184Z,171338843618400
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:13:52.532Z,171338843253200
+"""Cabes805 @ -xtTmiLonr"" calls 100",2024-04-17T21:13:51.497Z,171338843149700
+"""az505 @ bapGZYUk_z"" posts a big blind of 100",2024-04-17T21:13:47.583Z,171338842758308
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 50",2024-04-17T21:13:47.583Z,171338842758307
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2130) | #2 ""robq94 @ ULR2Ksq9EW"" (1600) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1390) | #4 ""mori2627 @ THzJmqlswQ"" (740) | #5 ""az505 @ bapGZYUk_z"" (1140)",2024-04-17T21:13:47.583Z,171338842758301
+"-- starting hand #32 (id: li6mpgyyarlp)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:13:47.583Z,171338842758300
+"-- ending hand #31 --",2024-04-17T21:13:44.676Z,171338842467602
+"""Cabes805 @ -xtTmiLonr"" collected 250 from pot",2024-04-17T21:13:44.676Z,171338842467601
+"Uncalled bet of 1500 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:13:44.676Z,171338842467600
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:13:43.795Z,171338842379500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:13:36.739Z,171338841673900
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:13:33.322Z,171338841332200
+"""Cabes805 @ -xtTmiLonr"" raises to 1600",2024-04-17T21:13:28.438Z,171338840843800
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:13:24.600Z,171338840460000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 100",2024-04-17T21:13:23.153Z,171338840315308
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 50",2024-04-17T21:13:23.153Z,171338840315307
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1980) | #2 ""robq94 @ ULR2Ksq9EW"" (1600) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1440) | #4 ""mori2627 @ THzJmqlswQ"" (840) | #5 ""az505 @ bapGZYUk_z"" (1140)",2024-04-17T21:13:23.153Z,171338840315301
+"-- starting hand #31 (id: nnarsminjpai)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T21:13:23.153Z,171338840315300
+"-- ending hand #30 --",2024-04-17T21:13:20.247Z,171338840024702
+"""Cabes805 @ -xtTmiLonr"" collected 250 from pot",2024-04-17T21:13:20.247Z,171338840024701
+"Uncalled bet of 1550 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:13:20.247Z,171338840024700
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:13:19.401Z,171338839940100
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:13:18.480Z,171338839848000
+"""Cabes805 @ -xtTmiLonr"" raises to 1650",2024-04-17T21:13:17.489Z,171338839748900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:13:14.762Z,171338839476200
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:13:13.881Z,171338839388100
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 100",2024-04-17T21:13:03.479Z,171338838347908
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 50",2024-04-17T21:13:03.479Z,171338838347907
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1830) | #2 ""robq94 @ ULR2Ksq9EW"" (1650) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1540) | #4 ""mori2627 @ THzJmqlswQ"" (840) | #5 ""az505 @ bapGZYUk_z"" (1140)",2024-04-17T21:13:03.479Z,171338838347901
+"-- starting hand #30 (id: cfsazroi5zny)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T21:13:03.479Z,171338838347900
+"-- ending hand #29 --",2024-04-17T21:12:57.474Z,171338837747401
+"""az505 @ bapGZYUk_z"" collected 1140 from pot with Two Pair, A's & 3's (combination: A♥, A♦, 3♠, 3♦, Q♠)",2024-04-17T21:12:57.474Z,171338837747400
+"River: A♦, 3♠, Q♠, 7♥ [3♦]",2024-04-17T21:12:53.435Z,171338837343500
+"Turn: A♦, 3♠, Q♠ [7♥]",2024-04-17T21:12:49.430Z,171338836943000
+"Flop:  [A♦, 3♠, Q♠]",2024-04-17T21:12:45.392Z,171338836539200
+"""az505 @ bapGZYUk_z"" shows a 9♦, A♥.",2024-04-17T21:12:41.372Z,171338836137201
+"""Cabes805 @ -xtTmiLonr"" shows a K♣, 8♥.",2024-04-17T21:12:41.372Z,171338836137200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:12:40.565Z,171338836056500
+"""Cabes805 @ -xtTmiLonr"" calls 520",2024-04-17T21:12:38.861Z,171338835886100
+"""az505 @ bapGZYUk_z"" raises to 520 and go all in",2024-04-17T21:12:35.240Z,171338835524000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:12:32.302Z,171338835230200
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:12:30.448Z,171338835044800
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 100",2024-04-17T21:12:29.157Z,171338834915708
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 50",2024-04-17T21:12:29.157Z,171338834915707
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2350) | #2 ""robq94 @ ULR2Ksq9EW"" (1750) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1540) | #4 ""mori2627 @ THzJmqlswQ"" (840) | #5 ""az505 @ bapGZYUk_z"" (520)",2024-04-17T21:12:29.157Z,171338834915701
+"-- starting hand #29 (id: 45zm5lnobbew)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:12:29.157Z,171338834915700
+"-- ending hand #28 --",2024-04-17T21:12:26.226Z,171338834622602
+"""Cabes805 @ -xtTmiLonr"" collected 100 from pot",2024-04-17T21:12:26.226Z,171338834622601
+"Uncalled bet of 50 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:12:26.226Z,171338834622600
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:12:25.413Z,171338834541300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:12:24.353Z,171338834435300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:12:23.153Z,171338834315300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:12:15.269Z,171338833526900
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 100",2024-04-17T21:12:12.150Z,171338833215008
+"""az505 @ bapGZYUk_z"" posts a small blind of 50",2024-04-17T21:12:12.150Z,171338833215007
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2300) | #2 ""robq94 @ ULR2Ksq9EW"" (1750) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1540) | #4 ""mori2627 @ THzJmqlswQ"" (840) | #5 ""az505 @ bapGZYUk_z"" (570)",2024-04-17T21:12:12.150Z,171338833215001
+"-- starting hand #28 (id: av3unufktbgh)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:12:12.150Z,171338833215000
+"-- ending hand #27 --",2024-04-17T21:12:06.112Z,171338832611201
+"""az505 @ bapGZYUk_z"" collected 570 from pot with Pair, 3's (combination: 3♥, 3♣, Q♠, 9♥, 8♦)",2024-04-17T21:12:06.112Z,171338832611200
+"River: 3♣, 2♦, 5♠, 8♦ [9♥]",2024-04-17T21:12:02.104Z,171338832210400
+"Turn: 3♣, 2♦, 5♠ [8♦]",2024-04-17T21:11:58.090Z,171338831809000
+"Flop:  [3♣, 2♦, 5♠]",2024-04-17T21:11:54.086Z,171338831408600
+"""az505 @ bapGZYUk_z"" shows a 3♥, Q♠.",2024-04-17T21:11:50.064Z,171338831006402
+"""Cabes805 @ -xtTmiLonr"" shows a 7♣, A♦.",2024-04-17T21:11:50.064Z,171338831006401
+"Uncalled bet of 1490 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:11:50.064Z,171338831006400
+"""az505 @ bapGZYUk_z"" calls 260 and go all in",2024-04-17T21:11:49.250Z,171338830925000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:11:48.206Z,171338830820600
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:11:47.128Z,171338830712800
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:11:41.818Z,171338830181800
+"""Cabes805 @ -xtTmiLonr"" raises to 1750",2024-04-17T21:11:40.670Z,171338830067000
+"""az505 @ bapGZYUk_z"" posts a big blind of 100",2024-04-17T21:11:34.598Z,171338829459808
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 50",2024-04-17T21:11:34.598Z,171338829459807
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2560) | #2 ""robq94 @ ULR2Ksq9EW"" (1750) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1540) | #4 ""mori2627 @ THzJmqlswQ"" (890) | #5 ""az505 @ bapGZYUk_z"" (260)",2024-04-17T21:11:34.598Z,171338829459801
+"-- starting hand #27 (id: mijmcrzpjpgv)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:11:34.598Z,171338829459800
+"-- ending hand #26 --",2024-04-17T21:11:31.651Z,171338829165102
+"""Cabes805 @ -xtTmiLonr"" collected 250 from pot",2024-04-17T21:11:31.651Z,171338829165101
+"Uncalled bet of 1650 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:11:31.651Z,171338829165100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:11:30.811Z,171338829081100
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:11:29.824Z,171338828982400
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:11:27.306Z,171338828730600
+"""Cabes805 @ -xtTmiLonr"" raises to 1750",2024-04-17T21:11:22.140Z,171338828214000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:11:18.571Z,171338827857100
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 100",2024-04-17T21:11:15.626Z,171338827562608
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 50",2024-04-17T21:11:15.626Z,171338827562607
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2410) | #2 ""robq94 @ ULR2Ksq9EW"" (1750) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1590) | #4 ""mori2627 @ THzJmqlswQ"" (990) | #5 ""az505 @ bapGZYUk_z"" (260)",2024-04-17T21:11:15.626Z,171338827562601
+"-- starting hand #26 (id: hdj2j9vsqj3l)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T21:11:15.626Z,171338827562600
+"-- ending hand #25 --",2024-04-17T21:11:09.624Z,171338826962401
+"""Cabes805 @ -xtTmiLonr"" collected 2410 from pot with Two Pair, 8's & 3's (combination: 8♠, 8♦, 3♣, 3♥, K♠)",2024-04-17T21:11:09.624Z,171338826962400
+"River: 8♠, 6♦, 8♦, K♠ [10♣]",2024-04-17T21:11:05.584Z,171338826558400
+"Turn: 8♠, 6♦, 8♦ [K♠]",2024-04-17T21:11:01.570Z,171338826157000
+"Flop:  [8♠, 6♦, 8♦]",2024-04-17T21:10:57.560Z,171338825756000
+"""az505 @ bapGZYUk_z"" shows a A♦, 4♠.",2024-04-17T21:10:53.525Z,171338825352502
+"""Cabes805 @ -xtTmiLonr"" shows a 3♣, 3♥.",2024-04-17T21:10:53.525Z,171338825352501
+"Uncalled bet of 260 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:10:53.525Z,171338825352500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:10:52.713Z,171338825271300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:10:51.737Z,171338825173700
+"""Cabes805 @ -xtTmiLonr"" calls 1130 and go all in",2024-04-17T21:10:50.334Z,171338825033400
+"""az505 @ bapGZYUk_z"" raises to 1390 and go all in",2024-04-17T21:10:47.931Z,171338824793100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:10:42.774Z,171338824277400
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 100",2024-04-17T21:10:40.851Z,171338824085108
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 50",2024-04-17T21:10:40.851Z,171338824085107
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1130) | #2 ""robq94 @ ULR2Ksq9EW"" (1800) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1690) | #4 ""mori2627 @ THzJmqlswQ"" (990) | #5 ""az505 @ bapGZYUk_z"" (1390)",2024-04-17T21:10:40.851Z,171338824085101
+"-- starting hand #25 (id: anu5ruhpcp6s)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T21:10:40.851Z,171338824085100
+"-- ending hand #24 --",2024-04-17T21:10:34.825Z,171338823482501
+"""az505 @ bapGZYUk_z"" collected 1390 from pot with Two Pair, K's & 5's (combination: K♦, K♥, 5♥, 5♣, A♥)",2024-04-17T21:10:34.825Z,171338823482500
+"River: K♥, 8♠, 9♦, 5♥ [5♣]",2024-04-17T21:10:30.811Z,171338823081100
+"Turn: K♥, 8♠, 9♦ [5♥]",2024-04-17T21:10:26.799Z,171338822679900
+"Flop:  [K♥, 8♠, 9♦]",2024-04-17T21:10:22.778Z,171338822277800
+"""az505 @ bapGZYUk_z"" shows a A♥, K♦.",2024-04-17T21:10:18.764Z,171338821876401
+"""mori2627 @ THzJmqlswQ"" shows a 8♣, A♠.",2024-04-17T21:10:18.764Z,171338821876400
+"""mori2627 @ THzJmqlswQ"" calls 570",2024-04-17T21:10:17.892Z,171338821789200
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:10:15.983Z,171338821598300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:10:05.145Z,171338820514500
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T21:10:01.460Z,171338820146000
+"""az505 @ bapGZYUk_z"" raises to 570 and go all in",2024-04-17T21:09:59.170Z,171338819917000
+"""mori2627 @ THzJmqlswQ"" raises to 300",2024-04-17T21:09:56.138Z,171338819613800
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 100",2024-04-17T21:09:48.920Z,171338818892000
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 100",2024-04-17T21:09:45.354Z,171338818535408
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 50",2024-04-17T21:09:45.354Z,171338818535407
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1180) | #2 ""robq94 @ ULR2Ksq9EW"" (1900) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1790) | #4 ""mori2627 @ THzJmqlswQ"" (1560) | #5 ""az505 @ bapGZYUk_z"" (570)",2024-04-17T21:09:45.354Z,171338818535401
+"-- starting hand #24 (id: noupp7dt3qdy)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:09:45.354Z,171338818535400
+"-- ending hand #23 --",2024-04-17T21:09:39.302Z,171338817930201
+"""robq94 @ ULR2Ksq9EW"" collected 1900 from pot with Two Pair, A's & 9's (combination: A♣, A♦, 9♣, 9♦, 7♥)",2024-04-17T21:09:39.302Z,171338817930200
+"River: 4♣, 9♦, A♦, 7♥ [7♣]",2024-04-17T21:09:35.288Z,171338817528800
+"Turn: 4♣, 9♦, A♦ [7♥]",2024-04-17T21:09:31.282Z,171338817128200
+"Flop:  [4♣, 9♦, A♦]",2024-04-17T21:09:27.211Z,171338816721100
+"""robq94 @ ULR2Ksq9EW"" shows a 9♣, A♣.",2024-04-17T21:09:23.200Z,171338816320001
+"""Cabes805 @ -xtTmiLonr"" shows a 9♠, 10♥.",2024-04-17T21:09:23.200Z,171338816320000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:09:22.384Z,171338816238400
+"""robq94 @ ULR2Ksq9EW"" calls 900 and go all in",2024-04-17T21:09:21.357Z,171338816135700
+"""Cabes805 @ -xtTmiLonr"" raises to 900",2024-04-17T21:09:19.730Z,171338815973000
+"""az505 @ bapGZYUk_z"" calls 100",2024-04-17T21:09:17.170Z,171338815717000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:09:15.525Z,171338815552500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:09:14.379Z,171338815437900
+"""robq94 @ ULR2Ksq9EW"" calls 100",2024-04-17T21:09:12.593Z,171338815259300
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 100",2024-04-17T21:09:10.986Z,171338815098610
+"""az505 @ bapGZYUk_z"" posts a small blind of 50",2024-04-17T21:09:10.986Z,171338815098609
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2080) | #2 ""robq94 @ ULR2Ksq9EW"" (900) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1790) | #4 ""mori2627 @ THzJmqlswQ"" (1560) | #5 ""az505 @ bapGZYUk_z"" (670)",2024-04-17T21:09:10.986Z,171338815098603
+"-- starting hand #23 (id: hmgztzdjouyg)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:09:10.986Z,171338815098602
+"The game's big blind was changed from 60 to 100.",2024-04-17T21:09:10.986Z,171338815098601
+"The game's small blind was changed from 30 to 50.",2024-04-17T21:09:10.986Z,171338815098600
+"-- ending hand #22 --",2024-04-17T21:09:04.979Z,171338814497901
+"""Cabes805 @ -xtTmiLonr"" collected 2080 from pot with Two Pair, 4's & 3's (combination: 4♦, 4♥, 3♠, 3♣, Q♦)",2024-04-17T21:09:04.979Z,171338814497900
+"River: 7♣, 3♣, 6♣, 4♦ [4♥]",2024-04-17T21:09:00.972Z,171338814097200
+"Turn: 7♣, 3♣, 6♣ [4♦]",2024-04-17T21:08:56.970Z,171338813697000
+"Flop:  [7♣, 3♣, 6♣]",2024-04-17T21:08:52.963Z,171338813296300
+"""robq94 @ ULR2Ksq9EW"" shows a A♣, J♠.",2024-04-17T21:08:48.955Z,171338812895501
+"""Cabes805 @ -xtTmiLonr"" shows a 3♠, Q♦.",2024-04-17T21:08:48.955Z,171338812895500
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:08:48.140Z,171338812814000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:08:47.263Z,171338812726300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:08:46.137Z,171338812613700
+"""robq94 @ ULR2Ksq9EW"" calls 995",2024-04-17T21:08:41.270Z,171338812127000
+"""Cabes805 @ -xtTmiLonr"" raises to 995 and go all in",2024-04-17T21:08:37.091Z,171338811709100
+"""az505 @ bapGZYUk_z"" posts a big blind of 60",2024-04-17T21:08:32.173Z,171338811217308
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 30",2024-04-17T21:08:32.173Z,171338811217307
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (995) | #2 ""robq94 @ ULR2Ksq9EW"" (1895) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1790) | #4 ""mori2627 @ THzJmqlswQ"" (1590) | #5 ""az505 @ bapGZYUk_z"" (730)",2024-04-17T21:08:32.173Z,171338811217301
+"-- starting hand #22 (id: xjdxqytntxpx)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:08:32.173Z,171338811217300
+"-- ending hand #21 --",2024-04-17T21:08:29.268Z,171338810926802
+"""Cabes805 @ -xtTmiLonr"" collected 150 from pot",2024-04-17T21:08:29.268Z,171338810926801
+"Uncalled bet of 845 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:08:29.268Z,171338810926800
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:08:28.423Z,171338810842300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:08:27.402Z,171338810740200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:08:20.452Z,171338810045200
+"""Cabes805 @ -xtTmiLonr"" raises to 905 and go all in",2024-04-17T21:08:18.371Z,171338809837100
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:08:09.169Z,171338808916900
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 60",2024-04-17T21:08:07.548Z,171338808754808
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 30",2024-04-17T21:08:07.548Z,171338808754807
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (905) | #2 ""robq94 @ ULR2Ksq9EW"" (1895) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1820) | #4 ""mori2627 @ THzJmqlswQ"" (1650) | #5 ""az505 @ bapGZYUk_z"" (730)",2024-04-17T21:08:07.548Z,171338808754801
+"-- starting hand #21 (id: c0ezl4d3zul1)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T21:08:07.548Z,171338808754800
+"-- ending hand #20 --",2024-04-17T21:08:04.588Z,171338808458802
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 750 from pot",2024-04-17T21:08:04.588Z,171338808458801
+"Uncalled bet of 375 returned to ""🆁🅸🆇 @ oRqSMSWW61""",2024-04-17T21:08:04.588Z,171338808458800
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:08:03.774Z,171338808377400
+"""🆁🅸🆇 @ oRqSMSWW61"" bets 375",2024-04-17T21:07:56.747Z,171338807674700
+"Turn: J♥, 7♠, 7♦ [10♥]",2024-04-17T21:07:49.467Z,171338806946700
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 180",2024-04-17T21:07:48.628Z,171338806862800
+"""mori2627 @ THzJmqlswQ"" bets 180",2024-04-17T21:07:42.899Z,171338806289900
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:07:36.675Z,171338805667500
+"Flop:  [J♥, 7♠, 7♦]",2024-04-17T21:07:34.402Z,171338805440200
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 180",2024-04-17T21:07:33.596Z,171338805359600
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:07:32.400Z,171338805240000
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T21:07:16.539Z,171338803653900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:07:15.510Z,171338803551000
+"""mori2627 @ THzJmqlswQ"" raises to 180",2024-04-17T21:07:13.983Z,171338803398300
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 60",2024-04-17T21:07:03.599Z,171338802359908
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 30",2024-04-17T21:07:03.599Z,171338802359907
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (905) | #2 ""robq94 @ ULR2Ksq9EW"" (1925) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1430) | #4 ""mori2627 @ THzJmqlswQ"" (2010) | #5 ""az505 @ bapGZYUk_z"" (730)",2024-04-17T21:07:03.599Z,171338802359901
+"-- starting hand #20 (id: 4wlxmm56jegt)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T21:07:03.599Z,171338802359900
+"-- ending hand #19 --",2024-04-17T21:06:57.576Z,171338801757603
+"""mori2627 @ THzJmqlswQ"" collected 1280 from pot with Two Pair, A's & 5's (combination: A♠, A♣, 5♠, 5♥, Q♣)",2024-04-17T21:06:57.576Z,171338801757602
+"""az505 @ bapGZYUk_z"" collected 730 from pot with Two Pair, A's & 5's (combination: A♦, A♣, 5♦, 5♥, Q♣)",2024-04-17T21:06:57.576Z,171338801757601
+"""mori2627 @ THzJmqlswQ"" collected 730 from pot with Two Pair, A's & 5's (combination: A♠, A♣, 5♠, 5♥, Q♣)",2024-04-17T21:06:57.576Z,171338801757600
+"River: 5♥, Q♣, A♣, J♠ [6♥]",2024-04-17T21:06:53.573Z,171338801357300
+"Turn: 5♥, Q♣, A♣ [J♠]",2024-04-17T21:06:49.569Z,171338800956900
+"""az505 @ bapGZYUk_z"" shows a A♦, 5♦.",2024-04-17T21:06:45.521Z,171338800552103
+"""mori2627 @ THzJmqlswQ"" shows a 5♠, A♠.",2024-04-17T21:06:45.521Z,171338800552102
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a A♥, 9♦.",2024-04-17T21:06:45.521Z,171338800552101
+"Uncalled bet of 265 returned to ""🆁🅸🆇 @ oRqSMSWW61""",2024-04-17T21:06:45.521Z,171338800552100
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T21:06:44.701Z,171338800470100
+"""mori2627 @ THzJmqlswQ"" calls 640 and go all in",2024-04-17T21:06:43.762Z,171338800376200
+"""🆁🅸🆇 @ oRqSMSWW61"" bets 905",2024-04-17T21:06:40.569Z,171338800056900
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:06:35.766Z,171338799576600
+"Flop:  [5♥, Q♣, A♣]",2024-04-17T21:06:32.678Z,171338799267800
+"""mori2627 @ THzJmqlswQ"" calls 350",2024-04-17T21:06:31.850Z,171338799185000
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 350",2024-04-17T21:06:29.422Z,171338798942200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:06:28.010Z,171338798801000
+"""Cabes805 @ -xtTmiLonr"" calls 350",2024-04-17T21:06:24.388Z,171338798438800
+"""az505 @ bapGZYUk_z"" raises to 350 and go all in",2024-04-17T21:06:19.380Z,171338797938000
+"""mori2627 @ THzJmqlswQ"" calls 120",2024-04-17T21:06:16.899Z,171338797689900
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 120",2024-04-17T21:06:11.917Z,171338797191700
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 60",2024-04-17T21:06:05.361Z,171338796536108
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 30",2024-04-17T21:06:05.361Z,171338796536107
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1255) | #2 ""robq94 @ ULR2Ksq9EW"" (1985) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2420) | #4 ""mori2627 @ THzJmqlswQ"" (990) | #5 ""az505 @ bapGZYUk_z"" (350)",2024-04-17T21:06:05.361Z,171338796536101
+"-- starting hand #19 (id: l44zvlcjl5ez)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:06:05.361Z,171338796536100
+"-- ending hand #18 --",2024-04-17T21:05:59.344Z,171338795934403
+"""Cabes805 @ -xtTmiLonr"" shows a 9♥, 2♣.",2024-04-17T21:05:59.344Z,171338795934402
+"""robq94 @ ULR2Ksq9EW"" collected 480 from pot with Flush, Qc High (combination: Q♣, 10♣, 8♣, 5♣, 4♣)",2024-04-17T21:05:59.344Z,171338795934401
+"""robq94 @ ULR2Ksq9EW"" shows a 7♥, 10♣.",2024-04-17T21:05:59.344Z,171338795934400
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:05:58.500Z,171338795850000
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-17T21:05:55.765Z,171338795576500
+"""Cabes805 @ -xtTmiLonr"" bets 60",2024-04-17T21:05:54.441Z,171338795444100
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:05:52.412Z,171338795241200
+"River: 8♣, 5♣, 4♣, 7♠ [Q♣]",2024-04-17T21:05:50.734Z,171338795073400
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-17T21:05:49.917Z,171338794991700
+"""Cabes805 @ -xtTmiLonr"" calls 60",2024-04-17T21:05:48.872Z,171338794887200
+"""az505 @ bapGZYUk_z"" bets 60",2024-04-17T21:05:47.640Z,171338794764000
+"Turn: 8♣, 5♣, 4♣ [7♠]",2024-04-17T21:05:43.947Z,171338794394700
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:05:43.105Z,171338794310500
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:05:41.839Z,171338794183900
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:05:39.600Z,171338793960000
+"Flop:  [8♣, 5♣, 4♣]",2024-04-17T21:05:36.900Z,171338793690000
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:05:36.084Z,171338793608400
+"""az505 @ bapGZYUk_z"" calls 60",2024-04-17T21:05:35.140Z,171338793514000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:05:33.551Z,171338793355100
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:05:22.815Z,171338792281500
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-17T21:05:21.898Z,171338792189800
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 60",2024-04-17T21:05:19.475Z,171338791947508
+"""az505 @ bapGZYUk_z"" posts a small blind of 30",2024-04-17T21:05:19.475Z,171338791947507
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1435) | #2 ""robq94 @ ULR2Ksq9EW"" (1685) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2420) | #4 ""mori2627 @ THzJmqlswQ"" (990) | #5 ""az505 @ bapGZYUk_z"" (470)",2024-04-17T21:05:19.475Z,171338791947501
+"-- starting hand #18 (id: c03yfpgrggcq)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:05:19.475Z,171338791947500
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 3♣, J♥.",2024-04-17T21:05:16.678Z,171338791667800
+"-- ending hand #17 --",2024-04-17T21:05:15.833Z,171338791583302
+"""Cabes805 @ -xtTmiLonr"" collected 150 from pot",2024-04-17T21:05:15.833Z,171338791583301
+"Uncalled bet of 1285 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:05:15.833Z,171338791583300
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:05:14.948Z,171338791494800
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:05:14.083Z,171338791408300
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:05:11.799Z,171338791179900
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:05:10.852Z,171338791085200
+"""Cabes805 @ -xtTmiLonr"" raises to 1345 and go all in",2024-04-17T21:05:08.423Z,171338790842300
+"""az505 @ bapGZYUk_z"" posts a big blind of 60",2024-04-17T21:05:00.067Z,171338790006708
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 30",2024-04-17T21:05:00.067Z,171338790006707
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1345) | #2 ""robq94 @ ULR2Ksq9EW"" (1685) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2420) | #4 ""mori2627 @ THzJmqlswQ"" (1020) | #5 ""az505 @ bapGZYUk_z"" (530)",2024-04-17T21:05:00.067Z,171338790006701
+"-- starting hand #17 (id: qk2b1xxurowa)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:05:00.067Z,171338790006700
+"""Cabes805 @ -xtTmiLonr"" shows a 9♦, 2♥.",2024-04-17T21:04:58.461Z,171338789846100
+"-- ending hand #16 --",2024-04-17T21:04:56.403Z,171338789640302
+"""az505 @ bapGZYUk_z"" collected 150 from pot",2024-04-17T21:04:56.403Z,171338789640301
+"Uncalled bet of 380 returned to ""az505 @ bapGZYUk_z""",2024-04-17T21:04:56.403Z,171338789640300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:04:55.539Z,171338789553900
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:04:52.309Z,171338789230900
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:04:51.315Z,171338789131500
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T21:04:44.372Z,171338788437200
+"""az505 @ bapGZYUk_z"" raises to 440 and go all in",2024-04-17T21:04:43.360Z,171338788336000
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 60",2024-04-17T21:04:38.578Z,171338787857808
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 30",2024-04-17T21:04:38.578Z,171338787857807
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1345) | #2 ""robq94 @ ULR2Ksq9EW"" (1685) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2450) | #4 ""mori2627 @ THzJmqlswQ"" (1080) | #5 ""az505 @ bapGZYUk_z"" (440)",2024-04-17T21:04:38.578Z,171338787857801
+"-- starting hand #16 (id: 5sc1iapufxhn)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T21:04:38.578Z,171338787857800
+"-- ending hand #15 --",2024-04-17T21:04:32.568Z,171338787256802
+"""robq94 @ ULR2Ksq9EW"" collected 360 from pot with Two Pair, K's & 8's (combination: K♥, K♦, 8♠, 8♥, 7♠)",2024-04-17T21:04:32.568Z,171338787256801
+"""robq94 @ ULR2Ksq9EW"" shows a 3♠, 8♠.",2024-04-17T21:04:32.568Z,171338787256800
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:04:31.699Z,171338787169900
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:04:30.591Z,171338787059100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:04:23.287Z,171338786328700
+"River: K♥, 7♠, 6♦, 8♥ [K♦]",2024-04-17T21:04:20.924Z,171338786092400
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-17T21:04:20.112Z,171338786011200
+"""Cabes805 @ -xtTmiLonr"" calls 60",2024-04-17T21:04:16.746Z,171338785674600
+"""🆁🅸🆇 @ oRqSMSWW61"" bets 60",2024-04-17T21:04:14.611Z,171338785461100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:04:12.021Z,171338785202100
+"Turn: K♥, 7♠, 6♦ [8♥]",2024-04-17T21:04:09.943Z,171338784994300
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:04:09.112Z,171338784911200
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:04:06.603Z,171338784660300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:04:05.174Z,171338784517400
+"Flop:  [K♥, 7♠, 6♦]",2024-04-17T21:03:57.934Z,171338783793400
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:03:57.116Z,171338783711600
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-17T21:03:55.551Z,171338783555100
+"""Cabes805 @ -xtTmiLonr"" calls 60",2024-04-17T21:03:52.059Z,171338783205900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:03:48.611Z,171338782861100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:03:47.707Z,171338782770700
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 60",2024-04-17T21:03:43.805Z,171338782380510
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 30",2024-04-17T21:03:43.805Z,171338782380509
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1465) | #2 ""robq94 @ ULR2Ksq9EW"" (1445) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2570) | #4 ""mori2627 @ THzJmqlswQ"" (1080) | #5 ""az505 @ bapGZYUk_z"" (440)",2024-04-17T21:03:43.805Z,171338782380503
+"-- starting hand #15 (id: ffz0we4kzhid)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T21:03:43.805Z,171338782380502
+"The game's big blind was changed from 40 to 60.",2024-04-17T21:03:43.805Z,171338782380501
+"The game's small blind was changed from 20 to 30.",2024-04-17T21:03:43.805Z,171338782380500
+"-- ending hand #14 --",2024-04-17T21:03:37.797Z,171338781779702
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 1200 from pot with Full House, 8's over A's (combination: 8♦, 8♠, 8♥, A♦, A♥)",2024-04-17T21:03:37.797Z,171338781779701
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 8♦, A♦.",2024-04-17T21:03:37.797Z,171338781779700
+"""az505 @ bapGZYUk_z"" calls 80",2024-04-17T21:03:36.889Z,171338781688900
+"""🆁🅸🆇 @ oRqSMSWW61"" bets 80",2024-04-17T21:03:35.262Z,171338781526200
+"River: 8♠, 10♠, A♥, 4♦ [8♥]",2024-04-17T21:03:25.560Z,171338780556000
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T21:03:24.731Z,171338780473100
+"""az505 @ bapGZYUk_z"" calls 120",2024-04-17T21:03:22.101Z,171338780210100
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 120",2024-04-17T21:03:19.612Z,171338779961200
+"""Cabes805 @ -xtTmiLonr"" bets 40",2024-04-17T21:03:12.669Z,171338779266900
+"Turn: 8♠, 10♠, A♥ [4♦]",2024-04-17T21:03:10.546Z,171338779054600
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:03:09.651Z,171338778965100
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:03:07.559Z,171338778755900
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:03:04.717Z,171338778471700
+"Flop:  [8♠, 10♠, A♥]",2024-04-17T21:02:59.704Z,171338777970400
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 240",2024-04-17T21:02:58.878Z,171338777887800
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:02:53.764Z,171338777376400
+"""Cabes805 @ -xtTmiLonr"" calls 240",2024-04-17T21:02:52.729Z,171338777272900
+"""az505 @ bapGZYUk_z"" raises to 240",2024-04-17T21:02:50.271Z,171338777027100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:02:43.944Z,171338776394400
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 80",2024-04-17T21:02:42.721Z,171338776272100
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 40",2024-04-17T21:02:40.055Z,171338776005508
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 20",2024-04-17T21:02:40.055Z,171338776005507
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1745) | #2 ""robq94 @ ULR2Ksq9EW"" (1485) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1810) | #4 ""mori2627 @ THzJmqlswQ"" (1080) | #5 ""az505 @ bapGZYUk_z"" (880)",2024-04-17T21:02:40.055Z,171338776005501
+"-- starting hand #14 (id: 2xlsqw5pjvwj)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T21:02:40.055Z,171338776005500
+"-- ending hand #13 --",2024-04-17T21:02:34.051Z,171338775405103
+"""Cabes805 @ -xtTmiLonr"" shows a A♦, 9♣.",2024-04-17T21:02:34.051Z,171338775405102
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 500 from pot with Two Pair, Q's & 6's (combination: Q♥, Q♠, 6♥, 6♦, A♠)",2024-04-17T21:02:34.051Z,171338775405101
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 6♥, A♠.",2024-04-17T21:02:34.051Z,171338775405100
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:02:33.221Z,171338775322100
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:02:31.381Z,171338775138100
+"River: J♠, 6♦, 8♦, Q♥ [Q♠]",2024-04-17T21:02:29.364Z,171338774936400
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 125",2024-04-17T21:02:28.497Z,171338774849700
+"""Cabes805 @ -xtTmiLonr"" bets 125",2024-04-17T21:02:27.106Z,171338774710600
+"Turn: J♠, 6♦, 8♦ [Q♥]",2024-04-17T21:02:21.952Z,171338774195200
+"""🆁🅸🆇 @ oRqSMSWW61"" checks",2024-04-17T21:02:21.087Z,171338774108700
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:02:19.495Z,171338773949500
+"Flop:  [J♠, 6♦, 8♦]",2024-04-17T21:02:13.957Z,171338773395700
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 115",2024-04-17T21:02:13.132Z,171338773313200
+"""Cabes805 @ -xtTmiLonr"" raises to 115",2024-04-17T21:02:11.477Z,171338773147700
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:02:07.154Z,171338772715400
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:02:05.441Z,171338772544100
+"""🆁🅸🆇 @ oRqSMSWW61"" calls 40",2024-04-17T21:02:04.300Z,171338772430000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:01:58.910Z,171338771891000
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 40",2024-04-17T21:01:52.930Z,171338771293008
+"""az505 @ bapGZYUk_z"" posts a small blind of 20",2024-04-17T21:01:52.930Z,171338771293007
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1985) | #2 ""robq94 @ ULR2Ksq9EW"" (1485) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1550) | #4 ""mori2627 @ THzJmqlswQ"" (1080) | #5 ""az505 @ bapGZYUk_z"" (900)",2024-04-17T21:01:52.930Z,171338771293001
+"-- starting hand #13 (id: iatelsf5aenm)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T21:01:52.930Z,171338771293000
+"-- ending hand #12 --",2024-04-17T21:01:46.919Z,171338770691904
+"""robq94 @ ULR2Ksq9EW"" collected 110 from pot with K High (combination: K♥, Q♥, J♦, 7♥, 6♦)",2024-04-17T21:01:46.919Z,171338770691903
+"""robq94 @ ULR2Ksq9EW"" shows a Q♥, 7♥.",2024-04-17T21:01:46.919Z,171338770691902
+"""Cabes805 @ -xtTmiLonr"" collected 110 from pot with K High (combination: K♥, Q♠, J♦, 7♣, 6♦)",2024-04-17T21:01:46.919Z,171338770691901
+"""Cabes805 @ -xtTmiLonr"" shows a Q♠, 7♣.",2024-04-17T21:01:46.919Z,171338770691900
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:01:46.089Z,171338770608900
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:01:44.576Z,171338770457600
+"River: K♥, 3♣, J♦, 5♠ [6♦]",2024-04-17T21:01:42.396Z,171338770239600
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:01:41.550Z,171338770155000
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-17T21:01:32.073Z,171338769207300
+"""Cabes805 @ -xtTmiLonr"" bets 40",2024-04-17T21:01:30.416Z,171338769041600
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:01:27.540Z,171338768754000
+"Turn: K♥, 3♣, J♦ [5♠]",2024-04-17T21:01:25.769Z,171338768576900
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:01:24.963Z,171338768496300
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:01:23.914Z,171338768391400
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:01:22.609Z,171338768260900
+"Flop:  [K♥, 3♣, J♦]",2024-04-17T21:01:20.963Z,171338768096300
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T21:01:20.131Z,171338768013100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:01:19.170Z,171338767917000
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:01:18.212Z,171338767821200
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-17T21:01:17.287Z,171338767728700
+"""Cabes805 @ -xtTmiLonr"" calls 40",2024-04-17T21:01:16.223Z,171338767622300
+"""az505 @ bapGZYUk_z"" posts a big blind of 40",2024-04-17T21:01:12.612Z,171338767261208
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 20",2024-04-17T21:01:12.612Z,171338767261207
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1955) | #2 ""robq94 @ ULR2Ksq9EW"" (1455) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1550) | #4 ""mori2627 @ THzJmqlswQ"" (1100) | #5 ""az505 @ bapGZYUk_z"" (940)",2024-04-17T21:01:12.612Z,171338767261201
+"-- starting hand #12 (id: smoz6a5utzpy)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T21:01:12.612Z,171338767261200
+"-- ending hand #11 --",2024-04-17T21:01:09.701Z,171338766970102
+"""Cabes805 @ -xtTmiLonr"" collected 290 from pot",2024-04-17T21:01:09.701Z,171338766970101
+"Uncalled bet of 145 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T21:01:09.701Z,171338766970100
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T21:01:08.810Z,171338766881000
+"""Cabes805 @ -xtTmiLonr"" bets 145",2024-04-17T21:01:02.679Z,171338766267900
+"Turn: 2♣, 9♠, Q♠ [2♥]",2024-04-17T21:00:56.734Z,171338765673400
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T21:00:55.904Z,171338765590400
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T21:00:54.524Z,171338765452400
+"Flop:  [2♣, 9♠, Q♠]",2024-04-17T21:00:51.061Z,171338765106100
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T21:00:50.255Z,171338765025500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T21:00:48.298Z,171338764829800
+"""robq94 @ ULR2Ksq9EW"" calls 115",2024-04-17T21:00:47.351Z,171338764735100
+"""Cabes805 @ -xtTmiLonr"" raises to 115",2024-04-17T21:00:45.494Z,171338764549400
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T21:00:37.325Z,171338763732500
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 40",2024-04-17T21:00:35.517Z,171338763551708
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 20",2024-04-17T21:00:35.517Z,171338763551707
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1780) | #2 ""robq94 @ ULR2Ksq9EW"" (1570) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1570) | #4 ""mori2627 @ THzJmqlswQ"" (1140) | #5 ""az505 @ bapGZYUk_z"" (940)",2024-04-17T21:00:35.517Z,171338763551701
+"-- starting hand #11 (id: nhlyem1vxadk)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T21:00:35.517Z,171338763551700
+"-- ending hand #10 --",2024-04-17T21:00:29.495Z,171338762949501
+"""mori2627 @ THzJmqlswQ"" collected 1140 from pot with Straight, K High (combination: K♥, Q♥, J♣, 10♥, 9♠)",2024-04-17T21:00:29.495Z,171338762949500
+"River: 9♠, Q♥, J♣, 4♠ [8♣]",2024-04-17T21:00:25.492Z,171338762549200
+"Turn: 9♠, Q♥, J♣ [4♠]",2024-04-17T21:00:21.459Z,171338762145900
+"""mori2627 @ THzJmqlswQ"" shows a 10♥, K♥.",2024-04-17T21:00:17.389Z,171338761738901
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a 6♣, 6♦.",2024-04-17T21:00:17.389Z,171338761738900
+"""mori2627 @ THzJmqlswQ"" calls 445 and go all in",2024-04-17T21:00:16.562Z,171338761656200
+"""🆁🅸🆇 @ oRqSMSWW61"" bets 445",2024-04-17T21:00:14.098Z,171338761409800
+"Flop:  [9♠, Q♥, J♣]",2024-04-17T21:00:01.324Z,171338760132400
+"""mori2627 @ THzJmqlswQ"" calls 115",2024-04-17T21:00:00.478Z,171338760047800
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 115",2024-04-17T20:59:54.214Z,171338759421400
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:59:45.787Z,171338758578700
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:59:44.749Z,171338758474900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:59:43.809Z,171338758380900
+"""mori2627 @ THzJmqlswQ"" calls 40",2024-04-17T20:59:42.696Z,171338758269600
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 40",2024-04-17T20:59:36.793Z,171338757679308
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 20",2024-04-17T20:59:36.793Z,171338757679307
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1780) | #2 ""robq94 @ ULR2Ksq9EW"" (1590) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2130) | #4 ""mori2627 @ THzJmqlswQ"" (560) | #5 ""az505 @ bapGZYUk_z"" (940)",2024-04-17T20:59:36.793Z,171338757679301
+"-- starting hand #10 (id: orkrw0qhky2q)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T20:59:36.793Z,171338757679300
+"-- ending hand #9 --",2024-04-17T20:59:33.850Z,171338757385002
+"""Cabes805 @ -xtTmiLonr"" collected 440 from pot",2024-04-17T20:59:33.850Z,171338757385001
+"Uncalled bet of 1340 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T20:59:33.850Z,171338757385000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:59:33.040Z,171338757304000
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:59:22.812Z,171338756281200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:59:15.661Z,171338755566100
+"""Cabes805 @ -xtTmiLonr"" raises to 1500 and go all in",2024-04-17T20:59:12.999Z,171338755299900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:59:09.000Z,171338754900000
+"""mori2627 @ THzJmqlswQ"" raises to 160",2024-04-17T20:59:07.486Z,171338754748600
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 80",2024-04-17T20:59:01.925Z,171338754192500
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 40",2024-04-17T20:58:56.010Z,171338753601008
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 20",2024-04-17T20:58:56.010Z,171338753601007
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1500) | #2 ""robq94 @ ULR2Ksq9EW"" (1630) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2210) | #4 ""mori2627 @ THzJmqlswQ"" (720) | #5 ""az505 @ bapGZYUk_z"" (940)",2024-04-17T20:58:56.010Z,171338753601001
+"-- starting hand #9 (id: pk0fl2wudn5m)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T20:58:56.010Z,171338753601000
+"-- ending hand #8 --",2024-04-17T20:58:49.998Z,171338752999803
+"""Cabes805 @ -xtTmiLonr"" shows a K♥, A♥.",2024-04-17T20:58:49.998Z,171338752999802
+"""robq94 @ ULR2Ksq9EW"" collected 1630 from pot with Two Pair, J's & 8's (combination: J♥, J♣, 8♣, 8♠, 6♠)",2024-04-17T20:58:49.998Z,171338752999801
+"""robq94 @ ULR2Ksq9EW"" shows a J♥, 8♣.",2024-04-17T20:58:49.998Z,171338752999800
+"""robq94 @ ULR2Ksq9EW"" calls 225 and go all in",2024-04-17T20:58:49.144Z,171338752914400
+"""Cabes805 @ -xtTmiLonr"" bets 225",2024-04-17T20:58:47.843Z,171338752784300
+"River: J♣, 8♠, 6♠, 2♥ [4♠]",2024-04-17T20:58:38.265Z,171338751826500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T20:58:37.456Z,171338751745600
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T20:58:35.139Z,171338751513900
+"Turn: J♣, 8♠, 6♠ [2♥]",2024-04-17T20:58:32.259Z,171338751225900
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:58:31.434Z,171338751143400
+"""robq94 @ ULR2Ksq9EW"" calls 295",2024-04-17T20:58:29.454Z,171338750945400
+"""Cabes805 @ -xtTmiLonr"" bets 295",2024-04-17T20:58:27.604Z,171338750760400
+"Flop:  [J♣, 8♠, 6♠]",2024-04-17T20:58:22.051Z,171338750205100
+"""mori2627 @ THzJmqlswQ"" calls 190",2024-04-17T20:58:21.230Z,171338750123000
+"""robq94 @ ULR2Ksq9EW"" calls 190",2024-04-17T20:58:18.915Z,171338749891500
+"""Cabes805 @ -xtTmiLonr"" raises to 190",2024-04-17T20:58:16.370Z,171338749637000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:58:11.331Z,171338749133100
+"""mori2627 @ THzJmqlswQ"" raises to 80",2024-04-17T20:58:10.215Z,171338749021500
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:58:05.096Z,171338748509600
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-17T20:58:04.139Z,171338748413900
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 40",2024-04-17T20:58:02.034Z,171338748203412
+"""az505 @ bapGZYUk_z"" posts a small blind of 20",2024-04-17T20:58:02.034Z,171338748203411
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2210) | #2 ""robq94 @ ULR2Ksq9EW"" (710) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (2210) | #4 ""mori2627 @ THzJmqlswQ"" (910) | #5 ""az505 @ bapGZYUk_z"" (960)",2024-04-17T20:58:02.034Z,171338748203405
+"-- starting hand #8 (id: ax4zzzfi6zpa)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T20:58:02.034Z,171338748203404
+"The game's big blind was changed from 20 to 40.",2024-04-17T20:58:02.034Z,171338748203403
+"The game's small blind was changed from 10 to 20.",2024-04-17T20:58:02.034Z,171338748203402
+"The player ""Voice @ wYIAdQziQD"" quits the game with a stack of 0.",2024-04-17T20:58:02.034Z,171338748203401
+"The player ""albs @ ssNGMVFlqq"" quits the game with a stack of 0.",2024-04-17T20:58:02.034Z,171338748203400
+"-- ending hand #7 --",2024-04-17T20:57:56.024Z,171338747602402
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 580 from pot with Pair, K's (combination: K♣, K♠, 8♣, 7♥, 6♥)",2024-04-17T20:57:56.024Z,171338747602401
+"""🆁🅸🆇 @ oRqSMSWW61"" collected 1410 from pot with Pair, K's (combination: K♣, K♠, 8♣, 7♥, 6♥)",2024-04-17T20:57:56.024Z,171338747602400
+"River: 4♥, 6♥, 8♣, 7♥ [2♣]",2024-04-17T20:57:52.021Z,171338747202100
+"Turn: 4♥, 6♥, 8♣ [7♥]",2024-04-17T20:57:48.013Z,171338746801300
+"Flop:  [4♥, 6♥, 8♣]",2024-04-17T20:57:43.956Z,171338746395600
+"""albs @ ssNGMVFlqq"" shows a A♦, 4♦.",2024-04-17T20:57:39.949Z,171338745994903
+"""Voice @ wYIAdQziQD"" shows a A♥, 10♦.",2024-04-17T20:57:39.949Z,171338745994902
+"""🆁🅸🆇 @ oRqSMSWW61"" shows a K♣, K♠.",2024-04-17T20:57:39.949Z,171338745994901
+"Uncalled bet of 220 returned to ""🆁🅸🆇 @ oRqSMSWW61""",2024-04-17T20:57:39.949Z,171338745994900
+"""albs @ ssNGMVFlqq"" calls 750 and go all in",2024-04-17T20:57:39.132Z,171338745913200
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:57:36.470Z,171338745647000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:57:35.283Z,171338745528300
+"""🆁🅸🆇 @ oRqSMSWW61"" raises to 970 and go all in",2024-04-17T20:57:34.325Z,171338745432500
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:57:30.378Z,171338745037800
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:57:29.380Z,171338744938000
+"""albs @ ssNGMVFlqq"" calls 460",2024-04-17T20:57:25.108Z,171338744510800
+"""Voice @ wYIAdQziQD"" raises to 460 and go all in",2024-04-17T20:57:21.635Z,171338744163500
+"""az505 @ bapGZYUk_z"" posts a big blind of 20",2024-04-17T20:57:18.775Z,171338743877510
+"""mori2627 @ THzJmqlswQ"" posts a small blind of 10",2024-04-17T20:57:18.775Z,171338743877509
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2210) | #2 ""robq94 @ ULR2Ksq9EW"" (710) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (970) | #4 ""mori2627 @ THzJmqlswQ"" (920) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (460) | #7 ""albs @ ssNGMVFlqq"" (750)",2024-04-17T20:57:18.775Z,171338743877501
+"-- starting hand #7 (id: zet20lhhtunl)  (No Limit Texas Hold'em) (dealer: ""🆁🅸🆇 @ oRqSMSWW61"") --",2024-04-17T20:57:18.775Z,171338743877500
+"-- ending hand #6 --",2024-04-17T20:57:12.763Z,171338743276301
+"""albs @ ssNGMVFlqq"" collected 750 from pot with Two Pair, A's & 10's (combination: A♠, A♥, 10♠, 10♦, J♦)",2024-04-17T20:57:12.763Z,171338743276300
+"River: 10♠, J♦, 10♦, 8♠ [A♥]",2024-04-17T20:57:08.752Z,171338742875200
+"Turn: 10♠, J♦, 10♦ [8♠]",2024-04-17T20:57:04.693Z,171338742469300
+"Flop:  [10♠, J♦, 10♦]",2024-04-17T20:57:00.654Z,171338742065400
+"""albs @ ssNGMVFlqq"" shows a A♠, 7♦.",2024-04-17T20:56:56.573Z,171338741657302
+"""Voice @ wYIAdQziQD"" shows a J♥, 9♣.",2024-04-17T20:56:56.573Z,171338741657301
+"Uncalled bet of 460 returned to ""Voice @ wYIAdQziQD""",2024-04-17T20:56:56.573Z,171338741657300
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:56:55.764Z,171338741576400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:56:53.551Z,171338741355100
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:56:52.598Z,171338741259800
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:56:49.338Z,171338740933800
+"""albs @ ssNGMVFlqq"" calls 360 and go all in",2024-04-17T20:56:48.351Z,171338740835100
+"""Voice @ wYIAdQziQD"" raises to 820 and go all in",2024-04-17T20:56:44.960Z,171338740496000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:56:41.721Z,171338740172100
+"""mori2627 @ THzJmqlswQ"" posts a big blind of 20",2024-04-17T20:56:40.229Z,171338740022910
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a small blind of 10",2024-04-17T20:56:40.229Z,171338740022909
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2210) | #2 ""robq94 @ ULR2Ksq9EW"" (710) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (980) | #4 ""mori2627 @ THzJmqlswQ"" (940) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (820) | #7 ""albs @ ssNGMVFlqq"" (360)",2024-04-17T20:56:40.229Z,171338740022901
+"-- starting hand #6 (id: 0i5uc0hgdvzf)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-17T20:56:40.229Z,171338740022900
+"-- ending hand #5 --",2024-04-17T20:56:37.314Z,171338739731402
+"""Voice @ wYIAdQziQD"" collected 50 from pot",2024-04-17T20:56:37.314Z,171338739731401
+"Uncalled bet of 770 returned to ""Voice @ wYIAdQziQD""",2024-04-17T20:56:37.314Z,171338739731400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:56:36.503Z,171338739650300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:56:35.012Z,171338739501200
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:56:31.998Z,171338739199800
+"""albs @ ssNGMVFlqq"" folds",2024-04-17T20:56:26.928Z,171338738692800
+"""Voice @ wYIAdQziQD"" raises to 790 and go all in",2024-04-17T20:56:23.940Z,171338738394000
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:56:20.082Z,171338738008200
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:56:19.177Z,171338737917700
+"""🆁🅸🆇 @ oRqSMSWW61"" posts a big blind of 20",2024-04-17T20:56:17.011Z,171338737701110
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 10",2024-04-17T20:56:17.011Z,171338737701109
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2210) | #2 ""robq94 @ ULR2Ksq9EW"" (720) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1000) | #4 ""mori2627 @ THzJmqlswQ"" (940) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (790) | #7 ""albs @ ssNGMVFlqq"" (360)",2024-04-17T20:56:17.011Z,171338737701101
+"-- starting hand #5 (id: aaerfuanmqua)  (No Limit Texas Hold'em) (dealer: ""Cabes805 @ -xtTmiLonr"") --",2024-04-17T20:56:17.011Z,171338737701100
+"""Cabes805 @ -xtTmiLonr"" shows a 9♣, 2♥.",2024-04-17T20:56:11.406Z,171338737140600
+"-- ending hand #4 --",2024-04-17T20:56:10.488Z,171338737048801
+"""Voice @ wYIAdQziQD"" collected 790 from pot with Straight, Q High (combination: Q♣, J♦, 10♦, 9♥, 8♣)",2024-04-17T20:56:10.488Z,171338737048800
+"River: 9♥, 9♦, 10♣, J♦ [8♣]",2024-04-17T20:56:06.443Z,171338736644300
+"Turn: 9♥, 9♦, 10♣ [J♦]",2024-04-17T20:56:02.438Z,171338736243800
+"Flop:  [9♥, 9♦, 10♣]",2024-04-17T20:55:58.433Z,171338735843300
+"""albs @ ssNGMVFlqq"" shows a A♦, 4♥.",2024-04-17T20:55:54.389Z,171338735438902
+"""Voice @ wYIAdQziQD"" shows a 10♦, Q♣.",2024-04-17T20:55:54.389Z,171338735438901
+"Uncalled bet of 360 returned to ""albs @ ssNGMVFlqq""",2024-04-17T20:55:54.389Z,171338735438900
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:55:53.537Z,171338735353700
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:55:48.613Z,171338734861300
+"""albs @ ssNGMVFlqq"" raises to 740 and go all in",2024-04-17T20:55:47.640Z,171338734764000
+"""Voice @ wYIAdQziQD"" raises to 380 and go all in",2024-04-17T20:55:43.857Z,171338734385700
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:55:40.650Z,171338734065000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:55:39.759Z,171338733975900
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:55:38.780Z,171338733878000
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 20",2024-04-17T20:55:35.466Z,171338733546610
+"""Cabes805 @ -xtTmiLonr"" posts a small blind of 10",2024-04-17T20:55:35.466Z,171338733546609
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (2220) | #2 ""robq94 @ ULR2Ksq9EW"" (740) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1000) | #4 ""mori2627 @ THzJmqlswQ"" (940) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (380) | #7 ""albs @ ssNGMVFlqq"" (740)",2024-04-17T20:55:35.466Z,171338733546601
+"-- starting hand #4 (id: 0p3jcvzrhhfn)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-17T20:55:35.466Z,171338733546600
+"-- ending hand #3 --",2024-04-17T20:55:29.460Z,171338732946005
+"""Cabes805 @ -xtTmiLonr"" collected 480 from pot with Pair, 7's (combination: 7♦, 7♥, A♣, Q♥, J♦)",2024-04-17T20:55:29.460Z,171338732946004
+"""Cabes805 @ -xtTmiLonr"" shows a A♣, J♦.",2024-04-17T20:55:29.460Z,171338732946003
+"""Voice @ wYIAdQziQD"" collected 380 from pot with Two Pair, 8's & 7's (combination: 8♠, 8♣, 7♦, 7♥, K♠)",2024-04-17T20:55:29.460Z,171338732946002
+"""Voice @ wYIAdQziQD"" shows a K♠, 8♠.",2024-04-17T20:55:29.460Z,171338732946001
+"Uncalled bet of 145 returned to ""Cabes805 @ -xtTmiLonr""",2024-04-17T20:55:29.460Z,171338732946000
+"""albs @ ssNGMVFlqq"" folds",2024-04-17T20:55:28.653Z,171338732865300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:55:27.693Z,171338732769300
+"""Cabes805 @ -xtTmiLonr"" bets 145",2024-04-17T20:55:25.691Z,171338732569100
+"""albs @ ssNGMVFlqq"" checks",2024-04-17T20:55:18.528Z,171338731852800
+"River: Q♥, 7♦, 3♥, 8♣ [7♥]",2024-04-17T20:55:15.322Z,171338731532200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T20:55:14.497Z,171338731449700
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T20:55:13.156Z,171338731315600
+"""albs @ ssNGMVFlqq"" checks",2024-04-17T20:55:10.382Z,171338731038200
+"Turn: Q♥, 7♦, 3♥ [8♣]",2024-04-17T20:55:07.909Z,171338730790900
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-17T20:55:07.049Z,171338730704900
+"""Cabes805 @ -xtTmiLonr"" checks",2024-04-17T20:55:05.600Z,171338730560000
+"""albs @ ssNGMVFlqq"" checks",2024-04-17T20:55:01.068Z,171338730106800
+"Flop:  [Q♥, 7♦, 3♥]",2024-04-17T20:54:49.733Z,171338728973300
+"""albs @ ssNGMVFlqq"" calls 240",2024-04-17T20:54:48.917Z,171338728891700
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:54:46.654Z,171338728665400
+"""robq94 @ ULR2Ksq9EW"" calls 240",2024-04-17T20:54:45.445Z,171338728544500
+"""Cabes805 @ -xtTmiLonr"" raises to 240",2024-04-17T20:54:37.560Z,171338727756000
+"""albs @ ssNGMVFlqq"" calls 80",2024-04-17T20:54:31.519Z,171338727151900
+"""Voice @ wYIAdQziQD"" raises to 80 and go all in",2024-04-17T20:54:25.563Z,171338726556300
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:54:22.538Z,171338726253800
+"""mori2627 @ THzJmqlswQ"" raises to 60",2024-04-17T20:54:21.396Z,171338726139600
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:54:15.252Z,171338725525200
+"""robq94 @ ULR2Ksq9EW"" calls 20",2024-04-17T20:54:09.598Z,171338724959800
+"""Cabes805 @ -xtTmiLonr"" posts a big blind of 20",2024-04-17T20:54:08.029Z,171338724802910
+"""albs @ ssNGMVFlqq"" posts a small blind of 10",2024-04-17T20:54:08.029Z,171338724802909
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1980) | #2 ""robq94 @ ULR2Ksq9EW"" (980) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1000) | #4 ""mori2627 @ THzJmqlswQ"" (1000) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (80) | #7 ""albs @ ssNGMVFlqq"" (980)",2024-04-17T20:54:08.029Z,171338724802901
+"-- starting hand #3 (id: cvbsfthqzaqi)  (No Limit Texas Hold'em) (dealer: ""Voice @ wYIAdQziQD"") --",2024-04-17T20:54:08.029Z,171338724802900
+"-- ending hand #2 --",2024-04-17T20:54:02.018Z,171338724201801
+"""Cabes805 @ -xtTmiLonr"" collected 1980 from pot with Two Pair, Q's & 7's (combination: Q♥, Q♣, 7♠, 7♥, K♣)",2024-04-17T20:54:02.018Z,171338724201800
+"River: Q♥, K♣, 2♦, 9♠ [Q♣]",2024-04-17T20:53:57.979Z,171338723797900
+"Turn: Q♥, K♣, 2♦ [9♠]",2024-04-17T20:53:53.975Z,171338723397500
+"Flop:  [Q♥, K♣, 2♦]",2024-04-17T20:53:49.924Z,171338722992400
+"""Voice @ wYIAdQziQD"" shows a 4♦, 5♠.",2024-04-17T20:53:45.914Z,171338722591402
+"""Cabes805 @ -xtTmiLonr"" shows a 7♠, 7♥.",2024-04-17T20:53:45.914Z,171338722591401
+"Uncalled bet of 20 returned to ""Voice @ wYIAdQziQD""",2024-04-17T20:53:45.914Z,171338722591400
+"""Cabes805 @ -xtTmiLonr"" calls 980 and go all in",2024-04-17T20:53:44.992Z,171338722499200
+"""albs @ ssNGMVFlqq"" folds",2024-04-17T20:53:41.909Z,171338722190900
+"""Voice @ wYIAdQziQD"" raises to 1000",2024-04-17T20:53:40.999Z,171338722099900
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:53:38.059Z,171338721805900
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:53:36.924Z,171338721692400
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:53:35.968Z,171338721596800
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:53:31.703Z,171338721170300
+"""Cabes805 @ -xtTmiLonr"" raises to 101",2024-04-17T20:53:30.761Z,171338721076100
+"""albs @ ssNGMVFlqq"" posts a big blind of 20",2024-04-17T20:53:18.878Z,171338719887810
+"""Voice @ wYIAdQziQD"" posts a small blind of 10",2024-04-17T20:53:18.878Z,171338719887809
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (980) | #2 ""robq94 @ ULR2Ksq9EW"" (980) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1000) | #4 ""mori2627 @ THzJmqlswQ"" (1000) | #5 ""az505 @ bapGZYUk_z"" (980) | #6 ""Voice @ wYIAdQziQD"" (1060) | #7 ""albs @ ssNGMVFlqq"" (1000)",2024-04-17T20:53:18.878Z,171338719887801
+"-- starting hand #2 (id: 3doyobipryhp)  (No Limit Texas Hold'em) (dealer: ""az505 @ bapGZYUk_z"") --",2024-04-17T20:53:18.878Z,171338719887800
+"-- ending hand #1 --",2024-04-17T20:53:15.875Z,171338719587502
+"""Voice @ wYIAdQziQD"" collected 80 from pot",2024-04-17T20:53:15.875Z,171338719587501
+"Uncalled bet of 980 returned to ""Voice @ wYIAdQziQD""",2024-04-17T20:53:15.875Z,171338719587500
+"""az505 @ bapGZYUk_z"" folds",2024-04-17T20:53:15.010Z,171338719501000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-17T20:53:13.859Z,171338719385900
+"""Cabes805 @ -xtTmiLonr"" folds",2024-04-17T20:53:09.313Z,171338718931300
+"""Voice @ wYIAdQziQD"" bets 980 and go all in",2024-04-17T20:53:02.733Z,171338718273300
+"""az505 @ bapGZYUk_z"" checks",2024-04-17T20:52:59.950Z,171338717995000
+"Flop:  [J♦, 9♠, A♠]",2024-04-17T20:52:57.831Z,171338717783100
+"""Voice @ wYIAdQziQD"" checks",2024-04-17T20:52:56.933Z,171338717693300
+"""az505 @ bapGZYUk_z"" calls 20",2024-04-17T20:52:41.100Z,171338716110000
+"""mori2627 @ THzJmqlswQ"" folds",2024-04-17T20:52:40.196Z,171338716019600
+"""🆁🅸🆇 @ oRqSMSWW61"" folds",2024-04-17T20:52:39.034Z,171338715903400
+"""robq94 @ ULR2Ksq9EW"" calls 20",2024-04-17T20:52:38.059Z,171338715805900
+"""Cabes805 @ -xtTmiLonr"" calls 20",2024-04-17T20:52:36.716Z,171338715671600
+"""albs @ ssNGMVFlqq"" folds",2024-04-17T20:52:35.712Z,171338715571200
+"""Voice @ wYIAdQziQD"" posts a big blind of 20",2024-04-17T20:52:20.675Z,171338714067517
+"""az505 @ bapGZYUk_z"" posts a small blind of 10",2024-04-17T20:52:20.675Z,171338714067516
+"Player stacks: #1 ""Cabes805 @ -xtTmiLonr"" (1000) | #2 ""robq94 @ ULR2Ksq9EW"" (1000) | #3 ""🆁🅸🆇 @ oRqSMSWW61"" (1000) | #4 ""mori2627 @ THzJmqlswQ"" (1000) | #5 ""az505 @ bapGZYUk_z"" (1000) | #6 ""Voice @ wYIAdQziQD"" (1000) | #7 ""albs @ ssNGMVFlqq"" (1000)",2024-04-17T20:52:20.675Z,171338714067508
+"The player ""albs @ ssNGMVFlqq"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067507
+"The player ""Voice @ wYIAdQziQD"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067506
+"The player ""az505 @ bapGZYUk_z"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067505
+"The player ""mori2627 @ THzJmqlswQ"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067504
+"The player ""🆁🅸🆇 @ oRqSMSWW61"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067503
+"The player ""robq94 @ ULR2Ksq9EW"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067502
+"The player ""Cabes805 @ -xtTmiLonr"" joined the game with a stack of 1000.",2024-04-17T20:52:20.675Z,171338714067501
+"-- starting hand #1 (id: btsu7vd6sox6)  (No Limit Texas Hold'em) (dealer: ""mori2627 @ THzJmqlswQ"") --",2024-04-17T20:52:20.675Z,171338714067500
