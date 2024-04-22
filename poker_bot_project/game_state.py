@@ -2,7 +2,7 @@ import re
 from card import Card
 from opponent import Opponent
 from deck import Deck
-from actions import read_log, get_cards
+# from actions import read_log, get_cards
 
 class Game_State:
 
@@ -17,6 +17,7 @@ class Game_State:
         self.opponents = opponents # list of opponent objects (names + stacks + style)
         self.opponents_in_hand = self.opponents # list of opponent objects in the hand
         self.opponents_to_act = self.opponents_in_hand
+        self.opponents_acted = []
         self.log = log # current log
 
         self.stack = stack
@@ -28,6 +29,7 @@ class Game_State:
         self.is_playing = is_playing # T/F if the bot is playing
         self.bet_to_call = bet_to_call # amount needed to call
         self.player_index = self.player_list.index(self.name) # index of the bot in the player list
+
 
 
 
@@ -43,7 +45,9 @@ class Game_State:
         print("Opponents to act: ")
         for opponent in self.opponents_to_act:
             print(f"{opponent.name} {opponent.stack}")
-
+        print("Opponents acted: ")
+        for opponents in self.opponents_acted:
+            print(f"{opponents.name} {opponents.stack}")
         print(f"log: {self.log}")
         print(f"stack: {self.stack}")
         print(f"big blind: {self.big_blind}")
@@ -69,6 +73,8 @@ class Game_State:
 
         # update opponents in hand
         self.opponents_in_hand = self.opponents
+        self.opponents_to_act = self.opponents_in_hand
+        self.opponents_acted = []
 
         # Update the stack for the bot
         if self.name in player_stacks:
@@ -96,29 +102,32 @@ class Game_State:
         elif small_blind and self.big_blind_index - 1 == self.player_index:
             self.bet_to_call = self.big_blind/2 # when bot is small blind
 
+
+    # helper function to update cards
+    def update_cards(self, cards_list):
+        cards = []
+        cards.append(Card(cards_list[0], cards_list[1]))
+        cards.append(Card(cards_list[2], cards_list[3]))
+        self.cards = cards
         
 
     # FUNCTION to reset game state for a new hand
-    def new_hand(self, player_stacks, big_blind, cards, deck=Deck()):
+    def new_hand(self, player_stacks, big_blind, cards_list, deck=Deck()):
         
         self.update_opponents_and_stacks(player_stacks)
-        self.update_blinds(big_blind)
+        self.update_blinds_and_pot(big_blind)
+        self.update_cards(cards_list)
 
-        self.cards = cards
-
-        self.deck = deck.remove(cards[0]) # removes cards from deck
-        self.deck = deck.remove(cards[1])
+        self.deck = deck.remove(self.cards[0]) # removes cards from deck
+        self.deck = deck.remove(self.cards[1])
         self.playing = True
 
-
-
     
     
-
 
 if __name__ == "__main__":
     game = Game_State("luc1", ["luc1", "luc2"], [Opponent("luc2")],  "Player stacks: #1 luc1 (960) | #2 luc2 (1040)")
     # game.print()
-    game.new_hand({'luc1': 960, "luc2" : 1040}, 20, [Card('2', 'spades'), Card('7', 'hearts')])
+    game.new_hand({'luc1': 960, "luc2" : 1040}, 20, ['2', 'spades', '7', 'hearts'])
     game.print()
 

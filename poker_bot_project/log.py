@@ -26,9 +26,6 @@ from game_state import Game_State
 # check_updates(log, new_log) - determine which function to use
 
 
-# how to tell what position is the bot in? use in setup()
-# maybe read the ledger at beginning of game
-
 
 
 # ----------------- CHECKS START OF NEW HAND FUNCTION -------------------
