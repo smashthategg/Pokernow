@@ -19,6 +19,7 @@ def calculate_stats(dict):
         # showdown true / all games
         WSD = 0
         WTSD = 0
+        numhands = len(dict[players]['stack']) 
         for i in range(0, len(dict[players]['stack']) - 2):
             if dict[players]['showdown'][i]:
                 WSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
@@ -30,8 +31,12 @@ def calculate_stats(dict):
             WSD += last
         else:
             WTSD += last
+        type = 'rec'
+        if WSD > WTSD and numhands > 25:
+            type = 'reg'
         df.update({players: {'VPIP': VPIP, 'SD': SD, 
-                             'WSD': WSD, 'WTSD': WTSD}})
+                             'WSD': WSD, 'WTSD': WTSD,
+                             'numhands': numhands, 'type': type}})
     
     return df
 # VPIP: Voluntarily put into pot        

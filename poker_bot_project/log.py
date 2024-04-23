@@ -17,13 +17,15 @@ from game_state import Game_State
 
 # read_blinds(blinds_string) - TESTED
 
-# is_turn() 
+# read_table_cards(table_cards_string)
 
-# is_updated(log, new_log)
+# check_turn(log, player_name)
+
+# check_log_for_updates(log, new_log)
 
 # update_game_actions(action)
 
-# check_updates(log, new_log) - determine which function to use
+# read_updates(new_lines) - determine which function to use
 
 
 
@@ -71,12 +73,12 @@ def read_blinds(blinds_string):
     if match and match2:
         # match.group(1) captures the player's name
         # match.group(2) captures the numeric value of the big blind
-        return match.group(1), int(match.group(2)), True
+        return [int(match.group(2)), match.group(1), True]
     elif match:
-        return match.group(1), int(match.group(2)), False
+        return [int(match.group(2)), match.group(1), False]
     else:
         # If no match is found, return None or raise an error depending on your error handling preference
-        return None, None, False
+        return [None, None, False]
 
 
 # ----------------- CHECK UPDATES FUNCTION -------------------

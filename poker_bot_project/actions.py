@@ -32,7 +32,10 @@ import time
 
 # fold(driver) # WORKS
 
-# get_cards()
+# get_cards(driver) # WORKS
+
+# close_log(driver) # WORKS
+
 
 
 #----------------- NOTES -------------------
@@ -235,7 +238,7 @@ def fold(driver):
 # ----------------- GET CARDS FUNCTION -------------------
 
 def get_cards(driver):
-        # Find the container that holds the relevant cards
+    # Find the container that holds the relevant cards
     card_container = WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "div.table-player-cards"))
     )
@@ -267,6 +270,11 @@ def get_cards(driver):
             print("One of the elements (value or suit) was not found for a card.")
     
     return cards_list
+
+
+# ----------------- CLOSE LOG FUNCTION -------------------
+def close_log(driver):
+    pass
 
 
 
