@@ -2,6 +2,7 @@ import re
 from card import Card
 from opponent import Opponent
 from deck import Deck
+
 # from actions import read_log, get_cards
 
 class Game_State:
@@ -102,11 +103,10 @@ class Game_State:
     # helper function to update blinds
     def update_blinds_and_pot(self, big_blind, big_blind_name, small_blind=True):
         self.big_blind = big_blind
-        if big_blind_name in self.player_list:
+        if big_blind_name != None and big_blind_name in self.player_list:
             self.big_blind_index = self.player_list.index(big_blind_name)
         else:
-            raise ValueError(f"Player name '{big_blind_name}' not found in player list.")
-        # self.big_blind_index = (self.big_blind_index + 1) % len(self.player_list)
+            self.big_blind_index = self.big_blind_index + 1 % len(self.player_list)
 
         # for updating pot
         if small_blind:
@@ -129,17 +129,17 @@ class Game_State:
         cards.append(Card(cards_list[0], cards_list[1]))
         cards.append(Card(cards_list[2], cards_list[3]))
         self.cards = cards
+        self.deck = Deck()
+        self.deck = self.deck.remove(self.cards[0])
+        self.deck = self.deck.remove(self.cards[1])
         
 
     # FUNCTION to reset game state for a new hand
-    def new_hand(self, player_stacks, big_blind_info, cards_list, deck=Deck()):
+    def new_hand(self, player_stacks, big_blind_info, cards_list):
         
         self.update_opponents_and_stacks(player_stacks)
         self.update_blinds_and_pot(big_blind_info[0], big_blind_info[1], big_blind_info[2])
         self.update_cards(cards_list)
-
-        self.deck = deck.remove(self.cards[0]) # removes cards from deck
-        self.deck = deck.remove(self.cards[1])
         self.playing = True
 
 
@@ -164,7 +164,6 @@ class Game_State:
         return self.is_turn
 
 
-    # UNTESTED
     def check_updated(self, new_log):
         if self.log == new_log:
             return False
@@ -173,28 +172,59 @@ class Game_State:
 
 
     # UNTESTED
-    def check_updates(self, new_log):
-        # This variable will store the earliest point in new_log that matches the start of the old log
-        earliest_match_index = len(new_log)
+    def read_updates(self, new_log):
+            # Find the first instance where the new log diverges from the old log
+        index = 0
+        for i in range(min(len(new_log), len(self.log))):
+            if new_log[i] != self.log[i]:
+                break
+            index += 1
 
-        # We'll check various start points of the old log to find if any part of it is in the new log
-        for start in range(len(self.log)):
-            index = new_log.find(self.log[start:])
-            if index != -1 and index < earliest_match_index:
-                earliest_match_index = index
+        # New entries are everything from this point to the end of the new log
+        new_entries = new_log[index:]
 
-        # Determine the new entries
-        if earliest_match_index != len(new_log):
-            new_entries = new_log[:earliest_match_index]  # New log entries added before part of the old log found
-        else:
-            # If no part of the old log is found in the new log, consider all as new
-            new_entries = new_log
-
-        # Update the log to the new log
+        # Update the log
         self.log = new_log
 
         # Return the new entries
         return new_entries
+    
+
+    def get_bot_position(self):
+        num_players = len(self.player_list)
+        relative_position = (self.player_index - self.big_blind_index - 1) % num_players
+
+        # Define the positions based on the number of players
+        if num_players == 2:
+            # Heads-up play has different naming (SB is also BTN)
+            if relative_position == 0:
+                return 'BTN'  # Small Blind is also the Button
+            elif relative_position == 1:
+                return 'BB'
+        else:
+            # Position names for more than two players
+            if relative_position == 0:
+                return 'SB'
+            elif relative_position == 1:
+                return 'BB'
+            elif relative_position == 2:
+                return 'UTG'
+            elif relative_position == 3:
+                return 'UTG+1'
+            elif relative_position == 4:
+                return 'LJ'
+            elif relative_position == 5:
+                return 'HJ'
+            elif relative_position == 6:
+                return 'CO'
+            elif relative_position == 7:
+                return 'BTN'
+            else:
+                # For tables larger than 9, additional players are usually considered as being in early positions
+                return 'UTG+{}'.format(relative_position - 2)
+    
+
+    
 
     
     

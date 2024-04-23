@@ -9,7 +9,9 @@ from game_state import Game_State
 
 # ----------------- LOG FUNCTIONS -------------------
 
-# read_log(log) - TESTED
+# read_full_log(log) - TESTED
+
+# read_log(driver) - TESTED
 
 # is_new_hand(log) - TESTED
 
@@ -32,7 +34,14 @@ from game_state import Game_State
 
 # ----------------- CHECKS START OF NEW HAND FUNCTION -------------------
 
-def is_new_hand(new_string, substring="starting hand #"):
+def is_new_hand(new_string, substring="posts a big blind of"):
+    # Convert both strings to lower case to make the search case-insensitive
+    new_string = new_string.lower()
+    substring = substring.lower()
+    
+    # Optionally strip whitespace from the new_string
+    new_string = new_string.strip()
+    
     # Use str.find() to search for the substring in the text
     if new_string.find(substring) != -1:
         return True  # Return True if the substring is found
@@ -43,23 +52,23 @@ def is_new_hand(new_string, substring="starting hand #"):
 # ----------------- READ STACKS AND OPPONENTS FUNCTION -------------------
 
 def get_opponents_and_stacks(stacks_string):
-    # dictionary to store player names as keys to stack sizes
+       # Dictionary to store player names as keys to stack sizes
     player_stacks = {}
     
-    # Use regular expression to extract relevant parts of the string
-    # finds "#", finds digit \d
-    # finds word string ([^(]+)
-    # finds "(", finds digit \d, finds ")"
+    # Find the line containing "Player stacks:"
+    stack_line = next((line for line in stacks_string.split('\n') if "Player stacks:" in line), None)
 
-    matches = re.findall(r"#\d+ ([^(]+) \((\d+)\)", stacks_string)
+    if stack_line:
+        # Use regular expression to extract relevant parts of the string
+        # This regex finds "#", followed by a digit (\d), and captures the player name and stack size
+        matches = re.findall(r"#\d+ ([^(]+) \((\d+)\)", stack_line)
+        
+        # Iterate through all found matches and populate the dictionary
+        for match in matches:
+            player_name = match[0].strip()  # Remove any trailing whitespace
+            stack_size = int(match[1])
+            player_stacks[player_name] = stack_size
 
-    
-    # Iterate through all found matches and populate the dictionary
-    for match in matches:
-        player_name = match[0]
-        stack_size = int(match[1])
-        player_stacks[player_name] = stack_size
-    
     return player_stacks
 
 
@@ -76,25 +85,15 @@ def read_blinds(blinds_string):
         return [int(match.group(2)), match.group(1), True]
     elif match:
         return [int(match.group(2)), match.group(1), False]
+    elif match2:
+        return [None, match2.group(1), False]
     else:
         # If no match is found, return None or raise an error depending on your error handling preference
         return [None, None, False]
 
 
-# ----------------- CHECK UPDATES FUNCTION -------------------
+# ----------------- DETECT NEW HAND FUNCTION -------------------
 
-def check_updates(log, new_log):
-    # check if new log is different from old log
-    # if different,
-    # check if new hand - 
-        # update player stacks
-        # check blinds - update blinds
-    # check for new actions - 
-        # update game actions
-    # check if player before bot has acted
-        # return is_turn()
-
-    pass
 
 
 
@@ -152,6 +151,10 @@ if __name__ == "__main__":
     game.new_hand({'luc1': 960, 'luc2': 1040}, 20, [Card('2', 'spades'), Card('7', 'hearts')], 0, Deck(), -1)    
     game.print()
     '''
-    print(read_blinds("luc2 posts a big blind of 20"))
+    # print(read_blinds("luc2 posts a big blind of 20"))
+    print(is_new_hand("Player posts a big blind of 20"))  # Expected: True
+    print(is_new_hand("player POSTS a big blind of 20"))  # Expected: True, testing case insensitivity
+    print(is_new_hand("  player posts a big blind of 20  "))  # Expected: True, testing whitespace
+    print(is_new_hand("player posts small blind of 20"))  # Expected: False, different substring
 
 
