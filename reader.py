@@ -256,7 +256,7 @@ class Reader():
             self.players[self.curr_player]['net'][-1] -= amount
         else:
             self.players[self.curr_player]['net'][-1] += amount
-
+            self.players[self.curr_player]['net'][-1] = round(self.players[self.curr_player]['net'][-1], 1)
         return
     
     pd.set_option('display.max_rows', 500)

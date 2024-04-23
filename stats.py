@@ -24,7 +24,12 @@ def calculate_stats(dict):
                 WSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
                 # gains 
             else:
-                WTSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i]) 
+                WTSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
+        last = int(dict[players]['net'][-1] * dict[players]['blinds'][-1][1])
+        if dict[players]['showdown'][-1]:
+            WSD += last
+        else:
+            WTSD += last
         df.update({players: {'VPIP': VPIP, 'SD': SD, 
                              'WSD': WSD, 'WTSD': WTSD}})
     
@@ -42,4 +47,7 @@ stats = json.dumps(df, indent = 4) # use this format to get ALL players
 with open('stats', 'w') as player_stats:
     json.dump(df, player_stats)
 
-print(df['smashthategg'])
+
+
+
+print(df['Shawnkemp40'])

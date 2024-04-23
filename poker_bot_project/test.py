@@ -53,6 +53,5 @@ def test_case3():
 
 np.set_printoptions(linewidth=100)
 
-x = [1,2,3]
-
-print(x[:-1])
+hi = "eewegweg"
+print(hi[-4:])
