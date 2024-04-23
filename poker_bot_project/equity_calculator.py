@@ -87,7 +87,7 @@ def find_straight(cards):
     # first, let's get rid of duplicate value cards (but append another ace card if it exists for the low straights)
     unique_cards = [cards[0]]
     for i in range(1,len(cards)):
-        if cards[i] != cards[i-1]:
+        if not cards[i].equal_in_value(cards[i-1]):
             unique_cards.append(cards[i])
     if unique_cards[0].value == 'A':
         unique_cards.append(cards[0])
@@ -128,22 +128,23 @@ def find_flush(cards):
     
 def classify_hand(cards): 
     hand_type = find_best_combo(cards)[0]
-    if hand_type == 'High Card':
+    if hand_type in ['High Card', 'Pair', 'Two Pair', 'Three of a Kind']:
         strdraw = find_straight_draw(cards)
         flshdraw = find_flush_draw(cards)
         if strdraw and flshdraw:
-            return strdraw + " + " + flshdraw
+            return hand_type + " + " + strdraw + " + " + flshdraw
         if strdraw:
-            return strdraw
+            return hand_type + " + " + strdraw
         if flshdraw:
-            return flshdraw
+            return hand_type + " + " + flshdraw
     return hand_type 
   
 def find_straight_draw(cards):
+    cards.sort(reverse = True)
     # first, let's get rid of duplicate value cards (but append another ace card if it exists for the low straights)
     unique_cards = [cards[0]]
     for i in range(1,len(cards)):
-        if cards[i] != cards[i-1]:
+        if not cards[i].equal_in_value(cards[i-1]):
             unique_cards.append(cards[i])
     if unique_cards[0].value == 'A':
         unique_cards.append(cards[0])
@@ -184,9 +185,9 @@ def find_flush_draw(cards):
     max_count = suit_count[max_suit]
 
     # if flush
-    if max_count == 3:
+    if max_count == 3 and len(cards) == 5:
         return "Backdoor Flush Draw"
-    if max_count == 4: 
+    if max_count == 4 and len(cards):
         return "Flush Draw"
     return None
 

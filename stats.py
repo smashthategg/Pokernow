@@ -19,14 +19,24 @@ def calculate_stats(dict):
         # showdown true / all games
         WSD = 0
         WTSD = 0
+        numhands = len(dict[players]['stack']) 
         for i in range(0, len(dict[players]['stack']) - 2):
             if dict[players]['showdown'][i]:
                 WSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
                 # gains 
             else:
-                WTSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i]) 
+                WTSD += (dict[players]['stack'][i+1] - dict[players]['stack'][i])
+        last = int(dict[players]['net'][-1] * dict[players]['blinds'][-1][1])
+        if dict[players]['showdown'][-1]:
+            WSD += last
+        else:
+            WTSD += last
+        type = 'rec'
+        if WSD > WTSD and numhands > 25:
+            type = 'reg'
         df.update({players: {'VPIP': VPIP, 'SD': SD, 
-                             'WSD': WSD, 'WTSD': WTSD}})
+                             'WSD': WSD, 'WTSD': WTSD,
+                             'numhands': numhands, 'type': type}})
     
     return df
 # VPIP: Voluntarily put into pot        
@@ -42,4 +52,7 @@ stats = json.dumps(df, indent = 4) # use this format to get ALL players
 with open('stats', 'w') as player_stats:
     json.dump(df, player_stats)
 
-print(df['smashthategg'])
+
+
+
+print(df['Shawnkemp40'])

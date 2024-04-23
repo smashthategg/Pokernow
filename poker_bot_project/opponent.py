@@ -1,6 +1,6 @@
 from range import Range
 from ranges import *
-
+from equity_calculator import classify_hand
 
 class Opponent():
     def __init__(self, name, type='rec', stack=1000):
@@ -24,6 +24,14 @@ class Opponent():
             self.range = new_range['15%']
         else:
             self.range = new_range['30%']
+
+    def remove_trash_hands_from_range(self, board, hero_hand):
+        self.range.range = self.range.get_range_without_cards(board + hero_hand)
+        for hand in self.range.range:
+            print(hand)
+            print(classify_hand(hand+board))
+            if classify_hand(hand + board) == 'High Card':
+                self.range.range.remove(hand)
 
     def set_stack(self, stack):
         self.stack = stack

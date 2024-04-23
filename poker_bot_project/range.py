@@ -105,9 +105,9 @@ class Range():
                     for i in range(val1, 13):
                         self.add_hand_to_range(values[i] * 2)
                 else:
-                    for i in range(val2, 13):
-                        hand = hand.replace(hand[1], values[i])
-                        self.add_hand_to_range(hand[:-1])
+                    for i in range(val2, val1):
+                        new_hand = hand[0] + str(values[i]) + hand[2]
+                        self.add_hand_to_range(new_hand)
             else:
                 self.add_hand_to_range(hand)
 
