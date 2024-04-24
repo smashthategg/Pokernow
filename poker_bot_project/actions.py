@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.alert import Alert
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
+from selenium.common.exceptions import ElementClickInterceptedException
 
 import re
 import time
@@ -133,20 +134,24 @@ def crib_go_to_game(driver, user, password):
 
 
 # ----------------- READ LOG FUNCTION -------------------
-def read_log(driver):
+def read_full_log(driver):
     # click log button
-    log_xpath = (
-        "//button[contains(@class, 'button-1') and " +
-        "contains(@class, 'show-log-button') and " +
-        "contains(@class, 'small-button') and " +
-        "contains(@class, 'dark-gray')]"
-    )
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, log_xpath))
-    )
-    log_button = driver.find_element(By.XPATH, log_xpath)
-    print("Found log button")
-    log_button.click()
+    try:
+        log_xpath = (
+            "//button[contains(@class, 'button-1') and " +
+            "contains(@class, 'show-log-button') and " +
+            "contains(@class, 'small-button') and " +
+            "contains(@class, 'dark-gray')]"
+        )
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, log_xpath))
+        )
+        log_button = driver.find_element(By.XPATH, log_xpath)
+        # print("Found log button")
+        log_button.click()
+    except ElementClickInterceptedException:
+        print("Could not click log button")
+        return None
 
     # read log
     WebDriverWait(driver, 5).until(
@@ -156,7 +161,61 @@ def read_log(driver):
     log = driver.find_element(By.XPATH, "//div[contains(@class, 'modal-body')]")
     print("Found log")
 
-    return log.text
+    text = log.text
+
+    # close log
+    WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.CLASS_NAME, 'modal-button-close'))
+    )
+    close_button = driver.find_element(By.CLASS_NAME, 'modal-button-close')
+    close_button.click()
+    print("Closed log")
+
+    return text
+
+def read_log(driver):
+    # click log button
+    try:
+        log_xpath = (
+            "//button[contains(@class, 'button-1') and " +
+            "contains(@class, 'show-log-button') and " +
+            "contains(@class, 'small-button') and " +
+            "contains(@class, 'dark-gray')]"
+        )
+        WebDriverWait(driver, 10).until(
+            EC.element_to_be_clickable((By.XPATH, log_xpath))
+        )
+        log_button = driver.find_element(By.XPATH, log_xpath)
+        log_button.click()
+    except ElementClickInterceptedException:
+        print("Could not click log button")
+        return None
+
+    # wait for the log modal to be visible
+    WebDriverWait(driver, 5).until(
+        EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'modal-body')]"))
+    )
+    time.sleep(2)  # give an extra second for the text to fully load
+    log_modal = driver.find_element(By.XPATH, "//div[contains(@class, 'modal-body')]")
+    
+    # read log content
+    text = log_modal.text
+    hand_marker = "-- starting hand #"
+    index = text.find(hand_marker, 1)  # start searching from index 1 to skip the first occurrence
+
+    if index != -1:
+        text = text[:index]  # cut the text up to the next hand marker
+    else:
+        print("No additional starting hand marker found.")
+
+    # close log modal
+    WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.CLASS_NAME, 'modal-button-close'))
+    )
+    close_button = driver.find_element(By.CLASS_NAME, 'modal-button-close')
+    close_button.click()
+    
+    return text
 
 
 
@@ -256,6 +315,11 @@ def get_cards(driver):
             value = WebDriverWait(card, 5).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, ".value"))
             ).text
+
+            # Convert '10' to 'T'
+            if value == '10':
+                value = 'T'
+            
             # Get all suit elements and filter out the ones with non-empty text
             suit_elements = WebDriverWait(card, 5).until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, ".suit"))
@@ -271,10 +335,6 @@ def get_cards(driver):
     
     return cards_list
 
-
-# ----------------- CLOSE LOG FUNCTION -------------------
-def close_log(driver):
-    pass
 
 
 

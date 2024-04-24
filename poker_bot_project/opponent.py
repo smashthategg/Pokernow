@@ -16,6 +16,8 @@ class Opponent():
             new_range = rec_ranges
         elif self.type == 'reg':
             new_range = reg_ranges
+        else:
+            new_range = rec_ranges
         if bet <= bbsize:
             self.range = new_range['limp']
         elif percent_stack <= 0.15:

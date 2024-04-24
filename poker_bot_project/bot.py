@@ -128,7 +128,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_in_hand, pot, board):
     return bet                   
 
 
-            
+
 
 
 # ---- TESTING -------
