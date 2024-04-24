@@ -26,8 +26,6 @@ class Opponent():
     def remove_trash_hands_from_range(self, board, hero_hand):
         self.range.range = self.range.get_range_without_cards(board + hero_hand)
         for hand in self.range.range:
-            print(hand)
-            print(classify_hand(hand+board))
             if classify_hand(hand + board) == 'High Card':
                 self.range.range.remove(hand)
 

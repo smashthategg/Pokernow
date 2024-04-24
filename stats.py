@@ -32,7 +32,7 @@ def calculate_stats(dict):
         else:
             WTSD += last
         type = 'rec'
-        if WSD > WTSD and numhands > 25:
+        if (WSD > WTSD and WSD > 0 or VPIP < 0.3) and numhands > 50:
             type = 'reg'
         df.update({players: {'VPIP': VPIP, 'SD': SD, 
                              'WSD': WSD, 'WTSD': WTSD,
@@ -53,6 +53,18 @@ with open('stats', 'w') as player_stats:
     json.dump(df, player_stats)
 
 
+
+# TESTING
+totalWSD =0
+count =0
+for player in df:
+    if df[player]['type'] == 'reg':
+        print(player)
+        print(df[player])
+        count += 1
+        totalWSD += df[player]['WSD']
+print(totalWSD/count)
+    
 
 
 print(df['Shawnkemp40'])

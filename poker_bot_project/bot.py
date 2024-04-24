@@ -71,27 +71,27 @@ def get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_t
             player.update_preflop_range(bet, bbsize)
     return bet
 
-def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, pot, board):
+def get_postflop_strategy(hand, stack, bbsize, players_in_hand, pot, board):
     bet = -1
     num_regs = 0
     num_recs = 0
-    current_bet = players_acted[-1].bet
+    current_bet = max(players_in_hand, key = lambda x: x.bet).bet
     pot_multiple = current_bet/pot
     stack_multiple = pot/stack
-    for player in players_acted + players_to_act:
+    for player in players_in_hand:
         if player.type == 'reg':
             num_regs += 1
         elif player.type == 'rec':
             num_recs += 1
-    min_to_call = max(stack_multiple, pot_multiple) ** (1/(4 + num_regs)) - 0.2
+    min_to_call = (max(stack_multiple*0.8, pot_multiple) ** (1/(4 + num_regs)) - 0.2) * 3/(2+len(players_in_hand))
     min_to_raise = min_to_call + 0.2
     bluff_frequency = min(0.3 - 0.1 * num_recs, 1 - stack_multiple)
     bluff_candidate = False
 
     print(classify_hand(hand+board))
-    if classify_hand(hand + board)[-4:] == 'Draw':
+    if classify_hand(hand + board)[-4:] == 'Draw' and bluff_frequency > 0:
         bluff_candidate = True
-        min_to_call = max(min_to_call - 0.3, 0.25)
+        min_to_call = max(min_to_call - 0.3, 0.25) 
     print("min equity to call: {}".format(min_to_call))
     print("min equity to raise: {}".format(min_to_raise))
     print("bluff frequency: {}".format(bluff_frequency))
@@ -101,7 +101,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, po
     for i in range(750):
         opp_hands_simulation = []
         cards_in_play = hand + board
-        for player in players_acted + players_to_act:
+        for player in players_in_hand:
             for opp_hand in opp_hands_simulation:
                 cards_in_play += opp_hand
             opp_hands_simulation.append(random.choice(player.range.get_range_without_cards(cards_in_play)))
@@ -112,7 +112,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, po
     if current_bet == 0:
         bet = 0
         bluff_frequency += 0.2
-        if equity > 0.55 or (bluff_candidate and random.random() < bluff_frequency):
+        if equity > 0.55 * 3/(2+len(players_in_hand)) or (bluff_candidate and random.random() < bluff_frequency):
             bet = int(pot * 0.5)
     elif equity > min_to_raise:
         bet = 3*current_bet
@@ -122,7 +122,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, po
             bet = 3 * current_bet
 
     if bet > 0:
-        for player in players_acted + players_to_act:
+        for player in players_in_hand:
             player.remove_trash_hands_from_range(board, hand)
     
     return bet                   
@@ -138,11 +138,12 @@ for i in range(1):
     d = Deck(True)
     hand = d.deal(2)
     p1 = Opponent('p1', 'rec')
-    p2 = Opponent('p2', 'rec')
-    p1.set_bet(0)
+    p2 = Opponent('p2', 'reg')
+    p1.set_bet(100)
     print(hand)
-    board = d.deal(3)
+    board = d.deal(4)
     print(board)
-    p1.update_preflop_range(50,20)
-    print(get_postflop_strategy(hand, 1000, 20, [p1], [], 120, board))
-    print(p1.range.range)
+    p1.update_preflop_range(100,20)
+    p2.update_preflop_range(50,20)
+    print(p1.range)
+    print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))
