@@ -147,4 +147,4 @@ if __name__ == "__main__":
         p1.update_preflop_range(100,20)
         p2.update_preflop_range(50,20)
         print(p1.range)
-        print(get_postflop_strategy(hand, 1000, [p1], 300, board))
+        print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))

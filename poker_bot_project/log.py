@@ -72,7 +72,7 @@ def get_opponents_and_stacks(stacks_string):
     return player_stacks
 
 
-
+'''
 # ----------------- READ BLINDS FUNCTION -------------------
 
 def read_blinds(blinds_string):
@@ -91,8 +91,13 @@ def read_blinds(blinds_string):
         # If no match is found, return None or raise an error depending on your error handling preference
         return [None, None, False]
 
+'''
 
-# ----------------- DETECT NEW HAND FUNCTION -------------------
+
+# READ FLOP / TURN / RIVER FUNCTION
+
+# DETECT RAISE / FOLD / CALL / CHECK FUNCTION
+
 
 
 # ----------------- READ PLAYER ACTIONS ----------------------
@@ -224,3 +229,54 @@ if __name__ == "__main__":
     print(is_new_hand("player posts small blind of 20"))  # Expected: False, different substring
 '''
 
+'''
+    def record_action(self, line, stage):
+        nline = re.sub(r'"(.*?)" ', "", line).split()
+        action = "NA"
+        amount = 0
+        match nline[0]:
+            case 'folds':
+                self.players_in_hand.remove(self.curr_player)
+                action = 'F'
+            case 'checks':
+                action = 'X'
+            case 'calls':
+                amount = round(int(nline[1])/self.bb, 1)
+                action = 'C'
+            case 'raises':
+                amount = round(int(nline[2])/self.bb, 1)
+                action = 'R'
+            case 'bets':
+                amount = round(int(nline[1])/self.bb, 1)
+                action = 'B'
+            case 'Uncalled':
+                amount = round(int(nline[3])/self.bb, 1)
+            case 'shows':
+                self.players[self.curr_player]['hand'][-1] = nline[-2] + " " + nline[-1][:-1]
+            case 'collected':
+                amount = round(int(nline[1])/self.bb, 1)
+            case _:
+                return
+        if stage == 'preflop' and  self.players[self.curr_player][stage][-1] == 'NA': 
+            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'SB':
+                self.players[self.curr_player]['net'][-1] += 0.5
+            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'BB':
+                self.players[self.curr_player]['net'][-1] += 1
+        if action in ['X','F','B','C','R']:
+            if self.players[self.curr_player][stage][-1] == 'NA': # If this is the player's first action in the stage
+                self.players[self.curr_player][stage][-1] = action   
+            else:
+                self.players[self.curr_player][stage][-1] += "-" + action         
+        if action in ['B','C','R']: 
+            self.players[self.curr_player][stage][-1] += str(amount)
+            # Now we change the "net" values.
+            for past_action in self.players[self.curr_player][stage][-1].split('-')[:-1]:
+                if past_action[0] in ['B','C','R']: # We dont also want to deduct past bets in the same stage.
+                    self.players[self.curr_player]['net'][-1] += float(past_action[1:])
+            self.players[self.curr_player]['net'][-1] -= amount
+        else:
+            self.players[self.curr_player]['net'][-1] += amount
+            self.players[self.curr_player]['net'][-1] = round(self.players[self.curr_player]['net'][-1], 1)
+        return
+
+'''

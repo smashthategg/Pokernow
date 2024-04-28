@@ -1,0 +1,916 @@
+entry,at,order
+"The player ""robq94 @ ULR2Ksq9EW"" quits the game with a stack of 6040.",2024-04-26T20:33:00.853Z,171416358085300
+"The player ""tanvirsmuct @ PsmMMY2E5F"" quits the game with a stack of 0.",2024-04-26T20:29:38.209Z,171416337820900
+"-- ending hand #46 --",2024-04-26T20:29:32.200Z,171416337220001
+"""robq94 @ ULR2Ksq9EW"" collected 1936 from pot with Two Pair, A's & 3's (combination: A♠, A♣, 3♥, 3♣, K♥)",2024-04-26T20:29:32.200Z,171416337220000
+"River: 3♣, 8♦, 5♠, K♥ [A♣]",2024-04-26T20:29:28.127Z,171416336812700
+"Turn: 3♣, 8♦, 5♠ [K♥]",2024-04-26T20:29:24.069Z,171416336406900
+"""robq94 @ ULR2Ksq9EW"" shows a A♠, 3♥.",2024-04-26T20:29:20.061Z,171416336006101
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 5♦, 7♦.",2024-04-26T20:29:20.061Z,171416336006100
+"""tanvirsmuct @ PsmMMY2E5F"" calls 368 and go all in",2024-04-26T20:29:19.232Z,171416335923200
+"""robq94 @ ULR2Ksq9EW"" bets 368",2024-04-26T20:29:15.475Z,171416335547500
+"Flop:  [3♣, 8♦, 5♠]",2024-04-26T20:29:10.052Z,171416335005200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 600",2024-04-26T20:29:09.242Z,171416334924200
+"""robq94 @ ULR2Ksq9EW"" raises to 600",2024-04-26T20:29:06.647Z,171416334664700
+"""tanvirsmuct @ PsmMMY2E5F"" calls 300",2024-04-26T20:29:02.177Z,171416334217700
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 300",2024-04-26T20:28:59.294Z,171416333929407
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 150",2024-04-26T20:28:59.294Z,171416333929406
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (968) | #7 ""robq94 @ ULR2Ksq9EW"" (5072)",2024-04-26T20:28:59.294Z,171416333929403
+"-- starting hand #46 (id: sp1yjr1d3qfx)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:28:59.294Z,171416333929402
+"The game's big blind was changed from 200 to 300.",2024-04-26T20:28:59.294Z,171416333929401
+"The game's small blind was changed from 100 to 150.",2024-04-26T20:28:59.294Z,171416333929400
+"-- ending hand #45 --",2024-04-26T20:28:56.345Z,171416333634502
+"""tanvirsmuct @ PsmMMY2E5F"" collected 400 from pot",2024-04-26T20:28:56.345Z,171416333634501
+"Uncalled bet of 200 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:28:56.345Z,171416333634500
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:28:55.539Z,171416333553900
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:28:54.026Z,171416333402600
+"River: 4♠, 7♥, J♣, 9♥ [Q♠]",2024-04-26T20:28:50.926Z,171416333092600
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:28:50.119Z,171416333011900
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:28:46.275Z,171416332627500
+"Turn: 4♠, 7♥, J♣ [9♥]",2024-04-26T20:28:40.948Z,171416332094800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:28:40.119Z,171416332011900
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:28:38.118Z,171416331811800
+"Flop:  [4♠, 7♥, J♣]",2024-04-26T20:28:31.100Z,171416331110000
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:28:30.262Z,171416331026200
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:28:28.308Z,171416330830800
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:28:26.182Z,171416330618205
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:28:26.182Z,171416330618204
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (768) | #7 ""robq94 @ ULR2Ksq9EW"" (5272)",2024-04-26T20:28:26.182Z,171416330618201
+"-- starting hand #45 (id: ybrsdsyknoii)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:28:26.182Z,171416330618200
+"-- ending hand #44 --",2024-04-26T20:28:20.149Z,171416330014903
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 8♦, A♥.",2024-04-26T20:28:20.149Z,171416330014902
+"""robq94 @ ULR2Ksq9EW"" collected 5272 from pot with Three of a Kind, 6's (combination: 6♠, 6♦, 6♥, A♦, 10♠)",2024-04-26T20:28:20.149Z,171416330014901
+"""robq94 @ ULR2Ksq9EW"" shows a 10♠, 6♠.",2024-04-26T20:28:20.149Z,171416330014900
+"""tanvirsmuct @ PsmMMY2E5F"" calls 1236",2024-04-26T20:28:19.320Z,171416329932000
+"""robq94 @ ULR2Ksq9EW"" bets 1236 and go all in",2024-04-26T20:28:17.208Z,171416329720800
+"River: A♦, 9♦, 6♦, 5♠ [6♥]",2024-04-26T20:28:13.346Z,171416329334600
+"""robq94 @ ULR2Ksq9EW"" calls 600",2024-04-26T20:28:12.484Z,171416329248400
+"""tanvirsmuct @ PsmMMY2E5F"" bets 600",2024-04-26T20:28:06.228Z,171416328622800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:28:00.843Z,171416328084300
+"Turn: A♦, 9♦, 6♦ [5♠]",2024-04-26T20:27:58.262Z,171416327826200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 600",2024-04-26T20:27:57.433Z,171416327743300
+"""robq94 @ ULR2Ksq9EW"" raises to 600",2024-04-26T20:27:55.113Z,171416327511300
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:27:50.893Z,171416327089300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:27:49.035Z,171416326903500
+"Flop:  [A♦, 9♦, 6♦]",2024-04-26T20:27:46.782Z,171416326678200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:27:45.916Z,171416326591600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:27:44.890Z,171416326489000
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:27:42.377Z,171416326237705
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:27:42.377Z,171416326237704
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3404) | #7 ""robq94 @ ULR2Ksq9EW"" (2636)",2024-04-26T20:27:42.377Z,171416326237701
+"-- starting hand #44 (id: eu85lbufavwl)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:27:42.377Z,171416326237700
+"-- ending hand #43 --",2024-04-26T20:27:39.407Z,171416325940702
+"""robq94 @ ULR2Ksq9EW"" collected 400 from pot",2024-04-26T20:27:39.407Z,171416325940701
+"Uncalled bet of 200 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:27:39.407Z,171416325940700
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:27:38.603Z,171416325860300
+"""robq94 @ ULR2Ksq9EW"" bets 200",2024-04-26T20:27:37.279Z,171416325727900
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:27:35.747Z,171416325574700
+"Flop:  [3♦, 2♣, 9♦]",2024-04-26T20:27:31.430Z,171416325143000
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:27:30.596Z,171416325059600
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:27:28.243Z,171416324824300
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:27:25.656Z,171416324565605
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:27:25.656Z,171416324565604
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3604) | #7 ""robq94 @ ULR2Ksq9EW"" (2436)",2024-04-26T20:27:25.656Z,171416324565601
+"-- starting hand #43 (id: cv5uvmkjxwct)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:27:25.656Z,171416324565600
+"-- ending hand #42 --",2024-04-26T20:27:22.735Z,171416324273502
+"""robq94 @ ULR2Ksq9EW"" collected 800 from pot",2024-04-26T20:27:22.735Z,171416324273501
+"Uncalled bet of 1636 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:27:22.735Z,171416324273500
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:27:21.905Z,171416324190500
+"""robq94 @ ULR2Ksq9EW"" raises to 1836 and go all in",2024-04-26T20:27:15.097Z,171416323509700
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:27:12.583Z,171416323258300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:27:10.421Z,171416323042100
+"Flop:  [10♦, 7♣, 9♠]",2024-04-26T20:27:06.907Z,171416322690700
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:27:06.063Z,171416322606300
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:27:04.259Z,171416322425900
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:27:01.165Z,171416322116505
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:27:01.165Z,171416322116504
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (4004) | #7 ""robq94 @ ULR2Ksq9EW"" (2036)",2024-04-26T20:27:01.165Z,171416322116501
+"-- starting hand #42 (id: cxnwmmqsz6yl)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:27:01.165Z,171416322116500
+"-- ending hand #41 --",2024-04-26T20:26:55.123Z,171416321512302
+"""tanvirsmuct @ PsmMMY2E5F"" collected 2400 from pot with Pair, K's (combination: K♦, K♠, Q♣, J♠, 10♦)",2024-04-26T20:26:55.123Z,171416321512301
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 10♦, K♦.",2024-04-26T20:26:55.123Z,171416321512300
+"""robq94 @ ULR2Ksq9EW"" calls 600",2024-04-26T20:26:54.312Z,171416321431200
+"""tanvirsmuct @ PsmMMY2E5F"" bets 600",2024-04-26T20:26:52.266Z,171416321226600
+"River: K♠, 5♥, 6♦, Q♣ [J♠]",2024-04-26T20:26:43.387Z,171416320338700
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:26:42.544Z,171416320254400
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:26:41.357Z,171416320135700
+"Turn: K♠, 5♥, 6♦ [Q♣]",2024-04-26T20:26:38.076Z,171416319807600
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:26:37.232Z,171416319723200
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:26:36.055Z,171416319605500
+"Flop:  [K♠, 5♥, 6♦]",2024-04-26T20:26:33.376Z,171416319337600
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:26:32.518Z,171416319251800
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:26:28.563Z,171416318856300
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:26:26.976Z,171416318697605
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:26:26.976Z,171416318697604
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2804) | #7 ""robq94 @ ULR2Ksq9EW"" (3236)",2024-04-26T20:26:26.976Z,171416318697601
+"-- starting hand #41 (id: bpblj8frjyhy)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:26:26.976Z,171416318697600
+"-- ending hand #40 --",2024-04-26T20:26:24.017Z,171416318401702
+"""tanvirsmuct @ PsmMMY2E5F"" collected 400 from pot",2024-04-26T20:26:24.017Z,171416318401701
+"Uncalled bet of 200 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:26:24.017Z,171416318401700
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:26:23.207Z,171416318320700
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:26:21.742Z,171416318174200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:26:19.512Z,171416317951200
+"Flop:  [Q♠, 10♠, 3♦]",2024-04-26T20:26:17.775Z,171416317777500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:26:16.922Z,171416317692200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:26:15.968Z,171416317596800
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:26:13.749Z,171416317374905
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:26:13.749Z,171416317374904
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2604) | #7 ""robq94 @ ULR2Ksq9EW"" (3436)",2024-04-26T20:26:13.749Z,171416317374901
+"-- starting hand #40 (id: 0plkidxjjuqu)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:26:13.749Z,171416317374900
+"-- ending hand #39 --",2024-04-26T20:26:10.791Z,171416317079102
+"""tanvirsmuct @ PsmMMY2E5F"" collected 200 from pot",2024-04-26T20:26:10.791Z,171416317079101
+"Uncalled bet of 100 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:26:10.791Z,171416317079100
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:26:09.957Z,171416316995700
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:26:07.143Z,171416316714305
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:26:07.143Z,171416316714304
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2504) | #7 ""robq94 @ ULR2Ksq9EW"" (3536)",2024-04-26T20:26:07.143Z,171416316714301
+"-- starting hand #39 (id: pjnv8kgq7jy7)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:26:07.143Z,171416316714300
+"-- ending hand #38 --",2024-04-26T20:26:04.176Z,171416316417602
+"""tanvirsmuct @ PsmMMY2E5F"" collected 800 from pot",2024-04-26T20:26:04.176Z,171416316417601
+"Uncalled bet of 200 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:26:04.176Z,171416316417600
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:26:03.355Z,171416316335500
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:26:01.960Z,171416316196000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:25:58.384Z,171416315838400
+"Turn: 10♦, Q♦, 2♣ [5♥]",2024-04-26T20:25:56.580Z,171416315658000
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:25:55.719Z,171416315571900
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:25:54.053Z,171416315405300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:25:51.863Z,171416315186300
+"Flop:  [10♦, Q♦, 2♣]",2024-04-26T20:25:48.390Z,171416314839000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:25:47.576Z,171416314757600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:25:44.946Z,171416314494600
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:25:42.084Z,171416314208405
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:25:42.084Z,171416314208404
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2104) | #7 ""robq94 @ ULR2Ksq9EW"" (3936)",2024-04-26T20:25:42.084Z,171416314208401
+"-- starting hand #38 (id: 8pofjo6idx0e)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:25:42.084Z,171416314208400
+"-- ending hand #37 --",2024-04-26T20:25:39.175Z,171416313917502
+"""tanvirsmuct @ PsmMMY2E5F"" collected 800 from pot",2024-04-26T20:25:39.175Z,171416313917501
+"Uncalled bet of 200 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:25:39.175Z,171416313917500
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:25:38.367Z,171416313836700
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:25:34.989Z,171416313498900
+"Turn: 2♠, A♥, 3♠ [3♥]",2024-04-26T20:25:32.569Z,171416313256900
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:25:31.735Z,171416313173500
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:25:29.525Z,171416312952500
+"Flop:  [2♠, A♥, 3♠]",2024-04-26T20:25:25.444Z,171416312544400
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:25:24.632Z,171416312463200
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:25:20.094Z,171416312009400
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:25:18.698Z,171416311869805
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:25:18.698Z,171416311869804
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1704) | #7 ""robq94 @ ULR2Ksq9EW"" (4336)",2024-04-26T20:25:18.698Z,171416311869801
+"-- starting hand #37 (id: lcjums0lhqab)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:25:18.698Z,171416311869800
+"-- ending hand #36 --",2024-04-26T20:25:15.761Z,171416311576102
+"""robq94 @ ULR2Ksq9EW"" collected 400 from pot",2024-04-26T20:25:15.761Z,171416311576101
+"Uncalled bet of 400 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:25:15.761Z,171416311576100
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:25:14.922Z,171416311492200
+"""robq94 @ ULR2Ksq9EW"" raises to 600",2024-04-26T20:25:10.211Z,171416311021100
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:25:07.068Z,171416310706800
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:25:02.878Z,171416310287805
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:25:02.878Z,171416310287804
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1904) | #7 ""robq94 @ ULR2Ksq9EW"" (4136)",2024-04-26T20:25:02.878Z,171416310287801
+"-- starting hand #36 (id: esofdtzqxntm)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:25:02.878Z,171416310287800
+"-- ending hand #35 --",2024-04-26T20:24:56.850Z,171416309685003
+"""tanvirsmuct @ PsmMMY2E5F"" shows a A♥, 6♦.",2024-04-26T20:24:56.850Z,171416309685002
+"""robq94 @ ULR2Ksq9EW"" collected 4136 from pot with Two Pair, Q's & 10's (combination: Q♦, Q♠, 10♥, 10♦, A♠)",2024-04-26T20:24:56.850Z,171416309685001
+"""robq94 @ ULR2Ksq9EW"" shows a 10♥, Q♦.",2024-04-26T20:24:56.850Z,171416309685000
+"""tanvirsmuct @ PsmMMY2E5F"" calls 1268",2024-04-26T20:24:55.993Z,171416309599300
+"""robq94 @ ULR2Ksq9EW"" raises to 1268 and go all in",2024-04-26T20:24:54.117Z,171416309411700
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:24:51.904Z,171416309190400
+"River: J♠, Q♠, 10♦, 4♣ [A♠]",2024-04-26T20:24:47.037Z,171416308703700
+"""tanvirsmuct @ PsmMMY2E5F"" calls 400",2024-04-26T20:24:46.230Z,171416308623000
+"""robq94 @ ULR2Ksq9EW"" bets 400",2024-04-26T20:24:44.807Z,171416308480700
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:24:42.060Z,171416308206000
+"Turn: J♠, Q♠, 10♦ [4♣]",2024-04-26T20:24:38.409Z,171416307840900
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:24:37.573Z,171416307757300
+"""robq94 @ ULR2Ksq9EW"" bets 200",2024-04-26T20:24:36.124Z,171416307612400
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:24:34.192Z,171416307419200
+"Flop:  [J♠, Q♠, 10♦]",2024-04-26T20:24:28.641Z,171416306864100
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:24:27.800Z,171416306780000
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:24:24.303Z,171416306430300
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 200",2024-04-26T20:24:22.912Z,171416306291205
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 100",2024-04-26T20:24:22.912Z,171416306291204
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3972) | #7 ""robq94 @ ULR2Ksq9EW"" (2068)",2024-04-26T20:24:22.912Z,171416306291201
+"-- starting hand #35 (id: 3znm46wffhqa)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:24:22.912Z,171416306291200
+"-- ending hand #34 --",2024-04-26T20:24:16.880Z,171416305688003
+"""robq94 @ ULR2Ksq9EW"" shows a 2♥, Q♣.",2024-04-26T20:24:16.880Z,171416305688002
+"""tanvirsmuct @ PsmMMY2E5F"" collected 1200 from pot with Two Pair, 10's & 4's (combination: 10♥, 10♣, 4♦, 4♣, 9♠)",2024-04-26T20:24:16.880Z,171416305688001
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 9♠, 10♥.",2024-04-26T20:24:16.880Z,171416305688000
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:24:16.057Z,171416305605700
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:24:13.727Z,171416305372700
+"River: 7♣, 10♣, 4♦, 4♣ [3♦]",2024-04-26T20:24:10.134Z,171416305013400
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:24:09.303Z,171416304930300
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:24:08.272Z,171416304827200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:24:05.851Z,171416304585100
+"Turn: 7♣, 10♣, 4♦ [4♣]",2024-04-26T20:24:03.797Z,171416304379700
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:24:02.979Z,171416304297900
+"""tanvirsmuct @ PsmMMY2E5F"" bets 200",2024-04-26T20:23:58.853Z,171416303885300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:23:56.602Z,171416303660200
+"Flop:  [7♣, 10♣, 4♦]",2024-04-26T20:23:54.648Z,171416303464800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:23:53.830Z,171416303383000
+"""tanvirsmuct @ PsmMMY2E5F"" calls 200",2024-04-26T20:23:51.617Z,171416303161700
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 200",2024-04-26T20:23:45.775Z,171416302577507
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 100",2024-04-26T20:23:45.775Z,171416302577506
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3372) | #7 ""robq94 @ ULR2Ksq9EW"" (2668)",2024-04-26T20:23:45.775Z,171416302577503
+"-- starting hand #34 (id: wcs97j4dtoic)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:23:45.775Z,171416302577502
+"The game's big blind was changed from 150 to 200.",2024-04-26T20:23:45.775Z,171416302577501
+"The game's small blind was changed from 75 to 100.",2024-04-26T20:23:45.775Z,171416302577500
+"-- ending hand #33 --",2024-04-26T20:23:42.837Z,171416302283702
+"""robq94 @ ULR2Ksq9EW"" collected 300 from pot",2024-04-26T20:23:42.837Z,171416302283701
+"Uncalled bet of 150 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:23:42.837Z,171416302283700
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:23:42.015Z,171416302201500
+"""robq94 @ ULR2Ksq9EW"" bets 150",2024-04-26T20:23:36.169Z,171416301616900
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:23:33.777Z,171416301377700
+"Flop:  [9♠, J♥, 3♦]",2024-04-26T20:23:28.546Z,171416300854600
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:23:27.722Z,171416300772200
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:23:20.514Z,171416300051400
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:23:19.022Z,171416299902205
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:23:19.022Z,171416299902204
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3522) | #7 ""robq94 @ ULR2Ksq9EW"" (2518)",2024-04-26T20:23:19.022Z,171416299902201
+"-- starting hand #33 (id: mzbross2dwp3)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:23:19.022Z,171416299902200
+"-- ending hand #32 --",2024-04-26T20:23:16.110Z,171416299611002
+"""robq94 @ ULR2Ksq9EW"" collected 150 from pot",2024-04-26T20:23:16.110Z,171416299611001
+"Uncalled bet of 75 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:23:16.110Z,171416299611000
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:23:15.261Z,171416299526100
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:23:12.617Z,171416299261705
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:23:12.617Z,171416299261704
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3597) | #7 ""robq94 @ ULR2Ksq9EW"" (2443)",2024-04-26T20:23:12.617Z,171416299261701
+"-- starting hand #32 (id: jr7ut8rh8xt4)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:23:12.617Z,171416299261700
+"-- ending hand #31 --",2024-04-26T20:23:09.703Z,171416298970302
+"""robq94 @ ULR2Ksq9EW"" collected 300 from pot",2024-04-26T20:23:09.703Z,171416298970301
+"Uncalled bet of 150 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:23:09.703Z,171416298970300
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:23:08.832Z,171416298883200
+"""robq94 @ ULR2Ksq9EW"" bets 150",2024-04-26T20:23:07.621Z,171416298762100
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:23:05.786Z,171416298578600
+"Flop:  [6♣, 8♥, 4♣]",2024-04-26T20:23:01.094Z,171416298109400
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:23:00.283Z,171416298028300
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:22:54.779Z,171416297477900
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:22:53.213Z,171416297321305
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:22:53.213Z,171416297321304
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3747) | #7 ""robq94 @ ULR2Ksq9EW"" (2293)",2024-04-26T20:22:53.213Z,171416297321301
+"-- starting hand #31 (id: tl9q6pf47as5)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:22:53.213Z,171416297321300
+"-- ending hand #30 --",2024-04-26T20:22:50.280Z,171416297028002
+"""robq94 @ ULR2Ksq9EW"" collected 150 from pot",2024-04-26T20:22:50.280Z,171416297028001
+"Uncalled bet of 75 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:22:50.280Z,171416297028000
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:22:49.477Z,171416296947700
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:22:46.412Z,171416296641205
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:22:46.412Z,171416296641204
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3822) | #7 ""robq94 @ ULR2Ksq9EW"" (2218)",2024-04-26T20:22:46.412Z,171416296641201
+"-- starting hand #30 (id: dnvfmhpawfbh)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:22:46.412Z,171416296641200
+"-- ending hand #29 --",2024-04-26T20:22:43.460Z,171416296346002
+"""tanvirsmuct @ PsmMMY2E5F"" collected 150 from pot",2024-04-26T20:22:43.460Z,171416296346001
+"Uncalled bet of 75 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:22:43.460Z,171416296346000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:22:42.617Z,171416296261700
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:22:40.211Z,171416296021105
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:22:40.211Z,171416296021104
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3747) | #7 ""robq94 @ ULR2Ksq9EW"" (2293)",2024-04-26T20:22:40.211Z,171416296021101
+"-- starting hand #29 (id: fyvif1lqpulb)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:22:40.211Z,171416296021100
+"-- ending hand #28 --",2024-04-26T20:22:37.273Z,171416295727302
+"""robq94 @ ULR2Ksq9EW"" collected 150 from pot",2024-04-26T20:22:37.273Z,171416295727301
+"Uncalled bet of 75 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:22:37.273Z,171416295727300
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:22:36.448Z,171416295644800
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:22:34.318Z,171416295431805
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:22:34.318Z,171416295431804
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3822) | #7 ""robq94 @ ULR2Ksq9EW"" (2218)",2024-04-26T20:22:34.318Z,171416295431801
+"-- starting hand #28 (id: ahlbc3ykswv1)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:22:34.318Z,171416295431800
+"-- ending hand #27 --",2024-04-26T20:22:31.386Z,171416295138602
+"""tanvirsmuct @ PsmMMY2E5F"" collected 150 from pot",2024-04-26T20:22:31.386Z,171416295138601
+"Uncalled bet of 75 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:22:31.386Z,171416295138600
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:22:30.569Z,171416295056900
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:22:28.912Z,171416294891205
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:22:28.912Z,171416294891204
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3747) | #7 ""robq94 @ ULR2Ksq9EW"" (2293)",2024-04-26T20:22:28.912Z,171416294891201
+"-- starting hand #27 (id: tsjo9glaf63u)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:22:28.912Z,171416294891200
+"-- ending hand #26 --",2024-04-26T20:22:25.984Z,171416294598402
+"""robq94 @ ULR2Ksq9EW"" collected 600 from pot",2024-04-26T20:22:25.984Z,171416294598401
+"Uncalled bet of 1693 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:22:25.984Z,171416294598400
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:22:25.120Z,171416294512000
+"""robq94 @ ULR2Ksq9EW"" bets 1693 and go all in",2024-04-26T20:22:23.526Z,171416294352600
+"Turn: 7♣, 7♥, 9♣ [9♠]",2024-04-26T20:22:19.576Z,171416293957600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 150",2024-04-26T20:22:18.707Z,171416293870700
+"""robq94 @ ULR2Ksq9EW"" bets 150",2024-04-26T20:22:16.245Z,171416293624500
+"Flop:  [7♣, 7♥, 9♣]",2024-04-26T20:22:12.780Z,171416293278000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:22:11.976Z,171416293197600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 150",2024-04-26T20:22:10.946Z,171416293094600
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:22:07.548Z,171416292754805
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:22:07.548Z,171416292754804
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (4047) | #7 ""robq94 @ ULR2Ksq9EW"" (1993)",2024-04-26T20:22:07.548Z,171416292754801
+"-- starting hand #26 (id: i1t86uumwd0c)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:22:07.548Z,171416292754800
+"-- ending hand #25 --",2024-04-26T20:22:04.624Z,171416292462402
+"""tanvirsmuct @ PsmMMY2E5F"" collected 1200 from pot",2024-04-26T20:22:04.624Z,171416292462401
+"Uncalled bet of 1993 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:22:04.624Z,171416292462400
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:22:03.765Z,171416292376500
+"""tanvirsmuct @ PsmMMY2E5F"" bets 1993",2024-04-26T20:21:57.067Z,171416291706700
+"River: 8♥, K♥, J♣, 10♠ [Q♦]",2024-04-26T20:21:47.230Z,171416290723000
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:21:46.422Z,171416290642200
+"""tanvirsmuct @ PsmMMY2E5F"" bets 150",2024-04-26T20:21:45.422Z,171416290542200
+"Turn: 8♥, K♥, J♣ [10♠]",2024-04-26T20:21:41.183Z,171416290118300
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:21:40.381Z,171416290038100
+"""tanvirsmuct @ PsmMMY2E5F"" bets 150",2024-04-26T20:21:39.166Z,171416289916600
+"Flop:  [8♥, K♥, J♣]",2024-04-26T20:21:35.683Z,171416289568300
+"""robq94 @ ULR2Ksq9EW"" calls 300",2024-04-26T20:21:34.853Z,171416289485300
+"""tanvirsmuct @ PsmMMY2E5F"" raises to 300",2024-04-26T20:21:32.100Z,171416289210000
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:21:26.876Z,171416288687600
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:21:25.180Z,171416288518005
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:21:25.180Z,171416288518004
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3447) | #7 ""robq94 @ ULR2Ksq9EW"" (2593)",2024-04-26T20:21:25.180Z,171416288518001
+"-- starting hand #25 (id: clvswazrdf4k)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:21:25.180Z,171416288518000
+"-- ending hand #24 --",2024-04-26T20:21:19.173Z,171416287917303
+"""robq94 @ ULR2Ksq9EW"" shows a 6♠, Q♠.",2024-04-26T20:21:19.173Z,171416287917302
+"""tanvirsmuct @ PsmMMY2E5F"" collected 1500 from pot with Pair, 10's (combination: 10♣, 10♠, A♠, K♥, J♠)",2024-04-26T20:21:19.173Z,171416287917301
+"""tanvirsmuct @ PsmMMY2E5F"" shows a A♠, 10♣.",2024-04-26T20:21:19.173Z,171416287917300
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:21:18.365Z,171416287836500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:21:15.692Z,171416287569200
+"River: K♥, J♠, 6♥, 10♠ [4♣]",2024-04-26T20:21:13.255Z,171416287325500
+"""tanvirsmuct @ PsmMMY2E5F"" calls 450",2024-04-26T20:21:12.433Z,171416287243300
+"""robq94 @ ULR2Ksq9EW"" raises to 450",2024-04-26T20:21:10.494Z,171416287049400
+"""tanvirsmuct @ PsmMMY2E5F"" bets 150",2024-04-26T20:21:06.442Z,171416286644200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:21:03.547Z,171416286354700
+"Turn: K♥, J♠, 6♥ [10♠]",2024-04-26T20:21:00.970Z,171416286097000
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:21:00.139Z,171416286013900
+"""tanvirsmuct @ PsmMMY2E5F"" bets 150",2024-04-26T20:20:58.102Z,171416285810200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:20:54.400Z,171416285440000
+"Flop:  [K♥, J♠, 6♥]",2024-04-26T20:20:50.494Z,171416285049400
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:20:49.670Z,171416284967000
+"""tanvirsmuct @ PsmMMY2E5F"" calls 150",2024-04-26T20:20:47.594Z,171416284759400
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:20:43.405Z,171416284340506
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:20:43.405Z,171416284340505
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2697) | #7 ""robq94 @ ULR2Ksq9EW"" (3343)",2024-04-26T20:20:43.405Z,171416284340502
+"-- starting hand #24 (id: zalil0vaxpqv)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:20:43.405Z,171416284340501
+"The player ""celebryt @ iulPdFFF8R"" quits the game with a stack of 0.",2024-04-26T20:20:43.405Z,171416284340500
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 4♣, 9♦.",2024-04-26T20:20:38.202Z,171416283820200
+"-- ending hand #23 --",2024-04-26T20:20:36.875Z,171416283687501
+"""robq94 @ ULR2Ksq9EW"" collected 2985 from pot with Two Pair, 9's & 7's (combination: 9♠, 9♣, 7♠, 7♣, J♥)",2024-04-26T20:20:36.875Z,171416283687500
+"River: 9♠, 5♦, 9♣, J♥ [4♦]",2024-04-26T20:20:32.865Z,171416283286500
+"Turn: 9♠, 5♦, 9♣ [J♥]",2024-04-26T20:20:28.858Z,171416282885800
+"Flop:  [9♠, 5♦, 9♣]",2024-04-26T20:20:24.848Z,171416282484800
+"""robq94 @ ULR2Ksq9EW"" shows a 7♠, 7♣.",2024-04-26T20:20:20.822Z,171416282082201
+"""celebryt @ iulPdFFF8R"" shows a A♣, 10♠.",2024-04-26T20:20:20.822Z,171416282082200
+"""robq94 @ ULR2Ksq9EW"" calls 1455",2024-04-26T20:20:19.967Z,171416281996700
+"""celebryt @ iulPdFFF8R"" raises to 1455 and go all in",2024-04-26T20:20:17.228Z,171416281722800
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:20:14.148Z,171416281414800
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:20:11.957Z,171416281195700
+"""celebryt @ iulPdFFF8R"" posts a big blind of 150",2024-04-26T20:20:10.577Z,171416281057706
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:20:10.577Z,171416281057705
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2772) | #2 ""celebryt @ iulPdFFF8R"" (1455) | #7 ""robq94 @ ULR2Ksq9EW"" (1813)",2024-04-26T20:20:10.577Z,171416281057701
+"-- starting hand #23 (id: 5znav4qumeju)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:20:10.577Z,171416281057700
+"-- ending hand #22 --",2024-04-26T20:20:04.535Z,171416280453502
+"""robq94 @ ULR2Ksq9EW"" collected 900 from pot with Pair, 9's (combination: 9♣, 9♦, A♠, 10♦, 8♠)",2024-04-26T20:20:04.535Z,171416280453501
+"""robq94 @ ULR2Ksq9EW"" shows a 9♣, 8♠.",2024-04-26T20:20:04.535Z,171416280453500
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:20:03.717Z,171416280371700
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:20:02.258Z,171416280225800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:20:00.138Z,171416280013800
+"River: 10♦, 7♣, 3♠, A♠ [9♦]",2024-04-26T20:19:56.796Z,171416279679600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 150",2024-04-26T20:19:55.921Z,171416279592100
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:19:52.008Z,171416279200800
+"""celebryt @ iulPdFFF8R"" bets 150",2024-04-26T20:19:50.660Z,171416279066000
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:19:49.085Z,171416278908500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:19:47.121Z,171416278712100
+"Turn: 10♦, 7♣, 3♠ [A♠]",2024-04-26T20:19:45.184Z,171416278518400
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:19:44.332Z,171416278433200
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:19:43.343Z,171416278334300
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:19:41.126Z,171416278112600
+"Flop:  [10♦, 7♣, 3♠]",2024-04-26T20:19:38.817Z,171416277881700
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:19:37.992Z,171416277799200
+"""robq94 @ ULR2Ksq9EW"" calls 150",2024-04-26T20:19:34.635Z,171416277463500
+"""celebryt @ iulPdFFF8R"" calls 150",2024-04-26T20:19:32.932Z,171416277293200
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 150",2024-04-26T20:19:31.166Z,171416277116606
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 75",2024-04-26T20:19:31.166Z,171416277116605
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3072) | #2 ""celebryt @ iulPdFFF8R"" (1755) | #7 ""robq94 @ ULR2Ksq9EW"" (1213)",2024-04-26T20:19:31.166Z,171416277116601
+"-- starting hand #22 (id: 64yc6qtomy6d)  (No Limit Texas Hold'em) (dealer: ""celebryt @ iulPdFFF8R"") --",2024-04-26T20:19:31.166Z,171416277116600
+"-- ending hand #21 --",2024-04-26T20:19:28.250Z,171416276825002
+"""robq94 @ ULR2Ksq9EW"" collected 300 from pot",2024-04-26T20:19:28.250Z,171416276825001
+"Uncalled bet of 150 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:19:28.250Z,171416276825000
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:19:27.414Z,171416276741400
+"""robq94 @ ULR2Ksq9EW"" bets 150",2024-04-26T20:19:26.394Z,171416276639400
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:19:24.898Z,171416276489800
+"Flop:  [10♣, 5♦, 3♣]",2024-04-26T20:19:22.969Z,171416276296900
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:19:22.161Z,171416276216100
+"""celebryt @ iulPdFFF8R"" calls 150",2024-04-26T20:19:20.960Z,171416276096000
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:19:19.682Z,171416275968200
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 150",2024-04-26T20:19:16.512Z,171416275651207
+"""celebryt @ iulPdFFF8R"" posts a small blind of 75",2024-04-26T20:19:16.512Z,171416275651206
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3072) | #2 ""celebryt @ iulPdFFF8R"" (1905) | #7 ""robq94 @ ULR2Ksq9EW"" (1063)",2024-04-26T20:19:16.512Z,171416275651202
+"-- starting hand #21 (id: ztlcxasbyyt4)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:19:16.512Z,171416275651201
+"The player ""knaush @ i8WU1EA56_"" quits the game with a stack of 0.",2024-04-26T20:19:16.512Z,171416275651200
+"-- ending hand #20 --",2024-04-26T20:19:10.505Z,171416275050501
+"""celebryt @ iulPdFFF8R"" collected 1270 from pot with Two Pair, K's & Q's (combination: K♥, K♠, Q♣, Q♠, 9♥)",2024-04-26T20:19:10.505Z,171416275050500
+"River: Q♣, K♠, 4♣, 8♠ [Q♠]",2024-04-26T20:19:06.495Z,171416274649500
+"Turn: Q♣, K♠, 4♣ [8♠]",2024-04-26T20:19:02.447Z,171416274244700
+"""knaush @ i8WU1EA56_"" shows a 10♣, J♠.",2024-04-26T20:18:58.431Z,171416273843102
+"""celebryt @ iulPdFFF8R"" shows a 9♥, K♥.",2024-04-26T20:18:58.431Z,171416273843101
+"Uncalled bet of 40 returned to ""celebryt @ iulPdFFF8R""",2024-04-26T20:18:58.431Z,171416273843100
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:18:57.602Z,171416273760200
+"""knaush @ i8WU1EA56_"" calls 410 and go all in",2024-04-26T20:18:56.392Z,171416273639200
+"""celebryt @ iulPdFFF8R"" bets 450",2024-04-26T20:18:53.908Z,171416273390800
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:18:49.226Z,171416272922600
+"Flop:  [Q♣, K♠, 4♣]",2024-04-26T20:18:43.556Z,171416272355600
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:18:42.742Z,171416272274200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 150",2024-04-26T20:18:41.700Z,171416272170000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:18:38.763Z,171416271876300
+"""knaush @ i8WU1EA56_"" calls 150",2024-04-26T20:18:37.560Z,171416271756000
+"""celebryt @ iulPdFFF8R"" posts a big blind of 150",2024-04-26T20:18:24.305Z,171416270430509
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 75",2024-04-26T20:18:24.305Z,171416270430508
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3222) | #2 ""celebryt @ iulPdFFF8R"" (1195) | #3 ""knaush @ i8WU1EA56_"" (560) | #7 ""robq94 @ ULR2Ksq9EW"" (1063)",2024-04-26T20:18:24.305Z,171416270430503
+"-- starting hand #20 (id: zwkdax8rvdxd)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:18:24.305Z,171416270430502
+"The game's big blind was changed from 100 to 150.",2024-04-26T20:18:24.305Z,171416270430501
+"The game's small blind was changed from 50 to 75.",2024-04-26T20:18:24.305Z,171416270430500
+"-- ending hand #19 --",2024-04-26T20:18:18.288Z,171416269828802
+"""tanvirsmuct @ PsmMMY2E5F"" collected 250 from pot with A High (combination: A♠, K♦, 9♥, 8♠, 4♣)",2024-04-26T20:18:18.288Z,171416269828801
+"""tanvirsmuct @ PsmMMY2E5F"" shows a A♠, 9♥.",2024-04-26T20:18:18.288Z,171416269828800
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:18:17.471Z,171416269747100
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:18:14.929Z,171416269492900
+"River: 3♣, 2♣, K♦, 8♠ [4♣]",2024-04-26T20:18:11.629Z,171416269162900
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:18:10.818Z,171416269081800
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:18:07.403Z,171416268740300
+"Turn: 3♣, 2♣, K♦ [8♠]",2024-04-26T20:18:04.840Z,171416268484000
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:18:04.000Z,171416268400000
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:17:49.074Z,171416266907400
+"Flop:  [3♣, 2♣, K♦]",2024-04-26T20:17:44.777Z,171416266477700
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:17:43.952Z,171416266395200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:17:39.246Z,171416265924600
+"""knaush @ i8WU1EA56_"" calls 100",2024-04-26T20:17:38.315Z,171416265831500
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:17:27.961Z,171416264796100
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 100",2024-04-26T20:17:26.110Z,171416264611007
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 50",2024-04-26T20:17:26.110Z,171416264611006
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (3072) | #2 ""celebryt @ iulPdFFF8R"" (1195) | #3 ""knaush @ i8WU1EA56_"" (660) | #7 ""robq94 @ ULR2Ksq9EW"" (1113)",2024-04-26T20:17:26.110Z,171416264611001
+"-- starting hand #19 (id: uyrmf8vfwfip)  (No Limit Texas Hold'em) (dealer: ""knaush @ i8WU1EA56_"") --",2024-04-26T20:17:26.110Z,171416264611000
+"-- ending hand #18 --",2024-04-26T20:17:20.032Z,171416264003203
+"""robq94 @ ULR2Ksq9EW"" shows a 10♥, J♥.",2024-04-26T20:17:20.032Z,171416264003202
+"""tanvirsmuct @ PsmMMY2E5F"" collected 2224 from pot with Two Pair, 9's & 3's (combination: 9♥, 9♣, 3♦, 3♠, 6♠)",2024-04-26T20:17:20.032Z,171416264003201
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 9♥, 9♣.",2024-04-26T20:17:20.032Z,171416264003200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 587",2024-04-26T20:17:19.185Z,171416263918500
+"""robq94 @ ULR2Ksq9EW"" bets 587",2024-04-26T20:17:11.757Z,171416263175700
+"River: 6♠, 2♣, 3♦, 3♠ [5♠]",2024-04-26T20:17:03.808Z,171416262380800
+"""tanvirsmuct @ PsmMMY2E5F"" calls 300",2024-04-26T20:17:02.973Z,171416262297300
+"""robq94 @ ULR2Ksq9EW"" bets 300",2024-04-26T20:16:59.883Z,171416261988300
+"Turn: 6♠, 2♣, 3♦ [3♠]",2024-04-26T20:16:54.054Z,171416261405400
+"""robq94 @ ULR2Ksq9EW"" calls 100",2024-04-26T20:16:53.244Z,171416261324400
+"""tanvirsmuct @ PsmMMY2E5F"" bets 100",2024-04-26T20:16:51.184Z,171416261118400
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:16:48.633Z,171416260863300
+"Flop:  [6♠, 2♣, 3♦]",2024-04-26T20:16:46.788Z,171416260678800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:16:45.956Z,171416260595600
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:16:44.376Z,171416260437600
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:16:42.622Z,171416260262200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 100",2024-04-26T20:16:41.669Z,171416260166900
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 100",2024-04-26T20:16:38.311Z,171416259831107
+"""knaush @ i8WU1EA56_"" posts a small blind of 50",2024-04-26T20:16:38.311Z,171416259831106
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1935) | #2 ""celebryt @ iulPdFFF8R"" (1195) | #3 ""knaush @ i8WU1EA56_"" (710) | #7 ""robq94 @ ULR2Ksq9EW"" (2200)",2024-04-26T20:16:38.311Z,171416259831101
+"-- starting hand #18 (id: fycaqcmjzwzd)  (No Limit Texas Hold'em) (dealer: ""celebryt @ iulPdFFF8R"") --",2024-04-26T20:16:38.311Z,171416259831100
+"-- ending hand #17 --",2024-04-26T20:16:32.270Z,171416259227001
+"""knaush @ i8WU1EA56_"" collected 710 from pot with Pair, K's (combination: K♥, K♦, 10♠, 9♦, 8♦)",2024-04-26T20:16:32.270Z,171416259227000
+"River: 4♣, 2♥, 10♠, 8♦ [K♦]",2024-04-26T20:16:28.268Z,171416258826800
+"Turn: 4♣, 2♥, 10♠ [8♦]",2024-04-26T20:16:24.263Z,171416258426300
+"""knaush @ i8WU1EA56_"" shows a K♥, 9♦.",2024-04-26T20:16:20.255Z,171416258025501
+"""celebryt @ iulPdFFF8R"" shows a 3♠, A♦.",2024-04-26T20:16:20.255Z,171416258025500
+"""celebryt @ iulPdFFF8R"" calls 205",2024-04-26T20:16:19.440Z,171416257944000
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:16:17.816Z,171416257781600
+"""knaush @ i8WU1EA56_"" bets 205 and go all in",2024-04-26T20:16:16.002Z,171416257600200
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:16:08.140Z,171416256814000
+"Flop:  [4♣, 2♥, 10♠]",2024-04-26T20:16:06.273Z,171416256627300
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:16:05.447Z,171416256544700
+"""celebryt @ iulPdFFF8R"" calls 100",2024-04-26T20:15:59.164Z,171416255916400
+"""tanvirsmuct @ PsmMMY2E5F"" calls 100",2024-04-26T20:15:58.103Z,171416255810300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:15:55.655Z,171416255565500
+"""knaush @ i8WU1EA56_"" posts a big blind of 100",2024-04-26T20:15:51.973Z,171416255197308
+"""celebryt @ iulPdFFF8R"" posts a small blind of 50",2024-04-26T20:15:51.973Z,171416255197307
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (2035) | #2 ""celebryt @ iulPdFFF8R"" (1500) | #3 ""knaush @ i8WU1EA56_"" (305) | #7 ""robq94 @ ULR2Ksq9EW"" (2200)",2024-04-26T20:15:51.973Z,171416255197302
+"-- starting hand #17 (id: oy0o0iekokj8)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:15:51.973Z,171416255197301
+"The player ""wolfbirdpilot @ U5uCxUDcnm"" quits the game with a stack of 0.",2024-04-26T20:15:51.973Z,171416255197300
+"-- ending hand #16 --",2024-04-26T20:15:45.955Z,171416254595505
+"""wolfbirdpilot @ U5uCxUDcnm"" shows a K♣, A♦.",2024-04-26T20:15:45.955Z,171416254595504
+"""tanvirsmuct @ PsmMMY2E5F"" collected 60 from pot with Full House, 8's over 5's (combination: 8♥, 8♦, 8♣, 5♦, 5♠)",2024-04-26T20:15:45.955Z,171416254595503
+"""tanvirsmuct @ PsmMMY2E5F"" collected 210 from pot with Full House, 8's over 5's (combination: 8♥, 8♦, 8♣, 5♦, 5♠)",2024-04-26T20:15:45.955Z,171416254595502
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 8♥, 8♦.",2024-04-26T20:15:45.955Z,171416254595501
+"Uncalled bet of 100 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:15:45.955Z,171416254595500
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:15:45.136Z,171416254513600
+"""tanvirsmuct @ PsmMMY2E5F"" bets 100",2024-04-26T20:15:43.996Z,171416254399600
+"River: 5♦, 8♣, 3♣, 5♠ [3♥]",2024-04-26T20:15:38.665Z,171416253866500
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:15:37.826Z,171416253782600
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:15:36.808Z,171416253680800
+"Turn: 5♦, 8♣, 3♣ [5♠]",2024-04-26T20:15:31.731Z,171416253173100
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:15:30.906Z,171416253090600
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:15:29.906Z,171416252990600
+"Flop:  [5♦, 8♣, 3♣]",2024-04-26T20:15:25.244Z,171416252524400
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:15:24.412Z,171416252441200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 100",2024-04-26T20:15:21.358Z,171416252135800
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:15:18.165Z,171416251816500
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 70 and go all in",2024-04-26T20:15:17.198Z,171416251719800
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:15:08.643Z,171416250864300
+"""celebryt @ iulPdFFF8R"" posts a big blind of 100",2024-04-26T20:15:03.058Z,171416250305808
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 50",2024-04-26T20:15:03.058Z,171416250305807
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1865) | #2 ""celebryt @ iulPdFFF8R"" (1600) | #3 ""knaush @ i8WU1EA56_"" (305) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (70) | #7 ""robq94 @ ULR2Ksq9EW"" (2200)",2024-04-26T20:15:03.058Z,171416250305801
+"-- starting hand #16 (id: qf3vvsdv9zz9)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:15:03.058Z,171416250305800
+"-- ending hand #15 --",2024-04-26T20:14:57.046Z,171416249704602
+"""tanvirsmuct @ PsmMMY2E5F"" collected 700 from pot with Flush, Kd High (combination: K♦, J♦, 8♦, 7♦, 4♦)",2024-04-26T20:14:57.046Z,171416249704601
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 7♦, 4♦.",2024-04-26T20:14:57.046Z,171416249704600
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:14:56.229Z,171416249622900
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:14:54.949Z,171416249494900
+"""tanvirsmuct @ PsmMMY2E5F"" raises to 200",2024-04-26T20:14:54.107Z,171416249410700
+"""robq94 @ ULR2Ksq9EW"" bets 100",2024-04-26T20:14:49.177Z,171416248917700
+"River: 2♥, K♦, J♦, 8♦ [4♠]",2024-04-26T20:14:47.512Z,171416248751200
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:14:46.661Z,171416248666100
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:14:45.827Z,171416248582700
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:14:42.932Z,171416248293200
+"Turn: 2♥, K♦, J♦ [8♦]",2024-04-26T20:14:40.573Z,171416248057300
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:14:39.704Z,171416247970400
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:14:38.756Z,171416247875600
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:14:36.018Z,171416247601800
+"Flop:  [2♥, K♦, J♦]",2024-04-26T20:14:33.591Z,171416247359100
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:14:32.771Z,171416247277100
+"""robq94 @ ULR2Ksq9EW"" calls 100",2024-04-26T20:14:30.302Z,171416247030200
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 100",2024-04-26T20:14:29.240Z,171416246924000
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:14:27.991Z,171416246799100
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:14:24.934Z,171416246493400
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 100",2024-04-26T20:14:23.083Z,171416246308308
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 50",2024-04-26T20:14:23.083Z,171416246308307
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1465) | #2 ""celebryt @ iulPdFFF8R"" (1600) | #3 ""knaush @ i8WU1EA56_"" (305) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (170) | #7 ""robq94 @ ULR2Ksq9EW"" (2500)",2024-04-26T20:14:23.083Z,171416246308301
+"-- starting hand #15 (id: xwgrlflagzx3)  (No Limit Texas Hold'em) (dealer: ""wolfbirdpilot @ U5uCxUDcnm"") --",2024-04-26T20:14:23.083Z,171416246308300
+"-- ending hand #14 --",2024-04-26T20:14:17.076Z,171416245707602
+"""celebryt @ iulPdFFF8R"" collected 1500 from pot with Straight, K High (combination: K♠, Q♥, J♣, 10♥, 9♥)",2024-04-26T20:14:17.076Z,171416245707601
+"""celebryt @ iulPdFFF8R"" shows a Q♥, 10♥.",2024-04-26T20:14:17.076Z,171416245707600
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:14:16.245Z,171416245624500
+"""knaush @ i8WU1EA56_"" calls 100",2024-04-26T20:14:14.088Z,171416245408800
+"""celebryt @ iulPdFFF8R"" bets 100",2024-04-26T20:14:01.388Z,171416244138800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:13:58.623Z,171416243862300
+"River: K♠, 9♥, 8♣, J♣ [3♠]",2024-04-26T20:13:56.676Z,171416243667600
+"""robq94 @ ULR2Ksq9EW"" calls 300",2024-04-26T20:13:55.849Z,171416243584900
+"""knaush @ i8WU1EA56_"" calls 300",2024-04-26T20:13:54.044Z,171416243404400
+"""celebryt @ iulPdFFF8R"" raises to 300",2024-04-26T20:13:51.277Z,171416243127700
+"""robq94 @ ULR2Ksq9EW"" calls 200",2024-04-26T20:13:46.896Z,171416242689600
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:13:45.744Z,171416242574400
+"""knaush @ i8WU1EA56_"" raises to 200",2024-04-26T20:13:44.824Z,171416242482400
+"""celebryt @ iulPdFFF8R"" bets 100",2024-04-26T20:13:41.570Z,171416242157000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:13:39.937Z,171416241993700
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:13:38.181Z,171416241818100
+"Turn: K♠, 9♥, 8♣ [J♣]",2024-04-26T20:13:35.411Z,171416241541100
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:13:34.572Z,171416241457200
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:13:22.376Z,171416240237600
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:13:19.298Z,171416239929800
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:13:17.013Z,171416239701300
+"Flop:  [K♠, 9♥, 8♣]",2024-04-26T20:13:15.370Z,171416239537000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:13:14.512Z,171416239451200
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 100",2024-04-26T20:13:13.468Z,171416239346800
+"""knaush @ i8WU1EA56_"" calls 100",2024-04-26T20:13:08.511Z,171416238851100
+"""celebryt @ iulPdFFF8R"" calls 100",2024-04-26T20:13:02.821Z,171416238282100
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:12:59.679Z,171416237967900
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 100",2024-04-26T20:12:55.124Z,171416237512410
+"""wolfbirdpilot @ U5uCxUDcnm"" posts a small blind of 50",2024-04-26T20:12:55.124Z,171416237512409
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1465) | #2 ""celebryt @ iulPdFFF8R"" (600) | #3 ""knaush @ i8WU1EA56_"" (805) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (270) | #7 ""robq94 @ ULR2Ksq9EW"" (2900)",2024-04-26T20:12:55.124Z,171416237512403
+"-- starting hand #14 (id: psrq3b59hquz)  (No Limit Texas Hold'em) (dealer: ""knaush @ i8WU1EA56_"") --",2024-04-26T20:12:55.124Z,171416237512402
+"The game's big blind was changed from 60 to 100.",2024-04-26T20:12:55.124Z,171416237512401
+"The game's small blind was changed from 30 to 50.",2024-04-26T20:12:55.124Z,171416237512400
+"-- ending hand #13 --",2024-04-26T20:12:52.200Z,171416237220002
+"""tanvirsmuct @ PsmMMY2E5F"" collected 240 from pot",2024-04-26T20:12:52.200Z,171416237220001
+"Uncalled bet of 60 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:12:52.200Z,171416237220000
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:12:51.341Z,171416237134100
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:12:50.472Z,171416237047200
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:12:43.774Z,171416236377400
+"""tanvirsmuct @ PsmMMY2E5F"" bets 60",2024-04-26T20:12:38.297Z,171416235829700
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:12:35.862Z,171416235586200
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:12:34.856Z,171416235485600
+"Flop:  [6♥, A♦, 3♥]",2024-04-26T20:12:28.165Z,171416234816500
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:12:27.299Z,171416234729900
+"""knaush @ i8WU1EA56_"" calls 60",2024-04-26T20:12:21.238Z,171416234123800
+"""celebryt @ iulPdFFF8R"" calls 60",2024-04-26T20:12:16.839Z,171416233683900
+"""tanvirsmuct @ PsmMMY2E5F"" calls 60",2024-04-26T20:12:15.778Z,171416233577800
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:12:12.413Z,171416233241300
+"""wolfbirdpilot @ U5uCxUDcnm"" posts a big blind of 60",2024-04-26T20:12:10.659Z,171416233065908
+"""knaush @ i8WU1EA56_"" posts a small blind of 30",2024-04-26T20:12:10.659Z,171416233065907
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1285) | #2 ""celebryt @ iulPdFFF8R"" (660) | #3 ""knaush @ i8WU1EA56_"" (865) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (330) | #7 ""robq94 @ ULR2Ksq9EW"" (2900)",2024-04-26T20:12:10.659Z,171416233065901
+"-- starting hand #13 (id: 3jbtqjbehc2l)  (No Limit Texas Hold'em) (dealer: ""celebryt @ iulPdFFF8R"") --",2024-04-26T20:12:10.659Z,171416233065900
+"-- ending hand #12 --",2024-04-26T20:12:04.642Z,171416232464203
+"""celebryt @ iulPdFFF8R"" shows a J♣, A♦.",2024-04-26T20:12:04.642Z,171416232464202
+"""knaush @ i8WU1EA56_"" collected 180 from pot with Straight, 6 High (combination: 6♠, 5♠, 4♠, 3♣, 2♦)",2024-04-26T20:12:04.642Z,171416232464201
+"""knaush @ i8WU1EA56_"" shows a 6♠, 8♣.",2024-04-26T20:12:04.642Z,171416232464200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:12:03.801Z,171416232380100
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:12:02.075Z,171416232207500
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:11:48.068Z,171416230806800
+"River: 4♠, 2♦, 5♠, Q♦ [3♣]",2024-04-26T20:11:44.994Z,171416230499400
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:11:44.190Z,171416230419000
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:11:42.915Z,171416230291500
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:11:41.800Z,171416230180000
+"Turn: 4♠, 2♦, 5♠ [Q♦]",2024-04-26T20:11:40.091Z,171416230009100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:11:39.278Z,171416229927800
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:11:38.163Z,171416229816300
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:11:35.345Z,171416229534500
+"Flop:  [4♠, 2♦, 5♠]",2024-04-26T20:11:32.840Z,171416229284000
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:11:31.996Z,171416229199600
+"""celebryt @ iulPdFFF8R"" calls 60",2024-04-26T20:11:29.263Z,171416228926300
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:11:26.303Z,171416228630300
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-26T20:11:23.489Z,171416228348900
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:11:21.562Z,171416228156200
+"""knaush @ i8WU1EA56_"" posts a big blind of 60",2024-04-26T20:11:09.597Z,171416226959709
+"""celebryt @ iulPdFFF8R"" posts a small blind of 30",2024-04-26T20:11:09.597Z,171416226959708
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1285) | #2 ""celebryt @ iulPdFFF8R"" (720) | #3 ""knaush @ i8WU1EA56_"" (745) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (330) | #7 ""robq94 @ ULR2Ksq9EW"" (2960)",2024-04-26T20:11:09.597Z,171416226959702
+"-- starting hand #12 (id: pdhznmfl5axe)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:11:09.597Z,171416226959701
+"The player ""Ippei Mizuhara @ cT4HWUuGvq"" quits the game with a stack of 0.",2024-04-26T20:11:09.597Z,171416226959700
+"-- ending hand #11 --",2024-04-26T20:11:03.592Z,171416226359201
+"""robq94 @ ULR2Ksq9EW"" collected 1885 from pot with Two Pair, Q's & 6's (combination: Q♠, Q♥, 6♣, 6♠, J♥)",2024-04-26T20:11:03.592Z,171416226359200
+"River: 6♣, 4♦, Q♥, J♥ [6♠]",2024-04-26T20:10:59.586Z,171416225958600
+"""Ippei Mizuhara @ cT4HWUuGvq"" shows a A♣, J♣.",2024-04-26T20:10:55.572Z,171416225557201
+"""robq94 @ ULR2Ksq9EW"" shows a 5♠, Q♠.",2024-04-26T20:10:55.572Z,171416225557200
+"""robq94 @ ULR2Ksq9EW"" calls 530",2024-04-26T20:10:54.758Z,171416225475800
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:10:53.724Z,171416225372400
+"""Ippei Mizuhara @ cT4HWUuGvq"" bets 530 and go all in",2024-04-26T20:10:49.630Z,171416224963000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:10:46.670Z,171416224667000
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:10:44.755Z,171416224475500
+"Turn: 6♣, 4♦, Q♥ [J♥]",2024-04-26T20:10:30.791Z,171416223079100
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:10:29.947Z,171416222994700
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:10:27.757Z,171416222775700
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:10:26.095Z,171416222609500
+"Flop:  [6♣, 4♦, Q♥]",2024-04-26T20:10:21.063Z,171416222106300
+"""robq94 @ ULR2Ksq9EW"" calls 225",2024-04-26T20:10:20.183Z,171416222018300
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:10:11.202Z,171416221120200
+"""knaush @ i8WU1EA56_"" calls 225",2024-04-26T20:10:08.594Z,171416220859400
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:10:04.692Z,171416220469200
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:09:48.832Z,171416218883200
+"""Ippei Mizuhara @ cT4HWUuGvq"" raises to 225",2024-04-26T20:09:46.882Z,171416218688200
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-26T20:09:43.230Z,171416218323000
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 60",2024-04-26T20:09:40.749Z,171416218074900
+"""knaush @ i8WU1EA56_"" calls 60",2024-04-26T20:09:36.640Z,171416217664000
+"""celebryt @ iulPdFFF8R"" posts a big blind of 60",2024-04-26T20:09:33.291Z,171416217329109
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 30",2024-04-26T20:09:33.291Z,171416217329108
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1315) | #2 ""celebryt @ iulPdFFF8R"" (780) | #3 ""knaush @ i8WU1EA56_"" (970) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (390) | #7 ""robq94 @ ULR2Ksq9EW"" (1830) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (755)",2024-04-26T20:09:33.291Z,171416217329101
+"-- starting hand #11 (id: e3jekklqz2sj)  (No Limit Texas Hold'em) (dealer: ""Ippei Mizuhara @ cT4HWUuGvq"") --",2024-04-26T20:09:33.291Z,171416217329100
+"-- ending hand #10 --",2024-04-26T20:09:30.346Z,171416217034602
+"""knaush @ i8WU1EA56_"" collected 210 from pot",2024-04-26T20:09:30.346Z,171416217034601
+"Uncalled bet of 120 returned to ""knaush @ i8WU1EA56_""",2024-04-26T20:09:30.346Z,171416217034600
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:09:29.490Z,171416216949000
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:09:28.334Z,171416216833400
+"""knaush @ i8WU1EA56_"" bets 120",2024-04-26T20:09:15.523Z,171416215552300
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:09:09.267Z,171416214926700
+"Flop:  [5♦, 4♠, A♠]",2024-04-26T20:09:03.742Z,171416214374200
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:09:02.915Z,171416214291500
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:09:00.541Z,171416214054100
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-26T20:08:59.630Z,171416213963000
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:08:58.393Z,171416213839300
+"""knaush @ i8WU1EA56_"" calls 60",2024-04-26T20:08:57.544Z,171416213754400
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:08:53.170Z,171416213317000
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 60",2024-04-26T20:08:38.136Z,171416211813609
+"""Ippei Mizuhara @ cT4HWUuGvq"" posts a small blind of 30",2024-04-26T20:08:38.136Z,171416211813608
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1375) | #2 ""celebryt @ iulPdFFF8R"" (780) | #3 ""knaush @ i8WU1EA56_"" (820) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (390) | #7 ""robq94 @ ULR2Ksq9EW"" (1890) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (785)",2024-04-26T20:08:38.136Z,171416211813601
+"-- starting hand #10 (id: uskuqfcthhfv)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:08:38.136Z,171416211813600
+"-- ending hand #9 --",2024-04-26T20:08:35.191Z,171416211519102
+"""robq94 @ ULR2Ksq9EW"" collected 360 from pot",2024-04-26T20:08:35.191Z,171416211519101
+"Uncalled bet of 180 returned to ""robq94 @ ULR2Ksq9EW""",2024-04-26T20:08:35.191Z,171416211519100
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:08:34.388Z,171416211438800
+"""robq94 @ ULR2Ksq9EW"" bets 180",2024-04-26T20:08:33.292Z,171416211329200
+"River: 6♦, 5♣, 6♠, 6♣ [3♣]",2024-04-26T20:08:29.530Z,171416210953000
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 60",2024-04-26T20:08:28.673Z,171416210867300
+"""robq94 @ ULR2Ksq9EW"" bets 60",2024-04-26T20:08:27.754Z,171416210775400
+"Turn: 6♦, 5♣, 6♠ [6♣]",2024-04-26T20:08:23.585Z,171416210358500
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-26T20:08:22.755Z,171416210275500
+"""Ippei Mizuhara @ cT4HWUuGvq"" bets 60",2024-04-26T20:08:12.312Z,171416209231200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:08:10.286Z,171416209028600
+"Flop:  [6♦, 5♣, 6♠]",2024-04-26T20:08:06.213Z,171416208621300
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:08:05.393Z,171416208539300
+"""robq94 @ ULR2Ksq9EW"" calls 60",2024-04-26T20:08:04.050Z,171416208405000
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:08:00.956Z,171416208095600
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:07:57.446Z,171416207744600
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:07:55.425Z,171416207542500
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:07:54.478Z,171416207447800
+"""Ippei Mizuhara @ cT4HWUuGvq"" posts a big blind of 60",2024-04-26T20:07:51.084Z,171416207108411
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 30",2024-04-26T20:07:51.084Z,171416207108410
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1375) | #2 ""celebryt @ iulPdFFF8R"" (780) | #3 ""knaush @ i8WU1EA56_"" (820) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (390) | #7 ""robq94 @ ULR2Ksq9EW"" (1710) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (965)",2024-04-26T20:07:51.084Z,171416207108403
+"-- starting hand #9 (id: 4nbfsa8sugd3)  (No Limit Texas Hold'em) (dealer: ""wolfbirdpilot @ U5uCxUDcnm"") --",2024-04-26T20:07:51.084Z,171416207108402
+"The game's big blind was changed from 40 to 60.",2024-04-26T20:07:51.084Z,171416207108401
+"The game's small blind was changed from 20 to 30.",2024-04-26T20:07:51.084Z,171416207108400
+"""Ippei Mizuhara @ cT4HWUuGvq"" shows a J♣, 2♦.",2024-04-26T20:07:49.548Z,171416206954800
+"-- ending hand #8 --",2024-04-26T20:07:44.578Z,171416206457804
+"""robq94 @ ULR2Ksq9EW"" collected 220 from pot with Pair, J's (combination: J♦, J♥, A♦, 10♠, 9♦)",2024-04-26T20:07:44.578Z,171416206457803
+"""robq94 @ ULR2Ksq9EW"" shows a 9♦, A♦.",2024-04-26T20:07:44.578Z,171416206457802
+"""knaush @ i8WU1EA56_"" collected 220 from pot with Pair, J's (combination: J♦, J♥, A♥, 10♠, 9♠)",2024-04-26T20:07:44.578Z,171416206457801
+"""knaush @ i8WU1EA56_"" shows a A♥, 9♠.",2024-04-26T20:07:44.578Z,171416206457800
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:07:43.731Z,171416206373100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:07:40.535Z,171416206053500
+"River: 10♠, 8♠, 6♥, J♦ [J♥]",2024-04-26T20:07:38.272Z,171416205827200
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:07:37.455Z,171416205745500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:07:33.913Z,171416205391300
+"Turn: 10♠, 8♠, 6♥ [J♦]",2024-04-26T20:07:25.269Z,171416204526900
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:07:24.420Z,171416204442000
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:07:18.464Z,171416203846400
+"Flop:  [10♠, 8♠, 6♥]",2024-04-26T20:07:15.679Z,171416203567900
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:07:14.852Z,171416203485200
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:06:59.011Z,171416201901100
+"""robq94 @ ULR2Ksq9EW"" calls 170",2024-04-26T20:06:57.816Z,171416201781600
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:06:56.035Z,171416201603500
+"""knaush @ i8WU1EA56_"" raises to 170",2024-04-26T20:06:48.534Z,171416200853400
+"""celebryt @ iulPdFFF8R"" calls 40",2024-04-26T20:06:42.908Z,171416200290800
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T20:06:41.868Z,171416200186800
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:06:39.254Z,171416199925400
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 40",2024-04-26T20:06:37.932Z,171416199793209
+"""wolfbirdpilot @ U5uCxUDcnm"" posts a small blind of 20",2024-04-26T20:06:37.932Z,171416199793208
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1415) | #2 ""celebryt @ iulPdFFF8R"" (820) | #3 ""knaush @ i8WU1EA56_"" (770) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (410) | #7 ""robq94 @ ULR2Ksq9EW"" (1660) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (965)",2024-04-26T20:06:37.932Z,171416199793201
+"-- starting hand #8 (id: eybyjb2xrxfp)  (No Limit Texas Hold'em) (dealer: ""knaush @ i8WU1EA56_"") --",2024-04-26T20:06:37.932Z,171416199793200
+"-- ending hand #7 --",2024-04-26T20:06:31.928Z,171416199192802
+"""robq94 @ ULR2Ksq9EW"" collected 520 from pot with Straight, Q High (combination: Q♥, J♦, 10♥, 9♥, 8♥)",2024-04-26T20:06:31.928Z,171416199192801
+"""robq94 @ ULR2Ksq9EW"" shows a 10♥, J♦.",2024-04-26T20:06:31.928Z,171416199192800
+"""knaush @ i8WU1EA56_"" calls 120",2024-04-26T20:06:31.026Z,171416199102600
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:06:27.752Z,171416198775200
+"""robq94 @ ULR2Ksq9EW"" bets 120",2024-04-26T20:06:19.796Z,171416197979600
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:06:15.858Z,171416197585800
+"River: 9♥, 8♥, Q♥, 8♦ [A♠]",2024-04-26T20:06:01.978Z,171416196197800
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:06:01.152Z,171416196115200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:06:00.095Z,171416196009500
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:05:56.825Z,171416195682500
+"Turn: 9♥, 8♥, Q♥ [8♦]",2024-04-26T20:05:52.878Z,171416195287800
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-26T20:05:52.032Z,171416195203200
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:05:50.966Z,171416195096600
+"""knaush @ i8WU1EA56_"" calls 40",2024-04-26T20:05:50.132Z,171416195013200
+"""celebryt @ iulPdFFF8R"" bets 40",2024-04-26T20:05:34.775Z,171416193477500
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:05:29.690Z,171416192969000
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:05:26.608Z,171416192660800
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:05:23.082Z,171416192308200
+"Flop:  [9♥, 8♥, Q♥]",2024-04-26T20:05:17.675Z,171416191767500
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:05:16.868Z,171416191686800
+"""knaush @ i8WU1EA56_"" calls 40",2024-04-26T20:05:13.779Z,171416191377900
+"""celebryt @ iulPdFFF8R"" calls 40",2024-04-26T20:05:09.807Z,171416190980700
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:05:06.831Z,171416190683100
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:05:05.612Z,171416190561200
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-26T20:05:04.342Z,171416190434200
+"""wolfbirdpilot @ U5uCxUDcnm"" posts a big blind of 40",2024-04-26T20:05:02.573Z,171416190257309
+"""knaush @ i8WU1EA56_"" posts a small blind of 20",2024-04-26T20:05:02.573Z,171416190257308
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1415) | #2 ""celebryt @ iulPdFFF8R"" (900) | #3 ""knaush @ i8WU1EA56_"" (970) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (450) | #7 ""robq94 @ ULR2Ksq9EW"" (1340) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (965)",2024-04-26T20:05:02.573Z,171416190257301
+"-- starting hand #7 (id: 39ytyonikqre)  (No Limit Texas Hold'em) (dealer: ""celebryt @ iulPdFFF8R"") --",2024-04-26T20:05:02.573Z,171416190257300
+"""robq94 @ ULR2Ksq9EW"" shows a 10♠, A♦.",2024-04-26T20:04:59.949Z,171416189994900
+"""Ippei Mizuhara @ cT4HWUuGvq"" shows a J♠, 8♠.",2024-04-26T20:04:59.009Z,171416189900900
+"-- ending hand #6 --",2024-04-26T20:04:58.256Z,171416189825602
+"""Ippei Mizuhara @ cT4HWUuGvq"" collected 440 from pot",2024-04-26T20:04:58.256Z,171416189825601
+"Uncalled bet of 220 returned to ""Ippei Mizuhara @ cT4HWUuGvq""",2024-04-26T20:04:58.256Z,171416189825600
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:04:57.418Z,171416189741800
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:04:47.134Z,171416188713400
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:04:42.056Z,171416188205600
+"""Ippei Mizuhara @ cT4HWUuGvq"" raises to 260",2024-04-26T20:04:40.049Z,171416188004900
+"""robq94 @ ULR2Ksq9EW"" bets 40",2024-04-26T20:04:32.893Z,171416187289300
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:04:29.880Z,171416186988000
+"River: Q♠, Q♣, 3♣, 10♥ [9♥]",2024-04-26T20:04:25.501Z,171416186550100
+"""knaush @ i8WU1EA56_"" calls 40",2024-04-26T20:04:24.686Z,171416186468600
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:04:09.196Z,171416184919600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T20:04:08.373Z,171416184837300
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 40",2024-04-26T20:04:07.166Z,171416184716600
+"""robq94 @ ULR2Ksq9EW"" bets 40",2024-04-26T20:04:05.013Z,171416184501300
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:04:01.517Z,171416184151700
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:03:58.582Z,171416183858201
+"Turn: Q♠, Q♣, 3♣ [10♥]",2024-04-26T20:03:58.582Z,171416183858200
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:03:57.773Z,171416183777300
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:03:53.292Z,171416183329200
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:03:52.373Z,171416183237300
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:03:47.927Z,171416182792700
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:03:46.845Z,171416182684500
+"Flop:  [Q♠, Q♣, 3♣]",2024-04-26T20:03:31.808Z,171416181180800
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T20:03:30.939Z,171416181093900
+"""celebryt @ iulPdFFF8R"" calls 40",2024-04-26T20:03:17.182Z,171416179718200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T20:03:16.170Z,171416179617000
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 40",2024-04-26T20:03:14.147Z,171416179414700
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-26T20:03:13.229Z,171416179322900
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:03:11.657Z,171416179165700
+"""knaush @ i8WU1EA56_"" posts a big blind of 40",2024-04-26T20:03:09.399Z,171416178939909
+"""celebryt @ iulPdFFF8R"" posts a small blind of 20",2024-04-26T20:03:09.399Z,171416178939908
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1495) | #2 ""celebryt @ iulPdFFF8R"" (940) | #3 ""knaush @ i8WU1EA56_"" (1050) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (450) | #7 ""robq94 @ ULR2Ksq9EW"" (1460) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (645)",2024-04-26T20:03:09.399Z,171416178939901
+"-- starting hand #6 (id: qmjblv2ge53p)  (No Limit Texas Hold'em) (dealer: ""tanvirsmuct @ PsmMMY2E5F"") --",2024-04-26T20:03:09.399Z,171416178939900
+"-- ending hand #5 --",2024-04-26T20:03:03.381Z,171416178338102
+"""tanvirsmuct @ PsmMMY2E5F"" collected 80 from pot with Pair, 6's (combination: 6♠, 6♥, A♠, K♥, 10♠)",2024-04-26T20:03:03.381Z,171416178338101
+"""tanvirsmuct @ PsmMMY2E5F"" shows a 6♠, K♥.",2024-04-26T20:03:03.381Z,171416178338100
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:03:02.575Z,171416178257500
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:03:00.682Z,171416178068200
+"River: A♠, 6♥, 2♣, 8♣ [10♠]",2024-04-26T20:02:59.169Z,171416177916900
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:02:58.336Z,171416177833600
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:02:57.357Z,171416177735700
+"Turn: A♠, 6♥, 2♣ [8♣]",2024-04-26T20:02:54.912Z,171416177491200
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:02:54.083Z,171416177408300
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:02:52.255Z,171416177225500
+"Flop:  [A♠, 6♥, 2♣]",2024-04-26T20:02:48.730Z,171416176873000
+"""celebryt @ iulPdFFF8R"" checks",2024-04-26T20:02:47.877Z,171416176787700
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T20:02:46.147Z,171416176614700
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:02:41.922Z,171416176192200
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:02:29.358Z,171416174935800
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:02:15.456Z,171416173545600
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:02:14.441Z,171416173444100
+"""celebryt @ iulPdFFF8R"" posts a big blind of 40",2024-04-26T20:02:06.708Z,171416172670811
+"""tanvirsmuct @ PsmMMY2E5F"" posts a small blind of 20",2024-04-26T20:02:06.708Z,171416172670810
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1455) | #2 ""celebryt @ iulPdFFF8R"" (980) | #3 ""knaush @ i8WU1EA56_"" (1050) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (450) | #7 ""robq94 @ ULR2Ksq9EW"" (1460) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (645)",2024-04-26T20:02:06.708Z,171416172670803
+"-- starting hand #5 (id: pkwjqbicva7b)  (No Limit Texas Hold'em) (dealer: ""Ippei Mizuhara @ cT4HWUuGvq"") --",2024-04-26T20:02:06.708Z,171416172670802
+"The game's big blind was changed from 20 to 40.",2024-04-26T20:02:06.708Z,171416172670801
+"The game's small blind was changed from 10 to 20.",2024-04-26T20:02:06.708Z,171416172670800
+"""tanvirsmuct @ PsmMMY2E5F"" shows a Q♦, 6♥.",2024-04-26T20:02:03.665Z,171416172366500
+"-- ending hand #4 --",2024-04-26T20:02:00.133Z,171416172013302
+"""robq94 @ ULR2Ksq9EW"" collected 990 from pot with Three of a Kind, J's (combination: J♦, J♥, J♣, 10♥, 8♣)",2024-04-26T20:02:00.133Z,171416172013301
+"""robq94 @ ULR2Ksq9EW"" shows a J♦, 8♣.",2024-04-26T20:02:00.133Z,171416172013300
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 410",2024-04-26T20:01:59.326Z,171416171932600
+"""robq94 @ ULR2Ksq9EW"" raises to 410",2024-04-26T20:01:57.670Z,171416171767000
+"""wolfbirdpilot @ U5uCxUDcnm"" bets 80",2024-04-26T20:01:54.465Z,171416171446500
+"River: J♥, J♣, 10♥, 6♦ [2♠]",2024-04-26T20:01:50.861Z,171416171086100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:01:50.030Z,171416171003000
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T20:01:43.229Z,171416170322900
+"Turn: J♥, J♣, 10♥ [6♦]",2024-04-26T20:01:41.855Z,171416170185500
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T20:01:41.030Z,171416170103000
+"""robq94 @ ULR2Ksq9EW"" calls 20",2024-04-26T20:01:32.615Z,171416169261500
+"""wolfbirdpilot @ U5uCxUDcnm"" bets 20",2024-04-26T20:01:27.883Z,171416168788300
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T20:01:25.920Z,171416168592000
+"Flop:  [J♥, J♣, 10♥]",2024-04-26T20:01:21.921Z,171416168192100
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T20:01:21.085Z,171416168108500
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:01:18.841Z,171416167884100
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-26T20:01:17.854Z,171416167785400
+"""wolfbirdpilot @ U5uCxUDcnm"" raises to 40",2024-04-26T20:01:15.896Z,171416167589600
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T20:01:14.692Z,171416167469200
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:01:10.247Z,171416167024700
+"""tanvirsmuct @ PsmMMY2E5F"" posts a big blind of 20",2024-04-26T20:01:07.006Z,171416166700611
+"""Ippei Mizuhara @ cT4HWUuGvq"" posts a small blind of 10",2024-04-26T20:01:07.006Z,171416166700610
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1495) | #2 ""celebryt @ iulPdFFF8R"" (980) | #3 ""knaush @ i8WU1EA56_"" (1050) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (920) | #7 ""robq94 @ ULR2Ksq9EW"" (940) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (655)",2024-04-26T20:01:07.006Z,171416166700603
+"-- starting hand #4 (id: sdqahfupiw5x)  (No Limit Texas Hold'em) (dealer: ""robq94 @ ULR2Ksq9EW"") --",2024-04-26T20:01:07.006Z,171416166700602
+"The player ""PasekaMotaung @ oHHsrfJsdp"" quits the game with a stack of 990.",2024-04-26T20:01:07.006Z,171416166700601
+"The player ""Don de Marco @ 8CDWov6HKx"" quits the game with a stack of 970.",2024-04-26T20:01:07.006Z,171416166700600
+"-- ending hand #3 --",2024-04-26T20:01:04.065Z,171416166406502
+"""tanvirsmuct @ PsmMMY2E5F"" collected 460 from pot",2024-04-26T20:01:04.065Z,171416166406501
+"Uncalled bet of 460 returned to ""tanvirsmuct @ PsmMMY2E5F""",2024-04-26T20:01:04.065Z,171416166406500
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T20:01:03.208Z,171416166320800
+"""tanvirsmuct @ PsmMMY2E5F"" bets 460",2024-04-26T20:01:01.695Z,171416166169500
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:00:51.387Z,171416165138700
+"River: 8♦, 8♥, 6♥, 2♦ [A♣]",2024-04-26T20:00:49.176Z,171416164917600
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 100",2024-04-26T20:00:48.288Z,171416164828800
+"""tanvirsmuct @ PsmMMY2E5F"" bets 100",2024-04-26T20:00:46.664Z,171416164666400
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:00:36.072Z,171416163607200
+"Turn: 8♦, 8♥, 6♥ [2♦]",2024-04-26T20:00:33.763Z,171416163376300
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 80",2024-04-26T20:00:32.925Z,171416163292500
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T20:00:31.691Z,171416163169100
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T20:00:20.149Z,171416162014900
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T20:00:19.293Z,171416161929300
+"""tanvirsmuct @ PsmMMY2E5F"" raises to 80",2024-04-26T20:00:16.291Z,171416161629100
+"""Ippei Mizuhara @ cT4HWUuGvq"" bets 40",2024-04-26T20:00:12.668Z,171416161266800
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T20:00:08.178Z,171416160817800
+"Flop:  [8♦, 8♥, 6♥]",2024-04-26T20:00:03.521Z,171416160352100
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T20:00:02.692Z,171416160269200
+"""robq94 @ ULR2Ksq9EW"" calls 20",2024-04-26T20:00:01.721Z,171416160172100
+"""Don de Marco @ 8CDWov6HKx"" folds",2024-04-26T19:59:59.379Z,171416159937900
+"""PasekaMotaung @ oHHsrfJsdp"" folds",2024-04-26T19:59:58.576Z,171416159857600
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 20",2024-04-26T19:59:57.745Z,171416159774500
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T19:59:51.282Z,171416159128200
+"""celebryt @ iulPdFFF8R"" calls 20",2024-04-26T19:59:45.530Z,171416158553000
+"""tanvirsmuct @ PsmMMY2E5F"" calls 20",2024-04-26T19:59:44.495Z,171416158449500
+"""Ippei Mizuhara @ cT4HWUuGvq"" posts a big blind of 20",2024-04-26T19:59:40.235Z,171416158023511
+"""robq94 @ ULR2Ksq9EW"" posts a small blind of 10",2024-04-26T19:59:40.235Z,171416158023510
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1235) | #2 ""celebryt @ iulPdFFF8R"" (1000) | #3 ""knaush @ i8WU1EA56_"" (1050) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (940) | #5 ""PasekaMotaung @ oHHsrfJsdp"" (990) | #6 ""Don de Marco @ 8CDWov6HKx"" (970) | #7 ""robq94 @ ULR2Ksq9EW"" (960) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (855)",2024-04-26T19:59:40.235Z,171416158023501
+"-- starting hand #3 (id: 3xy3qp598sxg)  (No Limit Texas Hold'em) (dealer: ""Don de Marco @ 8CDWov6HKx"") --",2024-04-26T19:59:40.235Z,171416158023500
+"-- ending hand #2 --",2024-04-26T19:59:34.216Z,171416157421603
+"""Ippei Mizuhara @ cT4HWUuGvq"" shows a 5♥, A♥.",2024-04-26T19:59:34.216Z,171416157421602
+"""tanvirsmuct @ PsmMMY2E5F"" collected 380 from pot with Pair, A's (combination: A♠, A♣, J♠, 9♦, 8♥)",2024-04-26T19:59:34.216Z,171416157421601
+"""tanvirsmuct @ PsmMMY2E5F"" shows a A♠, 8♥.",2024-04-26T19:59:34.216Z,171416157421600
+"""tanvirsmuct @ PsmMMY2E5F"" calls 20",2024-04-26T19:59:33.398Z,171416157339800
+"""Ippei Mizuhara @ cT4HWUuGvq"" bets 20",2024-04-26T19:59:30.076Z,171416157007600
+"River: 6♥, 9♦, J♠, A♣ [3♥]",2024-04-26T19:59:27.805Z,171416156780500
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T19:59:26.949Z,171416156694900
+"""wolfbirdpilot @ U5uCxUDcnm"" folds",2024-04-26T19:59:19.400Z,171416155940000
+"""tanvirsmuct @ PsmMMY2E5F"" calls 85",2024-04-26T19:59:17.988Z,171416155798800
+"""Ippei Mizuhara @ cT4HWUuGvq"" bets 85",2024-04-26T19:59:15.801Z,171416155580100
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T19:59:11.373Z,171416155137300
+"Turn: 6♥, 9♦, J♠ [A♣]",2024-04-26T19:59:09.240Z,171416154924000
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T19:59:08.387Z,171416154838700
+"""tanvirsmuct @ PsmMMY2E5F"" checks",2024-04-26T19:59:06.030Z,171416154603000
+"""Ippei Mizuhara @ cT4HWUuGvq"" checks",2024-04-26T19:59:03.719Z,171416154371900
+"""robq94 @ ULR2Ksq9EW"" checks",2024-04-26T19:59:01.022Z,171416154102200
+"Flop:  [6♥, 9♦, J♠]",2024-04-26T19:58:53.135Z,171416153313500
+"""tanvirsmuct @ PsmMMY2E5F"" calls 40",2024-04-26T19:58:52.307Z,171416153230700
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 40",2024-04-26T19:58:51.174Z,171416153117400
+"""robq94 @ ULR2Ksq9EW"" calls 40",2024-04-26T19:58:48.717Z,171416152871700
+"""Don de Marco @ 8CDWov6HKx"" folds",2024-04-26T19:58:45.080Z,171416152508000
+"""PasekaMotaung @ oHHsrfJsdp"" folds",2024-04-26T19:58:44.233Z,171416152423300
+"""wolfbirdpilot @ U5uCxUDcnm"" raises to 40",2024-04-26T19:58:43.430Z,171416152343000
+"""knaush @ i8WU1EA56_"" folds",2024-04-26T19:58:37.904Z,171416151790400
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T19:58:30.832Z,171416151083200
+"""tanvirsmuct @ PsmMMY2E5F"" calls 20",2024-04-26T19:58:29.817Z,171416150981700
+"""Ippei Mizuhara @ cT4HWUuGvq"" calls 20",2024-04-26T19:58:27.337Z,171416150733700
+"""robq94 @ ULR2Ksq9EW"" posts a big blind of 20",2024-04-26T19:58:21.344Z,171416150134411
+"""Don de Marco @ 8CDWov6HKx"" posts a small blind of 10",2024-04-26T19:58:21.344Z,171416150134410
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1000) | #2 ""celebryt @ iulPdFFF8R"" (1000) | #3 ""knaush @ i8WU1EA56_"" (1050) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (980) | #5 ""PasekaMotaung @ oHHsrfJsdp"" (990) | #6 ""Don de Marco @ 8CDWov6HKx"" (980) | #7 ""robq94 @ ULR2Ksq9EW"" (1000) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (1000)",2024-04-26T19:58:21.344Z,171416150134401
+"-- starting hand #2 (id: gep7qugssagf)  (No Limit Texas Hold'em) (dealer: ""PasekaMotaung @ oHHsrfJsdp"") --",2024-04-26T19:58:21.344Z,171416150134400
+"-- ending hand #1 --",2024-04-26T19:58:15.329Z,171416149532902
+"""knaush @ i8WU1EA56_"" collected 70 from pot with Two Pair, 5's & 3's (combination: 5♠, 5♥, 3♦, 3♣, 10♦)",2024-04-26T19:58:15.329Z,171416149532901
+"""knaush @ i8WU1EA56_"" shows a 5♠, 7♠.",2024-04-26T19:58:15.329Z,171416149532900
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T19:58:14.501Z,171416149450100
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T19:58:13.617Z,171416149361700
+"River: 3♦, 9♥, 3♣, 10♦ [5♥]",2024-04-26T19:58:08.328Z,171416148832800
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T19:58:07.490Z,171416148749000
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T19:58:05.939Z,171416148593900
+"Turn: 3♦, 9♥, 3♣ [10♦]",2024-04-26T19:58:01.112Z,171416148111200
+"""wolfbirdpilot @ U5uCxUDcnm"" checks",2024-04-26T19:58:00.279Z,171416148027900
+"""knaush @ i8WU1EA56_"" checks",2024-04-26T19:57:58.903Z,171416147890300
+"""Don de Marco @ 8CDWov6HKx"" folds",2024-04-26T19:57:54.061Z,171416147406101
+"Flop:  [3♦, 9♥, 3♣]",2024-04-26T19:57:54.061Z,171416147406100
+"""Don de Marco @ 8CDWov6HKx"" checks",2024-04-26T19:57:53.186Z,171416147318600
+"""PasekaMotaung @ oHHsrfJsdp"" folds",2024-04-26T19:57:37.298Z,171416145729800
+"""wolfbirdpilot @ U5uCxUDcnm"" calls 20",2024-04-26T19:57:21.435Z,171416144143500
+"""knaush @ i8WU1EA56_"" calls 20",2024-04-26T19:57:17.731Z,171416143773100
+"""celebryt @ iulPdFFF8R"" folds",2024-04-26T19:57:16.606Z,171416143660600
+"""tanvirsmuct @ PsmMMY2E5F"" folds",2024-04-26T19:57:00.740Z,171416142074000
+"""Ippei Mizuhara @ cT4HWUuGvq"" folds",2024-04-26T19:56:59.503Z,171416141950300
+"""robq94 @ ULR2Ksq9EW"" folds",2024-04-26T19:56:58.388Z,171416141838800
+"""Don de Marco @ 8CDWov6HKx"" posts a big blind of 20",2024-04-26T19:56:43.339Z,171416140333919
+"""PasekaMotaung @ oHHsrfJsdp"" posts a small blind of 10",2024-04-26T19:56:43.339Z,171416140333918
+"Player stacks: #1 ""tanvirsmuct @ PsmMMY2E5F"" (1000) | #2 ""celebryt @ iulPdFFF8R"" (1000) | #3 ""knaush @ i8WU1EA56_"" (1000) | #4 ""wolfbirdpilot @ U5uCxUDcnm"" (1000) | #5 ""PasekaMotaung @ oHHsrfJsdp"" (1000) | #6 ""Don de Marco @ 8CDWov6HKx"" (1000) | #7 ""robq94 @ ULR2Ksq9EW"" (1000) | #8 ""Ippei Mizuhara @ cT4HWUuGvq"" (1000)",2024-04-26T19:56:43.339Z,171416140333909
+"The player ""Ippei Mizuhara @ cT4HWUuGvq"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333908
+"The player ""robq94 @ ULR2Ksq9EW"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333907
+"The player ""Don de Marco @ 8CDWov6HKx"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333906
+"The player ""PasekaMotaung @ oHHsrfJsdp"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333905
+"The player ""wolfbirdpilot @ U5uCxUDcnm"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333904
+"The player ""knaush @ i8WU1EA56_"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333903
+"The player ""celebryt @ iulPdFFF8R"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333902
+"The player ""tanvirsmuct @ PsmMMY2E5F"" joined the game with a stack of 1000.",2024-04-26T19:56:43.339Z,171416140333901
+"-- starting hand #1 (id: jseqna49odhm)  (No Limit Texas Hold'em) (dealer: ""wolfbirdpilot @ U5uCxUDcnm"") --",2024-04-26T19:56:43.339Z,171416140333900
