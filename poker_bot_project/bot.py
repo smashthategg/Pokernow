@@ -27,7 +27,7 @@ def get_postflop_strategy(hand, stack, bbsize, players_acted, players_to_act, po
 
 np.set_printoptions(linewidth=100)
 
-def get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_to_act):
+def get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_in_hand):
     stack_in_bbs = stack/bbsize
     bet = -1
     current_bet = 0
@@ -67,11 +67,11 @@ def get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_t
         if bet == -1 and current_bet == bbsize and position == 'BB': # check
             bet = 0
     if bet != stack:
-        for player in players_acted + players_to_act:
+        for player in players_in_hand:
             player.update_preflop_range(bet, bbsize)
     return bet
 
-def get_postflop_strategy(hand, stack, bbsize, players_in_hand, pot, board):
+def get_postflop_strategy(hand, stack, players_in_hand, pot, board):
     bet = -1
     num_regs = 0
     num_recs = 0
@@ -132,18 +132,19 @@ def get_postflop_strategy(hand, stack, bbsize, players_in_hand, pot, board):
 
 
 # ---- TESTING -------
-positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
-count = 0
-for i in range(1):
-    d = Deck(True)
-    hand = d.deal(2)
-    p1 = Opponent('p1', 'rec')
-    p2 = Opponent('p2', 'reg')
-    p1.set_bet(100)
-    print(hand)
-    board = d.deal(4)
-    print(board)
-    p1.update_preflop_range(100,20)
-    p2.update_preflop_range(50,20)
-    print(p1.range)
-    print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))
+if __name__ == "__main__":
+    positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
+    count = 0
+    for i in range(1):
+        d = Deck(True)
+        hand = d.deal(2)
+        p1 = Opponent('p1', 'rec')
+        p2 = Opponent('p2', 'reg')
+        p1.set_bet(100)
+        print(hand)
+        board = d.deal(4)
+        print(board)
+        p1.update_preflop_range(100,20)
+        p2.update_preflop_range(50,20)
+        print(p1.range)
+        print(get_postflop_strategy(hand, 1000, [p1], 300, board))

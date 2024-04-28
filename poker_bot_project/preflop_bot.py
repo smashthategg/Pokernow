@@ -6,18 +6,18 @@ import time
 
 
 # LOGIN + GO TO GAME
-chromedriver_path = r"C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
+chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+discord_login(driver, "johnnylin310@gmail.com", "johnnysucks123")
 
 # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
 # go_to_game2(driver)
 
 time.sleep(10)
-driver.get(r"https://www.pokernow.club/games/pglb44qfiEGg_R2R7oM_0EBnS")
+driver.get(r"https://www.pokernow.club/games/pglHMyLOomOnTQ0sEd7vUyDIu")
 time.sleep(10)
 
 
@@ -35,7 +35,7 @@ print(player_stacks)
 print("player list")
 print(player_list)
 
-game = Game_State("luc", player_list, [], log)
+game = Game_State("smashthategg", player_list, [], log)
 # game.print()
 game.initial_get_opponents_and_stacks(player_stacks)
 
@@ -70,6 +70,9 @@ while True:
         else:
             print("not new hand")
         
+        
+
+
         if game.check_turn():
             print("bot's turn")
             hand = game.cards
@@ -81,7 +84,14 @@ while True:
 
 
             # get action
-            print(get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_to_act))
+            bet = get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_to_act)
+            if bet == -1:
+                fold(driver)
+            elif bet == 0:
+                check(driver)
+            else:
+                raise_func(driver, bet)
+
             
 
 

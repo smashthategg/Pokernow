@@ -95,8 +95,74 @@ def read_blinds(blinds_string):
 # ----------------- DETECT NEW HAND FUNCTION -------------------
 
 
+# ----------------- READ PLAYER ACTIONS ----------------------
+
+def get_player_actions(players_string):
+    player_actions = {}
+    new_round = False
+    log = players_string.split('\n')
+    for line in log:
+        if len(line) < 6:
+            continue
+        if "posts a big blind" in line:
+            break
+        if line[:4] in ["Flop","Turn","River"]:
+            new_round = True
+            continue
+        matches = re.findall(r"(calls|raises|folds|checks)", line)
+        if len(matches) > 1: # if some rat's name also contains "calls" or "raises" etc
+            matches = [(match.start(), match.end(), match.group()) for match in re.finditer(r"(call|raises|folds|checks)", line)]
+            last_occurrence_start, last_occurrence_end, _ = matches[-1]
+            name = line[:last_occurrence_start].strip()
+            action = line[last_occurrence_start:last_occurrence_end].strip()
+            bet = line[last_occurrence_end:].strip()
+        else:
+            parts = re.split(r"(calls|raises|folds|checks)", line)
+            action = parts[1]
+            name = parts[0]
+            bet = parts[-1]
+        if not new_round:
+            if action == 'calls' or action == 'raises':
+                player_actions[name] = int(bet.strip())
+            elif action == 'checks':
+                player_actions[name] = 0
+            else:
+                player_actions[name] = -1
+        else:
+            if action == 'folds':
+                player_actions[name] = -1
+        
+
+    return player_actions
+    
+def get_board(string):
+    board = []
+    postflop = re.search(r'(Flop|Turn|River):.*\[(.*)\]', string)
+    if postflop:
+        cards = postflop.group(2).split(', ')
+        for card in cards:
+            if card[0] == '1':
+                val = 'T'
+            else:
+                val = card[0]
+            if cards[-1] == '♣':
+                suit = 'clubs'
+            elif cards[-1] == '♦':
+                suit = 'diamonds'
+            elif cards[-1] == '♥':
+                suit = 'hearts'
+            else:
+                suit = 'spades'
+            board.append(Card(val,suit))
+    return board
 
 
+
+
+
+log = "12:55\nluc1 calls 20\nTurn: 10♣, 7♠, 8♣, [10♠]\nluc2 checks\n12:55\nluc2 posts a big blind of 20\n12:55\nluc1 posts a small blind of 10\n12:55\nPlayer stacks: #1 luc1 (1040) | #2 luc2 (960)\n12:55\n-- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     \n12:55"
+print(get_player_actions(log))
+print(get_board(log))
 
 
 '''
@@ -150,11 +216,11 @@ if __name__ == "__main__":
 
     game.new_hand({'luc1': 960, 'luc2': 1040}, 20, [Card('2', 'spades'), Card('7', 'hearts')], 0, Deck(), -1)    
     game.print()
-    '''
+    
     # print(read_blinds("luc2 posts a big blind of 20"))
     print(is_new_hand("Player posts a big blind of 20"))  # Expected: True
     print(is_new_hand("player POSTS a big blind of 20"))  # Expected: True, testing case insensitivity
     print(is_new_hand("  player posts a big blind of 20  "))  # Expected: True, testing whitespace
     print(is_new_hand("player posts small blind of 20"))  # Expected: False, different substring
-
+'''
 

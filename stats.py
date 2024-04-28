@@ -49,7 +49,7 @@ df = calculate_stats(dict)
 # print(df.get('smashthategg')) # use this format to get a specific player
 stats = json.dumps(df, indent = 4) # use this format to get ALL players
 
-with open('stats', 'w') as player_stats:
+with open('stats.json', 'w') as player_stats:
     json.dump(df, player_stats)
 
 
@@ -59,12 +59,10 @@ totalWSD =0
 count =0
 for player in df:
     if df[player]['type'] == 'reg':
-        print(player)
-        print(df[player])
         count += 1
         totalWSD += df[player]['WSD']
 print(totalWSD/count)
     
 
 
-print(df['Shawnkemp40'])
+print(df['sungwoojim'])

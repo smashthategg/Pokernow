@@ -36,3 +36,8 @@ class Opponent():
 
     def set_bet(self, bet):
         self.bet = bet
+
+    def __repr__(self):
+        return "{} ({}) ({}) betting {}".format(self.name,self.type,self.stack,self.bet)
+    
+    

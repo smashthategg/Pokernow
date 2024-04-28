@@ -53,5 +53,3 @@ def test_case3():
 
 np.set_printoptions(linewidth=100)
 
-hi = "eewegweg"
-print(hi[-4:])

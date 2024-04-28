@@ -2,8 +2,12 @@ import re
 from card import Card
 from opponent import Opponent
 from deck import Deck
-
+import json
 # from actions import read_log, get_cards
+
+with open('../Pokernow/stats.json') as json_file:
+    stats = json.load(json_file)
+
 
 class Game_State:
 
@@ -20,7 +24,7 @@ class Game_State:
         self.opponents_to_act = self.opponents_in_hand
         self.opponents_acted = []
         self.log = log # current log
-
+        self.board = []
         self.stack = stack
         self.big_blind = big_blind
         self.cards = cards
@@ -68,7 +72,11 @@ class Game_State:
         opponents = []
         for i, player in enumerate(player_stacks):
             if player != self.name:
-                opponents.append(Opponent(player, player_stacks[player]))
+                try:
+                    player_type = stats[player]['type']
+                except:
+                    player_type = 'rec'
+                opponents.append(Opponent(player, player_type, player_stacks[player]))
         self.opponents = opponents
         self.opponents_in_hand = self.opponents
         self.opponents_to_act = self.opponents_in_hand
@@ -122,6 +130,21 @@ class Game_State:
             self.bet_to_call = self.big_blind/2 # when bot is small blind
             # self.stack -= self.big_blind/2
 
+    # helper function to update player actions
+    def update_player_actions(self, player_actions):
+        for player in player_actions:
+            bet = player_actions[player]
+            if bet == -1:
+                for opp in self.opponents_in_hand:
+                    if player == opp.name:
+                        self.opponents_in_hand.remove(opp)
+            elif bet > 0:
+                for opp in self.opponents_in_hand:
+                    if player == opp.name:
+                        opp.set_bet(bet)
+
+    def update_board(self, board):
+        self.board += board
 
     # helper function to update cards
     def update_cards(self, cards_list):
@@ -140,6 +163,7 @@ class Game_State:
         self.update_opponents_and_stacks(player_stacks)
         self.update_blinds_and_pot(big_blind_info[0], big_blind_info[1], big_blind_info[2])
         self.update_cards(cards_list)
+        self.board = []
         self.playing = True
 
 
