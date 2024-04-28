@@ -337,6 +337,42 @@ def get_cards(driver):
 
 
 
+def check_turn(driver):
+    try:
+        # Define the button selector
+        button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
+        
+        # Wait for the button to be visible on the page
+        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
+        
+        # If the button is visible, it's your turn
+        return True
+    except:
+        # If the button is not found or not visible within the timeout, it's not your turn
+        return False
+    
+
+
+
+def read_pot(driver):
+    try:
+        # First, try to find and read the number from the first specified element
+        add_on_value = driver.find_element(By.CSS_SELECTOR, ".add-on-container .chips-value .normal-value").text
+        if add_on_value:
+            return int(add_on_value)
+    except NoSuchElementException:
+        print("Add-on value not found.")
+    # If the first element is not found, try the second element
+    try:
+        main_value = driver.find_element(By.CSS_SELECTOR, ".main-value .chips-value .normal-value").text
+        return int(main_value)
+    except NoSuchElementException:
+        # If neither element is found, handle the error (you could return None or raise an exception)
+        print("Neither element was found.")
+        return None
+
+
+
 
 if __name__ == "__main__":
    
@@ -354,7 +390,7 @@ if __name__ == "__main__":
     # go_to_game2(driver)
 
     time.sleep(10)
-    driver.get(r"https://www.pokernow.club/games/pglUnScXjSkxcXUC9Q-qcKEFe")
+    driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
     time.sleep(1)
     
     #log = read_log(driver)
@@ -365,4 +401,10 @@ if __name__ == "__main__":
     # fold(driver)
 
     print(get_cards(driver))
+    print(check_turn(driver))
     time.sleep(10)
+
+
+'''
+<button class="button-1 default-bet-button" type="button">All In</button>
+'''

@@ -132,18 +132,19 @@ def get_postflop_strategy(hand, stack, bbsize, players_in_hand, pot, board):
 
 
 # ---- TESTING -------
-positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
-count = 0
-for i in range(1):
-    d = Deck(True)
-    hand = d.deal(2)
-    p1 = Opponent('p1', 'rec')
-    p2 = Opponent('p2', 'reg')
-    p1.set_bet(100)
-    print(hand)
-    board = d.deal(4)
-    print(board)
-    p1.update_preflop_range(100,20)
-    p2.update_preflop_range(50,20)
-    print(p1.range)
-    print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))
+if __name__ == "__main__":
+    positions = ['UTG','UTG+1','LJ','HJ','CO','BTN','SB','BB']
+    count = 0
+    for i in range(1):
+        d = Deck(True)
+        hand = d.deal(2)
+        p1 = Opponent('p1', 'rec')
+        p2 = Opponent('p2', 'reg')
+        p1.set_bet(100)
+        print(hand)
+        board = d.deal(4)
+        print(board)
+        p1.update_preflop_range(100,20)
+        p2.update_preflop_range(50,20)
+        print(p1.range)
+        print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))

@@ -98,12 +98,36 @@ class Game_State:
         # Update the player list (for when an opponent is knocked out)
         self.player_list = [player for player in self.player_list if player in player_stacks]     
 
+    def read_blinds(self, blinds_string):
+        # Regular expression to find the player's name and the "big/small blind" text and extract both the name and the amount
+        match = re.search(r'(\w+) posts a big blind of (\d+)', blinds_string)
+        match2 = re.search(r'(\w+) posts a small blind of (\d+)', blinds_string)
 
+        # Regular expression to detect changes in the big blind
+        match3 = re.search(r'The game\'s big blind was changed from \d+ to (\d+)', blinds_string)
+
+        # Check if there's a change in the big blind and update
+        if match3:
+            new_big_blind = int(match3.group(1))
+            self.big_blind = new_big_blind
+            print(f"Big blind updated to {self.big_blind}")
+
+        if match and match2:
+            # match.group(1) captures the player's name
+            # match.group(2) captures the numeric value of the big blind
+            return [self.big_blind, match.group(1), True]
+        elif match:
+            return [self.big_blind, match.group(1), False]
+        elif match2:
+            return [self.big_blind, match2.group(1), False]
+        else:
+            # If no match is found, return None or raise an error depending on your error handling preference
+            return [None, None, False]
 
     # helper function to update blinds
     def update_blinds_and_pot(self, big_blind, big_blind_name, small_blind=True):
-        self.big_blind = big_blind
-        if big_blind_name != None and big_blind_name in self.player_list:
+        if big_blind != None and big_blind_name != None and big_blind_name in self.player_list:
+            self.big_blind = big_blind
             self.big_blind_index = self.player_list.index(big_blind_name)
         else:
             self.big_blind_index = self.big_blind_index + 1 % len(self.player_list)
@@ -144,8 +168,10 @@ class Game_State:
 
 
 
-    # UNTESTED
-    def check_turn(self):
+    # 
+    '''
+    <button type="button" interval="300" class="button-1 with-tip time-bank  suspended-action ">Activate Extra Time (10s)</button>
+    def check_turn_2(self):
         # Calculate the first player to act after the big blind
         first_to_act_index = (self.big_blind_index + 1) % len(self.player_list)
         if self.player_index == first_to_act_index:
@@ -162,6 +188,9 @@ class Game_State:
                 self.is_turn = False
         
         return self.is_turn
+        '''
+    
+
 
 
     def check_updated(self, new_log):
@@ -225,13 +254,67 @@ class Game_State:
     
 
     
+    def process_log_lines(self, log_lines):
+        # Iterate through each line in the log lines
+        for line in log_lines.split('\n'):
+            # Extract the player name and action from the line
+            match = re.match(r"(\w+) (folds|checks|calls|raises|bets)(?: to (\d+))?", line)
+            if not match:
+                continue
+
+            player_name, action, amount = match.groups()
+            amount = int(amount) if amount else 0
+
+            # Find the opponent object
+            opponent = next((o for o in self.opponents_in_hand if o.name == player_name), None)
+            if not opponent:
+                continue
+
+            # Apply action logic
+            if action == 'folds':
+                self.opponents_in_hand.remove(opponent)
+                self.opponents_to_act.remove(opponent)
+            elif action in ['calls', 'checks']:
+                self.opponents_to_act.remove(opponent)
+                self.opponents_acted.append(opponent)
+            elif action in ['raises', 'bets']:
+                self.bet_to_call = amount
+                self.opponents_to_act = list(self.opponents_in_hand)
+                self.opponents_to_act.remove(opponent)
+                self.opponents_acted = [opponent]
+
+    def find_opponent_by_name(self, name):
+        return next((op for op in self.opponents if op.name == name), None)
+
+    
 
     
     
 
 if __name__ == "__main__":
-    game = Game_State("luc1", ["luc1", "luc2"], [Opponent("luc2")],  "Player stacks: #1 luc1 (960) | #2 luc2 (1040)")
+    
+    game = Game_State("luc1", ["luc1", "clankylemon8"], [Opponent("clankylemon8")],  "Player stacks: #1 luc1 (960) | #2 luc2 (1040)")
+    # game.new_hand({'luc1': 960, "luc2" : 1040}, [20, 'luc1', True], ['2', 'spades', '7', 'hearts'])
     # game.print()
-    game.new_hand({'luc1': 960, "luc2" : 1040}, [20, 'luc1', True], ['2', 'spades', '7', 'hearts'])
-    game.print()
+    
 
+    
+    new_entries = """
+    "zechbeans" bets 530
+    "Pinnochio" calls 350 and go all in
+    "ChucklesPop" folds
+    Uncalled bet of 180 returned to "zechbeans"
+    "zechbeans" shows a T♠, K♥.
+    "Pinnochio" shows a 9♥, 9♣.
+    River: 8♠, 4♦, T♥, Q♥ [7♣]
+    "zechbeans" collected 2200 from pot with Pair, 10's (combination: T♠, T♥, K♥, Q♥, 8♠)
+    -- ending hand #10 --
+    The player "Pinnochio" quits the game with a stack of 0.
+    The game's small blind was changed from 20 to 30.
+    The game's big blind was changed from 40 to 60.
+    -- starting hand #11 (id: hjvf5ih5xbw4)  (No Limit Texas Hold'em) (dealer: "ChucklesPop") --
+    Player stacks: #1 "ChucklesPop" (530) | #2 "Toup" (2210) | #5 "clankylemon8" (1680) | #7 "zechbeans" (3580)
+    "Toup" posts a small blind of 30
+    clankylemon8 posts a big blind of 60
+    """
+    print(game.read_blinds(new_entries))

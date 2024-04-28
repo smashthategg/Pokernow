@@ -17,7 +17,7 @@ discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # go_to_game2(driver)
 
 time.sleep(10)
-driver.get(r"https://www.pokernow.club/games/pglb44qfiEGg_R2R7oM_0EBnS")
+driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
 time.sleep(10)
 
 
@@ -44,11 +44,50 @@ game.initial_get_opponents_and_stacks(player_stacks)
 # TO BE LOOPED: 
 while True:
     time.sleep(4)
+    if check_turn(driver): # if its our turn
+        print("bot's turn")
+        new_log = read_log(driver) # read log
+        if game.check_updated(new_log): # check log updated
+            print("updated")
+            new_entries = game.read_updates(new_log) # read updates
+            print("new entries")
+            print(new_entries)
+            pot = read_pot(driver)
+            print("pot:")
+            print(pot)
+            if is_new_hand(new_entries): # check if new hand
+                print("new hand")
+
+                # gets needed values
+                player_stacks = get_opponents_and_stacks(new_entries)
+                big_blind_info = game.read_blinds(new_entries)
+                cards_list = get_cards(driver)
+
+                # for informative purposes
+                print(player_stacks)
+                print(big_blind_info)
+                print(cards_list)
+
+                # resets everything
+                game.new_hand(player_stacks, big_blind_info, cards_list)
+            else:
+                print("not new hand")
+
+        else:
+            print("same turn")
+    else:
+        print("not bot's turn")
+
+
+'''
+# TO BE LOOPED: 
+while True:
     new_log = read_log(driver)
     # print(new_log)
     if game.check_updated(new_log):
         print("updated")
         time.sleep(1)
+        new_log = read_log(driver)
         new_entries = game.read_updates(new_log)
         # PROBLEMS WITH READ_UPDATES (LEAVES OUT PARTS SOMETIMES)
         print("new entries")
@@ -56,7 +95,6 @@ while True:
         # print(is_new_hand(new_entries))
         if is_new_hand(new_entries):
             print("new hand")
-            time.sleep(1)
             player_stacks = get_opponents_and_stacks(new_entries)
             big_blind_info = read_blinds(new_entries)
             # PROBLEMS WITH READ_BLINDS (FAILS TO READ SOMETIMES)
@@ -70,7 +108,7 @@ while True:
         else:
             print("not new hand")
         
-        if game.check_turn():
+        if check_turn(driver):
             print("bot's turn")
             hand = game.cards
             stack = game.stack
@@ -87,6 +125,6 @@ while True:
 
     else:
         print("not updated")
-
+'''
 
 
