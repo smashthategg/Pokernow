@@ -1,0 +1,430 @@
+entry,at,order
+"The player ""PhilM_solo @ 4L8lqAdO1e"" quits the game with a stack of 8000.",2024-04-26T20:07:58.093Z,171416207809300
+"The player ""mofa224 @ T6DjGdOAqA"" quits the game with a stack of 0.",2024-04-26T20:02:31.622Z,171416175162200
+"-- ending hand #18 --",2024-04-26T20:02:25.610Z,171416174561001
+"""PhilM_solo @ 4L8lqAdO1e"" collected 4160 from pot with A High (combination: A♥, K♦, Q♣, J♠, 8♥)",2024-04-26T20:02:25.610Z,171416174561000
+"River: 8♥, J♠, Q♣, 6♣ [4♦]",2024-04-26T20:02:21.604Z,171416174160400
+"Turn: 8♥, J♠, Q♣ [6♣]",2024-04-26T20:02:17.598Z,171416173759800
+"Flop:  [8♥, J♠, Q♣]",2024-04-26T20:02:13.594Z,171416173359400
+"""mofa224 @ T6DjGdOAqA"" shows a A♠, 7♣.",2024-04-26T20:02:09.586Z,171416172958601
+"""PhilM_solo @ 4L8lqAdO1e"" shows a K♦, A♥.",2024-04-26T20:02:09.586Z,171416172958600
+"""PhilM_solo @ 4L8lqAdO1e"" calls 2080",2024-04-26T20:02:08.767Z,171416172876700
+"""mofa224 @ T6DjGdOAqA"" raises to 2080 and go all in",2024-04-26T20:02:06.435Z,171416172643500
+"""PhilM_solo @ 4L8lqAdO1e"" posts a big blind of 100",2024-04-26T20:02:04.830Z,171416172483005
+"""mofa224 @ T6DjGdOAqA"" posts a small blind of 50",2024-04-26T20:02:04.830Z,171416172483004
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (5920) | #8 ""mofa224 @ T6DjGdOAqA"" (2080)",2024-04-26T20:02:04.830Z,171416172483001
+"-- starting hand #18 (id: uj3d10kvjhlc)  (No Limit Texas Hold'em) (dealer: ""mofa224 @ T6DjGdOAqA"") --",2024-04-26T20:02:04.830Z,171416172483000
+"-- ending hand #17 --",2024-04-26T20:01:58.816Z,171416171881603
+"""mofa224 @ T6DjGdOAqA"" shows a 2♥, 5♦.",2024-04-26T20:01:58.816Z,171416171881602
+"""PhilM_solo @ 4L8lqAdO1e"" collected 3000 from pot with Pair, 8's (combination: 8♠, 8♣, A♠, J♣, 10♦)",2024-04-26T20:01:58.816Z,171416171881601
+"""PhilM_solo @ 4L8lqAdO1e"" shows a A♠, 8♠.",2024-04-26T20:01:58.816Z,171416171881600
+"""PhilM_solo @ 4L8lqAdO1e"" calls 900",2024-04-26T20:01:57.990Z,171416171799000
+"""mofa224 @ T6DjGdOAqA"" bets 900",2024-04-26T20:01:55.829Z,171416171582900
+"River: 10♦, J♣, 5♥, 8♣ [3♦]",2024-04-26T20:01:53.415Z,171416171341500
+"""mofa224 @ T6DjGdOAqA"" calls 400",2024-04-26T20:01:52.569Z,171416171256900
+"""PhilM_solo @ 4L8lqAdO1e"" bets 400",2024-04-26T20:01:51.602Z,171416171160200
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T20:01:46.424Z,171416170642400
+"Turn: 10♦, J♣, 5♥ [8♣]",2024-04-26T20:01:44.796Z,171416170479600
+"""mofa224 @ T6DjGdOAqA"" calls 100",2024-04-26T20:01:43.982Z,171416170398200
+"""PhilM_solo @ 4L8lqAdO1e"" bets 100",2024-04-26T20:01:33.576Z,171416169357600
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T20:01:29.388Z,171416168938800
+"Flop:  [10♦, J♣, 5♥]",2024-04-26T20:01:27.928Z,171416168792800
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T20:01:27.108Z,171416168710800
+"""PhilM_solo @ 4L8lqAdO1e"" calls 100",2024-04-26T20:01:26.192Z,171416168619200
+"""mofa224 @ T6DjGdOAqA"" posts a big blind of 100",2024-04-26T20:01:23.123Z,171416168312305
+"""PhilM_solo @ 4L8lqAdO1e"" posts a small blind of 50",2024-04-26T20:01:23.123Z,171416168312304
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (4420) | #8 ""mofa224 @ T6DjGdOAqA"" (3580)",2024-04-26T20:01:23.123Z,171416168312301
+"-- starting hand #17 (id: cpyvaumovg7u)  (No Limit Texas Hold'em) (dealer: ""PhilM_solo @ 4L8lqAdO1e"") --",2024-04-26T20:01:23.123Z,171416168312300
+"-- ending hand #16 --",2024-04-26T20:01:17.116Z,171416167711601
+"""PhilM_solo @ 4L8lqAdO1e"" collected 4420 from pot with Two Pair, A's & K's (combination: A♥, A♣, K♦, K♠, Q♣)",2024-04-26T20:01:17.116Z,171416167711600
+"River: Q♣, 8♥, K♦, A♣ [K♠]",2024-04-26T20:01:13.075Z,171416167307500
+"""mofa224 @ T6DjGdOAqA"" shows a Q♦, 7♥.",2024-04-26T20:01:09.068Z,171416166906801
+"""PhilM_solo @ 4L8lqAdO1e"" shows a J♦, A♥.",2024-04-26T20:01:09.068Z,171416166906800
+"""PhilM_solo @ 4L8lqAdO1e"" calls 1710 and go all in",2024-04-26T20:01:08.240Z,171416166824000
+"""mofa224 @ T6DjGdOAqA"" raises to 1710",2024-04-26T20:01:05.719Z,171416166571900
+"""PhilM_solo @ 4L8lqAdO1e"" bets 500",2024-04-26T20:01:03.431Z,171416166343100
+"Turn: Q♣, 8♥, K♦ [A♣]",2024-04-26T20:00:52.783Z,171416165278300
+"""PhilM_solo @ 4L8lqAdO1e"" calls 300",2024-04-26T20:00:51.928Z,171416165192800
+"""mofa224 @ T6DjGdOAqA"" raises to 300",2024-04-26T20:00:48.603Z,171416164860300
+"""PhilM_solo @ 4L8lqAdO1e"" bets 100",2024-04-26T20:00:46.797Z,171416164679700
+"Flop:  [Q♣, 8♥, K♦]",2024-04-26T20:00:39.568Z,171416163956800
+"""PhilM_solo @ 4L8lqAdO1e"" calls 200",2024-04-26T20:00:38.724Z,171416163872400
+"""mofa224 @ T6DjGdOAqA"" raises to 200",2024-04-26T20:00:35.456Z,171416163545600
+"""PhilM_solo @ 4L8lqAdO1e"" posts a big blind of 100",2024-04-26T20:00:33.964Z,171416163396405
+"""mofa224 @ T6DjGdOAqA"" posts a small blind of 50",2024-04-26T20:00:33.964Z,171416163396404
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (2210) | #8 ""mofa224 @ T6DjGdOAqA"" (5790)",2024-04-26T20:00:33.964Z,171416163396401
+"-- starting hand #16 (id: jzxe4b7d0pph)  (No Limit Texas Hold'em) (dealer: ""mofa224 @ T6DjGdOAqA"") --",2024-04-26T20:00:33.964Z,171416163396400
+"-- ending hand #15 --",2024-04-26T20:00:30.962Z,171416163096202
+"""PhilM_solo @ 4L8lqAdO1e"" collected 1200 from pot",2024-04-26T20:00:30.962Z,171416163096201
+"Uncalled bet of 1010 returned to ""PhilM_solo @ 4L8lqAdO1e""",2024-04-26T20:00:30.962Z,171416163096200
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T20:00:30.100Z,171416163010000
+"""PhilM_solo @ 4L8lqAdO1e"" raises to 1310 and go all in",2024-04-26T20:00:26.933Z,171416162693300
+"""mofa224 @ T6DjGdOAqA"" bets 300",2024-04-26T20:00:17.845Z,171416161784500
+"Turn: 3♣, K♠, K♣ [10♣]",2024-04-26T20:00:16.896Z,171416161689600
+"""PhilM_solo @ 4L8lqAdO1e"" checks",2024-04-26T20:00:16.022Z,171416161602200
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T20:00:12.982Z,171416161298200
+"Flop:  [3♣, K♠, K♣]",2024-04-26T20:00:12.890Z,171416161289000
+"""PhilM_solo @ 4L8lqAdO1e"" calls 300",2024-04-26T20:00:12.016Z,171416161201600
+"""mofa224 @ T6DjGdOAqA"" raises to 300",2024-04-26T20:00:07.499Z,171416160749900
+"""PhilM_solo @ 4L8lqAdO1e"" calls 100",2024-04-26T20:00:05.735Z,171416160573500
+"""mofa224 @ T6DjGdOAqA"" posts a big blind of 100",2024-04-26T20:00:02.217Z,171416160221707
+"""PhilM_solo @ 4L8lqAdO1e"" posts a small blind of 50",2024-04-26T20:00:02.217Z,171416160221706
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1610) | #8 ""mofa224 @ T6DjGdOAqA"" (6390)",2024-04-26T20:00:02.217Z,171416160221703
+"-- starting hand #15 (id: o2v5oay1usom)  (No Limit Texas Hold'em) (dealer: ""PhilM_solo @ 4L8lqAdO1e"") --",2024-04-26T20:00:02.217Z,171416160221702
+"The game's big blind was changed from 60 to 100.",2024-04-26T20:00:02.217Z,171416160221701
+"The game's small blind was changed from 30 to 50.",2024-04-26T20:00:02.217Z,171416160221700
+"-- ending hand #14 --",2024-04-26T19:59:59.256Z,171416159925602
+"""PhilM_solo @ 4L8lqAdO1e"" collected 60 from pot",2024-04-26T19:59:59.256Z,171416159925601
+"Uncalled bet of 30 returned to ""PhilM_solo @ 4L8lqAdO1e""",2024-04-26T19:59:59.256Z,171416159925600
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:59:58.450Z,171416159845000
+"""PhilM_solo @ 4L8lqAdO1e"" posts a big blind of 60",2024-04-26T19:59:57.209Z,171416159720907
+"""mofa224 @ T6DjGdOAqA"" posts a small blind of 30",2024-04-26T19:59:57.209Z,171416159720906
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1580) | #8 ""mofa224 @ T6DjGdOAqA"" (6420)",2024-04-26T19:59:57.209Z,171416159720903
+"-- starting hand #14 (id: iijnfkcaocbs)  (No Limit Texas Hold'em) (dealer: ""mofa224 @ T6DjGdOAqA"") --",2024-04-26T19:59:57.209Z,171416159720902
+"The player ""Disco @ ybhusRP6U7"" quits the game with a stack of 0.",2024-04-26T19:59:57.209Z,171416159720901
+"The player ""Pepsi @ F-7ZqwXZ_u"" quits the game with a stack of 0.",2024-04-26T19:59:57.209Z,171416159720900
+"-- ending hand #13 --",2024-04-26T19:59:51.192Z,171416159119202
+"""PhilM_solo @ 4L8lqAdO1e"" collected 420 from pot with Three of a Kind, 9's (combination: 9♦, 9♠, 9♣, A♣, J♦)",2024-04-26T19:59:51.192Z,171416159119201
+"""PhilM_solo @ 4L8lqAdO1e"" collected 120 from pot with Three of a Kind, 9's (combination: 9♦, 9♠, 9♣, A♣, J♦)",2024-04-26T19:59:51.192Z,171416159119200
+"River: 6♦, A♣, 10♠, J♦ [9♣]",2024-04-26T19:59:47.167Z,171416158716700
+"Turn: 6♦, A♣, 10♠ [J♦]",2024-04-26T19:59:43.162Z,171416158316200
+"Flop:  [6♦, A♣, 10♠]",2024-04-26T19:59:39.149Z,171416157914900
+"""Disco @ ybhusRP6U7"" shows a 6♣, 5♣.",2024-04-26T19:59:35.141Z,171416157514102
+"""Pepsi @ F-7ZqwXZ_u"" shows a A♥, K♥.",2024-04-26T19:59:35.141Z,171416157514101
+"""PhilM_solo @ 4L8lqAdO1e"" shows a 9♦, 9♠.",2024-04-26T19:59:35.141Z,171416157514100
+"""PhilM_solo @ 4L8lqAdO1e"" calls 250",2024-04-26T19:59:34.283Z,171416157428300
+"""Pepsi @ F-7ZqwXZ_u"" raises to 250 and go all in",2024-04-26T19:59:31.198Z,171416157119800
+"""PhilM_solo @ 4L8lqAdO1e"" calls 60",2024-04-26T19:59:29.351Z,171416156935100
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:59:24.796Z,171416156479600
+"""Disco @ ybhusRP6U7"" posts a big blind of 40 and go all in ",2024-04-26T19:59:22.699Z,171416156269908
+"Dead Small Blind",2024-04-26T19:59:22.699Z,171416156269907
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1290) | #3 ""Pepsi @ F-7ZqwXZ_u"" (250) | #7 ""Disco @ ybhusRP6U7"" (40) | #8 ""mofa224 @ T6DjGdOAqA"" (6420)",2024-04-26T19:59:22.699Z,171416156269902
+"-- starting hand #13 (id: jrzxqzprm1ps)  (No Limit Texas Hold'em) (dealer: ""Pepsi @ F-7ZqwXZ_u"") --",2024-04-26T19:59:22.699Z,171416156269901
+"The player ""bababooey3 @ bFYTdAZ32N"" quits the game with a stack of 0.",2024-04-26T19:59:22.699Z,171416156269900
+"-- ending hand #12 --",2024-04-26T19:59:16.651Z,171416155665102
+"""mofa224 @ T6DjGdOAqA"" collected 60 from pot with K High (combination: K♥, 9♥, 8♣, 7♥, 5♠)",2024-04-26T19:59:16.651Z,171416155665101
+"""mofa224 @ T6DjGdOAqA"" collected 720 from pot with K High (combination: K♥, 9♥, 8♣, 7♥, 5♠)",2024-04-26T19:59:16.651Z,171416155665100
+"River: 4♥, 8♣, 3♣, 9♥ [5♠]",2024-04-26T19:59:12.592Z,171416155259200
+"""mofa224 @ T6DjGdOAqA"" shows a K♥, 7♥.",2024-04-26T19:59:08.535Z,171416154853502
+"""bababooey3 @ bFYTdAZ32N"" shows a 7♠, 10♠.",2024-04-26T19:59:08.535Z,171416154853501
+"Uncalled bet of 390 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:59:08.535Z,171416154853500
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:59:07.686Z,171416154768600
+"""mofa224 @ T6DjGdOAqA"" bets 390",2024-04-26T19:58:54.018Z,171416153401800
+"Turn: 4♥, 8♣, 3♣ [9♥]",2024-04-26T19:58:51.334Z,171416153133400
+"""mofa224 @ T6DjGdOAqA"" calls 60",2024-04-26T19:58:50.505Z,171416153050500
+"""bababooey3 @ bFYTdAZ32N"" calls 30 and go all in",2024-04-26T19:58:49.665Z,171416152966500
+"""PhilM_solo @ 4L8lqAdO1e"" bets 60",2024-04-26T19:58:35.422Z,171416151542200
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T19:58:26.024Z,171416150602400
+"""bababooey3 @ bFYTdAZ32N"" checks",2024-04-26T19:58:23.412Z,171416150341200
+"Flop:  [4♥, 8♣, 3♣]",2024-04-26T19:58:20.890Z,171416150089000
+"""bababooey3 @ bFYTdAZ32N"" calls 200",2024-04-26T19:58:20.041Z,171416150004100
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:58:13.300Z,171416149330000
+"""PhilM_solo @ 4L8lqAdO1e"" calls 200",2024-04-26T19:58:10.582Z,171416149058200
+"""mofa224 @ T6DjGdOAqA"" raises to 200",2024-04-26T19:58:01.187Z,171416148118700
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:57:58.260Z,171416147826000
+"""bababooey3 @ bFYTdAZ32N"" posts a big blind of 60",2024-04-26T19:57:53.926Z,171416147392609
+"""Pepsi @ F-7ZqwXZ_u"" posts a small blind of 30",2024-04-26T19:57:53.926Z,171416147392608
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1550) | #3 ""Pepsi @ F-7ZqwXZ_u"" (280) | #5 ""bababooey3 @ bFYTdAZ32N"" (230) | #7 ""Disco @ ybhusRP6U7"" (40) | #8 ""mofa224 @ T6DjGdOAqA"" (5900)",2024-04-26T19:57:53.926Z,171416147392602
+"-- starting hand #12 (id: h6qjdwzddku3)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T19:57:53.926Z,171416147392601
+"The player ""!Neon10 @ 7cTV432CiQ"" quits the game with a stack of 0.",2024-04-26T19:57:53.926Z,171416147392600
+"-- ending hand #11 --",2024-04-26T19:57:47.909Z,171416146790901
+"""mofa224 @ T6DjGdOAqA"" collected 1080 from pot with Pair, Q's (combination: Q♣, Q♠, 10♣, 9♠, 7♠)",2024-04-26T19:57:47.909Z,171416146790900
+"River: Q♠, 10♣, 4♥, 9♠ [7♠]",2024-04-26T19:57:43.877Z,171416146387700
+"Turn: Q♠, 10♣, 4♥ [9♠]",2024-04-26T19:57:39.869Z,171416145986900
+"""mofa224 @ T6DjGdOAqA"" shows a Q♣, 2♣.",2024-04-26T19:57:35.832Z,171416145583202
+"""!Neon10 @ 7cTV432CiQ"" shows a K♠, 8♣.",2024-04-26T19:57:35.832Z,171416145583201
+"Uncalled bet of 40 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:57:35.832Z,171416145583200
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:57:35.024Z,171416145502400
+"""mofa224 @ T6DjGdOAqA"" bets 40",2024-04-26T19:57:32.702Z,171416145270200
+"""Disco @ ybhusRP6U7"" checks",2024-04-26T19:57:26.157Z,171416144615700
+"Flop:  [Q♠, 10♣, 4♥]",2024-04-26T19:57:23.348Z,171416144334800
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:57:22.516Z,171416144251600
+"""mofa224 @ T6DjGdOAqA"" calls 300",2024-04-26T19:57:12.645Z,171416143264500
+"""Disco @ ybhusRP6U7"" calls 300",2024-04-26T19:57:11.719Z,171416143171900
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:57:09.141Z,171416142914100
+"""!Neon10 @ 7cTV432CiQ"" raises to 300 and go all in",2024-04-26T19:57:07.591Z,171416142759100
+"""PhilM_solo @ 4L8lqAdO1e"" calls 120",2024-04-26T19:57:03.644Z,171416142364400
+"""mofa224 @ T6DjGdOAqA"" calls 120",2024-04-26T19:57:00.232Z,171416142023200
+"""Disco @ ybhusRP6U7"" raises to 120",2024-04-26T19:56:58.801Z,171416141880100
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:56:56.388Z,171416141638800
+"""Pepsi @ F-7ZqwXZ_u"" posts a big blind of 60",2024-04-26T19:56:52.520Z,171416141252009
+"""!Neon10 @ 7cTV432CiQ"" posts a small blind of 30",2024-04-26T19:56:52.520Z,171416141252008
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1670) | #2 ""!Neon10 @ 7cTV432CiQ"" (300) | #3 ""Pepsi @ F-7ZqwXZ_u"" (340) | #5 ""bababooey3 @ bFYTdAZ32N"" (230) | #7 ""Disco @ ybhusRP6U7"" (340) | #8 ""mofa224 @ T6DjGdOAqA"" (5120)",2024-04-26T19:56:52.520Z,171416141252001
+"-- starting hand #11 (id: nmcbzle355ti)  (No Limit Texas Hold'em) (dealer: ""PhilM_solo @ 4L8lqAdO1e"") --",2024-04-26T19:56:52.520Z,171416141252000
+"-- ending hand #10 --",2024-04-26T19:56:49.582Z,171416140958202
+"""PhilM_solo @ 4L8lqAdO1e"" collected 780 from pot",2024-04-26T19:56:49.582Z,171416140958201
+"Uncalled bet of 500 returned to ""PhilM_solo @ 4L8lqAdO1e""",2024-04-26T19:56:49.582Z,171416140958200
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:56:48.749Z,171416140874900
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:56:44.818Z,171416140481800
+"""PhilM_solo @ 4L8lqAdO1e"" bets 500",2024-04-26T19:56:42.818Z,171416140281800
+"River: 3♣, 3♠, 5♠, 4♥ [J♠]",2024-04-26T19:56:31.999Z,171416139199900
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T19:56:31.194Z,171416139119400
+"""Disco @ ybhusRP6U7"" checks",2024-04-26T19:56:29.983Z,171416138998300
+"""PhilM_solo @ 4L8lqAdO1e"" checks",2024-04-26T19:56:28.202Z,171416138820200
+"Turn: 3♣, 3♠, 5♠ [4♥]",2024-04-26T19:56:22.442Z,171416138244200
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T19:56:21.639Z,171416138163900
+"""Disco @ ybhusRP6U7"" checks",2024-04-26T19:56:20.696Z,171416138069600
+"""PhilM_solo @ 4L8lqAdO1e"" checks",2024-04-26T19:56:18.935Z,171416137893500
+"Flop:  [3♣, 3♠, 5♠]",2024-04-26T19:56:11.184Z,171416137118400
+"""Disco @ ybhusRP6U7"" calls 240",2024-04-26T19:56:10.357Z,171416137035700
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:56:05.969Z,171416136596900
+"""PhilM_solo @ 4L8lqAdO1e"" calls 240",2024-04-26T19:56:04.823Z,171416136482300
+"""mofa224 @ T6DjGdOAqA"" raises to 240",2024-04-26T19:55:55.807Z,171416135580700
+"""Disco @ ybhusRP6U7"" calls 60",2024-04-26T19:55:53.637Z,171416135363700
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:55:47.712Z,171416134771200
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:55:44.614Z,171416134461400
+"""!Neon10 @ 7cTV432CiQ"" posts a big blind of 60",2024-04-26T19:55:42.502Z,171416134250209
+"""PhilM_solo @ 4L8lqAdO1e"" posts a small blind of 30",2024-04-26T19:55:42.502Z,171416134250208
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1130) | #2 ""!Neon10 @ 7cTV432CiQ"" (360) | #3 ""Pepsi @ F-7ZqwXZ_u"" (340) | #5 ""bababooey3 @ bFYTdAZ32N"" (230) | #7 ""Disco @ ybhusRP6U7"" (580) | #8 ""mofa224 @ T6DjGdOAqA"" (5360)",2024-04-26T19:55:42.502Z,171416134250201
+"-- starting hand #10 (id: 0k6huhalaaeg)  (No Limit Texas Hold'em) (dealer: ""mofa224 @ T6DjGdOAqA"") --",2024-04-26T19:55:42.502Z,171416134250200
+"-- ending hand #9 --",2024-04-26T19:55:39.525Z,171416133952502
+"""mofa224 @ T6DjGdOAqA"" collected 460 from pot",2024-04-26T19:55:39.525Z,171416133952501
+"Uncalled bet of 230 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:55:39.525Z,171416133952500
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:55:38.699Z,171416133869900
+"""mofa224 @ T6DjGdOAqA"" bets 230",2024-04-26T19:55:33.449Z,171416133344900
+"Flop:  [6♦, A♣, 3♥]",2024-04-26T19:55:28.997Z,171416132899700
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:55:28.175Z,171416132817500
+"""PhilM_solo @ 4L8lqAdO1e"" calls 200",2024-04-26T19:55:22.974Z,171416132297400
+"""mofa224 @ T6DjGdOAqA"" raises to 200",2024-04-26T19:55:20.417Z,171416132041700
+"""Disco @ ybhusRP6U7"" calls 60",2024-04-26T19:55:17.326Z,171416131732600
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:55:12.290Z,171416131229000
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:55:11.284Z,171416131128400
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:55:10.416Z,171416131041600
+"""PhilM_solo @ 4L8lqAdO1e"" posts a big blind of 60",2024-04-26T19:55:02.045Z,171416130204511
+"""mofa224 @ T6DjGdOAqA"" posts a small blind of 30",2024-04-26T19:55:02.045Z,171416130204510
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1330) | #2 ""!Neon10 @ 7cTV432CiQ"" (360) | #3 ""Pepsi @ F-7ZqwXZ_u"" (340) | #5 ""bababooey3 @ bFYTdAZ32N"" (230) | #7 ""Disco @ ybhusRP6U7"" (640) | #8 ""mofa224 @ T6DjGdOAqA"" (5100)",2024-04-26T19:55:02.045Z,171416130204503
+"-- starting hand #9 (id: mktonue7koro)  (No Limit Texas Hold'em) (dealer: ""Disco @ ybhusRP6U7"") --",2024-04-26T19:55:02.045Z,171416130204502
+"The game's big blind was changed from 40 to 60.",2024-04-26T19:55:02.045Z,171416130204501
+"The game's small blind was changed from 20 to 30.",2024-04-26T19:55:02.045Z,171416130204500
+"-- ending hand #8 --",2024-04-26T19:54:59.129Z,171416129912902
+"""mofa224 @ T6DjGdOAqA"" collected 1000 from pot",2024-04-26T19:54:59.129Z,171416129912901
+"Uncalled bet of 500 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:54:59.129Z,171416129912900
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:54:58.242Z,171416129824200
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:54:52.747Z,171416129274700
+"""mofa224 @ T6DjGdOAqA"" bets 500",2024-04-26T19:54:43.973Z,171416128397300
+"""Disco @ ybhusRP6U7"" checks",2024-04-26T19:54:42.203Z,171416128220300
+"Turn: 2♣, 4♥, 4♣ [10♦]",2024-04-26T19:54:38.517Z,171416127851700
+"""Disco @ ybhusRP6U7"" calls 200",2024-04-26T19:54:37.704Z,171416127770400
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:54:32.049Z,171416127204900
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:54:31.171Z,171416127117100
+"""PhilM_solo @ 4L8lqAdO1e"" calls 200",2024-04-26T19:54:29.757Z,171416126975700
+"""mofa224 @ T6DjGdOAqA"" raises to 200",2024-04-26T19:54:20.584Z,171416126058400
+"""Disco @ ybhusRP6U7"" bets 40",2024-04-26T19:54:18.671Z,171416125867100
+"Flop:  [2♣, 4♥, 4♣]",2024-04-26T19:54:04.628Z,171416124462800
+"""Pepsi @ F-7ZqwXZ_u"" calls 80",2024-04-26T19:54:03.778Z,171416124377800
+"""!Neon10 @ 7cTV432CiQ"" calls 80",2024-04-26T19:54:02.907Z,171416124290700
+"""PhilM_solo @ 4L8lqAdO1e"" calls 80",2024-04-26T19:54:00.065Z,171416124006500
+"""mofa224 @ T6DjGdOAqA"" calls 80",2024-04-26T19:53:53.878Z,171416123387800
+"""Disco @ ybhusRP6U7"" raises to 80",2024-04-26T19:53:51.887Z,171416123188700
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:53:47.587Z,171416122758700
+"""Pepsi @ F-7ZqwXZ_u"" calls 40",2024-04-26T19:53:46.656Z,171416122665600
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T19:53:40.148Z,171416122014800
+"""PhilM_solo @ 4L8lqAdO1e"" calls 40",2024-04-26T19:53:37.677Z,171416121767700
+"""mofa224 @ T6DjGdOAqA"" posts a big blind of 40",2024-04-26T19:53:33.680Z,171416121368009
+"""Disco @ ybhusRP6U7"" posts a small blind of 20",2024-04-26T19:53:33.680Z,171416121368008
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1610) | #2 ""!Neon10 @ 7cTV432CiQ"" (440) | #3 ""Pepsi @ F-7ZqwXZ_u"" (420) | #5 ""bababooey3 @ bFYTdAZ32N"" (230) | #7 ""Disco @ ybhusRP6U7"" (920) | #8 ""mofa224 @ T6DjGdOAqA"" (4380)",2024-04-26T19:53:33.680Z,171416121368001
+"-- starting hand #8 (id: novdlwuggasi)  (No Limit Texas Hold'em) (dealer: ""bababooey3 @ bFYTdAZ32N"") --",2024-04-26T19:53:33.680Z,171416121368000
+"-- ending hand #7 --",2024-04-26T19:53:30.735Z,171416121073502
+"""Disco @ ybhusRP6U7"" collected 440 from pot",2024-04-26T19:53:30.735Z,171416121073501
+"Uncalled bet of 74 returned to ""Disco @ ybhusRP6U7""",2024-04-26T19:53:30.735Z,171416121073500
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:53:29.920Z,171416120992000
+"""Disco @ ybhusRP6U7"" bets 74",2024-04-26T19:53:28.504Z,171416120850400
+"River: 3♥, 8♣, 10♦, 6♣ [10♥]",2024-04-26T19:53:20.524Z,171416120052400
+"""mofa224 @ T6DjGdOAqA"" calls 40",2024-04-26T19:53:19.686Z,171416119968600
+"""Disco @ ybhusRP6U7"" bets 40",2024-04-26T19:53:18.459Z,171416119845900
+"Turn: 3♥, 8♣, 10♦ [6♣]",2024-04-26T19:53:15.723Z,171416119572300
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:53:14.913Z,171416119491300
+"""mofa224 @ T6DjGdOAqA"" calls 40",2024-04-26T19:53:13.822Z,171416119382200
+"""Disco @ ybhusRP6U7"" bets 40",2024-04-26T19:53:10.271Z,171416119027100
+"Flop:  [3♥, 8♣, 10♦]",2024-04-26T19:53:05.770Z,171416118577000
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:53:04.891Z,171416118489100
+"""!Neon10 @ 7cTV432CiQ"" calls 80",2024-04-26T19:53:04.006Z,171416118400600
+"""mofa224 @ T6DjGdOAqA"" calls 80",2024-04-26T19:52:59.415Z,171416117941500
+"""Disco @ ybhusRP6U7"" raises to 80",2024-04-26T19:52:58.274Z,171416117827400
+"""bababooey3 @ bFYTdAZ32N"" calls 40",2024-04-26T19:52:55.318Z,171416117531800
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:52:52.796Z,171416117279600
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T19:52:51.887Z,171416117188700
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:52:46.895Z,171416116689500
+"""mofa224 @ T6DjGdOAqA"" calls 40",2024-04-26T19:52:38.315Z,171416115831500
+"""Disco @ ybhusRP6U7"" posts a big blind of 40",2024-04-26T19:52:35.942Z,171416115594209
+"""bababooey3 @ bFYTdAZ32N"" posts a small blind of 20",2024-04-26T19:52:35.942Z,171416115594208
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1610) | #2 ""!Neon10 @ 7cTV432CiQ"" (520) | #3 ""Pepsi @ F-7ZqwXZ_u"" (420) | #5 ""bababooey3 @ bFYTdAZ32N"" (270) | #7 ""Disco @ ybhusRP6U7"" (640) | #8 ""mofa224 @ T6DjGdOAqA"" (4540)",2024-04-26T19:52:35.942Z,171416115594201
+"-- starting hand #7 (id: ibwzghnk3toz)  (No Limit Texas Hold'em) (dealer: ""Pepsi @ F-7ZqwXZ_u"") --",2024-04-26T19:52:35.942Z,171416115594200
+"-- ending hand #6 --",2024-04-26T19:52:32.956Z,171416115295602
+"""mofa224 @ T6DjGdOAqA"" collected 320 from pot",2024-04-26T19:52:32.956Z,171416115295601
+"Uncalled bet of 100 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:52:32.956Z,171416115295600
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:52:32.150Z,171416115215000
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:52:31.236Z,171416115123600
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:52:30.378Z,171416115037800
+"""mofa224 @ T6DjGdOAqA"" bets 100",2024-04-26T19:52:24.223Z,171416114422300
+"""bababooey3 @ bFYTdAZ32N"" checks",2024-04-26T19:52:19.216Z,171416113921600
+"""Pepsi @ F-7ZqwXZ_u"" checks",2024-04-26T19:52:18.304Z,171416113830400
+"Flop:  [10♠, 5♦, Q♠]",2024-04-26T19:52:16.338Z,171416113633800
+"""bababooey3 @ bFYTdAZ32N"" calls 80",2024-04-26T19:52:15.504Z,171416113550400
+"""Pepsi @ F-7ZqwXZ_u"" calls 80",2024-04-26T19:52:11.203Z,171416113120300
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:52:04.754Z,171416112475400
+"""PhilM_solo @ 4L8lqAdO1e"" calls 80",2024-04-26T19:52:03.533Z,171416112353300
+"""mofa224 @ T6DjGdOAqA"" raises to 80",2024-04-26T19:51:59.631Z,171416111963100
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:51:58.223Z,171416111822300
+"""bababooey3 @ bFYTdAZ32N"" posts a big blind of 40",2024-04-26T19:51:54.511Z,171416111451110
+"""Pepsi @ F-7ZqwXZ_u"" posts a small blind of 20",2024-04-26T19:51:54.511Z,171416111451109
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1690) | #2 ""!Neon10 @ 7cTV432CiQ"" (520) | #3 ""Pepsi @ F-7ZqwXZ_u"" (500) | #5 ""bababooey3 @ bFYTdAZ32N"" (350) | #7 ""Disco @ ybhusRP6U7"" (640) | #8 ""mofa224 @ T6DjGdOAqA"" (4300)",2024-04-26T19:51:54.511Z,171416111451102
+"-- starting hand #6 (id: pw34lwkl1foh)  (No Limit Texas Hold'em) (dealer: ""!Neon10 @ 7cTV432CiQ"") --",2024-04-26T19:51:54.511Z,171416111451101
+"The player ""Flizshynt @ ndqQMokRTP"" quits the game with a stack of 0.",2024-04-26T19:51:54.511Z,171416111451100
+"-- ending hand #5 --",2024-04-26T19:51:48.507Z,171416110850701
+"""mofa224 @ T6DjGdOAqA"" collected 3780 from pot with Two Pair, Q's & 9's (combination: Q♦, Q♥, 9♦, 9♠, J♥)",2024-04-26T19:51:48.507Z,171416110850700
+"River: 9♦, Q♥, 2♠, 6♦ [9♠]",2024-04-26T19:51:44.484Z,171416110448400
+"Turn: 9♦, Q♥, 2♠ [6♦]",2024-04-26T19:51:40.412Z,171416110041200
+"""mofa224 @ T6DjGdOAqA"" shows a J♥, Q♦.",2024-04-26T19:51:36.367Z,171416109636701
+"""Flizshynt @ ndqQMokRTP"" shows a J♣, J♠.",2024-04-26T19:51:36.367Z,171416109636700
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:51:35.555Z,171416109555500
+"""mofa224 @ T6DjGdOAqA"" calls 1480",2024-04-26T19:51:34.231Z,171416109423100
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:51:33.351Z,171416109335100
+"""Flizshynt @ ndqQMokRTP"" bets 1480 and go all in",2024-04-26T19:51:29.186Z,171416108918600
+"""Pepsi @ F-7ZqwXZ_u"" checks",2024-04-26T19:51:14.520Z,171416107452000
+"Flop:  [9♦, Q♥, 2♠]",2024-04-26T19:51:11.139Z,171416107113900
+"""Disco @ ybhusRP6U7"" calls 200",2024-04-26T19:51:10.308Z,171416107030800
+"""Flizshynt @ ndqQMokRTP"" calls 200",2024-04-26T19:51:03.573Z,171416106357300
+"""Pepsi @ F-7ZqwXZ_u"" calls 200",2024-04-26T19:51:00.910Z,171416106091000
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:51:00.051Z,171416106005100
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:50:58.845Z,171416105884500
+"""mofa224 @ T6DjGdOAqA"" raises to 200",2024-04-26T19:50:54.259Z,171416105425900
+"""Disco @ ybhusRP6U7"" calls 40",2024-04-26T19:50:52.452Z,171416105245200
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:50:49.428Z,171416104942800
+"""Flizshynt @ ndqQMokRTP"" calls 40",2024-04-26T19:50:47.320Z,171416104732000
+"""Pepsi @ F-7ZqwXZ_u"" posts a big blind of 40",2024-04-26T19:50:38.776Z,171416103877610
+"""!Neon10 @ 7cTV432CiQ"" posts a small blind of 20",2024-04-26T19:50:38.776Z,171416103877609
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1690) | #2 ""!Neon10 @ 7cTV432CiQ"" (540) | #3 ""Pepsi @ F-7ZqwXZ_u"" (700) | #4 ""Flizshynt @ ndqQMokRTP"" (1680) | #5 ""bababooey3 @ bFYTdAZ32N"" (350) | #7 ""Disco @ ybhusRP6U7"" (840) | #8 ""mofa224 @ T6DjGdOAqA"" (2200)",2024-04-26T19:50:38.776Z,171416103877601
+"-- starting hand #5 (id: zabhaz66bhev)  (No Limit Texas Hold'em) (dealer: ""PhilM_solo @ 4L8lqAdO1e"") --",2024-04-26T19:50:38.776Z,171416103877600
+"-- ending hand #4 --",2024-04-26T19:50:32.770Z,171416103277003
+"""!Neon10 @ 7cTV432CiQ"" shows a 2♠, A♣.",2024-04-26T19:50:32.770Z,171416103277002
+"""Flizshynt @ ndqQMokRTP"" collected 1080 from pot with Pair, K's (combination: K♠, K♥, J♥, 10♥, 9♣)",2024-04-26T19:50:32.770Z,171416103277001
+"""Flizshynt @ ndqQMokRTP"" shows a 9♣, K♠.",2024-04-26T19:50:32.770Z,171416103277000
+"""Flizshynt @ ndqQMokRTP"" checks",2024-04-26T19:50:31.963Z,171416103196300
+"""!Neon10 @ 7cTV432CiQ"" checks",2024-04-26T19:50:30.312Z,171416103031200
+"River: 5♠, K♥, 3♣, 10♥ [J♥]",2024-04-26T19:50:26.166Z,171416102616600
+"""!Neon10 @ 7cTV432CiQ"" calls 120",2024-04-26T19:50:25.306Z,171416102530600
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:50:21.696Z,171416102169600
+"""Flizshynt @ ndqQMokRTP"" bets 120",2024-04-26T19:50:20.849Z,171416102084900
+"""!Neon10 @ 7cTV432CiQ"" checks",2024-04-26T19:50:14.406Z,171416101440600
+"Turn: 5♠, K♥, 3♣ [10♥]",2024-04-26T19:50:11.398Z,171416101139800
+"""!Neon10 @ 7cTV432CiQ"" calls 200",2024-04-26T19:50:10.570Z,171416101057000
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:50:08.843Z,171416100884300
+"""mofa224 @ T6DjGdOAqA"" calls 200",2024-04-26T19:50:05.749Z,171416100574900
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:50:02.494Z,171416100249400
+"""Flizshynt @ ndqQMokRTP"" raises to 200",2024-04-26T19:49:59.740Z,171416099974000
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T19:49:53.232Z,171416099323200
+"""PhilM_solo @ 4L8lqAdO1e"" bets 40",2024-04-26T19:49:51.519Z,171416099151900
+"Flop:  [5♠, K♥, 3♣]",2024-04-26T19:49:47.918Z,171416098791800
+"""!Neon10 @ 7cTV432CiQ"" checks",2024-04-26T19:49:47.060Z,171416098706000
+"""PhilM_solo @ 4L8lqAdO1e"" calls 40",2024-04-26T19:49:45.938Z,171416098593800
+"""mofa224 @ T6DjGdOAqA"" calls 40",2024-04-26T19:49:39.012Z,171416097901200
+"""Disco @ ybhusRP6U7"" calls 40",2024-04-26T19:49:37.572Z,171416097757200
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:49:34.110Z,171416097411000
+"""Flizshynt @ ndqQMokRTP"" calls 40",2024-04-26T19:49:33.254Z,171416097325400
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:49:26.592Z,171416096659200
+"""!Neon10 @ 7cTV432CiQ"" posts a big blind of 40",2024-04-26T19:49:24.210Z,171416096421012
+"""PhilM_solo @ 4L8lqAdO1e"" posts a small blind of 20",2024-04-26T19:49:24.210Z,171416096421011
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1770) | #2 ""!Neon10 @ 7cTV432CiQ"" (900) | #3 ""Pepsi @ F-7ZqwXZ_u"" (700) | #4 ""Flizshynt @ ndqQMokRTP"" (960) | #5 ""bababooey3 @ bFYTdAZ32N"" (350) | #7 ""Disco @ ybhusRP6U7"" (880) | #8 ""mofa224 @ T6DjGdOAqA"" (2440)",2024-04-26T19:49:24.210Z,171416096421003
+"-- starting hand #4 (id: nixrcreqjzgh)  (No Limit Texas Hold'em) (dealer: ""mofa224 @ T6DjGdOAqA"") --",2024-04-26T19:49:24.210Z,171416096421002
+"The game's big blind was changed from 20 to 40.",2024-04-26T19:49:24.210Z,171416096421001
+"The game's small blind was changed from 10 to 20.",2024-04-26T19:49:24.210Z,171416096421000
+"-- ending hand #3 --",2024-04-26T19:49:18.193Z,171416095819302
+"""PhilM_solo @ 4L8lqAdO1e"" collected 1000 from pot with Pair, K's (combination: K♠, K♥, Q♠, J♣, 10♥)",2024-04-26T19:49:18.193Z,171416095819301
+"""PhilM_solo @ 4L8lqAdO1e"" shows a Q♠, K♠.",2024-04-26T19:49:18.193Z,171416095819300
+"""bababooey3 @ bFYTdAZ32N"" checks",2024-04-26T19:49:17.350Z,171416095735000
+"""PhilM_solo @ 4L8lqAdO1e"" checks",2024-04-26T19:49:16.065Z,171416095606500
+"River: K♥, J♣, 3♦, 6♣ [10♥]",2024-04-26T19:49:13.341Z,171416095334100
+"""PhilM_solo @ 4L8lqAdO1e"" calls 250",2024-04-26T19:49:12.529Z,171416095252900
+"""bababooey3 @ bFYTdAZ32N"" bets 250",2024-04-26T19:49:10.037Z,171416095003700
+"""PhilM_solo @ 4L8lqAdO1e"" checks",2024-04-26T19:49:06.407Z,171416094640700
+"Turn: K♥, J♣, 3♦ [6♣]",2024-04-26T19:49:02.353Z,171416094235300
+"""PhilM_solo @ 4L8lqAdO1e"" calls 100",2024-04-26T19:49:01.529Z,171416094152900
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:48:58.424Z,171416093842400
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:48:57.575Z,171416093757500
+"""bababooey3 @ bFYTdAZ32N"" raises to 100",2024-04-26T19:48:54.630Z,171416093463000
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:48:51.828Z,171416093182800
+"""PhilM_solo @ 4L8lqAdO1e"" bets 20",2024-04-26T19:48:50.946Z,171416093094600
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T19:48:44.466Z,171416092446600
+"Flop:  [K♥, J♣, 3♦]",2024-04-26T19:48:41.014Z,171416092101400
+"""Pepsi @ F-7ZqwXZ_u"" calls 60",2024-04-26T19:48:40.197Z,171416092019700
+"""PhilM_solo @ 4L8lqAdO1e"" calls 60",2024-04-26T19:48:36.819Z,171416091681900
+"""mofa224 @ T6DjGdOAqA"" calls 60",2024-04-26T19:48:34.078Z,171416091407800
+"""Disco @ ybhusRP6U7"" calls 60",2024-04-26T19:48:31.619Z,171416091161900
+"""bababooey3 @ bFYTdAZ32N"" raises to 60",2024-04-26T19:48:29.202Z,171416090920200
+"""Flizshynt @ ndqQMokRTP"" folds",2024-04-26T19:48:19.770Z,171416089977000
+"""Pepsi @ F-7ZqwXZ_u"" calls 20",2024-04-26T19:48:11.601Z,171416089160100
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:48:10.727Z,171416089072700
+"""PhilM_solo @ 4L8lqAdO1e"" posts a big blind of 20",2024-04-26T19:48:05.107Z,171416088510711
+"""mofa224 @ T6DjGdOAqA"" posts a small blind of 10",2024-04-26T19:48:05.107Z,171416088510710
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1180) | #2 ""!Neon10 @ 7cTV432CiQ"" (900) | #3 ""Pepsi @ F-7ZqwXZ_u"" (760) | #4 ""Flizshynt @ ndqQMokRTP"" (960) | #5 ""bababooey3 @ bFYTdAZ32N"" (760) | #7 ""Disco @ ybhusRP6U7"" (940) | #8 ""mofa224 @ T6DjGdOAqA"" (2500)",2024-04-26T19:48:05.107Z,171416088510702
+"-- starting hand #3 (id: 1uhrdadqubu9)  (No Limit Texas Hold'em) (dealer: ""Disco @ ybhusRP6U7"") --",2024-04-26T19:48:05.107Z,171416088510701
+"The player ""Abdulcryptofx @ ipblIB7ofh"" quits the game with a stack of 0.",2024-04-26T19:48:05.107Z,171416088510700
+"-- ending hand #2 --",2024-04-26T19:47:59.078Z,171416087907801
+"""mofa224 @ T6DjGdOAqA"" collected 2400 from pot with Two Pair, 9's & 3's (combination: 9♥, 9♣, 3♦, 3♠, 10♦)",2024-04-26T19:47:59.078Z,171416087907800
+"River: 3♠, 5♦, 9♥, 6♥ [9♣]",2024-04-26T19:47:55.073Z,171416087507300
+"""mofa224 @ T6DjGdOAqA"" shows a 3♦, 10♦.",2024-04-26T19:47:51.064Z,171416087106402
+"""Abdulcryptofx @ ipblIB7ofh"" shows a 2♥, 7♥.",2024-04-26T19:47:51.064Z,171416087106401
+"Uncalled bet of 100 returned to ""mofa224 @ T6DjGdOAqA""",2024-04-26T19:47:51.064Z,171416087106400
+"""Abdulcryptofx @ ipblIB7ofh"" calls 660 and go all in",2024-04-26T19:47:50.214Z,171416087021400
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:47:45.818Z,171416086581800
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:47:40.873Z,171416086087300
+"""mofa224 @ T6DjGdOAqA"" bets 760 and go all in",2024-04-26T19:47:39.851Z,171416085985100
+"Turn: 3♠, 5♦, 9♥ [6♥]",2024-04-26T19:47:25.744Z,171416084574400
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:47:24.924Z,171416084492400
+"""bababooey3 @ bFYTdAZ32N"" checks",2024-04-26T19:47:21.823Z,171416084182300
+"""Pepsi @ F-7ZqwXZ_u"" checks",2024-04-26T19:47:20.166Z,171416084016600
+"""mofa224 @ T6DjGdOAqA"" checks",2024-04-26T19:47:19.270Z,171416083927000
+"Flop:  [3♠, 5♦, 9♥]",2024-04-26T19:47:16.533Z,171416083653300
+"""Flizshynt @ ndqQMokRTP"" folds",2024-04-26T19:47:15.651Z,171416083565100
+"""Pepsi @ F-7ZqwXZ_u"" calls 240",2024-04-26T19:47:14.687Z,171416083468700
+"""PhilM_solo @ 4L8lqAdO1e"" folds",2024-04-26T19:47:07.236Z,171416082723600
+"""mofa224 @ T6DjGdOAqA"" calls 240",2024-04-26T19:47:06.293Z,171416082629300
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:46:58.706Z,171416081870600
+"""Abdulcryptofx @ ipblIB7ofh"" calls 240",2024-04-26T19:46:54.106Z,171416081410600
+"""bababooey3 @ bFYTdAZ32N"" raises to 240",2024-04-26T19:46:51.144Z,171416081114400
+"""Flizshynt @ ndqQMokRTP"" calls 40",2024-04-26T19:46:48.451Z,171416080845100
+"""Pepsi @ F-7ZqwXZ_u"" calls 40",2024-04-26T19:46:42.034Z,171416080203400
+"""PhilM_solo @ 4L8lqAdO1e"" calls 40",2024-04-26T19:46:41.160Z,171416080116000
+"""mofa224 @ T6DjGdOAqA"" calls 40",2024-04-26T19:46:35.177Z,171416079517700
+"""Disco @ ybhusRP6U7"" raises to 40",2024-04-26T19:46:23.421Z,171416078342100
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:46:17.509Z,171416077750900
+"""bababooey3 @ bFYTdAZ32N"" calls 20",2024-04-26T19:46:15.184Z,171416077518400
+"""Flizshynt @ ndqQMokRTP"" calls 20",2024-04-26T19:46:14.240Z,171416077424000
+"""Pepsi @ F-7ZqwXZ_u"" calls 20",2024-04-26T19:46:07.483Z,171416076748300
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:46:06.567Z,171416076656700
+"""PhilM_solo @ 4L8lqAdO1e"" calls 20",2024-04-26T19:46:05.300Z,171416076530000
+"""mofa224 @ T6DjGdOAqA"" posts a big blind of 20",2024-04-26T19:45:58.945Z,171416075894511
+"""Disco @ ybhusRP6U7"" posts a small blind of 10",2024-04-26T19:45:58.945Z,171416075894510
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1220) | #2 ""!Neon10 @ 7cTV432CiQ"" (900) | #3 ""Pepsi @ F-7ZqwXZ_u"" (1000) | #4 ""Flizshynt @ ndqQMokRTP"" (1000) | #5 ""bababooey3 @ bFYTdAZ32N"" (1000) | #6 ""Abdulcryptofx @ ipblIB7ofh"" (900) | #7 ""Disco @ ybhusRP6U7"" (980) | #8 ""mofa224 @ T6DjGdOAqA"" (1000)",2024-04-26T19:45:58.945Z,171416075894501
+"-- starting hand #2 (id: 0djzv58synqk)  (No Limit Texas Hold'em) (dealer: ""Abdulcryptofx @ ipblIB7ofh"") --",2024-04-26T19:45:58.945Z,171416075894500
+"""PhilM_solo @ 4L8lqAdO1e"" shows a 10♣, A♥.",2024-04-26T19:45:56.151Z,171416075615100
+"-- ending hand #1 --",2024-04-26T19:45:55.331Z,171416075533102
+"""PhilM_solo @ 4L8lqAdO1e"" collected 320 from pot",2024-04-26T19:45:55.331Z,171416075533101
+"Uncalled bet of 100 returned to ""PhilM_solo @ 4L8lqAdO1e""",2024-04-26T19:45:55.331Z,171416075533100
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:45:54.495Z,171416075449500
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T19:45:48.927Z,171416074892700
+"""PhilM_solo @ 4L8lqAdO1e"" bets 100",2024-04-26T19:45:44.815Z,171416074481500
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:45:36.781Z,171416073678100
+"Flop:  [7♥, A♠, 2♥]",2024-04-26T19:45:29.912Z,171416072991200
+"""PhilM_solo @ 4L8lqAdO1e"" calls 100",2024-04-26T19:45:29.073Z,171416072907300
+"""Disco @ ybhusRP6U7"" folds",2024-04-26T19:45:24.492Z,171416072449200
+"""Abdulcryptofx @ ipblIB7ofh"" calls 100",2024-04-26T19:45:19.234Z,171416071923400
+"""bababooey3 @ bFYTdAZ32N"" folds",2024-04-26T19:45:18.107Z,171416071810700
+"""Flizshynt @ ndqQMokRTP"" folds",2024-04-26T19:45:17.216Z,171416071721600
+"""Pepsi @ F-7ZqwXZ_u"" folds",2024-04-26T19:44:51.303Z,171416069130300
+"""!Neon10 @ 7cTV432CiQ"" raises to 100",2024-04-26T19:44:50.443Z,171416069044300
+"""PhilM_solo @ 4L8lqAdO1e"" calls 20",2024-04-26T19:44:38.811Z,171416067881100
+"""mofa224 @ T6DjGdOAqA"" folds",2024-04-26T19:44:36.536Z,171416067653600
+"""Disco @ ybhusRP6U7"" posts a big blind of 20",2024-04-26T19:44:20.161Z,171416066016119
+"""Abdulcryptofx @ ipblIB7ofh"" posts a small blind of 10",2024-04-26T19:44:20.161Z,171416066016118
+"Player stacks: #1 ""PhilM_solo @ 4L8lqAdO1e"" (1000) | #2 ""!Neon10 @ 7cTV432CiQ"" (1000) | #3 ""Pepsi @ F-7ZqwXZ_u"" (1000) | #4 ""Flizshynt @ ndqQMokRTP"" (1000) | #5 ""bababooey3 @ bFYTdAZ32N"" (1000) | #6 ""Abdulcryptofx @ ipblIB7ofh"" (1000) | #7 ""Disco @ ybhusRP6U7"" (1000) | #8 ""mofa224 @ T6DjGdOAqA"" (1000)",2024-04-26T19:44:20.161Z,171416066016109
+"The player ""mofa224 @ T6DjGdOAqA"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016108
+"The player ""Disco @ ybhusRP6U7"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016107
+"The player ""Abdulcryptofx @ ipblIB7ofh"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016106
+"The player ""bababooey3 @ bFYTdAZ32N"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016105
+"The player ""Flizshynt @ ndqQMokRTP"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016104
+"The player ""Pepsi @ F-7ZqwXZ_u"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016103
+"The player ""!Neon10 @ 7cTV432CiQ"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016102
+"The player ""PhilM_solo @ 4L8lqAdO1e"" joined the game with a stack of 1000.",2024-04-26T19:44:20.161Z,171416066016101
+"-- starting hand #1 (id: 1q4euxsxmjjx)  (No Limit Texas Hold'em) (dealer: ""bababooey3 @ bFYTdAZ32N"") --",2024-04-26T19:44:20.161Z,171416066016100
