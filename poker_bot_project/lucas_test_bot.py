@@ -7,17 +7,19 @@ import time
 
 # LOGIN + GO TO GAME
 chromedriver_path = r"C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
+# REPLACE WITH PATH TO CHROMEDRIVER
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
 discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+# REPLACE WITH DISCORD LOGIN
 
-# crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
-# register_for_game(driver) # remove if already a game in progress
-# go_to_game2(driver)
 
 time.sleep(10)
 driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
+# NEEDS TO BE A LINK TO IN PROGRESS PRIVATE GAME, WITH THE BOT'S ACCOUNT ALREADY JOINED
+# AFTER ENTERING THE LINK YOU MUST MANUALLY GO TO SETTINGS AND DISABLE POST GAME REVIEW NOTIFICATION
+
 time.sleep(10)
 
 
@@ -35,8 +37,7 @@ print(player_stacks)
 print("player list")
 print(player_list)
 
-game = Game_State("luc", player_list, [], log)
-# game.print()
+game = Game_State("luc", player_list, [], log) # SHOULD BE OWN USERNAME
 game.initial_get_opponents_and_stacks(player_stacks)
 
 
