@@ -5,7 +5,10 @@ from deck import Deck
 import json
 # from actions import read_log, get_cards
 
-with open('../Pokernow/stats.json') as json_file:
+# with open('../Pokernow/stats.json') as json_file:
+    # stats = json.load(json_file)
+
+with open(r'C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\stats.json') as json_file:
     stats = json.load(json_file)
 
 
@@ -44,16 +47,16 @@ class Game_State:
         print(f"Players: {self.player_list}")
         print("Opponents: ")
         for opponent in self.opponents:
-            print(f"{opponent.name} {opponent.stack}")
+            print(opponent)
         print("Opponents in hand: ")
         for opponent in self.opponents_in_hand:
-            print(f"{opponent.name} {opponent.stack}")
+            print(opponent)
         print("Opponents to act: ")
         for opponent in self.opponents_to_act:
-            print(f"{opponent.name} {opponent.stack}")
+            print(opponent)
         print("Opponents acted: ")
-        for opponents in self.opponents_acted:
-            print(f"{opponents.name} {opponents.stack}")
+        for opponent in self.opponents_acted:
+            print(opponent)
         # print(f"log: {self.log}")
         print(f"stack: {self.stack}")
         print(f"big blind: {self.big_blind}")
@@ -154,6 +157,8 @@ class Game_State:
             self.bet_to_call = self.big_blind/2 # when bot is small blind
             # self.stack -= self.big_blind/2
 
+
+
     # helper function to update player actions
     def update_player_actions(self, player_actions):
         for player in player_actions:
@@ -162,13 +167,16 @@ class Game_State:
                 for opp in self.opponents_in_hand:
                     if player == opp.name:
                         self.opponents_in_hand.remove(opp)
-            elif bet > 0:
+            else:
                 for opp in self.opponents_in_hand:
                     if player == opp.name:
                         opp.set_bet(bet)
+                        self.opponents_acted.append(opp)
 
     def update_board(self, board):
         self.board += board
+
+
 
     # helper function to update cards
     def update_cards(self, cards_list):
@@ -191,32 +199,6 @@ class Game_State:
         self.playing = True
 
 
-
-    # 
-    '''
-    <button type="button" interval="300" class="button-1 with-tip time-bank  suspended-action ">Activate Extra Time (10s)</button>
-    def check_turn_2(self):
-        # Calculate the first player to act after the big blind
-        first_to_act_index = (self.big_blind_index + 1) % len(self.player_list)
-        if self.player_index == first_to_act_index:
-            # The bot is first to act
-            self.is_turn = True
-        else:
-            # Determine if the player right before the bot has acted
-            prev_player_index = (self.player_index - 1) % len(self.player_list)
-            prev_player_name = self.player_list[prev_player_index]
-            acted_names = [opponent.name for opponent in self.opponents_acted]
-            if prev_player_name in acted_names:
-                self.is_turn = True
-            else:
-                self.is_turn = False
-        
-        return self.is_turn
-        '''
-    
-
-
-
     def check_updated(self, new_log):
         if self.log == new_log:
             return False
@@ -225,7 +207,7 @@ class Game_State:
 
 
     # UNTESTED
-    def read_updates(self, new_log):
+    def read_updates2(self, new_log):
             # Find the first instance where the new log diverges from the old log
         index = 0
         for i in range(min(len(new_log), len(self.log))):
@@ -307,8 +289,34 @@ class Game_State:
                 self.opponents_to_act.remove(opponent)
                 self.opponents_acted = [opponent]
 
+
     def find_opponent_by_name(self, name):
         return next((op for op in self.opponents if op.name == name), None)
+    
+
+
+
+
+    def read_updates(self, new_log):
+        # Find the first instance of a line containing `self.name` in the old log
+        index = self.log.find(self.name)
+        if index != -1:
+            # Capture the portion of the line around `self.name` for matching
+            # Assuming '10 characters after' might vary based on actual log format,
+            # Adjust as necessary for adequate context
+            end_index = index + len(self.name) + 10  # Adjust the 10 if more context is needed
+            last_known_action = self.log[index:end_index]
+            self.log = new_log
+
+            # Find this snippet in the new log
+            new_index = new_log.find(last_known_action)
+            if new_index != -1:
+                # Return everything before this snippet in the new log as new entries
+                new_entries = new_log[:new_index].strip()
+                return new_entries
+
+        # If no previous action or snippet is found in the new log, consider the whole new log as new entries
+        return new_log.strip()
 
     
 
@@ -317,6 +325,7 @@ class Game_State:
 
 if __name__ == "__main__":
     
+    '''
     game = Game_State("luc1", ["luc1", "clankylemon8"], [Opponent("clankylemon8")],  "Player stacks: #1 luc1 (960) | #2 luc2 (1040)")
     # game.new_hand({'luc1': 960, "luc2" : 1040}, [20, 'luc1', True], ['2', 'spades', '7', 'hearts'])
     # game.print()
@@ -342,3 +351,38 @@ if __name__ == "__main__":
     clankylemon8 posts a big blind of 60
     """
     print(game.read_blinds(new_entries))
+    '''
+
+    log = """
+    luc1 folds
+    12:55
+    luc2 raises to 120
+    """
+    new_log = """
+    luc2 posts a big blind of 20
+    12:55
+    luc1 posts a small blind of 10
+    12:55
+    Player stacks: #1 luc1 (960) | #2 luc2 (1040)
+    12:55
+    -- starting hand #3 (id: hvsqmmxaoe6z) (No Limit Texas Hold'em) (dealer: luc2) --     
+    12:55
+    -- ending hand #2 --
+    12:55
+    luc2 collected 160 from pot
+    12:55
+    Uncalled bet of 80 returned to luc2
+    12:55
+    luc1 folds
+    12:55
+    luc2 raises to 120
+    """
+
+
+    game = Game_State("luc1", ['luc1', "clankylemon8"], [Opponent("clankylemon8")], log)
+
+    # game.read_updates()
+    # game.update_player_actions({'luc1 ': 0, 'clankylemon8': 20})
+    # game.print()
+    print(game.read_updates(new_log))
+    

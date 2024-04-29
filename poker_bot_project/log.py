@@ -34,7 +34,7 @@ from game_state import Game_State
 
 # ----------------- CHECKS START OF NEW HAND FUNCTION -------------------
 
-def is_new_hand(new_string, substring="posts a big blind of"):
+def is_new_hand(new_string, substring="Player stacks: "):
     # Convert both strings to lower case to make the search case-insensitive
     new_string = new_string.lower()
     substring = substring.lower()
@@ -165,9 +165,6 @@ def get_board(string):
 
 
 
-log = "12:55\nluc1 calls 20\nTurn: 10♣, 7♠, 8♣, [10♠]\nluc2 checks\n12:55\nluc2 posts a big blind of 20\n12:55\nluc1 posts a small blind of 10\n12:55\nPlayer stacks: #1 luc1 (1040) | #2 luc2 (960)\n12:55\n-- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     \n12:55"
-print(get_player_actions(log))
-print(get_board(log))
 
 
 '''
@@ -209,6 +206,13 @@ Player stacks: #1 luc1 (1040) | #2 luc2 (960)
 '''
 
 if __name__ == "__main__":
+
+    log2 = "15:13\nluc checks\n15:13\nluc1 calls 20"
+    log = "12:55\nluc1 calls 20\nTurn: 10♣, 7♠, 8♣, [10♠]\nluc2 checks\n12:55\nluc2 posts a big blind of 20\n12:55\nluc1 posts a small blind of 10\n12:55\nPlayer stacks: #1 luc1 (1040) | #2 luc2 (960)\n12:55\n-- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     \n12:55"
+    print(get_player_actions(log2))
+    print(get_board(log2))
+
+
     '''Example usage:
     stacks_string = "Player stacks: #1 luc_ 1 (960) | #2 luc2 (1040)"
     player_stacks = get_opponents_and_stacks(stacks_string)
@@ -278,5 +282,7 @@ if __name__ == "__main__":
             self.players[self.curr_player]['net'][-1] += amount
             self.players[self.curr_player]['net'][-1] = round(self.players[self.curr_player]['net'][-1], 1)
         return
+
+        
 
 '''
