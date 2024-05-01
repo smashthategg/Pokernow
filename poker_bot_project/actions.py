@@ -432,16 +432,16 @@ if __name__ == "__main__":
     service = Service(executable_path=chromedriver_path)
     driver = webdriver.Chrome(service=service)
 
-    # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
-    discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    # discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
     # register_for_game(driver) # remove if already a game in progress
 
     # go_to_game2(driver)
 
     time.sleep(10)
-    driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
+    # driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
     time.sleep(1)
     
     #log = read_log(driver)
@@ -451,8 +451,8 @@ if __name__ == "__main__":
     # check(driver)
     # fold(driver)
 
-    print(get_cards(driver))
-    print(check_turn(driver))
+    # print(get_cards(driver))
+    # print(check_turn(driver))
     time.sleep(10)
 
 
