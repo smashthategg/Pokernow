@@ -219,6 +219,21 @@ def read_log(driver):
 
 
 
+def check_turn(driver):
+    try:
+        # Define the button selector
+        button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
+        
+        # Wait for the button to be visible on the page
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
+        
+        # If the button is visible, it's your turn
+        return True
+    except:
+        # If the button is not found or not visible within the timeout, it's not your turn
+        return False
+
+
 # ----------------- CALL FUNCTION -------------------
     
 def call(driver):
@@ -234,6 +249,33 @@ def call(driver):
     print("Found call button")
     call_button.click()
     print("Clicked call button")
+
+
+
+def all_in(driver):
+    # Define the CSS selector and the specific text we're looking for
+    button_css_selector = "button.button-1.default-bet-button"
+    button_text = "All In"
+
+    try:
+        # Wait for the button to be present and ensure it's the right one by text
+        all_in_button = WebDriverWait(driver, 1).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, button_css_selector))
+        )
+
+        # Find all elements that match the class and then filter by text
+        buttons = driver.find_elements(By.CSS_SELECTOR, button_css_selector)
+        for button in buttons:
+            if button.text == button_text:
+                button.click()
+                print("Clicked 'All In' button.")
+                return True
+        print("No 'All In' button found with the specified text.")
+        return False
+
+    except TimeoutException:
+        print("Timeout waiting for 'All In' button.")
+        return False
 
 
 # ----------------- RAISE FUNCTION -------------------
@@ -257,11 +299,14 @@ def raise_func(driver, amount):
     # find and enter amount
     raise_input = driver.find_element(By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']")
     print("Found raise input")
-    time.sleep(1)
+    # time.sleep(1)
 
     # raise_input.clear()
     raise_input.send_keys(str(int(amount)) + Keys.ENTER)
     print("Sent raise amount")
+
+    if (check_turn(driver)):
+        all_in(driver)
 
 
 
@@ -355,20 +400,6 @@ def get_cards(driver):
     return cards_list
 
 
-
-def check_turn(driver):
-    try:
-        # Define the button selector
-        button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
-        
-        # Wait for the button to be visible on the page
-        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
-        
-        # If the button is visible, it's your turn
-        return True
-    except:
-        # If the button is not found or not visible within the timeout, it's not your turn
-        return False
     
 
 
