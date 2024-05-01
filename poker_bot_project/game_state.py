@@ -5,7 +5,10 @@ from deck import Deck
 import json
 # from actions import read_log, get_cards
 
-with open('../Pokernow/stats.json') as json_file:
+# with open('../Pokernow/stats.json') as json_file:
+#    stats = json.load(json_file)
+
+with open(r'C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\stats.json') as json_file:
     stats = json.load(json_file)
 
 

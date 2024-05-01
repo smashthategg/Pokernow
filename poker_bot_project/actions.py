@@ -241,7 +241,7 @@ def call(driver):
 def raise_func(driver, amount):
 
     # Wait for the button to be clickable
-    WebDriverWait(driver, 100).until(
+    WebDriverWait(driver, 2).until(
         EC.element_to_be_clickable((By.CSS_SELECTOR, "button.button-1.with-tip.raise.green"))
     )
     # find and click raise button
@@ -252,46 +252,65 @@ def raise_func(driver, amount):
 
     # Wait for input to be interactable
     WebDriverWait(driver, 5).until(
-        EC.visibility_of_element_located((By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']"))
+        EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']"))
     )
     # find and enter amount
     raise_input = driver.find_element(By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']")
     print("Found raise input")
     time.sleep(1)
+
     # raise_input.clear()
-    raise_input.send_keys(amount + Keys.ENTER)
+    raise_input.send_keys(str(int(amount)) + Keys.ENTER)
     print("Sent raise amount")
 
 
+
 # ----------------- CHECK FUNCTION -------------------
+
 def check(driver):
     check_css_selector = "button.button-1.with-tip.check.green"
-
-    # Wait for the Check button to be clickable
-    WebDriverWait(driver, 100).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, check_css_selector))
-    )
-
-    # Find the Check button and click it
-    check_button = driver.find_element(By.CSS_SELECTOR, check_css_selector)
-    check_button.click()
-    print("Clicked Check button")
-
+    try:
+        # Wait for the Check button to be clickable
+        WebDriverWait(driver, 2).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, check_css_selector))
+        )
+        # Find the Check button and click it
+        check_button = driver.find_element(By.CSS_SELECTOR, check_css_selector)
+        check_button.click()
+        print("Clicked Check button")
+        return True
+    except TimeoutException:
+        print("Check button not available.")
+        return False
 
 
 # ----------------- FOLD FUNCTION -------------------
+
 def fold(driver):
     fold_css_selector = "button.button-1.with-tip.fold.red"
+    try:
+        # Wait for the Fold button to be clickable
+        WebDriverWait(driver, 2).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, fold_css_selector))
+        )
+        # Find the Fold button and click it
+        fold_button = driver.find_element(By.CSS_SELECTOR, fold_css_selector)
+        fold_button.click()
+        print("Clicked Fold button")
+        return True
+    except TimeoutException:
+        print("Fold button not available.")
+        return False
 
-    # Wait for the Fold button to be clickable
-    WebDriverWait(driver, 100).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, fold_css_selector))
-    )
+# ----------------- CHECK OR FOLD FUNCTION -------------------
 
-    # Find the Fold button and click it
-    fold_button = driver.find_element(By.CSS_SELECTOR, fold_css_selector)
-    fold_button.click()
-    print("Clicked Fold button")
+def check_fold(driver):
+    # First try to check
+    if not check(driver):  # If checking is not successful
+        # Try to fold if checking was not possible
+        if not fold(driver):  # If folding is also not successful
+            print("Neither Check nor Fold was possible.")
+
 
 
 # ----------------- GET CARDS FUNCTION -------------------
@@ -370,6 +389,7 @@ def read_pot(driver):
         # If neither element is found, handle the error (you could return None or raise an exception)
         print("Neither element was found.")
         return None
+    
 
 
 

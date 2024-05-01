@@ -29,7 +29,7 @@ def initialize_game(driver, bot_name):
 
 
 
-
+# HELPER
 def decide_preflop_action(driver, game):
     position = game.get_bot_position()
     print("GETTING PREFLOP STRATEGY: ")
@@ -39,20 +39,25 @@ def decide_preflop_action(driver, game):
                          players_in_hand=game.opponents_in_hand)
     if bet <= 0:
         print("CHECK / FOLD")
+        check_fold(driver)
     else:
         print(f"RAISE TO {bet}")
+        raise_func(driver, bet)
 
 
 
-
+# HELPER
 def decide_postflop_action(driver, game):
     print("GETTING POSTFLOP STRATEGY: ")
-    bet = get_postflop_strategy(hand=game.cards, stack=game.stack, players_in_hand=game.opponents_in_hand, 
-                                pot=game.pot, board=game.board) # PROBLEM
+    bet = 0
+    # bet = get_postflop_strategy(hand=game.cards, stack=game.stack, players_in_hand=game.opponents_in_hand, 
+    #                            pot=game.pot, board=game.board) # PROBLEM
     if bet <= 0:
         print("CHECK / FOLD")
+        check_fold(driver)
     else:
         print(f"RAISE TO {bet}")
+        raise_func(driver, bet)
 
 
 
