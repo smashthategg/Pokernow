@@ -459,12 +459,12 @@ if __name__ == "__main__":
 
     discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
     time.sleep(5)
-    # driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
+    driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
 
 
     # register_for_game(driver) # remove if already a game in progress
 
-    go_to_game2(driver)
+    # go_to_game2(driver)
 
     # time.sleep(10)
     # driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
