@@ -10,7 +10,7 @@ chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_proje
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-discord_login(driver, "johnnylin310@gmail.com", "johnnysucks123")
+discord_login(driver, "user", "pass")
 
 # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
