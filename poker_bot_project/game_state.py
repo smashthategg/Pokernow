@@ -247,25 +247,25 @@ class Game_State:
                 return 'BB'
         else:
         # Position names for more than two players
-        if relative_position == 0:
-            return 'SB'
-        elif relative_position == 1:
-            return 'BB'
-        elif relative_position == 2:
-            return 'UTG'
-        elif relative_position == 3:
-            return 'UTG+1'
-        elif relative_position == 4:
-            return 'LJ'
-        elif relative_position == 5:
-            return 'HJ'
-        elif relative_position == 6:
-            return 'CO'
-        elif relative_position == 7:
-            return 'BTN'
-        else:
-            # For tables larger than 9, additional players are usually considered as being in early positions
-            return 'UTG+{}'.format(relative_position - 2)
+            if relative_position == 0:
+                return 'SB'
+            elif relative_position == 1:
+                return 'BB'
+            elif relative_position == 2:
+                return 'UTG'
+            elif relative_position == 3:
+                return 'UTG+1'
+            elif relative_position == 4:
+                return 'LJ'
+            elif relative_position == 5:
+                return 'HJ'
+            elif relative_position == 6:
+                return 'CO'
+            elif relative_position == 7:
+                return 'BTN'
+            else:
+                # For tables larger than 9, additional players are usually considered as being in early positions
+                return 'UTG+{}'.format(relative_position - 2)
     
 
 
