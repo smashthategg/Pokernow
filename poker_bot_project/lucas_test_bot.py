@@ -3,6 +3,7 @@ from log import *
 from game_state import Game_State
 from poker_bot_project.strategy import get_preflop_strategy
 import time
+import datetime
 
 
 # LOGIN + GO TO GAME
@@ -25,6 +26,7 @@ time.sleep(10)
 
 
 # INITIALIZE GAME STATE: 
+print("INITIALIZING GAME STATE: ")
 log = read_log(driver)
 
 player_stacks = get_opponents_and_stacks(log)
@@ -39,26 +41,31 @@ print(player_list)
 
 game = Game_State("luc", player_list, [], log) # SHOULD BE OWN USERNAME
 game.initial_get_opponents_and_stacks(player_stacks)
+print("-----------------------------------------")
 
 
 
 # TO BE LOOPED: 
 while True:
     time.sleep(4)
+    now = datetime.datetime.now()
+    print(f"{now} CHECKING TURN: ")
     if check_turn(driver): # if its our turn
         print("bot's turn")
+        game.reset_turn() # reseting opponent lists
         new_log = read_log(driver) # read log
         if game.check_updated(new_log): # check log updated
-            print("updated")
+            print("LOG UPDATED: ")
             new_entries = game.read_updates(new_log) # read updates
-            print("new entries")
-            print(new_entries)
+            # print("new entries")
+            # print(new_entries)
+            game.process_log_lines(new_entries) # process updates
+
             pot = read_pot(driver)
             print("pot:")
             print(pot)
             if is_new_hand(new_entries): # check if new hand
-                print("new hand")
-
+                print("----------------- NEW HAND -----------------")
                 # gets needed values
                 player_stacks = get_opponents_and_stacks(new_entries)
                 big_blind_info = game.read_blinds(new_entries)

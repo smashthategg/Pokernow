@@ -185,31 +185,43 @@ class Game_State:
         return positions[relative_position]
     
 
-    
+
     def process_log_lines(self, log_lines):
-        # Iterate through each line in the log lines
+        # Regex pattern to capture player actions with two possible formats for amount
+        action_pattern = re.compile(r"([^ ]+) (folds|checks|calls|raises|bets)(?: to (\d+)| (\d+))?")
+
         for line in log_lines.split('\n'):
-            # Extract the player name and action from the line
-            match = re.match(r"(\w+) (folds|checks|calls|raises|bets)(?: to (\d+))?", line)
-            if not match:
+            line = line.strip()
+            if not line:
                 continue
 
-            player_name, action, amount = match.groups()
-            amount = int(amount) if amount else 0
+            # Apply regex pattern
+            match = action_pattern.match(line)
+            if not match:
+                # print("No valid action found in line:", line)
+                continue
+            
+            player_name, action, amount_to, amount_direct = match.groups()
+            # Determine the correct amount, whether it's after "to" or directly after the action
+            amount = int(amount_to if amount_to else amount_direct) if amount_to or amount_direct else 0
 
             # Find the opponent object
             opponent = next((o for o in self.opponents_in_hand if o.name == player_name), None)
             if not opponent:
+                print(f"Opponent {player_name} not found")
                 continue
 
             # Apply action logic
             if action == 'folds':
+                print(f"{player_name} folds")
                 self.opponents_in_hand.remove(opponent)
                 self.opponents_to_act.remove(opponent)
             elif action in ['calls', 'checks']:
+                print(f"{player_name} {action}")
                 self.opponents_to_act.remove(opponent)
                 self.opponents_acted.append(opponent)
             elif action in ['raises', 'bets']:
+                print(f"{player_name} {action} to {amount}")
                 self.bet_to_call = amount
                 self.opponents_to_act = list(self.opponents_in_hand)
                 self.opponents_to_act.remove(opponent)
