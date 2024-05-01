@@ -13,15 +13,13 @@ class Game_State:
 
     # initialize
     def __init__(self, name, player_list, opponents, log, stack=1000, big_blind=20, big_blind_index=-1,
-                 cards=[Card('2', 'spades'), Card('7', 'hearts')], pot=0, 
-                 deck=Deck(), is_playing=True, bet_to_call=0
+                 cards=[Card('2', 'spades'), Card('7', 'hearts')], pot=0, is_playing=True
                 ):
         
         self.name = name # pokernow username
         self.player_list = player_list # list of all names in order, changed along with opponents
         self.opponents = opponents # list of opponent objects (names + stacks + style)
         self.opponents_in_hand = self.opponents # list of opponent objects in the hand
-        self.opponents_to_act = self.opponents_in_hand
         self.opponents_acted = []
         self.log = log # current log
         self.board = []
@@ -29,10 +27,8 @@ class Game_State:
         self.big_blind = big_blind
         self.cards = cards
         self.pot = pot
-        self.deck = deck # used for tracking cards left in deck
         self.big_blind_index = big_blind_index # position of the big blind (to determine order)
         self.is_playing = is_playing # T/F if the bot is playing
-        self.bet_to_call = bet_to_call # amount needed to call
         self.player_index = self.player_list.index(self.name) # index of the bot in the player list
         self.is_turn = False
 
@@ -48,9 +44,6 @@ class Game_State:
         print("Opponents in hand: ")
         for opponent in self.opponents_in_hand:
             print(f"{opponent.name} {opponent.stack}")
-        print("Opponents to act: ")
-        for opponent in self.opponents_to_act:
-            print(f"{opponent.name} {opponent.stack}")
         print("Opponents acted: ")
         for opponents in self.opponents_acted:
             print(f"{opponents.name} {opponents.stack}")
@@ -62,7 +55,6 @@ class Game_State:
         # print(f"deck: {self.deck}")
         print(f"big blind index: {self.big_blind_index}")
         print(f"is playing: {self.is_playing}")
-        print(f"bet to call: {self.bet_to_call}")
         print(f"player index: {self.player_index}")
         print(f"is turn: {self.is_turn}")
 
@@ -79,7 +71,6 @@ class Game_State:
                 opponents.append(Opponent(player, player_type, player_stacks[player]))
         self.opponents = opponents
         self.opponents_in_hand = self.opponents
-        self.opponents_to_act = self.opponents_in_hand
         self.opponents_acted = []
 
 
@@ -96,7 +87,6 @@ class Game_State:
 
         # update opponents in hand
         self.opponents_in_hand = self.opponents
-        self.opponents_to_act = self.opponents_in_hand
         self.opponents_acted = []
 
         # Update the stack for the bot
@@ -162,10 +152,11 @@ class Game_State:
                 for opp in self.opponents_in_hand:
                     if player == opp.name:
                         self.opponents_in_hand.remove(opp)
-            elif bet > 0:
+            else:
                 for opp in self.opponents_in_hand:
                     if player == opp.name:
                         opp.set_bet(bet)
+                        self.opponents_acted.append(opp)
 
     def update_board(self, board):
         self.board += board
@@ -247,34 +238,34 @@ class Game_State:
         num_players = len(self.player_list)
         relative_position = (self.player_index - self.big_blind_index - 1) % num_players
 
-        # Define the positions based on the number of players
+        '''# Define the positions based on the number of players
         if num_players == 2:
             # Heads-up play has different naming (SB is also BTN)
             if relative_position == 0:
                 return 'BTN'  # Small Blind is also the Button
             elif relative_position == 1:
                 return 'BB'
+        else:'''
+        # Position names for more than two players
+        if relative_position == 0:
+            return 'SB'
+        elif relative_position == 1:
+            return 'BB'
+        elif relative_position == 2:
+            return 'UTG'
+        elif relative_position == 3:
+            return 'UTG+1'
+        elif relative_position == 4:
+            return 'LJ'
+        elif relative_position == 5:
+            return 'HJ'
+        elif relative_position == 6:
+            return 'CO'
+        elif relative_position == 7:
+            return 'BTN'
         else:
-            # Position names for more than two players
-            if relative_position == 0:
-                return 'SB'
-            elif relative_position == 1:
-                return 'BB'
-            elif relative_position == 2:
-                return 'UTG'
-            elif relative_position == 3:
-                return 'UTG+1'
-            elif relative_position == 4:
-                return 'LJ'
-            elif relative_position == 5:
-                return 'HJ'
-            elif relative_position == 6:
-                return 'CO'
-            elif relative_position == 7:
-                return 'BTN'
-            else:
-                # For tables larger than 9, additional players are usually considered as being in early positions
-                return 'UTG+{}'.format(relative_position - 2)
+            # For tables larger than 9, additional players are usually considered as being in early positions
+            return 'UTG+{}'.format(relative_position - 2)
     
 
     

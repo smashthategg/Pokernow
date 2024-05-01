@@ -114,7 +114,7 @@ def get_player_actions(players_string):
         if line[:4] in ["Flop","Turn","River"]:
             new_round = True
             continue
-        matches = re.findall(r"(calls|raises|folds|checks)", line)
+        matches = re.findall(r"(calls|raises to|folds|checks)", line)
         if len(matches) > 1: # if some rat's name also contains "calls" or "raises" etc
             matches = [(match.start(), match.end(), match.group()) for match in re.finditer(r"(call|raises|folds|checks)", line)]
             last_occurrence_start, last_occurrence_end, _ = matches[-1]
@@ -122,7 +122,7 @@ def get_player_actions(players_string):
             action = line[last_occurrence_start:last_occurrence_end].strip()
             bet = line[last_occurrence_end:].strip()
         else:
-            parts = re.split(r"(calls|raises|folds|checks)", line)
+            parts = re.split(r"(calls|raises to|folds|checks)", line)
             action = parts[1]
             name = parts[0]
             bet = parts[-1]

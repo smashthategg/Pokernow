@@ -51,6 +51,7 @@ def get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_i
                     break
     else: # if others have acted
         current_bet = max(players_acted, key=lambda x: x.bet).bet
+        print(current_bet)
         percent_stack = current_bet/stack
         for action in bot_facing_bets_ranges[effective][position]: 
             action_as_percentage = int(action[:-1])/100 
@@ -146,5 +147,4 @@ if __name__ == "__main__":
         print(board)
         p1.update_preflop_range(100,20)
         p2.update_preflop_range(50,20)
-        print(p1.range)
-        print(get_postflop_strategy(hand, 1000, 20, [p1], 300, board))
+
