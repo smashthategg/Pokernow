@@ -66,9 +66,9 @@ def discord_login(driver, discord_user, discord_pass):
 
     # discord login
     WebDriverWait(driver, 5).until(
-        EC.presence_of_element_located((By.ID, "uid_8"))
+        EC.element_to_be_clickable((By.ID, "uid_8"))
     )
-    time.sleep(1)
+    # time.sleep(1)
 
     input_user = driver.find_element(By.ID, "uid_8")
     input_user.clear()

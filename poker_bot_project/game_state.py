@@ -259,31 +259,44 @@ class Game_State:
                 return 'UTG+{}'.format(relative_position - 2)
     
 
-    
+
+
     def process_log_lines(self, log_lines):
-        # Iterate through each line in the log lines
+        # Regex pattern to capture player actions with two possible formats for amount
+        action_pattern = re.compile(r"([^ ]+) (folds|checks|calls|raises|bets)(?: to (\d+)| (\d+))?")
+
         for line in log_lines.split('\n'):
-            # Extract the player name and action from the line
-            match = re.match(r"(\w+) (folds|checks|calls|raises|bets)(?: to (\d+))?", line)
-            if not match:
+            line = line.strip()
+            if not line:
                 continue
 
-            player_name, action, amount = match.groups()
-            amount = int(amount) if amount else 0
+            # Apply regex pattern
+            match = action_pattern.match(line)
+            if not match:
+                # print("No valid action found in line:", line)
+                continue
+            
+            player_name, action, amount_to, amount_direct = match.groups()
+            # Determine the correct amount, whether it's after "to" or directly after the action
+            amount = int(amount_to if amount_to else amount_direct) if amount_to or amount_direct else 0
 
             # Find the opponent object
             opponent = next((o for o in self.opponents_in_hand if o.name == player_name), None)
             if not opponent:
+                print(f"Opponent {player_name} not found")
                 continue
 
             # Apply action logic
             if action == 'folds':
+                print(f"{player_name} folds")
                 self.opponents_in_hand.remove(opponent)
                 self.opponents_to_act.remove(opponent)
             elif action in ['calls', 'checks']:
+                print(f"{player_name} {action}")
                 self.opponents_to_act.remove(opponent)
                 self.opponents_acted.append(opponent)
             elif action in ['raises', 'bets']:
+                print(f"{player_name} {action} to {amount}")
                 self.bet_to_call = amount
                 self.opponents_to_act = list(self.opponents_in_hand)
                 self.opponents_to_act.remove(opponent)
@@ -293,8 +306,6 @@ class Game_State:
     def find_opponent_by_name(self, name):
         return next((op for op in self.opponents if op.name == name), None)
     
-
-
 
 
     def read_updates(self, new_log):
@@ -318,12 +329,17 @@ class Game_State:
         # If no previous action or snippet is found in the new log, consider the whole new log as new entries
         return new_log.strip()
 
-    
+    def reset_turn(self):
+        self.is_turn = True
+        self.opponents_to_act = self.opponents_in_hand
+        self.opponents_acted = []
+
 
     
     
 
 if __name__ == "__main__":
+
     
     '''
     game = Game_State("luc1", ["luc1", "clankylemon8"], [Opponent("clankylemon8")],  "Player stacks: #1 luc1 (960) | #2 luc2 (1040)")
@@ -354,35 +370,49 @@ if __name__ == "__main__":
     '''
 
     log = """
-    luc1 folds
+    luc2 raises to 40
     12:55
-    luc2 raises to 120
-    """
-    new_log = """
+    luc1 calls 20
+    12:55
     luc2 posts a big blind of 20
     12:55
     luc1 posts a small blind of 10
     12:55
-    Player stacks: #1 luc1 (960) | #2 luc2 (1040)
+    Player stacks: #1 luc1 (1040) | #2 luc2 (960)
     12:55
-    -- starting hand #3 (id: hvsqmmxaoe6z) (No Limit Texas Hold'em) (dealer: luc2) --     
+    -- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     
     12:55
-    -- ending hand #2 --
+    """
+    new_log = """
     12:55
-    luc2 collected 160 from pot
+    luc2 checks
     12:55
-    Uncalled bet of 80 returned to luc2
+    Flop: [Q♣, 7♠, 8♣]
     12:55
-    luc1 folds
+    luc1 calls 40
     12:55
-    luc2 raises to 120
+    luc2 raises to 40
+    12:55
+    luc1 calls 20
+    12:55
+    luc2 posts a big blind of 20
+    12:55
+    luc1 posts a small blind of 10
+    12:55
+    Player stacks: #1 luc1 (1040) | #2 luc2 (960)
+    12:55
+    -- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     
+    12:55
     """
 
 
-    game = Game_State("luc1", ['luc1', "clankylemon8"], [Opponent("clankylemon8")], log)
+    game = Game_State("luc1", ['luc1', "luc2"], [Opponent("luc2")], log)
 
     # game.read_updates()
     # game.update_player_actions({'luc1 ': 0, 'clankylemon8': 20})
     # game.print()
-    print(game.read_updates(new_log))
+    new_lines = game.read_updates(new_log)
+    print(new_lines)
+    print("processing new lines")
+    game.process_log_lines(new_lines)
     
