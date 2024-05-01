@@ -113,7 +113,7 @@ def go_to_game2(driver):
     go_to_game_xpath = "//a[contains(@class, 'button-1') and contains(@class, 'big') and contains(@class, 'green')]"
     
     WebDriverWait(driver, 300).until(
-        EC.presence_of_element_located((By.XPATH, go_to_game_xpath))
+        EC.element_to_be_clickable((By.XPATH, go_to_game_xpath))
     )
     time.sleep(1)
     link = driver.find_element(By.XPATH, go_to_game_xpath)
