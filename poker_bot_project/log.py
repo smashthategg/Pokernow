@@ -72,63 +72,32 @@ def get_opponents_and_stacks(stacks_string):
     return player_stacks
 
 
-'''
-# ----------------- READ BLINDS FUNCTION -------------------
-
-def read_blinds(blinds_string):
-    # Regular expression to find the player's name and the "big/small blind" text and extract both the name and the amount
-    match = re.search(r'(\w+) posts a big blind of (\d+)', blinds_string)
-    match2 = re.search(r'(\w+) posts a small blind of (\d+)', blinds_string)
-    if match and match2:
-        # match.group(1) captures the player's name
-        # match.group(2) captures the numeric value of the big blind
-        return [int(match.group(2)), match.group(1), True]
-    elif match:
-        return [int(match.group(2)), match.group(1), False]
-    elif match2:
-        return [None, match2.group(1), False]
-    else:
-        # If no match is found, return None or raise an error depending on your error handling preference
-        return [None, None, False]
-
-'''
-
-
-# READ FLOP / TURN / RIVER FUNCTION
-
-# DETECT RAISE / FOLD / CALL / CHECK FUNCTION
-
-
-
-# ----------------- READ PLAYER ACTIONS ----------------------
-
 def get_player_actions(players_string):
     player_actions = {}
+    action = ""
     new_round = False
     log = players_string.split('\n')
     for line in log:
-        if len(line) < 6:
-            continue
         if "posts a big blind" in line:
             break
-        if line[:4] in ["Flop","Turn","River"]:
+        if line[:4] in ["Flop","Turn","Rive"]:
             new_round = True
             continue
-        matches = re.findall(r"(calls|raises to|folds|checks)", line)
+        matches = re.findall(r"(calls|raises to|folds|bets|checks)", line)
         if len(matches) > 1: # if some rat's name also contains "calls" or "raises" etc
             matches = [(match.start(), match.end(), match.group()) for match in re.finditer(r"(call|raises|folds|checks)", line)]
             last_occurrence_start, last_occurrence_end, _ = matches[-1]
             name = line[:last_occurrence_start].strip()
             action = line[last_occurrence_start:last_occurrence_end].strip()
             bet = line[last_occurrence_end:].strip()
-        else:
-            parts = re.split(r"(calls|raises to|folds|checks)", line)
+        elif len(matches) == 1:
+            parts = re.split(r"(calls|raises to|folds|bets|checks)", line)
             action = parts[1]
-            name = parts[0]
+            name = parts[0].strip()
             bet = parts[-1]
         if not new_round:
-            if action == 'calls' or action == 'raises':
-                player_actions[name] = int(bet.strip())
+            if action in ['calls','bets','raises to']:
+                player_actions[name] = int(re.search(r'\d+',bet).group())
             elif action == 'checks':
                 player_actions[name] = 0
             else:
@@ -137,7 +106,6 @@ def get_player_actions(players_string):
             if action == 'folds':
                 player_actions[name] = -1
         
-
     return player_actions
     
 def get_board(string):
@@ -150,139 +118,13 @@ def get_board(string):
                 val = 'T'
             else:
                 val = card[0]
-            if cards[-1] == '♣':
+            if card[-1] == '♣':
                 suit = 'clubs'
-            elif cards[-1] == '♦':
+            elif card[-1] == '♦':
                 suit = 'diamonds'
-            elif cards[-1] == '♥':
+            elif card[-1] == '♥':
                 suit = 'hearts'
             else:
                 suit = 'spades'
             board.append(Card(val,suit))
     return board
-
-
-
-
-
-
-
-'''
-Player stacks: #1 luc1 (960) | #2 luc2 (1040)
-12:55
--- starting hand #3 (id: hvsqmmxaoe6z) (No Limit Texas Hold'em) (dealer: luc2) --     
-12:55
--- ending hand #2 --
-12:55
-luc2 collected 160 from pot
-12:55
-Uncalled bet of 80 returned to luc2
-12:55
-luc1 folds
-12:55
-luc2 raises to 120
-12:55
-luc1 bets 40
-12:55
-luc2 checks
-12:55
-Flop: [Q♣, 7♠, 8♣]
-12:55
-luc1 calls 40
-12:55
-luc2 raises to 40
-12:55
-luc1 calls 20
-12:55
-luc2 posts a big blind of 20
-12:55
-luc1 posts a small blind of 10
-12:55
-Player stacks: #1 luc1 (1040) | #2 luc2 (960)
-12:55
--- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     
-12:55
-
-'''
-
-if __name__ == "__main__":
-
-    log2 = "15:13\nluc checks\n15:13\nluc1 calls 20"
-    log = "12:55\nluc1 calls 20\nTurn: 10♣, 7♠, 8♣, [10♠]\nluc2 checks\n12:55\nluc2 posts a big blind of 20\n12:55\nluc1 posts a small blind of 10\n12:55\nPlayer stacks: #1 luc1 (1040) | #2 luc2 (960)\n12:55\n-- starting hand #2 (id: 7vuwhjcxxsj1) (No Limit Texas Hold'em) (dealer: luc1) --     \n12:55"
-    print(get_player_actions(log2))
-    print(get_board(log2))
-
-
-    '''Example usage:
-    stacks_string = "Player stacks: #1 luc_ 1 (960) | #2 luc2 (1040)"
-    player_stacks = get_opponents_and_stacks(stacks_string)
-    print(player_stacks)
-    # output: {'luc1': 960, 'luc2': 1040}'''
-
-    '''
-    game = Game_State("luc1", [Opponent("luc2"), Opponent("luc3")], "Player stacks: #1 luc1 (1000) | #2 luc2 (1000)")
-    game.print()
-
-    game.new_hand({'luc1': 960, 'luc2': 1040}, 20, [Card('2', 'spades'), Card('7', 'hearts')], 0, Deck(), -1)    
-    game.print()
-    
-    # print(read_blinds("luc2 posts a big blind of 20"))
-    print(is_new_hand("Player posts a big blind of 20"))  # Expected: True
-    print(is_new_hand("player POSTS a big blind of 20"))  # Expected: True, testing case insensitivity
-    print(is_new_hand("  player posts a big blind of 20  "))  # Expected: True, testing whitespace
-    print(is_new_hand("player posts small blind of 20"))  # Expected: False, different substring
-'''
-
-'''
-    def record_action(self, line, stage):
-        nline = re.sub(r'"(.*?)" ', "", line).split()
-        action = "NA"
-        amount = 0
-        match nline[0]:
-            case 'folds':
-                self.players_in_hand.remove(self.curr_player)
-                action = 'F'
-            case 'checks':
-                action = 'X'
-            case 'calls':
-                amount = round(int(nline[1])/self.bb, 1)
-                action = 'C'
-            case 'raises':
-                amount = round(int(nline[2])/self.bb, 1)
-                action = 'R'
-            case 'bets':
-                amount = round(int(nline[1])/self.bb, 1)
-                action = 'B'
-            case 'Uncalled':
-                amount = round(int(nline[3])/self.bb, 1)
-            case 'shows':
-                self.players[self.curr_player]['hand'][-1] = nline[-2] + " " + nline[-1][:-1]
-            case 'collected':
-                amount = round(int(nline[1])/self.bb, 1)
-            case _:
-                return
-        if stage == 'preflop' and  self.players[self.curr_player][stage][-1] == 'NA': 
-            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'SB':
-                self.players[self.curr_player]['net'][-1] += 0.5
-            if action in ['C','R'] and self.players[self.curr_player]['position'][-1] == 'BB':
-                self.players[self.curr_player]['net'][-1] += 1
-        if action in ['X','F','B','C','R']:
-            if self.players[self.curr_player][stage][-1] == 'NA': # If this is the player's first action in the stage
-                self.players[self.curr_player][stage][-1] = action   
-            else:
-                self.players[self.curr_player][stage][-1] += "-" + action         
-        if action in ['B','C','R']: 
-            self.players[self.curr_player][stage][-1] += str(amount)
-            # Now we change the "net" values.
-            for past_action in self.players[self.curr_player][stage][-1].split('-')[:-1]:
-                if past_action[0] in ['B','C','R']: # We dont also want to deduct past bets in the same stage.
-                    self.players[self.curr_player]['net'][-1] += float(past_action[1:])
-            self.players[self.curr_player]['net'][-1] -= amount
-        else:
-            self.players[self.curr_player]['net'][-1] += amount
-            self.players[self.curr_player]['net'][-1] = round(self.players[self.curr_player]['net'][-1], 1)
-        return
-
-        
-
-'''
