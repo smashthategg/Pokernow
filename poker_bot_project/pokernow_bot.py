@@ -15,9 +15,12 @@ discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
 # go_to_game2(driver)
+user = "pokertest0915@gmail.com"
+password = "Pokernowbot"
 
+crib_go_to_game(driver, user, password)
 time.sleep(8)
-driver.get(r"https://www.pokernow.club/games/pglGLE90oTUb0EGWlTN1YNcxp")
+# driver.get(r"(LINK HERE)")
 time.sleep(8)
 
 game = Game_State("meowzedong0")

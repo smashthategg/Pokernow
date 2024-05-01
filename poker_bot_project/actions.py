@@ -219,6 +219,21 @@ def read_log(driver):
 
 
 
+def check_turn(driver):
+    try:
+        # Define the button selector
+        button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
+        
+        # Wait for the button to be visible on the page
+        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
+        
+        # If the button is visible, it's your turn
+        return True
+    except:
+        # If the button is not found or not visible within the timeout, it's not your turn
+        return False
+
+
 # ----------------- CALL FUNCTION -------------------
     
 def call(driver):
@@ -236,12 +251,39 @@ def call(driver):
     print("Clicked call button")
 
 
+
+def all_in(driver):
+    # Define the CSS selector and the specific text we're looking for
+    button_css_selector = "button.button-1.default-bet-button"
+    button_text = "All In"
+
+    try:
+        # Wait for the button to be present and ensure it's the right one by text
+        all_in_button = WebDriverWait(driver, 1).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, button_css_selector))
+        )
+
+        # Find all elements that match the class and then filter by text
+        buttons = driver.find_elements(By.CSS_SELECTOR, button_css_selector)
+        for button in buttons:
+            if button.text == button_text:
+                button.click()
+                print("Clicked 'All In' button.")
+                return True
+        print("No 'All In' button found with the specified text.")
+        return False
+
+    except TimeoutException:
+        print("Timeout waiting for 'All In' button.")
+        return False
+
+
 # ----------------- RAISE FUNCTION -------------------
 
 def raise_func(driver, amount):
 
     # Wait for the button to be clickable
-    WebDriverWait(driver, 100).until(
+    WebDriverWait(driver, 2).until(
         EC.element_to_be_clickable((By.CSS_SELECTOR, "button.button-1.with-tip.raise.green"))
     )
     # find and click raise button
@@ -252,46 +294,68 @@ def raise_func(driver, amount):
 
     # Wait for input to be interactable
     WebDriverWait(driver, 5).until(
-        EC.visibility_of_element_located((By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']"))
+        EC.element_to_be_clickable((By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']"))
     )
     # find and enter amount
     raise_input = driver.find_element(By.CSS_SELECTOR, "input[type='text'].value[pattern='[0-9]*'][inputmode='numeric']")
     print("Found raise input")
-    time.sleep(1)
+    # time.sleep(1)
+
     # raise_input.clear()
-    raise_input.send_keys(amount + Keys.ENTER)
+    raise_input.send_keys(str(int(amount)) + Keys.ENTER)
     print("Sent raise amount")
+
+    if (check_turn(driver)):
+        all_in(driver)
+
 
 
 # ----------------- CHECK FUNCTION -------------------
+
 def check(driver):
     check_css_selector = "button.button-1.with-tip.check.green"
-
-    # Wait for the Check button to be clickable
-    WebDriverWait(driver, 100).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, check_css_selector))
-    )
-
-    # Find the Check button and click it
-    check_button = driver.find_element(By.CSS_SELECTOR, check_css_selector)
-    check_button.click()
-    print("Clicked Check button")
-
+    try:
+        # Wait for the Check button to be clickable
+        WebDriverWait(driver, 2).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, check_css_selector))
+        )
+        # Find the Check button and click it
+        check_button = driver.find_element(By.CSS_SELECTOR, check_css_selector)
+        check_button.click()
+        print("Clicked Check button")
+        return True
+    except TimeoutException:
+        print("Check button not available.")
+        return False
 
 
 # ----------------- FOLD FUNCTION -------------------
+
 def fold(driver):
     fold_css_selector = "button.button-1.with-tip.fold.red"
+    try:
+        # Wait for the Fold button to be clickable
+        WebDriverWait(driver, 2).until(
+            EC.element_to_be_clickable((By.CSS_SELECTOR, fold_css_selector))
+        )
+        # Find the Fold button and click it
+        fold_button = driver.find_element(By.CSS_SELECTOR, fold_css_selector)
+        fold_button.click()
+        print("Clicked Fold button")
+        return True
+    except TimeoutException:
+        print("Fold button not available.")
+        return False
 
-    # Wait for the Fold button to be clickable
-    WebDriverWait(driver, 100).until(
-        EC.element_to_be_clickable((By.CSS_SELECTOR, fold_css_selector))
-    )
+# ----------------- CHECK OR FOLD FUNCTION -------------------
 
-    # Find the Fold button and click it
-    fold_button = driver.find_element(By.CSS_SELECTOR, fold_css_selector)
-    fold_button.click()
-    print("Clicked Fold button")
+def check_fold(driver):
+    # First try to check
+    if not check(driver):  # If checking is not successful
+        # Try to fold if checking was not possible
+        if not fold(driver):  # If folding is also not successful
+            print("Neither Check nor Fold was possible.")
+
 
 
 # ----------------- GET CARDS FUNCTION -------------------
@@ -336,20 +400,6 @@ def get_cards(driver):
     return cards_list
 
 
-
-def check_turn(driver):
-    try:
-        # Define the button selector
-        button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
-        
-        # Wait for the button to be visible on the page
-        WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
-        
-        # If the button is visible, it's your turn
-        return True
-    except:
-        # If the button is not found or not visible within the timeout, it's not your turn
-        return False
     
 
 
@@ -370,6 +420,7 @@ def read_pot(driver):
         # If neither element is found, handle the error (you could return None or raise an exception)
         print("Neither element was found.")
         return None
+    
 
 
 
@@ -381,16 +432,16 @@ if __name__ == "__main__":
     service = Service(executable_path=chromedriver_path)
     driver = webdriver.Chrome(service=service)
 
-    # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
-    discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    # discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
     # register_for_game(driver) # remove if already a game in progress
 
     # go_to_game2(driver)
 
     time.sleep(10)
-    driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
+    # driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
     time.sleep(1)
     
     #log = read_log(driver)
@@ -400,8 +451,8 @@ if __name__ == "__main__":
     # check(driver)
     # fold(driver)
 
-    print(get_cards(driver))
-    print(check_turn(driver))
+    # print(get_cards(driver))
+    # print(check_turn(driver))
     time.sleep(10)
 
 
