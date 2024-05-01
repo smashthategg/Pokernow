@@ -6,21 +6,21 @@ import time
 
 
 # LOGIN + GO TO GAME
-chromedriver_path = r"((((PATH FILE HERE))))\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
+chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_project\pokernow_actions\chromedriver.exe"
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-discord_login(driver, "email", "password")
+discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
 # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
 # go_to_game2(driver)
 
 time.sleep(8)
-driver.get(r"(LINK HERE)")
+driver.get(r"https://www.pokernow.club/games/pglGLE90oTUb0EGWlTN1YNcxp")
 time.sleep(8)
 
-game = Game_State("smashthategg")
+game = Game_State("meowzedong0")
 # TO BE LOOPED: 
 while True:
     time.sleep(1)
@@ -77,7 +77,7 @@ while True:
         elif bet == 0:
             check(driver)
         else:
-            raise_func(driver, str(bet))
+            raise_func(driver, str(int(bet)))
 
     else:
         print("not bot's turn")
