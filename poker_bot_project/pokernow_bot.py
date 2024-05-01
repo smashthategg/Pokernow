@@ -10,14 +10,14 @@ chromedriver_path = r"C:\Users\jzlin\OneDrive\Documents\Pokernow\poker_bot_proje
 service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
-discord_login(driver, "johnnylin310@gmail.com", "johnnysucks123")
+discord_login(driver, "user", "pass")
 
 # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
 # go_to_game2(driver)
 
 time.sleep(10)
-driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
+driver.get(r"https://www.pokernow.club/games/pglcZfUcL3t_1GejQ2g1kkKrv")
 time.sleep(10)
 
 
@@ -35,7 +35,7 @@ print(player_stacks)
 print("player list")
 print(player_list)
 
-game = Game_State("smashthategg", player_list, [], log)
+game = Game_State("smashthategg", player_list, [Opponent('P1')], log)
 # game.print()
 game.initial_get_opponents_and_stacks(player_stacks)
 
@@ -57,11 +57,15 @@ while True:
             print(pot)
             if is_new_hand(new_entries): # check if new hand
                 print("new hand")
-
+                print(new_entries)
                 # gets needed values
                 player_stacks = get_opponents_and_stacks(new_entries)
+                game.update_opponents_and_stacks(player_stacks)
                 big_blind_info = game.read_blinds(new_entries)
                 cards_list = get_cards(driver)
+                player_actions = get_player_actions(new_entries)
+                print(player_actions)
+                game.update_player_actions(get_player_actions(new_entries))
 
                 # for informative purposes
                 print(player_stacks)
@@ -75,6 +79,29 @@ while True:
 
         else:
             print("same turn")
+        
+        hand = game.cards
+        stack = game.stack
+        bbsize = game.big_blind
+        position = game.get_bot_position()
+        players_acted = game.opponents_acted
+        players_in_hand = game.opponents_in_hand
+        
+        print(hand)
+        print(stack)
+        print(bbsize)
+        print(position)
+        
+        
+
+        # get action
+        bet = get_preflop_strategy(hand, stack, bbsize, position, players_acted, players_in_hand)
+        if bet == -1:
+            fold(driver)
+        elif bet == 0:
+            check(driver)
+        else:
+            raise_func(driver, bet)
     else:
         print("not bot's turn")
 

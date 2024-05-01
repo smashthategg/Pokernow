@@ -1,10 +1,7 @@
-from card import Card
-from player import Player
 from deck import Deck
 from collections import Counter
 from itertools import combinations
 from math import comb
-import array 
 
 def calculate_equity(hero_hand, opp_hands, board): 
     rankings = ['High Card','Pair','Two Pair','Three of a Kind','Straight','Flush','Full House','Four of a Kind','Straight Flush','Royal Flush']
