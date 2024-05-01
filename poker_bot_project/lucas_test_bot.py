@@ -1,7 +1,7 @@
 from actions import *
 from log import *
 from game_state import Game_State
-from bot import get_preflop_strategy
+from poker_bot_project.strategy import get_preflop_strategy
 import time
 
 
