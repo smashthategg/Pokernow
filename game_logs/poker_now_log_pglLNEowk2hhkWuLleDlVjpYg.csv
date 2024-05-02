@@ -1,0 +1,952 @@
+entry,at,order
+"The player ""vacancco @ RyvdIvf-DZ"" quits the game with a stack of 7930.",2024-04-26T17:52:39.005Z,171415395900500
+"The player ""MasterFifi @ d-CGcNrOit"" quits the game with a stack of 0.",2024-04-26T17:46:44.820Z,171415360482000
+"-- ending hand #57 --",2024-04-26T17:46:38.814Z,171415359881401
+"""vacancco @ RyvdIvf-DZ"" collected 440 from pot with Three of a Kind, 8's (combination: 8♣, 8♦, 8♥, A♥, 10♠)",2024-04-26T17:46:38.814Z,171415359881400
+"River: 8♦, 10♠, 8♥, A♥ [9♠]",2024-04-26T17:46:34.807Z,171415359480700
+"Turn: 8♦, 10♠, 8♥ [A♥]",2024-04-26T17:46:30.748Z,171415359074800
+"Flop:  [8♦, 10♠, 8♥]",2024-04-26T17:46:26.703Z,171415358670300
+"""MasterFifi @ d-CGcNrOit"" shows a 4♥, 9♦.",2024-04-26T17:46:22.692Z,171415358269202
+"""vacancco @ RyvdIvf-DZ"" shows a 5♦, 8♣.",2024-04-26T17:46:22.692Z,171415358269201
+"Uncalled bet of 80 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:46:22.692Z,171415358269200
+"""vacancco @ RyvdIvf-DZ"" calls 300",2024-04-26T17:46:21.852Z,171415358185200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 220 and go all in ",2024-04-26T17:46:17.882Z,171415357788205
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 150",2024-04-26T17:46:17.882Z,171415357788204
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7710) | #7 ""MasterFifi @ d-CGcNrOit"" (220)",2024-04-26T17:46:17.882Z,171415357788201
+"-- starting hand #57 (id: wm75gj4ir8u0)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:46:17.882Z,171415357788200
+"-- ending hand #56 --",2024-04-26T17:46:14.929Z,171415357492902
+"""vacancco @ RyvdIvf-DZ"" collected 600 from pot",2024-04-26T17:46:14.929Z,171415357492901
+"Uncalled bet of 220 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:46:14.929Z,171415357492900
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:46:14.104Z,171415357410400
+"""vacancco @ RyvdIvf-DZ"" bets 220",2024-04-26T17:46:08.792Z,171415356879200
+"Turn: A♦, Q♥, J♣ [8♣]",2024-04-26T17:46:06.528Z,171415356652800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:46:05.719Z,171415356571900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:46:03.293Z,171415356329300
+"Flop:  [A♦, Q♥, J♣]",2024-04-26T17:46:00.916Z,171415356091600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:46:00.045Z,171415356004500
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:45:58.697Z,171415355869700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 300",2024-04-26T17:45:52.710Z,171415355271007
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 150",2024-04-26T17:45:52.710Z,171415355271006
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7410) | #7 ""MasterFifi @ d-CGcNrOit"" (520)",2024-04-26T17:45:52.710Z,171415355271003
+"-- starting hand #56 (id: 2py50b72zayi)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:45:52.710Z,171415355271002
+"The game's big blind was changed from 200 to 300.",2024-04-26T17:45:52.710Z,171415355271001
+"The game's small blind was changed from 100 to 150.",2024-04-26T17:45:52.710Z,171415355271000
+"-- ending hand #55 --",2024-04-26T17:45:46.685Z,171415354668502
+"""MasterFifi @ d-CGcNrOit"" collected 400 from pot with Pair, J's (combination: J♦, J♥, A♣, K♦, Q♦)",2024-04-26T17:45:46.685Z,171415354668501
+"""MasterFifi @ d-CGcNrOit"" shows a A♣, 3♣.",2024-04-26T17:45:46.685Z,171415354668500
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:45:45.833Z,171415354583300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:45:44.822Z,171415354482200
+"River: Q♦, J♦, J♥, 6♥ [K♦]",2024-04-26T17:45:42.791Z,171415354279100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:45:41.952Z,171415354195200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:45:40.609Z,171415354060900
+"Turn: Q♦, J♦, J♥ [6♥]",2024-04-26T17:45:39.309Z,171415353930900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:45:38.482Z,171415353848200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:45:37.578Z,171415353757800
+"Flop:  [Q♦, J♦, J♥]",2024-04-26T17:45:35.021Z,171415353502100
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:45:34.182Z,171415353418200
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:45:31.017Z,171415353101700
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:45:29.374Z,171415352937405
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:45:29.374Z,171415352937404
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7610) | #7 ""MasterFifi @ d-CGcNrOit"" (320)",2024-04-26T17:45:29.374Z,171415352937401
+"-- starting hand #55 (id: qkvxdxdgnuux)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:45:29.374Z,171415352937400
+"-- ending hand #54 --",2024-04-26T17:45:26.416Z,171415352641602
+"""vacancco @ RyvdIvf-DZ"" collected 400 from pot",2024-04-26T17:45:26.416Z,171415352641601
+"Uncalled bet of 320 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:45:26.416Z,171415352641600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:45:25.607Z,171415352560700
+"""vacancco @ RyvdIvf-DZ"" bets 320",2024-04-26T17:45:21.752Z,171415352175200
+"Flop:  [6♦, Q♠, 5♠]",2024-04-26T17:45:18.409Z,171415351840900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:45:17.587Z,171415351758700
+"""MasterFifi @ d-CGcNrOit"" calls 200",2024-04-26T17:45:15.346Z,171415351534600
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:45:08.867Z,171415350886705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:45:08.867Z,171415350886704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7410) | #7 ""MasterFifi @ d-CGcNrOit"" (520)",2024-04-26T17:45:08.867Z,171415350886701
+"-- starting hand #54 (id: 9jhymal7mkrl)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:45:08.867Z,171415350886700
+"-- ending hand #53 --",2024-04-26T17:45:05.942Z,171415350594202
+"""vacancco @ RyvdIvf-DZ"" collected 400 from pot",2024-04-26T17:45:05.942Z,171415350594201
+"Uncalled bet of 400 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:45:05.942Z,171415350594200
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:45:05.052Z,171415350505200
+"""vacancco @ RyvdIvf-DZ"" raises to 600",2024-04-26T17:45:02.372Z,171415350237200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:44:59.128Z,171415349912805
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:44:59.128Z,171415349912804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7210) | #7 ""MasterFifi @ d-CGcNrOit"" (720)",2024-04-26T17:44:59.128Z,171415349912801
+"-- starting hand #53 (id: s6tt1vyfwffo)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:44:59.128Z,171415349912800
+"-- ending hand #52 --",2024-04-26T17:44:56.126Z,171415349612602
+"""vacancco @ RyvdIvf-DZ"" collected 1200 from pot",2024-04-26T17:44:56.126Z,171415349612601
+"Uncalled bet of 720 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:44:56.126Z,171415349612600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:44:55.261Z,171415349526100
+"""vacancco @ RyvdIvf-DZ"" bets 720",2024-04-26T17:44:50.432Z,171415349043200
+"Flop:  [4♥, 10♦, 5♠]",2024-04-26T17:44:44.472Z,171415348447200
+"""MasterFifi @ d-CGcNrOit"" calls 600",2024-04-26T17:44:43.606Z,171415348360600
+"""vacancco @ RyvdIvf-DZ"" raises to 600",2024-04-26T17:44:41.017Z,171415348101700
+"""MasterFifi @ d-CGcNrOit"" calls 200",2024-04-26T17:44:38.399Z,171415347839900
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:44:29.798Z,171415346979805
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:44:29.798Z,171415346979804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6610) | #7 ""MasterFifi @ d-CGcNrOit"" (1320)",2024-04-26T17:44:29.798Z,171415346979801
+"-- starting hand #52 (id: yuobe4kkbex6)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:44:29.798Z,171415346979800
+"-- ending hand #51 --",2024-04-26T17:44:23.757Z,171415346375702
+"""MasterFifi @ d-CGcNrOit"" collected 400 from pot with Pair, 5's (combination: 5♠, 5♦, A♥, 10♣, 9♣)",2024-04-26T17:44:23.757Z,171415346375701
+"""MasterFifi @ d-CGcNrOit"" shows a A♥, 10♣.",2024-04-26T17:44:23.757Z,171415346375700
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:44:22.949Z,171415346294900
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:44:21.987Z,171415346198700
+"River: 3♣, 8♥, 5♠, 5♦ [9♣]",2024-04-26T17:44:19.750Z,171415345975000
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:44:18.898Z,171415345889800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:44:16.983Z,171415345698300
+"Turn: 3♣, 8♥, 5♠ [5♦]",2024-04-26T17:44:14.265Z,171415345426500
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:44:13.434Z,171415345343400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:44:12.501Z,171415345250100
+"Flop:  [3♣, 8♥, 5♠]",2024-04-26T17:44:08.060Z,171415344806000
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:44:07.246Z,171415344724600
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:44:02.220Z,171415344222000
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:44:00.373Z,171415344037305
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:44:00.373Z,171415344037304
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6810) | #7 ""MasterFifi @ d-CGcNrOit"" (1120)",2024-04-26T17:44:00.373Z,171415344037301
+"-- starting hand #51 (id: imhjxiaf9bdc)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:44:00.373Z,171415344037300
+"-- ending hand #50 --",2024-04-26T17:43:54.356Z,171415343435603
+"""vacancco @ RyvdIvf-DZ"" shows a 6♣, 5♣.",2024-04-26T17:43:54.356Z,171415343435602
+"""MasterFifi @ d-CGcNrOit"" collected 800 from pot with Pair, J's (combination: J♠, J♥, K♥, 8♠, 5♠)",2024-04-26T17:43:54.356Z,171415343435601
+"""MasterFifi @ d-CGcNrOit"" shows a 8♠, J♠.",2024-04-26T17:43:54.356Z,171415343435600
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:43:53.525Z,171415343352500
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:50.732Z,171415343073200
+"River: 4♥, 3♣, J♥, K♥ [5♠]",2024-04-26T17:43:48.491Z,171415342849100
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:43:47.633Z,171415342763300
+"""MasterFifi @ d-CGcNrOit"" bets 200",2024-04-26T17:43:45.858Z,171415342585800
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:39.534Z,171415341953400
+"Turn: 4♥, 3♣, J♥ [K♥]",2024-04-26T17:43:37.806Z,171415341780600
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:43:36.949Z,171415341694900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:33.292Z,171415341329200
+"Flop:  [4♥, 3♣, J♥]",2024-04-26T17:43:29.861Z,171415340986100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:28.993Z,171415340899300
+"""MasterFifi @ d-CGcNrOit"" calls 200",2024-04-26T17:43:27.287Z,171415340728700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:43:24.795Z,171415340479505
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:43:24.795Z,171415340479504
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7210) | #7 ""MasterFifi @ d-CGcNrOit"" (720)",2024-04-26T17:43:24.795Z,171415340479501
+"-- starting hand #50 (id: 1wejnehn4ah2)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:43:24.795Z,171415340479500
+"-- ending hand #49 --",2024-04-26T17:43:21.849Z,171415340184902
+"""MasterFifi @ d-CGcNrOit"" collected 400 from pot",2024-04-26T17:43:21.849Z,171415340184901
+"Uncalled bet of 200 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:43:21.849Z,171415340184900
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:43:21.032Z,171415340103200
+"""MasterFifi @ d-CGcNrOit"" bets 200",2024-04-26T17:43:19.713Z,171415339971300
+"River: 9♥, 7♠, 6♦, 3♠ [7♥]",2024-04-26T17:43:15.586Z,171415339558600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:14.738Z,171415339473800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:43:13.401Z,171415339340100
+"Turn: 9♥, 7♠, 6♦ [3♠]",2024-04-26T17:43:10.875Z,171415339087500
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:43:10.032Z,171415339003200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:43:08.787Z,171415338878700
+"Flop:  [9♥, 7♠, 6♦]",2024-04-26T17:43:05.979Z,171415338597900
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:43:05.169Z,171415338516900
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:42:58.217Z,171415337821700
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:42:54.360Z,171415337436005
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:42:54.360Z,171415337436004
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7410) | #7 ""MasterFifi @ d-CGcNrOit"" (520)",2024-04-26T17:42:54.360Z,171415337436001
+"-- starting hand #49 (id: zk4k4lan8hir)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:42:54.360Z,171415337436000
+"-- ending hand #48 --",2024-04-26T17:42:51.449Z,171415337144902
+"""vacancco @ RyvdIvf-DZ"" collected 400 from pot",2024-04-26T17:42:51.449Z,171415337144901
+"Uncalled bet of 400 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:42:51.449Z,171415337144900
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:42:50.640Z,171415337064000
+"""vacancco @ RyvdIvf-DZ"" raises to 600",2024-04-26T17:42:47.393Z,171415336739300
+"""MasterFifi @ d-CGcNrOit"" calls 200",2024-04-26T17:42:45.049Z,171415336504900
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:42:37.537Z,171415335753705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:42:37.537Z,171415335753704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7210) | #7 ""MasterFifi @ d-CGcNrOit"" (720)",2024-04-26T17:42:37.537Z,171415335753701
+"-- starting hand #48 (id: ew47bjqbymcn)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:42:37.537Z,171415335753700
+"-- ending hand #47 --",2024-04-26T17:42:31.530Z,171415335153002
+"""MasterFifi @ d-CGcNrOit"" collected 400 from pot with Two Pair, J's & 9's (combination: J♦, J♥, 9♦, 9♥, 7♦)",2024-04-26T17:42:31.530Z,171415335153001
+"""MasterFifi @ d-CGcNrOit"" shows a 7♦, 2♥.",2024-04-26T17:42:31.530Z,171415335153000
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:42:30.712Z,171415335071200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:42:29.407Z,171415334940700
+"River: 9♦, J♦, 9♥, 5♠ [J♥]",2024-04-26T17:42:28.089Z,171415334808900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:42:27.272Z,171415334727200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:42:26.331Z,171415334633100
+"Turn: 9♦, J♦, 9♥ [5♠]",2024-04-26T17:42:24.589Z,171415334458900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:42:23.752Z,171415334375200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:42:22.804Z,171415334280400
+"Flop:  [9♦, J♦, 9♥]",2024-04-26T17:42:19.184Z,171415333918400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:42:18.361Z,171415333836100
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:42:15.673Z,171415333567300
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:42:13.351Z,171415333335105
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:42:13.351Z,171415333335104
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7410) | #7 ""MasterFifi @ d-CGcNrOit"" (520)",2024-04-26T17:42:13.351Z,171415333335101
+"-- starting hand #47 (id: b41lityfymf7)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:42:13.351Z,171415333335100
+"-- ending hand #46 --",2024-04-26T17:42:10.412Z,171415333041202
+"""vacancco @ RyvdIvf-DZ"" collected 200 from pot",2024-04-26T17:42:10.412Z,171415333041201
+"Uncalled bet of 100 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:42:10.412Z,171415333041200
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:42:09.567Z,171415332956700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:42:03.602Z,171415332360205
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:42:03.602Z,171415332360204
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (7310) | #7 ""MasterFifi @ d-CGcNrOit"" (620)",2024-04-26T17:42:03.602Z,171415332360201
+"-- starting hand #46 (id: gnnt1pbbzofp)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:42:03.602Z,171415332360200
+"-- ending hand #45 --",2024-04-26T17:42:00.657Z,171415332065702
+"""vacancco @ RyvdIvf-DZ"" collected 1200 from pot",2024-04-26T17:42:00.657Z,171415332065701
+"Uncalled bet of 600 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:42:00.657Z,171415332065700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:41:59.842Z,171415331984200
+"""vacancco @ RyvdIvf-DZ"" bets 600",2024-04-26T17:41:50.554Z,171415331055400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:41:47.397Z,171415330739700
+"Flop:  [9♠, 5♣, 5♥]",2024-04-26T17:41:40.388Z,171415330038800
+"""MasterFifi @ d-CGcNrOit"" calls 600",2024-04-26T17:41:39.570Z,171415329957000
+"""vacancco @ RyvdIvf-DZ"" raises to 600",2024-04-26T17:41:35.732Z,171415329573200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:41:31.477Z,171415329147705
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:41:31.477Z,171415329147704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6710) | #7 ""MasterFifi @ d-CGcNrOit"" (1220)",2024-04-26T17:41:31.477Z,171415329147701
+"-- starting hand #45 (id: fp9iyxxba6ry)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:41:31.477Z,171415329147700
+"-- ending hand #44 --",2024-04-26T17:41:28.547Z,171415328854702
+"""vacancco @ RyvdIvf-DZ"" collected 200 from pot",2024-04-26T17:41:28.547Z,171415328854701
+"Uncalled bet of 100 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:41:28.547Z,171415328854700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:41:27.686Z,171415328768600
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:41:23.875Z,171415328387505
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:41:23.875Z,171415328387504
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6610) | #7 ""MasterFifi @ d-CGcNrOit"" (1320)",2024-04-26T17:41:23.875Z,171415328387501
+"-- starting hand #44 (id: mof4o97rofj9)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:41:23.875Z,171415328387500
+"-- ending hand #43 --",2024-04-26T17:41:20.924Z,171415328092402
+"""MasterFifi @ d-CGcNrOit"" collected 400 from pot",2024-04-26T17:41:20.924Z,171415328092401
+"Uncalled bet of 200 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:41:20.924Z,171415328092400
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:41:20.113Z,171415328011300
+"""MasterFifi @ d-CGcNrOit"" bets 200",2024-04-26T17:41:15.845Z,171415327584500
+"River: 8♠, A♦, 6♠, 7♦ [10♠]",2024-04-26T17:41:11.339Z,171415327133900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:41:10.512Z,171415327051200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:41:09.596Z,171415326959600
+"Turn: 8♠, A♦, 6♠ [7♦]",2024-04-26T17:41:07.633Z,171415326763300
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:41:06.793Z,171415326679300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:41:05.895Z,171415326589500
+"Flop:  [8♠, A♦, 6♠]",2024-04-26T17:41:02.901Z,171415326290100
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:41:02.043Z,171415326204300
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:40:59.457Z,171415325945700
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:40:55.610Z,171415325561005
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:40:55.610Z,171415325561004
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6810) | #7 ""MasterFifi @ d-CGcNrOit"" (1120)",2024-04-26T17:40:55.610Z,171415325561001
+"-- starting hand #43 (id: f8unuqgl4zbl)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:40:55.610Z,171415325561000
+"-- ending hand #42 --",2024-04-26T17:40:52.689Z,171415325268902
+"""vacancco @ RyvdIvf-DZ"" collected 200 from pot",2024-04-26T17:40:52.689Z,171415325268901
+"Uncalled bet of 100 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:40:52.689Z,171415325268900
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:40:51.839Z,171415325183900
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 200",2024-04-26T17:40:47.880Z,171415324788005
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 100",2024-04-26T17:40:47.880Z,171415324788004
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6710) | #7 ""MasterFifi @ d-CGcNrOit"" (1220)",2024-04-26T17:40:47.880Z,171415324788001
+"-- starting hand #42 (id: rje3a4lsa11z)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:40:47.880Z,171415324788000
+"-- ending hand #41 --",2024-04-26T17:40:44.896Z,171415324489601
+"""vacancco @ RyvdIvf-DZ"" collected 400 from pot",2024-04-26T17:40:44.896Z,171415324489600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:40:44.090Z,171415324409000
+"""vacancco @ RyvdIvf-DZ"" calls 200",2024-04-26T17:40:34.297Z,171415323429700
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 200",2024-04-26T17:40:32.167Z,171415323216707
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 100",2024-04-26T17:40:32.167Z,171415323216706
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (6510) | #7 ""MasterFifi @ d-CGcNrOit"" (1420)",2024-04-26T17:40:32.167Z,171415323216703
+"-- starting hand #41 (id: tsn49rgdqed3)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:40:32.167Z,171415323216702
+"The game's big blind was changed from 150 to 200.",2024-04-26T17:40:32.167Z,171415323216701
+"The game's small blind was changed from 75 to 100.",2024-04-26T17:40:32.167Z,171415323216700
+"-- ending hand #40 --",2024-04-26T17:40:26.148Z,171415322614802
+"""vacancco @ RyvdIvf-DZ"" collected 3300 from pot with Two Pair, K's & 5's (combination: K♥, K♣, 5♦, 5♠, Q♥)",2024-04-26T17:40:26.148Z,171415322614801
+"""vacancco @ RyvdIvf-DZ"" shows a K♥, Q♥.",2024-04-26T17:40:26.148Z,171415322614800
+"""MasterFifi @ d-CGcNrOit"" calls 750",2024-04-26T17:40:25.311Z,171415322531100
+"""vacancco @ RyvdIvf-DZ"" bets 750",2024-04-26T17:40:22.653Z,171415322265300
+"River: 2♦, K♣, 5♦, 9♠ [5♠]",2024-04-26T17:40:17.855Z,171415321785500
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:40:17.041Z,171415321704100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:40:13.019Z,171415321301900
+"Turn: 2♦, K♣, 5♦ [9♠]",2024-04-26T17:40:10.264Z,171415321026400
+"""MasterFifi @ d-CGcNrOit"" calls 450",2024-04-26T17:40:09.442Z,171415320944200
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:40:06.493Z,171415320649300
+"Flop:  [2♦, K♣, 5♦]",2024-04-26T17:40:02.488Z,171415320248800
+"""MasterFifi @ d-CGcNrOit"" calls 450",2024-04-26T17:40:01.662Z,171415320166200
+"""vacancco @ RyvdIvf-DZ"" raises to 450",2024-04-26T17:39:59.254Z,171415319925400
+"""MasterFifi @ d-CGcNrOit"" calls 150",2024-04-26T17:39:56.357Z,171415319635700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:39:49.974Z,171415318997405
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:39:49.974Z,171415318997404
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4860) | #7 ""MasterFifi @ d-CGcNrOit"" (3070)",2024-04-26T17:39:49.974Z,171415318997401
+"-- starting hand #40 (id: 16xntm9pvp5m)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:39:49.974Z,171415318997400
+"-- ending hand #39 --",2024-04-26T17:39:47.033Z,171415318703302
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:39:47.033Z,171415318703301
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:39:47.033Z,171415318703300
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:39:46.196Z,171415318619600
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:39:42.234Z,171415318223400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:39:39.004Z,171415317900400
+"Flop:  [Q♣, 8♦, J♥]",2024-04-26T17:39:36.566Z,171415317656600
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:39:35.749Z,171415317574900
+"""vacancco @ RyvdIvf-DZ"" calls 150",2024-04-26T17:39:30.992Z,171415317099200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:39:29.355Z,171415316935505
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:39:29.355Z,171415316935504
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4710) | #7 ""MasterFifi @ d-CGcNrOit"" (3220)",2024-04-26T17:39:29.355Z,171415316935501
+"-- starting hand #39 (id: oodcryoxtvps)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:39:29.355Z,171415316935500
+"-- ending hand #38 --",2024-04-26T17:39:23.316Z,171415316331603
+"""vacancco @ RyvdIvf-DZ"" shows a Q♣, 8♣.",2024-04-26T17:39:23.316Z,171415316331602
+"""MasterFifi @ d-CGcNrOit"" collected 900 from pot with Pair, A's (combination: A♦, A♠, K♦, 10♣, 8♦)",2024-04-26T17:39:23.316Z,171415316331601
+"""MasterFifi @ d-CGcNrOit"" shows a A♦, 4♠.",2024-04-26T17:39:23.316Z,171415316331600
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:39:22.457Z,171415316245700
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:39:19.355Z,171415315935500
+"River: K♦, 8♦, 2♠, A♠ [10♣]",2024-04-26T17:39:16.375Z,171415315637500
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:39:15.561Z,171415315556100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:39:08.792Z,171415314879200
+"Turn: K♦, 8♦, 2♠ [A♠]",2024-04-26T17:39:03.903Z,171415314390300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:39:03.069Z,171415314306900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:39:00.169Z,171415314016900
+"Flop:  [K♦, 8♦, 2♠]",2024-04-26T17:38:57.361Z,171415313736100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:56.496Z,171415313649600
+"""MasterFifi @ d-CGcNrOit"" calls 150",2024-04-26T17:38:55.321Z,171415313532100
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:38:50.058Z,171415313005805
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:38:50.058Z,171415313005804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5160) | #7 ""MasterFifi @ d-CGcNrOit"" (2770)",2024-04-26T17:38:50.058Z,171415313005801
+"-- starting hand #38 (id: l5dxcdldukod)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:38:50.058Z,171415313005800
+"-- ending hand #37 --",2024-04-26T17:38:43.948Z,171415312394802
+"""MasterFifi @ d-CGcNrOit"" collected 300 from pot with Pair, 9's (combination: 9♦, 9♥, A♥, Q♥, J♥)",2024-04-26T17:38:43.948Z,171415312394801
+"""MasterFifi @ d-CGcNrOit"" shows a J♥, 9♦.",2024-04-26T17:38:43.948Z,171415312394800
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:43.133Z,171415312313300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:38:41.932Z,171415312193200
+"River: 8♣, 3♦, A♥, 9♥ [Q♥]",2024-04-26T17:38:39.446Z,171415311944600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:38.612Z,171415311861200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:38:37.554Z,171415311755400
+"Turn: 8♣, 3♦, A♥ [9♥]",2024-04-26T17:38:35.986Z,171415311598600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:35.117Z,171415311511700
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:38:34.229Z,171415311422900
+"Flop:  [8♣, 3♦, A♥]",2024-04-26T17:38:31.443Z,171415311144300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:38:30.624Z,171415311062400
+"""vacancco @ RyvdIvf-DZ"" calls 150",2024-04-26T17:38:27.352Z,171415310735200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:38:25.873Z,171415310587305
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:38:25.873Z,171415310587304
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5310) | #7 ""MasterFifi @ d-CGcNrOit"" (2620)",2024-04-26T17:38:25.873Z,171415310587301
+"-- starting hand #37 (id: esdv1gfzgkjy)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:38:25.873Z,171415310587300
+"-- ending hand #36 --",2024-04-26T17:38:22.970Z,171415310297002
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:38:22.970Z,171415310297001
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:38:22.970Z,171415310297000
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:38:22.120Z,171415310212000
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:38:15.153Z,171415309515300
+"Turn: 4♥, 8♣, 10♣ [10♥]",2024-04-26T17:38:10.531Z,171415309053100
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:38:09.648Z,171415308964800
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:06.974Z,171415308697400
+"Flop:  [4♥, 8♣, 10♣]",2024-04-26T17:38:04.572Z,171415308457200
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:38:03.749Z,171415308374900
+"""MasterFifi @ d-CGcNrOit"" calls 150",2024-04-26T17:38:00.704Z,171415308070400
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:37:58.586Z,171415307858605
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:37:58.586Z,171415307858604
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5160) | #7 ""MasterFifi @ d-CGcNrOit"" (2770)",2024-04-26T17:37:58.586Z,171415307858601
+"-- starting hand #36 (id: 4gqjdfp5r866)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:37:58.586Z,171415307858600
+"-- ending hand #35 --",2024-04-26T17:37:55.677Z,171415307567702
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:37:55.677Z,171415307567701
+"Uncalled bet of 300 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:37:55.677Z,171415307567700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:37:54.865Z,171415307486500
+"""vacancco @ RyvdIvf-DZ"" raises to 450",2024-04-26T17:37:49.554Z,171415306955400
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:37:45.869Z,171415306586905
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:37:45.869Z,171415306586904
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5010) | #7 ""MasterFifi @ d-CGcNrOit"" (2920)",2024-04-26T17:37:45.869Z,171415306586901
+"-- starting hand #35 (id: lnrzorm0eiyt)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:37:45.869Z,171415306586900
+"-- ending hand #34 --",2024-04-26T17:37:42.904Z,171415306290402
+"""MasterFifi @ d-CGcNrOit"" collected 300 from pot",2024-04-26T17:37:42.904Z,171415306290401
+"Uncalled bet of 150 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:37:42.904Z,171415306290400
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:37:42.073Z,171415306207300
+"""MasterFifi @ d-CGcNrOit"" bets 150",2024-04-26T17:37:40.087Z,171415306008700
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:37:36.293Z,171415305629300
+"Turn: J♥, 5♥, Q♠ [10♦]",2024-04-26T17:37:34.833Z,171415305483300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:37:33.995Z,171415305399500
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:37:31.132Z,171415305113200
+"Flop:  [J♥, 5♥, Q♠]",2024-04-26T17:37:28.743Z,171415304874300
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:37:27.916Z,171415304791600
+"""MasterFifi @ d-CGcNrOit"" calls 150",2024-04-26T17:37:26.560Z,171415304656000
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:37:19.937Z,171415303993705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:37:19.937Z,171415303993704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5160) | #7 ""MasterFifi @ d-CGcNrOit"" (2770)",2024-04-26T17:37:19.937Z,171415303993701
+"-- starting hand #34 (id: 90vjz04mhs8x)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:37:19.937Z,171415303993700
+"-- ending hand #33 --",2024-04-26T17:37:17.015Z,171415303701502
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:37:17.015Z,171415303701501
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:37:17.015Z,171415303701500
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:37:16.207Z,171415303620700
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:37:09.353Z,171415302935300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:37:06.036Z,171415302603600
+"River: 5♠, 9♠, 3♥, 10♠ [A♥]",2024-04-26T17:37:04.698Z,171415302469800
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:37:03.853Z,171415302385300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:37:02.655Z,171415302265500
+"Turn: 5♠, 9♠, 3♥ [10♠]",2024-04-26T17:36:59.829Z,171415301982900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:36:59.012Z,171415301901200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:36:57.876Z,171415301787600
+"Flop:  [5♠, 9♠, 3♥]",2024-04-26T17:36:54.733Z,171415301473300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:36:53.897Z,171415301389700
+"""vacancco @ RyvdIvf-DZ"" calls 150",2024-04-26T17:36:50.993Z,171415301099300
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:36:49.338Z,171415300933805
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:36:49.338Z,171415300933804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (5010) | #7 ""MasterFifi @ d-CGcNrOit"" (2920)",2024-04-26T17:36:49.338Z,171415300933801
+"-- starting hand #33 (id: 0sftceoeaf8p)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:36:49.338Z,171415300933800
+"-- ending hand #32 --",2024-04-26T17:36:46.417Z,171415300641702
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:36:46.417Z,171415300641701
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:36:46.417Z,171415300641700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:36:45.587Z,171415300558700
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:36:37.337Z,171415299733700
+"Flop:  [2♦, 4♠, K♥]",2024-04-26T17:36:33.379Z,171415299337900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:36:32.572Z,171415299257200
+"""MasterFifi @ d-CGcNrOit"" calls 150",2024-04-26T17:36:31.324Z,171415299132400
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:36:25.017Z,171415298501705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:36:25.017Z,171415298501704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4860) | #7 ""MasterFifi @ d-CGcNrOit"" (3070)",2024-04-26T17:36:25.017Z,171415298501701
+"-- starting hand #32 (id: cqpiqzvuh7bn)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:36:25.017Z,171415298501700
+"-- ending hand #31 --",2024-04-26T17:36:22.081Z,171415298208102
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:36:22.081Z,171415298208101
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:36:22.081Z,171415298208100
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:36:21.249Z,171415298124900
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:36:14.676Z,171415297467600
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:36:11.542Z,171415297154200
+"Flop:  [10♦, 5♣, 6♥]",2024-04-26T17:36:06.418Z,171415296641800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:36:05.593Z,171415296559300
+"""vacancco @ RyvdIvf-DZ"" calls 150",2024-04-26T17:36:03.032Z,171415296303200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:36:01.375Z,171415296137505
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:36:01.375Z,171415296137504
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4710) | #7 ""MasterFifi @ d-CGcNrOit"" (3220)",2024-04-26T17:36:01.375Z,171415296137501
+"-- starting hand #31 (id: 0cmdtk5yvefy)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:36:01.375Z,171415296137500
+"-- ending hand #30 --",2024-04-26T17:35:58.421Z,171415295842102
+"""vacancco @ RyvdIvf-DZ"" collected 150 from pot",2024-04-26T17:35:58.421Z,171415295842101
+"Uncalled bet of 75 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:35:58.421Z,171415295842100
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:35:57.604Z,171415295760400
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:35:52.817Z,171415295281705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:35:52.817Z,171415295281704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4635) | #7 ""MasterFifi @ d-CGcNrOit"" (3295)",2024-04-26T17:35:52.817Z,171415295281701
+"-- starting hand #30 (id: 8iexlnefybho)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:35:52.817Z,171415295281700
+"-- ending hand #29 --",2024-04-26T17:35:49.912Z,171415294991202
+"""vacancco @ RyvdIvf-DZ"" collected 300 from pot",2024-04-26T17:35:49.912Z,171415294991201
+"Uncalled bet of 450 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:35:49.912Z,171415294991200
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:35:49.101Z,171415294910100
+"""vacancco @ RyvdIvf-DZ"" bets 450",2024-04-26T17:35:41.952Z,171415294195200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:35:38.428Z,171415293842800
+"Flop:  [3♥, K♥, J♠]",2024-04-26T17:35:35.166Z,171415293516600
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:35:34.308Z,171415293430800
+"""vacancco @ RyvdIvf-DZ"" calls 150",2024-04-26T17:35:30.912Z,171415293091200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 150",2024-04-26T17:35:29.387Z,171415292938705
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 75",2024-04-26T17:35:29.387Z,171415292938704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4485) | #7 ""MasterFifi @ d-CGcNrOit"" (3445)",2024-04-26T17:35:29.387Z,171415292938701
+"-- starting hand #29 (id: h5x2vptsgotj)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:35:29.387Z,171415292938700
+"-- ending hand #28 --",2024-04-26T17:35:26.457Z,171415292645702
+"""vacancco @ RyvdIvf-DZ"" collected 150 from pot",2024-04-26T17:35:26.457Z,171415292645701
+"Uncalled bet of 75 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:35:26.457Z,171415292645700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:35:25.616Z,171415292561600
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 150",2024-04-26T17:35:23.354Z,171415292335407
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 75",2024-04-26T17:35:23.354Z,171415292335406
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4410) | #7 ""MasterFifi @ d-CGcNrOit"" (3520)",2024-04-26T17:35:23.354Z,171415292335403
+"-- starting hand #28 (id: b3zz1zbwhwmz)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:35:23.354Z,171415292335402
+"The game's big blind was changed from 100 to 150.",2024-04-26T17:35:23.354Z,171415292335401
+"The game's small blind was changed from 50 to 75.",2024-04-26T17:35:23.354Z,171415292335400
+"-- ending hand #27 --",2024-04-26T17:35:17.337Z,171415291733702
+"""vacancco @ RyvdIvf-DZ"" collected 3600 from pot with Two Pair, K's & 2's (combination: K♥, K♦, 2♠, 2♣, A♠)",2024-04-26T17:35:17.337Z,171415291733701
+"""vacancco @ RyvdIvf-DZ"" shows a 2♠, K♥.",2024-04-26T17:35:17.337Z,171415291733700
+"""MasterFifi @ d-CGcNrOit"" calls 1000",2024-04-26T17:35:16.444Z,171415291644400
+"""vacancco @ RyvdIvf-DZ"" raises to 1000",2024-04-26T17:35:10.933Z,171415291093300
+"""MasterFifi @ d-CGcNrOit"" bets 100",2024-04-26T17:35:00.487Z,171415290048700
+"River: 2♣, A♠, 4♦, 8♣ [K♦]",2024-04-26T17:34:57.535Z,171415289753500
+"""MasterFifi @ d-CGcNrOit"" calls 400",2024-04-26T17:34:56.721Z,171415289672100
+"""vacancco @ RyvdIvf-DZ"" bets 400",2024-04-26T17:34:50.273Z,171415289027300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:34:46.904Z,171415288690400
+"Turn: 2♣, A♠, 4♦ [8♣]",2024-04-26T17:34:42.460Z,171415288246000
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:34:41.608Z,171415288160800
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:34:34.692Z,171415287469200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:34:31.458Z,171415287145800
+"Flop:  [2♣, A♠, 4♦]",2024-04-26T17:34:26.350Z,171415286635000
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:34:25.513Z,171415286551300
+"""vacancco @ RyvdIvf-DZ"" calls 100",2024-04-26T17:34:20.377Z,171415286037700
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 100",2024-04-26T17:34:19.079Z,171415285907905
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 50",2024-04-26T17:34:19.079Z,171415285907904
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2610) | #7 ""MasterFifi @ d-CGcNrOit"" (5320)",2024-04-26T17:34:19.079Z,171415285907901
+"-- starting hand #27 (id: uraurirp0ugp)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:34:19.079Z,171415285907900
+"-- ending hand #26 --",2024-04-26T17:34:16.146Z,171415285614602
+"""vacancco @ RyvdIvf-DZ"" collected 200 from pot",2024-04-26T17:34:16.146Z,171415285614601
+"Uncalled bet of 300 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:34:16.146Z,171415285614600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:34:15.325Z,171415285532500
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:34:09.612Z,171415284961200
+"Flop:  [6♠, 10♣, 8♦]",2024-04-26T17:34:04.862Z,171415284486200
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:34:04.012Z,171415284401200
+"""MasterFifi @ d-CGcNrOit"" calls 100",2024-04-26T17:34:02.807Z,171415284280700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 100",2024-04-26T17:33:51.051Z,171415283105105
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 50",2024-04-26T17:33:51.051Z,171415283105104
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2510) | #7 ""MasterFifi @ d-CGcNrOit"" (5420)",2024-04-26T17:33:51.051Z,171415283105101
+"-- starting hand #26 (id: ethzamnbdkrw)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:33:51.051Z,171415283105100
+"-- ending hand #25 --",2024-04-26T17:33:48.132Z,171415282813202
+"""MasterFifi @ d-CGcNrOit"" collected 200 from pot",2024-04-26T17:33:48.132Z,171415282813201
+"Uncalled bet of 100 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:33:48.132Z,171415282813200
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:33:47.293Z,171415282729300
+"""MasterFifi @ d-CGcNrOit"" bets 100",2024-04-26T17:33:45.267Z,171415282526700
+"Turn: 2♠, 10♦, A♥ [2♥]",2024-04-26T17:33:39.474Z,171415281947400
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:33:38.634Z,171415281863400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:33:37.721Z,171415281772100
+"Flop:  [2♠, 10♦, A♥]",2024-04-26T17:33:30.871Z,171415281087100
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:33:30.049Z,171415281004900
+"""vacancco @ RyvdIvf-DZ"" calls 100",2024-04-26T17:33:22.353Z,171415280235300
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 100",2024-04-26T17:33:20.713Z,171415280071305
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 50",2024-04-26T17:33:20.713Z,171415280071304
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2610) | #7 ""MasterFifi @ d-CGcNrOit"" (5320)",2024-04-26T17:33:20.713Z,171415280071301
+"-- starting hand #25 (id: btv3gapdvz99)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:33:20.713Z,171415280071300
+"-- ending hand #24 --",2024-04-26T17:33:17.802Z,171415279780202
+"""vacancco @ RyvdIvf-DZ"" collected 600 from pot",2024-04-26T17:33:17.802Z,171415279780201
+"Uncalled bet of 300 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:33:17.802Z,171415279780200
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:33:16.969Z,171415279696900
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:33:12.133Z,171415279213300
+"Flop:  [2♠, 5♦, J♦]",2024-04-26T17:33:07.593Z,171415278759300
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:33:06.716Z,171415278671600
+"""vacancco @ RyvdIvf-DZ"" raises to 300",2024-04-26T17:33:02.315Z,171415278231500
+"""MasterFifi @ d-CGcNrOit"" calls 100",2024-04-26T17:32:59.984Z,171415277998400
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 100",2024-04-26T17:32:55.373Z,171415277537305
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 50",2024-04-26T17:32:55.373Z,171415277537304
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2310) | #7 ""MasterFifi @ d-CGcNrOit"" (5620)",2024-04-26T17:32:55.373Z,171415277537301
+"-- starting hand #24 (id: tlwyxcrrjvxo)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:32:55.373Z,171415277537300
+"-- ending hand #23 --",2024-04-26T17:32:49.366Z,171415276936604
+"""MasterFifi @ d-CGcNrOit"" collected 100 from pot with Pair, 8's (combination: 8♥, 8♦, A♠, K♠, J♥)",2024-04-26T17:32:49.366Z,171415276936603
+"""MasterFifi @ d-CGcNrOit"" shows a 10♣, 9♥.",2024-04-26T17:32:49.366Z,171415276936602
+"""vacancco @ RyvdIvf-DZ"" collected 100 from pot with Pair, 8's (combination: 8♥, 8♦, A♠, K♠, J♥)",2024-04-26T17:32:49.366Z,171415276936601
+"""vacancco @ RyvdIvf-DZ"" shows a 3♣, 6♣.",2024-04-26T17:32:49.366Z,171415276936600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:32:48.553Z,171415276855300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:32:47.456Z,171415276745600
+"River: 8♥, K♠, A♠, 8♦ [J♥]",2024-04-26T17:32:44.731Z,171415276473100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:32:43.912Z,171415276391200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:32:42.863Z,171415276286300
+"Turn: 8♥, K♠, A♠ [8♦]",2024-04-26T17:32:38.507Z,171415275850700
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:32:37.592Z,171415275759200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:32:35.736Z,171415275573600
+"Flop:  [8♥, K♠, A♠]",2024-04-26T17:32:31.717Z,171415275171700
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:32:30.897Z,171415275089700
+"""vacancco @ RyvdIvf-DZ"" calls 100",2024-04-26T17:32:26.672Z,171415274667200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 100",2024-04-26T17:32:24.966Z,171415274496605
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 50",2024-04-26T17:32:24.966Z,171415274496604
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2310) | #7 ""MasterFifi @ d-CGcNrOit"" (5620)",2024-04-26T17:32:24.966Z,171415274496601
+"-- starting hand #23 (id: dgyh0ngnt3rq)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:32:24.966Z,171415274496600
+"-- ending hand #22 --",2024-04-26T17:32:22.056Z,171415274205602
+"""vacancco @ RyvdIvf-DZ"" collected 600 from pot",2024-04-26T17:32:22.056Z,171415274205601
+"Uncalled bet of 400 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:32:22.056Z,171415274205600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:32:21.193Z,171415274119300
+"""vacancco @ RyvdIvf-DZ"" bets 400",2024-04-26T17:32:17.443Z,171415273744300
+"Flop:  [5♣, A♣, Q♦]",2024-04-26T17:32:12.054Z,171415273205400
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:32:11.194Z,171415273119400
+"""vacancco @ RyvdIvf-DZ"" raises to 300",2024-04-26T17:32:05.892Z,171415272589200
+"""MasterFifi @ d-CGcNrOit"" calls 100",2024-04-26T17:32:02.351Z,171415272235100
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 100",2024-04-26T17:31:59.298Z,171415271929805
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 50",2024-04-26T17:31:59.298Z,171415271929804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (2010) | #7 ""MasterFifi @ d-CGcNrOit"" (5920)",2024-04-26T17:31:59.298Z,171415271929801
+"-- starting hand #22 (id: azswrkkbgcl2)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:31:59.298Z,171415271929800
+"-- ending hand #21 --",2024-04-26T17:31:53.293Z,171415271329303
+"""vacancco @ RyvdIvf-DZ"" shows a A♦, K♦.",2024-04-26T17:31:53.293Z,171415271329302
+"""MasterFifi @ d-CGcNrOit"" collected 5920 from pot with Two Pair, 9's & 5's (combination: 9♣, 9♦, 5♠, 5♦, J♠)",2024-04-26T17:31:53.293Z,171415271329301
+"""MasterFifi @ d-CGcNrOit"" shows a 9♣, J♠.",2024-04-26T17:31:53.293Z,171415271329300
+"""MasterFifi @ d-CGcNrOit"" calls 1760 and go all in",2024-04-26T17:31:52.485Z,171415271248500
+"""vacancco @ RyvdIvf-DZ"" raises to 1760",2024-04-26T17:31:41.539Z,171415270153900
+"""MasterFifi @ d-CGcNrOit"" bets 100",2024-04-26T17:31:38.908Z,171415269890800
+"River: 5♠, 3♣, 5♦, 6♠ [9♦]",2024-04-26T17:31:34.981Z,171415269498100
+"""MasterFifi @ d-CGcNrOit"" calls 600",2024-04-26T17:31:34.095Z,171415269409500
+"""vacancco @ RyvdIvf-DZ"" bets 600",2024-04-26T17:31:28.272Z,171415268827200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:31:24.924Z,171415268492400
+"Turn: 5♠, 3♣, 5♦ [6♠]",2024-04-26T17:31:19.393Z,171415267939300
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:31:18.584Z,171415267858400
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:31:11.632Z,171415267163200
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:31:08.457Z,171415266845700
+"Flop:  [5♠, 3♣, 5♦]",2024-04-26T17:31:02.121Z,171415266212100
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:31:01.309Z,171415266130900
+"""vacancco @ RyvdIvf-DZ"" raises to 300",2024-04-26T17:30:58.592Z,171415265859200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 100",2024-04-26T17:30:55.108Z,171415265510805
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 50",2024-04-26T17:30:55.108Z,171415265510804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4970) | #7 ""MasterFifi @ d-CGcNrOit"" (2960)",2024-04-26T17:30:55.108Z,171415265510801
+"-- starting hand #21 (id: 8sakrsygbjma)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:30:55.108Z,171415265510800
+"-- ending hand #20 --",2024-04-26T17:30:52.147Z,171415265214702
+"""vacancco @ RyvdIvf-DZ"" collected 100 from pot",2024-04-26T17:30:52.147Z,171415265214701
+"Uncalled bet of 50 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:30:52.147Z,171415265214700
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:30:51.323Z,171415265132300
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 100",2024-04-26T17:30:46.400Z,171415264640005
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 50",2024-04-26T17:30:46.400Z,171415264640004
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4920) | #7 ""MasterFifi @ d-CGcNrOit"" (3010)",2024-04-26T17:30:46.400Z,171415264640001
+"-- starting hand #20 (id: 27oispctk3w9)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:30:46.400Z,171415264640000
+"-- ending hand #19 --",2024-04-26T17:30:43.495Z,171415264349502
+"""vacancco @ RyvdIvf-DZ"" collected 200 from pot",2024-04-26T17:30:43.495Z,171415264349501
+"Uncalled bet of 300 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:30:43.495Z,171415264349500
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:30:42.642Z,171415264264200
+"""vacancco @ RyvdIvf-DZ"" bets 300",2024-04-26T17:30:36.573Z,171415263657300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:30:33.447Z,171415263344700
+"Turn: 10♥, 6♠, A♦ [5♠]",2024-04-26T17:30:29.676Z,171415262967600
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:30:28.854Z,171415262885400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:30:27.535Z,171415262753500
+"Flop:  [10♥, 6♠, A♦]",2024-04-26T17:30:24.181Z,171415262418100
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:30:23.322Z,171415262332200
+"""vacancco @ RyvdIvf-DZ"" calls 100",2024-04-26T17:30:19.252Z,171415261925200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 100",2024-04-26T17:30:17.878Z,171415261787807
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 50",2024-04-26T17:30:17.878Z,171415261787806
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4820) | #7 ""MasterFifi @ d-CGcNrOit"" (3110)",2024-04-26T17:30:17.878Z,171415261787803
+"-- starting hand #19 (id: 872ph2znrgsy)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:30:17.878Z,171415261787802
+"The game's big blind was changed from 60 to 100.",2024-04-26T17:30:17.878Z,171415261787801
+"The game's small blind was changed from 30 to 50.",2024-04-26T17:30:17.878Z,171415261787800
+"-- ending hand #18 --",2024-04-26T17:30:14.919Z,171415261491902
+"""vacancco @ RyvdIvf-DZ"" collected 120 from pot",2024-04-26T17:30:14.919Z,171415261491901
+"Uncalled bet of 180 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:30:14.919Z,171415261491900
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:30:14.103Z,171415261410300
+"""vacancco @ RyvdIvf-DZ"" bets 180",2024-04-26T17:30:10.148Z,171415261014800
+"Flop:  [4♠, 10♦, K♥]",2024-04-26T17:30:06.442Z,171415260644200
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:30:05.612Z,171415260561200
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:30:03.800Z,171415260380000
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 60",2024-04-26T17:29:59.577Z,171415259957705
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 30",2024-04-26T17:29:59.577Z,171415259957704
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4760) | #7 ""MasterFifi @ d-CGcNrOit"" (3170)",2024-04-26T17:29:59.577Z,171415259957701
+"-- starting hand #18 (id: nfbghpyprngx)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:29:59.577Z,171415259957700
+"-- ending hand #17 --",2024-04-26T17:29:56.604Z,171415259660402
+"""vacancco @ RyvdIvf-DZ"" collected 120 from pot",2024-04-26T17:29:56.604Z,171415259660401
+"Uncalled bet of 180 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:29:56.604Z,171415259660400
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:29:55.794Z,171415259579400
+"""vacancco @ RyvdIvf-DZ"" bets 180",2024-04-26T17:29:48.218Z,171415258821800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:29:45.088Z,171415258508800
+"Turn: 10♣, J♣, Q♣ [8♦]",2024-04-26T17:29:42.761Z,171415258276100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:29:41.898Z,171415258189800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:29:40.994Z,171415258099400
+"Flop:  [10♣, J♣, Q♣]",2024-04-26T17:29:37.160Z,171415257716000
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:29:36.290Z,171415257629000
+"""vacancco @ RyvdIvf-DZ"" calls 60",2024-04-26T17:29:32.852Z,171415257285200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 60",2024-04-26T17:29:31.178Z,171415257117805
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 30",2024-04-26T17:29:31.178Z,171415257117804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (4700) | #7 ""MasterFifi @ d-CGcNrOit"" (3230)",2024-04-26T17:29:31.178Z,171415257117801
+"-- starting hand #17 (id: vgeskmza3msc)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:29:31.178Z,171415257117800
+"-- ending hand #16 --",2024-04-26T17:29:25.162Z,171415256516202
+"""vacancco @ RyvdIvf-DZ"" collected 1800 from pot with Three of a Kind, Q's (combination: Q♦, Q♣, Q♠, J♣, 9♠)",2024-04-26T17:29:25.162Z,171415256516201
+"""vacancco @ RyvdIvf-DZ"" shows a Q♦, Q♣.",2024-04-26T17:29:25.162Z,171415256516200
+"""MasterFifi @ d-CGcNrOit"" calls 540",2024-04-26T17:29:24.317Z,171415256431700
+"""vacancco @ RyvdIvf-DZ"" bets 540",2024-04-26T17:29:17.632Z,171415255763200
+"River: 9♠, Q♠, J♣, 7♠ [6♣]",2024-04-26T17:29:08.172Z,171415254817200
+"""MasterFifi @ d-CGcNrOit"" calls 180",2024-04-26T17:29:07.324Z,171415254732400
+"""vacancco @ RyvdIvf-DZ"" bets 180",2024-04-26T17:28:57.878Z,171415253787800
+"Turn: 9♠, Q♠, J♣ [7♠]",2024-04-26T17:28:54.858Z,171415253485800
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:28:54.044Z,171415253404400
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:28:48.413Z,171415252841300
+"Flop:  [9♠, Q♠, J♣]",2024-04-26T17:28:44.081Z,171415252408100
+"""MasterFifi @ d-CGcNrOit"" calls 180",2024-04-26T17:28:43.259Z,171415252325900
+"""vacancco @ RyvdIvf-DZ"" raises to 180",2024-04-26T17:28:40.536Z,171415252053600
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:28:38.213Z,171415251821300
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 60",2024-04-26T17:28:33.368Z,171415251336805
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 30",2024-04-26T17:28:33.368Z,171415251336804
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3800) | #7 ""MasterFifi @ d-CGcNrOit"" (4130)",2024-04-26T17:28:33.368Z,171415251336801
+"-- starting hand #16 (id: 7e6bdkkhepmd)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:28:33.368Z,171415251336800
+"-- ending hand #15 --",2024-04-26T17:28:30.458Z,171415251045802
+"""vacancco @ RyvdIvf-DZ"" collected 120 from pot",2024-04-26T17:28:30.458Z,171415251045801
+"Uncalled bet of 120 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:28:30.458Z,171415251045800
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:28:29.639Z,171415250963900
+"""vacancco @ RyvdIvf-DZ"" raises to 180",2024-04-26T17:28:26.392Z,171415250639200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 60",2024-04-26T17:28:23.172Z,171415250317205
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 30",2024-04-26T17:28:23.172Z,171415250317204
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3740) | #7 ""MasterFifi @ d-CGcNrOit"" (4190)",2024-04-26T17:28:23.172Z,171415250317201
+"-- starting hand #15 (id: gnk1jjnqlqco)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:28:23.172Z,171415250317200
+"-- ending hand #14 --",2024-04-26T17:28:20.246Z,171415250024602
+"""vacancco @ RyvdIvf-DZ"" collected 120 from pot",2024-04-26T17:28:20.246Z,171415250024601
+"Uncalled bet of 180 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:28:20.246Z,171415250024600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:28:19.438Z,171415249943800
+"""vacancco @ RyvdIvf-DZ"" bets 180",2024-04-26T17:28:12.437Z,171415249243700
+"Flop:  [5♥, 9♠, 4♣]",2024-04-26T17:28:08.630Z,171415248863000
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:28:07.811Z,171415248781100
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:28:06.414Z,171415248641400
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 60",2024-04-26T17:28:01.084Z,171415248108406
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 30",2024-04-26T17:28:01.084Z,171415248108405
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3680) | #7 ""MasterFifi @ d-CGcNrOit"" (4250)",2024-04-26T17:28:01.084Z,171415248108402
+"-- starting hand #14 (id: wcfk9fqyetmh)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:28:01.084Z,171415248108401
+"The player ""akq @ aho1Ke80_P"" quits the game with a stack of 0.",2024-04-26T17:28:01.084Z,171415248108400
+"-- ending hand #13 --",2024-04-26T17:27:55.058Z,171415247505801
+"""MasterFifi @ d-CGcNrOit"" collected 900 from pot with A High (combination: A♦, K♣, Q♦, 7♠, 6♦)",2024-04-26T17:27:55.058Z,171415247505800
+"River: 3♦, 5♥, 7♠, 6♦ [A♦]",2024-04-26T17:27:51.050Z,171415247105000
+"Turn: 3♦, 5♥, 7♠ [6♦]",2024-04-26T17:27:46.993Z,171415246699300
+"Flop:  [3♦, 5♥, 7♠]",2024-04-26T17:27:42.932Z,171415246293200
+"""MasterFifi @ d-CGcNrOit"" shows a Q♦, K♣.",2024-04-26T17:27:38.927Z,171415245892701
+"""akq @ aho1Ke80_P"" shows a Q♣, 9♣.",2024-04-26T17:27:38.927Z,171415245892700
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:27:38.093Z,171415245809300
+"""MasterFifi @ d-CGcNrOit"" calls 420",2024-04-26T17:27:36.367Z,171415245636700
+"""akq @ aho1Ke80_P"" raises to 420 and go all in",2024-04-26T17:27:33.413Z,171415245341300
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 60",2024-04-26T17:27:30.128Z,171415245012806
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 30",2024-04-26T17:27:30.128Z,171415245012805
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3740) | #3 ""akq @ aho1Ke80_P"" (420) | #7 ""MasterFifi @ d-CGcNrOit"" (3770)",2024-04-26T17:27:30.128Z,171415245012801
+"-- starting hand #13 (id: 0zbjymy57ejq)  (No Limit Texas Hold'em) (dealer: ""akq @ aho1Ke80_P"") --",2024-04-26T17:27:30.128Z,171415245012800
+"-- ending hand #12 --",2024-04-26T17:27:27.198Z,171415244719802
+"""MasterFifi @ d-CGcNrOit"" collected 120 from pot",2024-04-26T17:27:27.198Z,171415244719801
+"Uncalled bet of 60 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:27:27.198Z,171415244719800
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:27:26.343Z,171415244634300
+"""MasterFifi @ d-CGcNrOit"" bets 60",2024-04-26T17:27:25.434Z,171415244543400
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:27:14.250Z,171415243425000
+"Flop:  [9♥, A♦, K♥]",2024-04-26T17:27:11.837Z,171415243183700
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:27:11.012Z,171415243101200
+"""akq @ aho1Ke80_P"" calls 60",2024-04-26T17:27:06.492Z,171415242649200
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:27:05.593Z,171415242559300
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 60",2024-04-26T17:27:03.883Z,171415242388306
+"""akq @ aho1Ke80_P"" posts a small blind of 30",2024-04-26T17:27:03.883Z,171415242388305
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3740) | #3 ""akq @ aho1Ke80_P"" (480) | #7 ""MasterFifi @ d-CGcNrOit"" (3710)",2024-04-26T17:27:03.883Z,171415242388301
+"-- starting hand #12 (id: gsltqtno1ayn)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:27:03.883Z,171415242388300
+"""vacancco @ RyvdIvf-DZ"" shows a 7♣, K♣.",2024-04-26T17:27:01.881Z,171415242188100
+"-- ending hand #11 --",2024-04-26T17:27:00.267Z,171415242026702
+"""vacancco @ RyvdIvf-DZ"" collected 420 from pot",2024-04-26T17:27:00.267Z,171415242026701
+"Uncalled bet of 240 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:27:00.267Z,171415242026700
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:26:59.460Z,171415241946000
+"""vacancco @ RyvdIvf-DZ"" bets 240",2024-04-26T17:26:55.677Z,171415241567700
+"River: 3♦, 9♣, 8♠, 9♠ [A♠]",2024-04-26T17:26:50.014Z,171415241001400
+"""vacancco @ RyvdIvf-DZ"" calls 60",2024-04-26T17:26:49.192Z,171415240919200
+"""akq @ aho1Ke80_P"" bets 60",2024-04-26T17:26:47.810Z,171415240781000
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:26:46.373Z,171415240637300
+"Turn: 3♦, 9♣, 8♠ [9♠]",2024-04-26T17:26:44.602Z,171415240460200
+"""vacancco @ RyvdIvf-DZ"" calls 60",2024-04-26T17:26:43.753Z,171415240375300
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:26:42.535Z,171415240253500
+"""akq @ aho1Ke80_P"" bets 60",2024-04-26T17:26:36.649Z,171415239664900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:26:35.194Z,171415239519400
+"Flop:  [3♦, 9♣, 8♠]",2024-04-26T17:26:33.115Z,171415239311500
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:26:32.283Z,171415239228300
+"""vacancco @ RyvdIvf-DZ"" calls 60",2024-04-26T17:26:23.832Z,171415238383200
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:26:22.652Z,171415238265200
+"""akq @ aho1Ke80_P"" posts a big blind of 60",2024-04-26T17:26:17.382Z,171415237738206
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 30",2024-04-26T17:26:17.382Z,171415237738205
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3500) | #3 ""akq @ aho1Ke80_P"" (660) | #7 ""MasterFifi @ d-CGcNrOit"" (3770)",2024-04-26T17:26:17.382Z,171415237738201
+"-- starting hand #11 (id: 7akqfgyybbod)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:26:17.382Z,171415237738200
+"-- ending hand #10 --",2024-04-26T17:26:14.405Z,171415237440502
+"""vacancco @ RyvdIvf-DZ"" collected 120 from pot",2024-04-26T17:26:14.405Z,171415237440501
+"Uncalled bet of 120 returned to ""vacancco @ RyvdIvf-DZ""",2024-04-26T17:26:14.405Z,171415237440500
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:26:13.554Z,171415237355400
+"""vacancco @ RyvdIvf-DZ"" bets 120",2024-04-26T17:26:06.033Z,171415236603300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:26:03.399Z,171415236339900
+"Turn: A♦, 4♥, 5♣ [K♥]",2024-04-26T17:25:57.778Z,171415235777800
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:25:56.945Z,171415235694500
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:25:55.558Z,171415235555800
+"Flop:  [A♦, 4♥, 5♣]",2024-04-26T17:25:51.520Z,171415235152000
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:25:50.667Z,171415235066700
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:25:48.503Z,171415234850300
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:25:41.955Z,171415234195500
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 60",2024-04-26T17:25:32.074Z,171415233207406
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 30",2024-04-26T17:25:32.074Z,171415233207405
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3440) | #3 ""akq @ aho1Ke80_P"" (660) | #7 ""MasterFifi @ d-CGcNrOit"" (3830)",2024-04-26T17:25:32.074Z,171415233207401
+"-- starting hand #10 (id: ff2bnkzlsy1o)  (No Limit Texas Hold'em) (dealer: ""akq @ aho1Ke80_P"") --",2024-04-26T17:25:32.074Z,171415233207400
+"-- ending hand #9 --",2024-04-26T17:25:29.121Z,171415232912102
+"""MasterFifi @ d-CGcNrOit"" collected 120 from pot",2024-04-26T17:25:29.121Z,171415232912101
+"Uncalled bet of 60 returned to ""MasterFifi @ d-CGcNrOit""",2024-04-26T17:25:29.121Z,171415232912100
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:25:28.296Z,171415232829600
+"""MasterFifi @ d-CGcNrOit"" bets 60",2024-04-26T17:25:23.399Z,171415232339900
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:25:16.940Z,171415231694000
+"Flop:  [10♦, 7♦, A♠]",2024-04-26T17:25:13.709Z,171415231370900
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:25:12.894Z,171415231289400
+"""akq @ aho1Ke80_P"" calls 60",2024-04-26T17:25:07.878Z,171415230787800
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:25:06.912Z,171415230691200
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 60",2024-04-26T17:25:05.235Z,171415230523508
+"""akq @ aho1Ke80_P"" posts a small blind of 30",2024-04-26T17:25:05.235Z,171415230523507
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3440) | #3 ""akq @ aho1Ke80_P"" (720) | #7 ""MasterFifi @ d-CGcNrOit"" (3770)",2024-04-26T17:25:05.235Z,171415230523503
+"-- starting hand #9 (id: pfbohq3voucg)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:25:05.235Z,171415230523502
+"The game's big blind was changed from 40 to 60.",2024-04-26T17:25:05.235Z,171415230523501
+"The game's small blind was changed from 20 to 30.",2024-04-26T17:25:05.235Z,171415230523500
+"-- ending hand #8 --",2024-04-26T17:24:59.205Z,171415229920501
+"""akq @ aho1Ke80_P"" collected 720 from pot with Full House, A's over 5's (combination: A♦, A♠, A♥, 5♣, 5♥)",2024-04-26T17:24:59.205Z,171415229920500
+"River: 5♣, 7♣, 5♥, 9♠ [A♥]",2024-04-26T17:24:55.159Z,171415229515900
+"Turn: 5♣, 7♣, 5♥ [9♠]",2024-04-26T17:24:51.154Z,171415229115400
+"Flop:  [5♣, 7♣, 5♥]",2024-04-26T17:24:47.120Z,171415228712000
+"""MasterFifi @ d-CGcNrOit"" shows a 6♦, 10♦.",2024-04-26T17:24:43.112Z,171415228311201
+"""akq @ aho1Ke80_P"" shows a A♦, A♠.",2024-04-26T17:24:43.112Z,171415228311200
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:24:42.287Z,171415228228700
+"""MasterFifi @ d-CGcNrOit"" calls 340",2024-04-26T17:24:40.415Z,171415228041500
+"""akq @ aho1Ke80_P"" raises to 340 and go all in",2024-04-26T17:24:33.831Z,171415227383100
+"""vacancco @ RyvdIvf-DZ"" calls 40",2024-04-26T17:24:30.755Z,171415227075500
+"""MasterFifi @ d-CGcNrOit"" calls 40",2024-04-26T17:24:29.379Z,171415226937900
+"""akq @ aho1Ke80_P"" posts a big blind of 40",2024-04-26T17:24:24.666Z,171415226466606
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 20",2024-04-26T17:24:24.666Z,171415226466605
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3480) | #3 ""akq @ aho1Ke80_P"" (340) | #7 ""MasterFifi @ d-CGcNrOit"" (4110)",2024-04-26T17:24:24.666Z,171415226466601
+"-- starting hand #8 (id: xjmn49gott1d)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:24:24.666Z,171415226466600
+"-- ending hand #7 --",2024-04-26T17:24:18.613Z,171415225861302
+"""vacancco @ RyvdIvf-DZ"" collected 480 from pot with Pair, 9's (combination: 9♠, 9♥, K♥, J♦, 10♠)",2024-04-26T17:24:18.613Z,171415225861301
+"""vacancco @ RyvdIvf-DZ"" shows a 9♠, 10♠.",2024-04-26T17:24:18.613Z,171415225861300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:24:17.804Z,171415225780400
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:24:10.551Z,171415225055100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:24:09.513Z,171415224951300
+"River: K♥, J♦, 4♠, 8♠ [9♥]",2024-04-26T17:24:07.510Z,171415224751000
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:24:06.636Z,171415224663600
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:24:00.201Z,171415224020100
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:23:59.272Z,171415223927200
+"Turn: K♥, J♦, 4♠ [8♠]",2024-04-26T17:23:54.895Z,171415223489500
+"""vacancco @ RyvdIvf-DZ"" calls 80",2024-04-26T17:23:54.054Z,171415223405400
+"""MasterFifi @ d-CGcNrOit"" calls 80",2024-04-26T17:23:52.066Z,171415223206600
+"""akq @ aho1Ke80_P"" bets 80",2024-04-26T17:23:43.962Z,171415222396200
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:23:39.113Z,171415221911300
+"Flop:  [K♥, J♦, 4♠]",2024-04-26T17:23:36.238Z,171415221623800
+"""vacancco @ RyvdIvf-DZ"" calls 80",2024-04-26T17:23:35.412Z,171415221541200
+"""MasterFifi @ d-CGcNrOit"" calls 80",2024-04-26T17:23:33.557Z,171415221355700
+"""akq @ aho1Ke80_P"" raises to 80",2024-04-26T17:23:25.827Z,171415220582700
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 40",2024-04-26T17:23:20.694Z,171415220069407
+"Dead Small Blind",2024-04-26T17:23:20.694Z,171415220069406
+"Player stacks: #2 ""vacancco @ RyvdIvf-DZ"" (3160) | #3 ""akq @ aho1Ke80_P"" (500) | #7 ""MasterFifi @ d-CGcNrOit"" (4270)",2024-04-26T17:23:20.694Z,171415220069402
+"-- starting hand #7 (id: op3l9zsgkpqk)  (No Limit Texas Hold'em) (dealer: ""MasterFifi @ d-CGcNrOit"") --",2024-04-26T17:23:20.694Z,171415220069401
+"The player ""mummy chulo @ bydKLoKk3k"" quits the game with a stack of 0.",2024-04-26T17:23:20.694Z,171415220069400
+"-- ending hand #6 --",2024-04-26T17:23:14.675Z,171415219467501
+"""MasterFifi @ d-CGcNrOit"" collected 1840 from pot with Pair, 6's (combination: 6♦, 6♠, J♠, 10♠, 8♦)",2024-04-26T17:23:14.675Z,171415219467500
+"River: 4♠, J♠, 5♥, 8♦ [10♠]",2024-04-26T17:23:10.667Z,171415219066700
+"""MasterFifi @ d-CGcNrOit"" shows a 6♦, 6♠.",2024-04-26T17:23:06.652Z,171415218665201
+"""mummy chulo @ bydKLoKk3k"" shows a 4♥, 3♣.",2024-04-26T17:23:06.652Z,171415218665200
+"""MasterFifi @ d-CGcNrOit"" calls 740",2024-04-26T17:23:05.780Z,171415218578000
+"""mummy chulo @ bydKLoKk3k"" raises to 740 and go all in",2024-04-26T17:23:03.058Z,171415218305800
+"""MasterFifi @ d-CGcNrOit"" bets 40",2024-04-26T17:22:59.790Z,171415217979000
+"Turn: 4♠, J♠, 5♥ [8♦]",2024-04-26T17:22:55.042Z,171415217504200
+"""MasterFifi @ d-CGcNrOit"" calls 120",2024-04-26T17:22:54.233Z,171415217423300
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:22:50.613Z,171415217061300
+"""mummy chulo @ bydKLoKk3k"" raises to 120",2024-04-26T17:22:48.165Z,171415216816500
+"""MasterFifi @ d-CGcNrOit"" bets 40",2024-04-26T17:22:41.946Z,171415216194600
+"Flop:  [4♠, J♠, 5♥]",2024-04-26T17:22:36.713Z,171415215671300
+"""mummy chulo @ bydKLoKk3k"" checks",2024-04-26T17:22:35.907Z,171415215590700
+"""MasterFifi @ d-CGcNrOit"" calls 40",2024-04-26T17:22:31.110Z,171415215111000
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:22:26.091Z,171415214609100
+"""vacancco @ RyvdIvf-DZ"" calls 40",2024-04-26T17:22:25.193Z,171415214519300
+"""mummy chulo @ bydKLoKk3k"" posts a big blind of 40",2024-04-26T17:22:23.090Z,171415214309008
+"""MasterFifi @ d-CGcNrOit"" posts a small blind of 20",2024-04-26T17:22:23.090Z,171415214309007
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (900) | #2 ""vacancco @ RyvdIvf-DZ"" (3200) | #3 ""akq @ aho1Ke80_P"" (500) | #7 ""MasterFifi @ d-CGcNrOit"" (3330)",2024-04-26T17:22:23.090Z,171415214309002
+"-- starting hand #6 (id: 6ksv2iro4wcm)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:22:23.090Z,171415214309001
+"The player ""TinyTimTim @ CjKHHefMDt"" quits the game with a stack of 70.",2024-04-26T17:22:23.090Z,171415214309000
+"-- ending hand #5 --",2024-04-26T17:22:17.071Z,171415213707103
+"""akq @ aho1Ke80_P"" shows a Q♠, 7♣.",2024-04-26T17:22:17.071Z,171415213707102
+"""MasterFifi @ d-CGcNrOit"" collected 160 from pot with Pair, 8's (combination: 8♦, 8♣, A♠, K♣, 10♠)",2024-04-26T17:22:17.071Z,171415213707101
+"""MasterFifi @ d-CGcNrOit"" shows a 8♦, 7♥.",2024-04-26T17:22:17.071Z,171415213707100
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:22:16.233Z,171415213623300
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:22:15.271Z,171415213527100
+"River: 8♣, A♠, 10♠, K♣ [5♦]",2024-04-26T17:22:01.848Z,171415212184800
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:22:00.999Z,171415212099900
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:22:00.080Z,171415212008000
+"Turn: 8♣, A♠, 10♠ [K♣]",2024-04-26T17:21:58.073Z,171415211807300
+"""MasterFifi @ d-CGcNrOit"" calls 40",2024-04-26T17:21:57.236Z,171415211723600
+"""akq @ aho1Ke80_P"" bets 40",2024-04-26T17:21:54.224Z,171415211422400
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:21:52.887Z,171415211288700
+"Flop:  [8♣, A♠, 10♠]",2024-04-26T17:21:46.857Z,171415210685700
+"""MasterFifi @ d-CGcNrOit"" checks",2024-04-26T17:21:46.035Z,171415210603500
+"""akq @ aho1Ke80_P"" calls 40",2024-04-26T17:21:41.782Z,171415210178200
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:21:40.793Z,171415210079300
+"""mummy chulo @ bydKLoKk3k"" folds",2024-04-26T17:21:39.888Z,171415209988800
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:21:30.837Z,171415209083711
+"""MasterFifi @ d-CGcNrOit"" posts a big blind of 40",2024-04-26T17:21:30.837Z,171415209083710
+"Dead Small Blind",2024-04-26T17:21:30.837Z,171415209083709
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (900) | #2 ""vacancco @ RyvdIvf-DZ"" (3200) | #3 ""akq @ aho1Ke80_P"" (580) | #7 ""MasterFifi @ d-CGcNrOit"" (3250) | #8 ""TinyTimTim @ CjKHHefMDt"" (70)",2024-04-26T17:21:30.837Z,171415209083703
+"-- starting hand #5 (id: 6oduvng9suup)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:21:30.837Z,171415209083702
+"The player ""Leiter_007 @ bqKtBqehjh"" quits the game with a stack of 0.",2024-04-26T17:21:30.837Z,171415209083701
+"The player ""ángel t @ 1anmwO3dci"" quits the game with a stack of 0.",2024-04-26T17:21:30.837Z,171415209083700
+"-- ending hand #4 --",2024-04-26T17:21:24.832Z,171415208483205
+"""MasterFifi @ d-CGcNrOit"" collected 80 from pot with Two Pair, A's & 2's (combination: A♦, A♥, 2♣, 2♠, 9♠)",2024-04-26T17:21:24.832Z,171415208483204
+"""Leiter_007 @ bqKtBqehjh"" shows a 9♣, 3♣.",2024-04-26T17:21:24.832Z,171415208483203
+"""ángel t @ 1anmwO3dci"" shows a 8♦, 10♣.",2024-04-26T17:21:24.832Z,171415208483202
+"""MasterFifi @ d-CGcNrOit"" collected 2580 from pot with Two Pair, A's & 2's (combination: A♦, A♥, 2♣, 2♠, 9♠)",2024-04-26T17:21:24.832Z,171415208483201
+"""MasterFifi @ d-CGcNrOit"" shows a A♦, 4♠.",2024-04-26T17:21:24.832Z,171415208483200
+"""MasterFifi @ d-CGcNrOit"" calls 600",2024-04-26T17:21:23.983Z,171415208398300
+"""Leiter_007 @ bqKtBqehjh"" calls 560 and go all in",2024-04-26T17:21:20.719Z,171415208071900
+"""ángel t @ 1anmwO3dci"" bets 600 and go all in",2024-04-26T17:21:17.922Z,171415207792200
+"River: A♥, 2♣, 7♥, 9♠ [2♠]",2024-04-26T17:21:11.360Z,171415207136000
+"""MasterFifi @ d-CGcNrOit"" calls 180",2024-04-26T17:21:10.547Z,171415207054700
+"""Leiter_007 @ bqKtBqehjh"" calls 180",2024-04-26T17:21:03.355Z,171415206335500
+"""ángel t @ 1anmwO3dci"" bets 180",2024-04-26T17:21:00.904Z,171415206090400
+"Turn: A♥, 2♣, 7♥ [9♠]",2024-04-26T17:20:47.357Z,171415204735700
+"""Leiter_007 @ bqKtBqehjh"" calls 40",2024-04-26T17:20:46.496Z,171415204649600
+"""ángel t @ 1anmwO3dci"" calls 40",2024-04-26T17:20:45.513Z,171415204551300
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:20:43.218Z,171415204321800
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:20:42.275Z,171415204227500
+"""mummy chulo @ bydKLoKk3k"" folds",2024-04-26T17:20:41.369Z,171415204136900
+"""MasterFifi @ d-CGcNrOit"" bets 40",2024-04-26T17:20:19.035Z,171415201903500
+"""Leiter_007 @ bqKtBqehjh"" checks",2024-04-26T17:20:11.191Z,171415201119100
+"""ángel t @ 1anmwO3dci"" checks",2024-04-26T17:20:02.954Z,171415200295400
+"Flop:  [A♥, 2♣, 7♥]",2024-04-26T17:19:51.660Z,171415199166000
+"""ángel t @ 1anmwO3dci"" checks",2024-04-26T17:19:50.754Z,171415199075400
+"""akq @ aho1Ke80_P"" calls 40",2024-04-26T17:19:44.238Z,171415198423800
+"""vacancco @ RyvdIvf-DZ"" calls 40",2024-04-26T17:19:43.353Z,171415198335300
+"""mummy chulo @ bydKLoKk3k"" calls 40",2024-04-26T17:19:42.441Z,171415198244100
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:19:40.428Z,171415198042800
+"""MasterFifi @ d-CGcNrOit"" calls 40",2024-04-26T17:19:39.598Z,171415197959800
+"""Leiter_007 @ bqKtBqehjh"" calls 40",2024-04-26T17:19:35.301Z,171415197530100
+"""ángel t @ 1anmwO3dci"" posts a big blind of 40",2024-04-26T17:19:31.265Z,171415197126513
+"Dead Small Blind",2024-04-26T17:19:31.265Z,171415197126512
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (940) | #2 ""vacancco @ RyvdIvf-DZ"" (3240) | #3 ""akq @ aho1Ke80_P"" (620) | #5 ""ángel t @ 1anmwO3dci"" (860) | #6 ""Leiter_007 @ bqKtBqehjh"" (820) | #7 ""MasterFifi @ d-CGcNrOit"" (1450) | #8 ""TinyTimTim @ CjKHHefMDt"" (70)",2024-04-26T17:19:31.265Z,171415197126504
+"-- starting hand #4 (id: whfd1orkyom8)  (No Limit Texas Hold'em) (dealer: ""akq @ aho1Ke80_P"") --",2024-04-26T17:19:31.265Z,171415197126503
+"The game's big blind was changed from 20 to 40.",2024-04-26T17:19:31.265Z,171415197126502
+"The game's small blind was changed from 10 to 20.",2024-04-26T17:19:31.265Z,171415197126501
+"The player ""ihamishhater @ XPpjka9UHQ"" quits the game with a stack of 0.",2024-04-26T17:19:31.265Z,171415197126500
+"""vacancco @ RyvdIvf-DZ"" shows a K♣, 5♠.",2024-04-26T17:19:25.953Z,171415196595300
+"-- ending hand #3 --",2024-04-26T17:19:24.763Z,171415196476302
+"""ángel t @ 1anmwO3dci"" collected 700 from pot with Pair, J's (combination: J♥, J♦, K♥, 9♣, 5♥)",2024-04-26T17:19:24.763Z,171415196476301
+"""MasterFifi @ d-CGcNrOit"" collected 1450 from pot with Pair, K's (combination: K♦, K♥, A♦, J♦, 5♥)",2024-04-26T17:19:24.763Z,171415196476300
+"River: K♥, J♦, 5♥, 4♦ [2♠]",2024-04-26T17:19:20.757Z,171415196075700
+"""MasterFifi @ d-CGcNrOit"" shows a A♦, K♦.",2024-04-26T17:19:16.646Z,171415195664602
+"""ángel t @ 1anmwO3dci"" shows a J♥, 9♣.",2024-04-26T17:19:16.646Z,171415195664601
+"""ihamishhater @ XPpjka9UHQ"" shows a Q♥, A♥.",2024-04-26T17:19:16.646Z,171415195664600
+"""ihamishhater @ XPpjka9UHQ"" calls 400 and go all in",2024-04-26T17:19:15.826Z,171415195582600
+"""MasterFifi @ d-CGcNrOit"" calls 50 and go all in",2024-04-26T17:19:13.939Z,171415195393900
+"""ángel t @ 1anmwO3dci"" raises to 400",2024-04-26T17:19:06.276Z,171415194627600
+"""ihamishhater @ XPpjka9UHQ"" bets 50",2024-04-26T17:19:03.405Z,171415194340500
+"Turn: K♥, J♦, 5♥ [4♦]",2024-04-26T17:18:58.967Z,171415193896700
+"""MasterFifi @ d-CGcNrOit"" calls 120",2024-04-26T17:18:58.154Z,171415193815400
+"""ángel t @ 1anmwO3dci"" calls 120",2024-04-26T17:18:53.313Z,171415193331300
+"""ihamishhater @ XPpjka9UHQ"" bets 120",2024-04-26T17:18:51.789Z,171415193178900
+"Flop:  [K♥, J♦, 5♥]",2024-04-26T17:18:47.880Z,171415192788000
+"""ihamishhater @ XPpjka9UHQ"" calls 300",2024-04-26T17:18:47.053Z,171415192705300
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:18:45.348Z,171415192534800
+"""vacancco @ RyvdIvf-DZ"" folds",2024-04-26T17:18:44.453Z,171415192445300
+"""MasterFifi @ d-CGcNrOit"" calls 300",2024-04-26T17:18:42.314Z,171415192231400
+"""ángel t @ 1anmwO3dci"" raises to 300",2024-04-26T17:18:37.562Z,171415191756200
+"""ihamishhater @ XPpjka9UHQ"" raises to 80",2024-04-26T17:18:34.361Z,171415191436100
+"""akq @ aho1Ke80_P"" calls 20",2024-04-26T17:18:27.522Z,171415190752200
+"""vacancco @ RyvdIvf-DZ"" calls 20",2024-04-26T17:18:26.633Z,171415190663300
+"""mummy chulo @ bydKLoKk3k"" folds",2024-04-26T17:18:25.579Z,171415190557900
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:18:24.444Z,171415190444400
+"""MasterFifi @ d-CGcNrOit"" calls 20",2024-04-26T17:18:08.536Z,171415188853600
+"""Leiter_007 @ bqKtBqehjh"" folds",2024-04-26T17:18:06.061Z,171415188606100
+"""ángel t @ 1anmwO3dci"" calls 20",2024-04-26T17:18:03.349Z,171415188334900
+"""ihamishhater @ XPpjka9UHQ"" posts a big blind of 20",2024-04-26T17:17:57.925Z,171415187792511
+"""akq @ aho1Ke80_P"" posts a small blind of 10",2024-04-26T17:17:57.925Z,171415187792510
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (940) | #2 ""vacancco @ RyvdIvf-DZ"" (3260) | #3 ""akq @ aho1Ke80_P"" (640) | #4 ""ihamishhater @ XPpjka9UHQ"" (820) | #5 ""ángel t @ 1anmwO3dci"" (980) | #6 ""Leiter_007 @ bqKtBqehjh"" (820) | #7 ""MasterFifi @ d-CGcNrOit"" (470) | #8 ""TinyTimTim @ CjKHHefMDt"" (70)",2024-04-26T17:17:57.925Z,171415187792501
+"-- starting hand #3 (id: zu5w5tl7xr45)  (No Limit Texas Hold'em) (dealer: ""vacancco @ RyvdIvf-DZ"") --",2024-04-26T17:17:57.925Z,171415187792500
+"-- ending hand #2 --",2024-04-26T17:17:51.919Z,171415187191902
+"""vacancco @ RyvdIvf-DZ"" collected 2280 from pot with Two Pair, 7's & 3's (combination: 7♠, 7♦, 3♠, 3♦, 9♥)",2024-04-26T17:17:51.919Z,171415187191901
+"""vacancco @ RyvdIvf-DZ"" shows a 3♠, 7♠.",2024-04-26T17:17:51.919Z,171415187191900
+"""TinyTimTim @ CjKHHefMDt"" calls 570",2024-04-26T17:17:51.098Z,171415187109800
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:17:46.717Z,171415186671700
+"""vacancco @ RyvdIvf-DZ"" bets 570",2024-04-26T17:17:20.853Z,171415184085300
+"River: 9♥, 7♦, 2♥, 6♦ [3♦]",2024-04-26T17:17:15.900Z,171415183590000
+"""TinyTimTim @ CjKHHefMDt"" calls 160",2024-04-26T17:17:15.084Z,171415183508400
+"""akq @ aho1Ke80_P"" calls 160",2024-04-26T17:17:12.438Z,171415183243800
+"""vacancco @ RyvdIvf-DZ"" bets 160",2024-04-26T17:17:07.552Z,171415182755200
+"Turn: 9♥, 7♦, 2♥ [6♦]",2024-04-26T17:16:59.489Z,171415181948900
+"""TinyTimTim @ CjKHHefMDt"" calls 180",2024-04-26T17:16:58.657Z,171415181865700
+"""Leiter_007 @ bqKtBqehjh"" folds",2024-04-26T17:16:48.929Z,171415180892900
+"""ángel t @ 1anmwO3dci"" folds",2024-04-26T17:16:47.636Z,171415180763600
+"""ihamishhater @ XPpjka9UHQ"" folds",2024-04-26T17:16:46.703Z,171415180670300
+"""akq @ aho1Ke80_P"" calls 180",2024-04-26T17:16:37.831Z,171415179783100
+"""vacancco @ RyvdIvf-DZ"" raises to 180",2024-04-26T17:16:27.093Z,171415178709300
+"""TinyTimTim @ CjKHHefMDt"" bets 60",2024-04-26T17:16:22.392Z,171415178239200
+"""Leiter_007 @ bqKtBqehjh"" checks",2024-04-26T17:16:17.365Z,171415177736500
+"""ángel t @ 1anmwO3dci"" checks",2024-04-26T17:16:16.431Z,171415177643100
+"""ihamishhater @ XPpjka9UHQ"" checks",2024-04-26T17:16:12.874Z,171415177287400
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:16:10.762Z,171415177076200
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:16:08.303Z,171415176830300
+"Flop:  [9♥, 7♦, 2♥]",2024-04-26T17:16:06.284Z,171415176628400
+"""akq @ aho1Ke80_P"" checks",2024-04-26T17:16:05.481Z,171415176548100
+"""vacancco @ RyvdIvf-DZ"" calls 20",2024-04-26T17:16:04.578Z,171415176457800
+"""mummy chulo @ bydKLoKk3k"" folds",2024-04-26T17:16:03.690Z,171415176369000
+"""TinyTimTim @ CjKHHefMDt"" calls 20",2024-04-26T17:16:02.526Z,171415176252600
+"""MasterFifi @ d-CGcNrOit"" folds",2024-04-26T17:15:56.997Z,171415175699700
+"""Leiter_007 @ bqKtBqehjh"" calls 20",2024-04-26T17:15:49.663Z,171415174966300
+"""ángel t @ 1anmwO3dci"" calls 20",2024-04-26T17:15:48.753Z,171415174875300
+"""ihamishhater @ XPpjka9UHQ"" calls 20",2024-04-26T17:15:44.647Z,171415174464700
+"""akq @ aho1Ke80_P"" posts a big blind of 20",2024-04-26T17:15:43.486Z,171415174348611
+"""vacancco @ RyvdIvf-DZ"" posts a small blind of 10",2024-04-26T17:15:43.486Z,171415174348610
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (940) | #2 ""vacancco @ RyvdIvf-DZ"" (1910) | #3 ""akq @ aho1Ke80_P"" (1000) | #4 ""ihamishhater @ XPpjka9UHQ"" (840) | #5 ""ángel t @ 1anmwO3dci"" (1000) | #6 ""Leiter_007 @ bqKtBqehjh"" (840) | #7 ""MasterFifi @ d-CGcNrOit"" (470) | #8 ""TinyTimTim @ CjKHHefMDt"" (1000)",2024-04-26T17:15:43.486Z,171415174348601
+"-- starting hand #2 (id: 8wkpexj3swaq)  (No Limit Texas Hold'em) (dealer: ""mummy chulo @ bydKLoKk3k"") --",2024-04-26T17:15:43.486Z,171415174348600
+"""TinyTimTim @ CjKHHefMDt"" shows a A♥, 4♦.",2024-04-26T17:15:40.631Z,171415174063100
+"-- ending hand #1 --",2024-04-26T17:15:36.967Z,171415173696703
+"""MasterFifi @ d-CGcNrOit"" shows a A♣, 8♣.",2024-04-26T17:15:36.967Z,171415173696702
+"""vacancco @ RyvdIvf-DZ"" collected 1440 from pot with Two Pair, J's & 9's (combination: J♠, J♥, 9♦, 9♥, 10♠)",2024-04-26T17:15:36.967Z,171415173696701
+"""vacancco @ RyvdIvf-DZ"" shows a J♠, 10♠.",2024-04-26T17:15:36.967Z,171415173696700
+"""vacancco @ RyvdIvf-DZ"" calls 20",2024-04-26T17:15:36.117Z,171415173611700
+"""MasterFifi @ d-CGcNrOit"" bets 20",2024-04-26T17:15:34.259Z,171415173425900
+"""vacancco @ RyvdIvf-DZ"" checks",2024-04-26T17:15:28.852Z,171415172885200
+"River: 2♠, 9♦, 8♠, J♥ [9♥]",2024-04-26T17:15:23.459Z,171415172345900
+"""MasterFifi @ d-CGcNrOit"" calls 350",2024-04-26T17:15:22.630Z,171415172263000
+"""Leiter_007 @ bqKtBqehjh"" folds",2024-04-26T17:15:19.740Z,171415171974000
+"""ihamishhater @ XPpjka9UHQ"" folds",2024-04-26T17:15:14.480Z,171415171448000
+"""vacancco @ RyvdIvf-DZ"" bets 350",2024-04-26T17:15:12.461Z,171415171246100
+"Turn: 2♠, 9♦, 8♠ [J♥]",2024-04-26T17:15:08.406Z,171415170840600
+"""mummy chulo @ bydKLoKk3k"" folds",2024-04-26T17:15:07.564Z,171415170756400
+"""MasterFifi @ d-CGcNrOit"" calls 100",2024-04-26T17:14:56.143Z,171415169614300
+"""Leiter_007 @ bqKtBqehjh"" calls 100",2024-04-26T17:14:53.399Z,171415169339900
+"""ihamishhater @ XPpjka9UHQ"" calls 100",2024-04-26T17:14:52.457Z,171415169245700
+"""vacancco @ RyvdIvf-DZ"" bets 100",2024-04-26T17:14:44.113Z,171415168411300
+"""mummy chulo @ bydKLoKk3k"" checks",2024-04-26T17:14:39.669Z,171415167966900
+"Flop:  [2♠, 9♦, 8♠]",2024-04-26T17:14:34.416Z,171415167441600
+"""MasterFifi @ d-CGcNrOit"" calls 60",2024-04-26T17:14:33.560Z,171415167356000
+"""Leiter_007 @ bqKtBqehjh"" calls 60",2024-04-26T17:14:27.084Z,171415166708400
+"""ihamishhater @ XPpjka9UHQ"" calls 60",2024-04-26T17:14:25.056Z,171415166505600
+"""vacancco @ RyvdIvf-DZ"" calls 60",2024-04-26T17:14:22.497Z,171415166249700
+"""mummy chulo @ bydKLoKk3k"" raises to 60",2024-04-26T17:14:19.677Z,171415165967700
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:14:14.233Z,171415165423300
+"""MasterFifi @ d-CGcNrOit"" calls 20",2024-04-26T17:13:58.393Z,171415163839300
+"""Leiter_007 @ bqKtBqehjh"" calls 20",2024-04-26T17:13:55.081Z,171415163508100
+"""ángel t @ 1anmwO3dci"" folds",2024-04-26T17:13:53.925Z,171415163392500
+"""ihamishhater @ XPpjka9UHQ"" calls 20",2024-04-26T17:13:52.982Z,171415163298200
+"""akq @ aho1Ke80_P"" folds",2024-04-26T17:13:47.562Z,171415162756200
+"""vacancco @ RyvdIvf-DZ"" posts a big blind of 20",2024-04-26T17:13:44.952Z,171415162495219
+"""mummy chulo @ bydKLoKk3k"" posts a small blind of 10",2024-04-26T17:13:44.952Z,171415162495218
+"Player stacks: #1 ""mummy chulo @ bydKLoKk3k"" (1000) | #2 ""vacancco @ RyvdIvf-DZ"" (1000) | #3 ""akq @ aho1Ke80_P"" (1000) | #4 ""ihamishhater @ XPpjka9UHQ"" (1000) | #5 ""ángel t @ 1anmwO3dci"" (1000) | #6 ""Leiter_007 @ bqKtBqehjh"" (1000) | #7 ""MasterFifi @ d-CGcNrOit"" (1000) | #8 ""TinyTimTim @ CjKHHefMDt"" (1000)",2024-04-26T17:13:44.952Z,171415162495209
+"The player ""TinyTimTim @ CjKHHefMDt"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495208
+"The player ""MasterFifi @ d-CGcNrOit"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495207
+"The player ""Leiter_007 @ bqKtBqehjh"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495206
+"The player ""ángel t @ 1anmwO3dci"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495205
+"The player ""ihamishhater @ XPpjka9UHQ"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495204
+"The player ""akq @ aho1Ke80_P"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495203
+"The player ""vacancco @ RyvdIvf-DZ"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495202
+"The player ""mummy chulo @ bydKLoKk3k"" joined the game with a stack of 1000.",2024-04-26T17:13:44.952Z,171415162495201
+"-- starting hand #1 (id: 19mtfpufqujs)  (No Limit Texas Hold'em) (dealer: ""TinyTimTim @ CjKHHefMDt"") --",2024-04-26T17:13:44.952Z,171415162495200

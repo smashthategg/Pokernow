@@ -1,0 +1,913 @@
+entry,at,order
+"The player ""codeyu @ DJmgVyLga0"" quits the game with a stack of 7280.",2024-04-17T21:38:53.741Z,171338993374100
+"The player ""dr. disrespect @ crFwBVVQqY"" quits the game with a stack of 0.",2024-04-17T21:33:20.431Z,171338960043100
+"-- ending hand #41 --",2024-04-17T21:33:14.426Z,171338959442601
+"""codeyu @ DJmgVyLga0"" collected 3070 from pot with Three of a Kind, 9's (combination: 9♣, 9♦, 9♥, A♠, Q♣)",2024-04-17T21:33:14.426Z,171338959442600
+"River: 9♦, 4♥, 9♥, 3♣ [Q♣]",2024-04-17T21:33:10.408Z,171338959040800
+"Turn: 9♦, 4♥, 9♥ [3♣]",2024-04-17T21:33:06.376Z,171338958637600
+"Flop:  [9♦, 4♥, 9♥]",2024-04-17T21:33:02.372Z,171338958237200
+"""codeyu @ DJmgVyLga0"" shows a 9♣, A♠.",2024-04-17T21:32:58.309Z,171338957830901
+"""dr. disrespect @ crFwBVVQqY"" shows a 10♣, Q♥.",2024-04-17T21:32:58.309Z,171338957830900
+"""codeyu @ DJmgVyLga0"" calls 1535",2024-04-17T21:32:57.436Z,171338957743600
+"""dr. disrespect @ crFwBVVQqY"" raises to 1535 and go all in",2024-04-17T21:32:53.653Z,171338957365300
+"""codeyu @ DJmgVyLga0"" posts a big blind of 300",2024-04-17T21:32:45.885Z,171338956588505
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 150",2024-04-17T21:32:45.885Z,171338956588504
+"Player stacks: #2 ""dr. disrespect @ crFwBVVQqY"" (1535) | #8 ""codeyu @ DJmgVyLga0"" (5745)",2024-04-17T21:32:45.885Z,171338956588501
+"-- starting hand #41 (id: vbweliavxh6c)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:32:45.885Z,171338956588500
+"-- ending hand #40 --",2024-04-17T21:32:39.875Z,171338955987502
+"""codeyu @ DJmgVyLga0"" collected 3600 from pot with Flush, Ks High (combination: K♠, Q♠, J♠, 9♠, 6♠)",2024-04-17T21:32:39.875Z,171338955987501
+"""codeyu @ DJmgVyLga0"" shows a 9♠, Q♠.",2024-04-17T21:32:39.875Z,171338955987500
+"""dr. disrespect @ crFwBVVQqY"" calls 1200",2024-04-17T21:32:38.995Z,171338955899500
+"""codeyu @ DJmgVyLga0"" raises to 1200",2024-04-17T21:32:37.415Z,171338955741500
+"""dr. disrespect @ crFwBVVQqY"" bets 600",2024-04-17T21:32:32.648Z,171338955264800
+"River: 5♥, J♠, K♠, 6♣ [6♠]",2024-04-17T21:32:30.323Z,171338955032300
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:32:29.472Z,171338954947200
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:32:27.655Z,171338954765500
+"Turn: 5♥, J♠, K♠ [6♣]",2024-04-17T21:32:27.118Z,171338954711800
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:32:26.299Z,171338954629900
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:32:25.362Z,171338954536200
+"Flop:  [5♥, J♠, K♠]",2024-04-17T21:32:22.666Z,171338954266600
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:32:21.798Z,171338954179800
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:32:20.618Z,171338954061800
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 300",2024-04-17T21:32:18.862Z,171338953886205
+"""codeyu @ DJmgVyLga0"" posts a small blind of 150",2024-04-17T21:32:18.862Z,171338953886204
+"Player stacks: #2 ""dr. disrespect @ crFwBVVQqY"" (3335) | #8 ""codeyu @ DJmgVyLga0"" (3945)",2024-04-17T21:32:18.862Z,171338953886201
+"-- starting hand #40 (id: 44ktavn3zi9v)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:32:18.862Z,171338953886200
+"-- ending hand #39 --",2024-04-17T21:32:15.901Z,171338953590102
+"""codeyu @ DJmgVyLga0"" collected 1200 from pot",2024-04-17T21:32:15.901Z,171338953590101
+"Uncalled bet of 300 returned to ""codeyu @ DJmgVyLga0""",2024-04-17T21:32:15.901Z,171338953590100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:32:15.067Z,171338953506700
+"""codeyu @ DJmgVyLga0"" bets 300",2024-04-17T21:32:10.992Z,171338953099200
+"Turn: 3♠, 2♣, Q♠ [J♠]",2024-04-17T21:32:09.043Z,171338952904300
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:32:08.184Z,171338952818400
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:32:06.111Z,171338952611100
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:32:04.689Z,171338952468900
+"Flop:  [3♠, 2♣, Q♠]",2024-04-17T21:32:02.837Z,171338952283700
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:32:02.032Z,171338952203200
+"""dr. disrespect @ crFwBVVQqY"" calls 300",2024-04-17T21:32:00.644Z,171338952064400
+"""codeyu @ DJmgVyLga0"" posts a big blind of 300",2024-04-17T21:31:58.905Z,171338951890506
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 150",2024-04-17T21:31:58.905Z,171338951890505
+"Player stacks: #2 ""dr. disrespect @ crFwBVVQqY"" (3935) | #8 ""codeyu @ DJmgVyLga0"" (3345)",2024-04-17T21:31:58.905Z,171338951890502
+"-- starting hand #39 (id: mg0hl088a5qm)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:31:58.905Z,171338951890501
+"The player ""Ekingz1 @ m3OcsLhCIV"" quits the game with a stack of 0.",2024-04-17T21:31:58.905Z,171338951890500
+"-- ending hand #38 --",2024-04-17T21:31:52.886Z,171338951288601
+"""dr. disrespect @ crFwBVVQqY"" collected 300 from pot with Straight, 9 High (combination: 9♠, 8♣, 7♣, 6♥, 5♦)",2024-04-17T21:31:52.886Z,171338951288600
+"River: 4♦, 8♣, 6♥, 5♦ [9♣]",2024-04-17T21:31:48.824Z,171338950882400
+"Turn: 4♦, 8♣, 6♥ [5♦]",2024-04-17T21:31:44.820Z,171338950482000
+"Flop:  [4♦, 8♣, 6♥]",2024-04-17T21:31:40.814Z,171338950081400
+"""Ekingz1 @ m3OcsLhCIV"" shows a Q♥, Q♠.",2024-04-17T21:31:36.800Z,171338949680001
+"""dr. disrespect @ crFwBVVQqY"" shows a 7♣, 9♠.",2024-04-17T21:31:36.800Z,171338949680000
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:31:35.979Z,171338949597900
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 150 and go all in ",2024-04-17T21:31:32.199Z,171338949219906
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 150",2024-04-17T21:31:32.199Z,171338949219905
+"Player stacks: #2 ""dr. disrespect @ crFwBVVQqY"" (3785) | #5 ""Ekingz1 @ m3OcsLhCIV"" (150) | #8 ""codeyu @ DJmgVyLga0"" (3345)",2024-04-17T21:31:32.199Z,171338949219901
+"-- starting hand #38 (id: ocodr7ddwkbd)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:31:32.199Z,171338949219900
+"""dr. disrespect @ crFwBVVQqY"" shows a 10♦, K♣.",2024-04-17T21:31:29.147Z,171338948914700
+"""codeyu @ DJmgVyLga0"" shows a K♥, 2♠.",2024-04-17T21:31:28.816Z,171338948881600
+"""Ekingz1 @ m3OcsLhCIV"" shows a 10♠, 7♦.",2024-04-17T21:31:28.227Z,171338948822700
+"-- ending hand #37 --",2024-04-17T21:31:27.145Z,171338948714502
+"""dr. disrespect @ crFwBVVQqY"" collected 1200 from pot",2024-04-17T21:31:27.145Z,171338948714501
+"Uncalled bet of 300 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-17T21:31:27.145Z,171338948714500
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:31:26.303Z,171338948630300
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:31:24.431Z,171338948443100
+"River: K♦, 3♦, 3♥, 9♦ [2♣]",2024-04-17T21:31:23.725Z,171338948372500
+"""Ekingz1 @ m3OcsLhCIV"" calls 300",2024-04-17T21:31:22.918Z,171338948291800
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:31:20.829Z,171338948082900
+"Turn: K♦, 3♦, 3♥ [9♦]",2024-04-17T21:31:20.119Z,171338948011900
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:31:19.297Z,171338947929700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:31:17.401Z,171338947740100
+"Flop:  [K♦, 3♦, 3♥]",2024-04-17T21:31:16.116Z,171338947611600
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:31:15.288Z,171338947528800
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:31:12.246Z,171338947224600
+"""Ekingz1 @ m3OcsLhCIV"" calls 300",2024-04-17T21:31:11.297Z,171338947129700
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 300",2024-04-17T21:31:05.695Z,171338946569507
+"Dead Small Blind",2024-04-17T21:31:05.695Z,171338946569506
+"Player stacks: #2 ""dr. disrespect @ crFwBVVQqY"" (3185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (750) | #8 ""codeyu @ DJmgVyLga0"" (3345)",2024-04-17T21:31:05.695Z,171338946569502
+"-- starting hand #37 (id: f9kn9lxs55zj)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:31:05.695Z,171338946569501
+"The player ""CruJones @ AXNvirFFOh"" quits the game with a stack of 0.",2024-04-17T21:31:05.695Z,171338946569500
+"""Ekingz1 @ m3OcsLhCIV"" shows a 8♦, 10♣.",2024-04-17T21:31:03.534Z,171338946353400
+"""dr. disrespect @ crFwBVVQqY"" shows a 5♠, 4♠.",2024-04-17T21:31:01.577Z,171338946157700
+"-- ending hand #36 --",2024-04-17T21:30:58.691Z,171338945869103
+"""codeyu @ DJmgVyLga0"" collected 975 from pot with Pair, J's (combination: J♠, J♥, A♦, K♣, 10♦)",2024-04-17T21:30:58.691Z,171338945869102
+"""codeyu @ DJmgVyLga0"" collected 700 from pot with Pair, J's (combination: J♠, J♥, A♦, K♣, 10♦)",2024-04-17T21:30:58.691Z,171338945869101
+"""codeyu @ DJmgVyLga0"" shows a 10♦, J♠.",2024-04-17T21:30:58.691Z,171338945869100
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:30:57.810Z,171338945781000
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:30:56.811Z,171338945681100
+"River: A♦, 3♦, K♣, 4♣ [J♥]",2024-04-17T21:30:52.609Z,171338945260900
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:30:51.757Z,171338945175700
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:30:50.490Z,171338945049000
+"Turn: A♦, 3♦, K♣ [4♣]",2024-04-17T21:30:48.887Z,171338944888700
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:30:48.027Z,171338944802700
+"""dr. disrespect @ crFwBVVQqY"" calls 300",2024-04-17T21:30:44.001Z,171338944400100
+"""codeyu @ DJmgVyLga0"" bets 300",2024-04-17T21:30:40.552Z,171338944055200
+"Flop:  [A♦, 3♦, K♣]",2024-04-17T21:30:37.326Z,171338943732600
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:30:36.521Z,171338943652100
+"""Ekingz1 @ m3OcsLhCIV"" calls 300",2024-04-17T21:30:34.457Z,171338943445700
+"""dr. disrespect @ crFwBVVQqY"" calls 300",2024-04-17T21:30:32.980Z,171338943298000
+"""CruJones @ AXNvirFFOh"" posts a big blind of 175 and go all in ",2024-04-17T21:30:30.388Z,171338943038809
+"""codeyu @ DJmgVyLga0"" posts a small blind of 150",2024-04-17T21:30:30.388Z,171338943038808
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (175) | #2 ""dr. disrespect @ crFwBVVQqY"" (3785) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1050) | #8 ""codeyu @ DJmgVyLga0"" (2270)",2024-04-17T21:30:30.388Z,171338943038803
+"-- starting hand #36 (id: 7piv0jqeg26a)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:30:30.388Z,171338943038802
+"The game's big blind was changed from 200 to 300.",2024-04-17T21:30:30.388Z,171338943038801
+"The game's small blind was changed from 100 to 150.",2024-04-17T21:30:30.388Z,171338943038800
+"""dr. disrespect @ crFwBVVQqY"" shows a 7♠, Q♠.",2024-04-17T21:30:27.434Z,171338942743400
+"""Ekingz1 @ m3OcsLhCIV"" shows a 5♣, 4♣.",2024-04-17T21:30:27.258Z,171338942725800
+"-- ending hand #35 --",2024-04-17T21:30:26.058Z,171338942605802
+"""dr. disrespect @ crFwBVVQqY"" collected 600 from pot",2024-04-17T21:30:26.058Z,171338942605801
+"Uncalled bet of 400 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-17T21:30:26.058Z,171338942605800
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:30:25.195Z,171338942519500
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:30:24.182Z,171338942418200
+"""dr. disrespect @ crFwBVVQqY"" bets 400",2024-04-17T21:30:08.301Z,171338940830100
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:30:03.708Z,171338940370800
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:30:02.721Z,171338940272100
+"Turn: 8♣, 5♥, 10♥ [Q♦]",2024-04-17T21:29:49.171Z,171338938917100
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:29:48.353Z,171338938835300
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:29:46.057Z,171338938605700
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:29:43.657Z,171338938365700
+"Flop:  [8♣, 5♥, 10♥]",2024-04-17T21:29:39.017Z,171338937901700
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:29:38.203Z,171338937820300
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:29:36.867Z,171338937686700
+"""dr. disrespect @ crFwBVVQqY"" calls 200",2024-04-17T21:29:31.169Z,171338937116900
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:29:26.738Z,171338936673809
+"""codeyu @ DJmgVyLga0"" posts a big blind of 200",2024-04-17T21:29:26.738Z,171338936673808
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 100",2024-04-17T21:29:26.738Z,171338936673807
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (175) | #2 ""dr. disrespect @ crFwBVVQqY"" (3385) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1250) | #8 ""codeyu @ DJmgVyLga0"" (2470)",2024-04-17T21:29:26.738Z,171338936673802
+"-- starting hand #35 (id: kazzxjbbno72)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:29:26.738Z,171338936673801
+"The player ""JurgBean @ XWESiVcu1R"" quits the game with a stack of 0.",2024-04-17T21:29:26.738Z,171338936673800
+"""dr. disrespect @ crFwBVVQqY"" shows a 10♠, 3♥.",2024-04-17T21:29:20.970Z,171338936097000
+"-- ending hand #34 --",2024-04-17T21:29:20.182Z,171338936018201
+"""Ekingz1 @ m3OcsLhCIV"" collected 990 from pot with Straight, 9 High (combination: 9♦, 8♦, 7♠, 6♥, 5♦)",2024-04-17T21:29:20.182Z,171338936018200
+"River: 8♦, 9♦, 6♥, A♥ [5♦]",2024-04-17T21:29:16.173Z,171338935617300
+"Turn: 8♦, 9♦, 6♥ [A♥]",2024-04-17T21:29:12.118Z,171338935211800
+"Flop:  [8♦, 9♦, 6♥]",2024-04-17T21:29:08.070Z,171338934807000
+"""JurgBean @ XWESiVcu1R"" shows a 9♣, A♠.",2024-04-17T21:29:04.057Z,171338934405701
+"""Ekingz1 @ m3OcsLhCIV"" shows a J♦, 7♠.",2024-04-17T21:29:04.057Z,171338934405700
+"""Ekingz1 @ m3OcsLhCIV"" calls 445",2024-04-17T21:29:03.229Z,171338934322900
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:28:55.472Z,171338933547200
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:28:44.727Z,171338932472700
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:28:43.909Z,171338932390900
+"""JurgBean @ XWESiVcu1R"" raises to 445 and go all in",2024-04-17T21:28:40.691Z,171338932069100
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 200",2024-04-17T21:28:38.458Z,171338931845808
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 100",2024-04-17T21:28:38.458Z,171338931845807
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (175) | #2 ""dr. disrespect @ crFwBVVQqY"" (3485) | #5 ""Ekingz1 @ m3OcsLhCIV"" (705) | #6 ""JurgBean @ XWESiVcu1R"" (445) | #8 ""codeyu @ DJmgVyLga0"" (2470)",2024-04-17T21:28:38.458Z,171338931845801
+"-- starting hand #34 (id: oajzoxmgl8q8)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:28:38.458Z,171338931845800
+"""JurgBean @ XWESiVcu1R"" shows a A♣, 7♥.",2024-04-17T21:28:34.210Z,171338931421000
+"-- ending hand #33 --",2024-04-17T21:28:31.937Z,171338931193702
+"""dr. disrespect @ crFwBVVQqY"" collected 500 from pot with Pair, 4's (combination: 4♦, 4♣, Q♠, 9♣, 8♦)",2024-04-17T21:28:31.937Z,171338931193701
+"""dr. disrespect @ crFwBVVQqY"" shows a 9♣, 4♦.",2024-04-17T21:28:31.937Z,171338931193700
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:28:31.126Z,171338931112600
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:28:30.267Z,171338931026700
+"River: Q♠, 2♠, 3♥, 8♦ [4♣]",2024-04-17T21:28:27.621Z,171338930762100
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:28:26.807Z,171338930680700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:28:25.946Z,171338930594600
+"Turn: Q♠, 2♠, 3♥ [8♦]",2024-04-17T21:28:24.929Z,171338930492900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:28:24.122Z,171338930412200
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:28:23.285Z,171338930328500
+"Flop:  [Q♠, 2♠, 3♥]",2024-04-17T21:28:17.775Z,171338929777500
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:28:16.935Z,171338929693500
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:28:13.626Z,171338929362600
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:28:12.800Z,171338929280000
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-17T21:28:11.343Z,171338929134300
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:28:05.687Z,171338928568709
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 200",2024-04-17T21:28:05.687Z,171338928568708
+"""CruJones @ AXNvirFFOh"" posts a small blind of 100",2024-04-17T21:28:05.687Z,171338928568707
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (275) | #2 ""dr. disrespect @ crFwBVVQqY"" (3185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (705) | #6 ""JurgBean @ XWESiVcu1R"" (645) | #8 ""codeyu @ DJmgVyLga0"" (2470)",2024-04-17T21:28:05.687Z,171338928568701
+"-- starting hand #33 (id: ycis7nqbgfox)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:28:05.687Z,171338928568700
+"""Ekingz1 @ m3OcsLhCIV"" shows a 10♦, J♦.",2024-04-17T21:28:04.388Z,171338928438800
+"-- ending hand #32 --",2024-04-17T21:28:02.014Z,171338928201402
+"""dr. disrespect @ crFwBVVQqY"" collected 1100 from pot",2024-04-17T21:28:02.014Z,171338928201401
+"Uncalled bet of 705 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-17T21:28:02.014Z,171338928201400
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:28:01.163Z,171338928116300
+"""dr. disrespect @ crFwBVVQqY"" bets 705",2024-04-17T21:27:45.287Z,171338926528700
+"Turn: 7♠, 2♣, J♠ [8♥]",2024-04-17T21:27:37.583Z,171338925758300
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:27:36.745Z,171338925674500
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:27:35.870Z,171338925587000
+"""dr. disrespect @ crFwBVVQqY"" bets 200",2024-04-17T21:27:33.422Z,171338925342200
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:27:30.451Z,171338925045101
+"Flop:  [7♠, 2♣, J♠]",2024-04-17T21:27:30.451Z,171338925045100
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:27:29.618Z,171338924961800
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:27:28.789Z,171338924878900
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:27:27.457Z,171338924745700
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:27:25.208Z,171338924520800
+"""dr. disrespect @ crFwBVVQqY"" calls 200",2024-04-17T21:27:23.332Z,171338924333200
+"""CruJones @ AXNvirFFOh"" posts a big blind of 200",2024-04-17T21:27:19.500Z,171338923950008
+"""codeyu @ DJmgVyLga0"" posts a small blind of 100",2024-04-17T21:27:19.500Z,171338923950007
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (475) | #2 ""dr. disrespect @ crFwBVVQqY"" (2485) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1105) | #6 ""JurgBean @ XWESiVcu1R"" (645) | #8 ""codeyu @ DJmgVyLga0"" (2570)",2024-04-17T21:27:19.500Z,171338923950001
+"-- starting hand #32 (id: uql10qagi7nn)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T21:27:19.500Z,171338923950000
+"-- ending hand #31 --",2024-04-17T21:27:16.584Z,171338923658402
+"""dr. disrespect @ crFwBVVQqY"" collected 500 from pot",2024-04-17T21:27:16.584Z,171338923658401
+"Uncalled bet of 200 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-17T21:27:16.584Z,171338923658400
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:27:15.781Z,171338923578100
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:27:09.115Z,171338922911500
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:27:08.259Z,171338922825900
+"""dr. disrespect @ crFwBVVQqY"" raises to 400",2024-04-17T21:27:05.048Z,171338922504800
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:27:00.799Z,171338922079909
+"""codeyu @ DJmgVyLga0"" posts a big blind of 200",2024-04-17T21:27:00.799Z,171338922079908
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 100",2024-04-17T21:27:00.799Z,171338922079907
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (475) | #2 ""dr. disrespect @ crFwBVVQqY"" (2185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1105) | #6 ""JurgBean @ XWESiVcu1R"" (745) | #8 ""codeyu @ DJmgVyLga0"" (2770)",2024-04-17T21:27:00.799Z,171338922079901
+"-- starting hand #31 (id: 4qfvmoxhq9ai)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:27:00.799Z,171338922079900
+"-- ending hand #30 --",2024-04-17T21:26:54.788Z,171338921478804
+"""codeyu @ DJmgVyLga0"" shows a K♣, A♣.",2024-04-17T21:26:54.788Z,171338921478803
+"""Ekingz1 @ m3OcsLhCIV"" shows a 5♣, 10♣.",2024-04-17T21:26:54.788Z,171338921478802
+"""dr. disrespect @ crFwBVVQqY"" collected 800 from pot with Pair, 7's (combination: 7♦, 7♥, Q♦, J♥, 10♦)",2024-04-17T21:26:54.788Z,171338921478801
+"""dr. disrespect @ crFwBVVQqY"" shows a 7♦, 10♦.",2024-04-17T21:26:54.788Z,171338921478800
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:26:53.936Z,171338921393600
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:26:52.843Z,171338921284300
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:26:50.696Z,171338921069600
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:26:49.827Z,171338920982700
+"River: 8♥, 3♦, J♥, 7♥ [Q♦]",2024-04-17T21:26:46.127Z,171338920612700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:26:45.286Z,171338920528600
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:26:38.863Z,171338919886300
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:26:35.856Z,171338919585600
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:26:34.858Z,171338919485800
+"Turn: 8♥, 3♦, J♥ [7♥]",2024-04-17T21:26:30.660Z,171338919066000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:26:29.830Z,171338918983000
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:26:26.382Z,171338918638200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:26:24.728Z,171338918472800
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:26:23.876Z,171338918387600
+"Flop:  [8♥, 3♦, J♥]",2024-04-17T21:26:20.128Z,171338918012800
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:26:19.324Z,171338917932400
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:26:18.448Z,171338917844800
+"""dr. disrespect @ crFwBVVQqY"" calls 200",2024-04-17T21:26:06.346Z,171338916634600
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:26:05.297Z,171338916529700
+"""codeyu @ DJmgVyLga0"" calls 200",2024-04-17T21:26:04.466Z,171338916446600
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 200",2024-04-17T21:26:00.848Z,171338916084808
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 100",2024-04-17T21:26:00.848Z,171338916084807
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (475) | #2 ""dr. disrespect @ crFwBVVQqY"" (1585) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1305) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2970)",2024-04-17T21:26:00.848Z,171338916084801
+"-- starting hand #30 (id: ej2p1bswzlr0)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:26:00.848Z,171338916084800
+"-- ending hand #29 --",2024-04-17T21:25:57.923Z,171338915792302
+"""Ekingz1 @ m3OcsLhCIV"" collected 200 from pot",2024-04-17T21:25:57.923Z,171338915792301
+"Uncalled bet of 100 returned to ""Ekingz1 @ m3OcsLhCIV""",2024-04-17T21:25:57.923Z,171338915792300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:25:57.099Z,171338915709900
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:25:56.207Z,171338915620700
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:25:55.323Z,171338915532300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:25:53.929Z,171338915392900
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 200",2024-04-17T21:25:52.525Z,171338915252508
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 100",2024-04-17T21:25:52.525Z,171338915252507
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (475) | #2 ""dr. disrespect @ crFwBVVQqY"" (1685) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1205) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2970)",2024-04-17T21:25:52.525Z,171338915252501
+"-- starting hand #29 (id: mrslmcz0qlif)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:25:52.525Z,171338915252500
+"""Ekingz1 @ m3OcsLhCIV"" shows a K♦, 6♣.",2024-04-17T21:25:47.859Z,171338914785900
+"-- ending hand #28 --",2024-04-17T21:25:45.993Z,171338914599302
+"""dr. disrespect @ crFwBVVQqY"" collected 900 from pot with Pair, K's (combination: K♠, K♥, A♠, J♣, 9♠)",2024-04-17T21:25:45.993Z,171338914599301
+"""dr. disrespect @ crFwBVVQqY"" shows a K♠, 9♠.",2024-04-17T21:25:45.993Z,171338914599300
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:25:45.150Z,171338914515000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:25:43.203Z,171338914320300
+"River: J♣, K♥, A♠, 7♣ [5♠]",2024-04-17T21:25:41.027Z,171338914102700
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:25:40.224Z,171338914022400
+"""dr. disrespect @ crFwBVVQqY"" bets 200",2024-04-17T21:25:38.395Z,171338913839500
+"Turn: J♣, K♥, A♠ [7♣]",2024-04-17T21:25:34.794Z,171338913479400
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:25:33.947Z,171338913394700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:25:32.186Z,171338913218600
+"Flop:  [J♣, K♥, A♠]",2024-04-17T21:25:27.860Z,171338912786000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:25:27.030Z,171338912703000
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:25:25.412Z,171338912541200
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:25:24.600Z,171338912460000
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:25:23.623Z,171338912362300
+"""Ekingz1 @ m3OcsLhCIV"" calls 200",2024-04-17T21:25:22.788Z,171338912278800
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 200",2024-04-17T21:25:15.091Z,171338911509108
+"""CruJones @ AXNvirFFOh"" posts a small blind of 100",2024-04-17T21:25:15.091Z,171338911509107
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (575) | #2 ""dr. disrespect @ crFwBVVQqY"" (1185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1605) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2970)",2024-04-17T21:25:15.091Z,171338911509101
+"-- starting hand #28 (id: 63z1ehgv14tb)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:25:15.091Z,171338911509100
+"-- ending hand #27 --",2024-04-17T21:25:12.173Z,171338911217302
+"""codeyu @ DJmgVyLga0"" collected 400 from pot",2024-04-17T21:25:12.173Z,171338911217301
+"Uncalled bet of 200 returned to ""codeyu @ DJmgVyLga0""",2024-04-17T21:25:12.173Z,171338911217300
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:25:11.291Z,171338911129100
+"""codeyu @ DJmgVyLga0"" bets 200",2024-04-17T21:25:10.451Z,171338911045100
+"Flop:  [7♥, K♠, 3♥]",2024-04-17T21:25:09.790Z,171338910979000
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:25:08.974Z,171338910897400
+"""codeyu @ DJmgVyLga0"" calls 200",2024-04-17T21:24:53.127Z,171338909312700
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:24:50.568Z,171338909056800
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:24:49.719Z,171338908971900
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:24:44.410Z,171338908441000
+"""CruJones @ AXNvirFFOh"" posts a big blind of 200",2024-04-17T21:24:42.270Z,171338908227010
+"""codeyu @ DJmgVyLga0"" posts a small blind of 100",2024-04-17T21:24:42.270Z,171338908227009
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (775) | #2 ""dr. disrespect @ crFwBVVQqY"" (1185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1605) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2770)",2024-04-17T21:24:42.270Z,171338908227003
+"-- starting hand #27 (id: iujzbxgauz0p)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T21:24:42.270Z,171338908227002
+"The game's big blind was changed from 150 to 200.",2024-04-17T21:24:42.270Z,171338908227001
+"The game's small blind was changed from 75 to 100.",2024-04-17T21:24:42.270Z,171338908227000
+"-- ending hand #26 --",2024-04-17T21:24:39.341Z,171338907934102
+"""JurgBean @ XWESiVcu1R"" collected 300 from pot",2024-04-17T21:24:39.341Z,171338907934101
+"Uncalled bet of 300 returned to ""JurgBean @ XWESiVcu1R""",2024-04-17T21:24:39.341Z,171338907934100
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:24:38.503Z,171338907850300
+"""JurgBean @ XWESiVcu1R"" bets 300",2024-04-17T21:24:34.951Z,171338907495100
+"Flop:  [6♣, K♠, 5♦]",2024-04-17T21:24:31.627Z,171338907162700
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:24:30.798Z,171338907079800
+"""JurgBean @ XWESiVcu1R"" calls 150",2024-04-17T21:24:28.347Z,171338906834700
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:24:27.161Z,171338906716100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:24:20.414Z,171338906041400
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:24:04.507Z,171338904450700
+"""codeyu @ DJmgVyLga0"" posts a big blind of 150",2024-04-17T21:24:02.709Z,171338904270908
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 75",2024-04-17T21:24:02.709Z,171338904270907
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (775) | #2 ""dr. disrespect @ crFwBVVQqY"" (1185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1605) | #6 ""JurgBean @ XWESiVcu1R"" (795) | #8 ""codeyu @ DJmgVyLga0"" (2920)",2024-04-17T21:24:02.709Z,171338904270901
+"-- starting hand #26 (id: pxyzfnc3fx3m)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:24:02.709Z,171338904270900
+"-- ending hand #25 --",2024-04-17T21:23:59.795Z,171338903979502
+"""CruJones @ AXNvirFFOh"" collected 375 from pot",2024-04-17T21:23:59.795Z,171338903979501
+"Uncalled bet of 400 returned to ""CruJones @ AXNvirFFOh""",2024-04-17T21:23:59.795Z,171338903979500
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:23:58.927Z,171338903892700
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:23:53.718Z,171338903371800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:23:45.685Z,171338902568500
+"""CruJones @ AXNvirFFOh"" raises to 550 and go all in",2024-04-17T21:23:44.768Z,171338902476800
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:23:37.313Z,171338901731300
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 150",2024-04-17T21:23:34.994Z,171338901499408
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 75",2024-04-17T21:23:34.994Z,171338901499407
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (550) | #2 ""dr. disrespect @ crFwBVVQqY"" (1185) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1680) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2920)",2024-04-17T21:23:34.994Z,171338901499401
+"-- starting hand #25 (id: 9vuyabzhd4ed)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:23:34.994Z,171338901499400
+"""Ekingz1 @ m3OcsLhCIV"" shows a 8♥, 5♦.",2024-04-17T21:23:33.021Z,171338901302100
+"-- ending hand #24 --",2024-04-17T21:23:31.376Z,171338901137602
+"""CruJones @ AXNvirFFOh"" collected 375 from pot",2024-04-17T21:23:31.376Z,171338901137601
+"Uncalled bet of 175 returned to ""CruJones @ AXNvirFFOh""",2024-04-17T21:23:31.376Z,171338901137600
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:23:30.539Z,171338901053900
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:23:16.993Z,171338899699300
+"""CruJones @ AXNvirFFOh"" raises to 325 and go all in",2024-04-17T21:23:10.701Z,171338899070100
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:23:04.490Z,171338898449000
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:23:00.451Z,171338898045100
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 150",2024-04-17T21:22:53.293Z,171338897329308
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 75",2024-04-17T21:22:53.293Z,171338897329307
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (325) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1830) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2920)",2024-04-17T21:22:53.293Z,171338897329301
+"-- starting hand #24 (id: x6ethhbw4vjd)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:22:53.293Z,171338897329300
+"""Ekingz1 @ m3OcsLhCIV"" shows a 7♠, 5♦.",2024-04-17T21:22:50.498Z,171338897049800
+"""dr. disrespect @ crFwBVVQqY"" shows a 5♥, A♣.",2024-04-17T21:22:49.940Z,171338896994000
+"""JurgBean @ XWESiVcu1R"" shows a 8♥, 7♦.",2024-04-17T21:22:48.700Z,171338896870000
+"""codeyu @ DJmgVyLga0"" shows a K♦, 5♣.",2024-04-17T21:22:48.276Z,171338896827600
+"-- ending hand #23 --",2024-04-17T21:22:47.578Z,171338896757802
+"""codeyu @ DJmgVyLga0"" collected 1275 from pot",2024-04-17T21:22:47.578Z,171338896757801
+"Uncalled bet of 450 returned to ""codeyu @ DJmgVyLga0""",2024-04-17T21:22:47.578Z,171338896757800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:22:46.776Z,171338896677600
+"""codeyu @ DJmgVyLga0"" raises to 600",2024-04-17T21:22:30.937Z,171338895093700
+"""dr. disrespect @ crFwBVVQqY"" bets 150",2024-04-17T21:22:26.716Z,171338894671600
+"River: 3♦, 5♠, 6♠, 9♠ [K♣]",2024-04-17T21:22:25.665Z,171338894566500
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:22:24.799Z,171338894479900
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:22:22.578Z,171338894257800
+"Turn: 3♦, 5♠, 6♠ [9♠]",2024-04-17T21:22:19.593Z,171338893959300
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:22:18.769Z,171338893876900
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:22:15.762Z,171338893576200
+"Flop:  [3♦, 5♠, 6♠]",2024-04-17T21:22:10.933Z,171338893093300
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:22:10.098Z,171338893009800
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:22:08.825Z,171338892882500
+"""codeyu @ DJmgVyLga0"" calls 150",2024-04-17T21:22:07.996Z,171338892799600
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:22:05.311Z,171338892531100
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:22:04.439Z,171338892443900
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 150",2024-04-17T21:21:53.760Z,171338891376008
+"""CruJones @ AXNvirFFOh"" posts a small blind of 75",2024-04-17T21:21:53.760Z,171338891376007
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (400) | #2 ""dr. disrespect @ crFwBVVQqY"" (1860) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1830) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (2245)",2024-04-17T21:21:53.760Z,171338891376001
+"-- starting hand #23 (id: zk8rlo2cxknb)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:21:53.760Z,171338891376000
+"""codeyu @ DJmgVyLga0"" shows a K♥, Q♥.",2024-04-17T21:21:51.778Z,171338891177800
+"""Ekingz1 @ m3OcsLhCIV"" shows a K♣, 8♠.",2024-04-17T21:21:50.660Z,171338891066000
+"-- ending hand #22 --",2024-04-17T21:21:49.388Z,171338890938802
+"""codeyu @ DJmgVyLga0"" collected 750 from pot",2024-04-17T21:21:49.388Z,171338890938801
+"Uncalled bet of 750 returned to ""codeyu @ DJmgVyLga0""",2024-04-17T21:21:49.388Z,171338890938800
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:21:48.579Z,171338890857900
+"""codeyu @ DJmgVyLga0"" bets 750",2024-04-17T21:21:46.756Z,171338890675600
+"River: 7♥, J♥, J♣, 9♣ [9♥]",2024-04-17T21:21:39.973Z,171338889997300
+"""Ekingz1 @ m3OcsLhCIV"" calls 150",2024-04-17T21:21:39.160Z,171338889916000
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:21:36.262Z,171338889626200
+"""codeyu @ DJmgVyLga0"" bets 150",2024-04-17T21:21:35.393Z,171338889539300
+"Turn: 7♥, J♥, J♣ [9♣]",2024-04-17T21:21:34.342Z,171338889434200
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:21:33.467Z,171338889346700
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:21:31.172Z,171338889117200
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:21:30.351Z,171338889035100
+"Flop:  [7♥, J♥, J♣]",2024-04-17T21:21:27.770Z,171338888777000
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:21:26.935Z,171338888693500
+"""codeyu @ DJmgVyLga0"" calls 150",2024-04-17T21:21:11.054Z,171338887105400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:21:09.560Z,171338886956000
+"""Ekingz1 @ m3OcsLhCIV"" calls 150",2024-04-17T21:21:08.743Z,171338886874300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:20:58.720Z,171338885872000
+"""CruJones @ AXNvirFFOh"" posts a big blind of 150",2024-04-17T21:20:55.830Z,171338885583008
+"""codeyu @ DJmgVyLga0"" posts a small blind of 75",2024-04-17T21:20:55.830Z,171338885583007
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (550) | #2 ""dr. disrespect @ crFwBVVQqY"" (1860) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2130) | #6 ""JurgBean @ XWESiVcu1R"" (945) | #8 ""codeyu @ DJmgVyLga0"" (1795)",2024-04-17T21:20:55.830Z,171338885583001
+"-- starting hand #22 (id: ypxrzy9ni9ht)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T21:20:55.830Z,171338885583000
+"""Ekingz1 @ m3OcsLhCIV"" shows a 10♥, 9♣.",2024-04-17T21:20:52.592Z,171338885259200
+"""dr. disrespect @ crFwBVVQqY"" shows a J♠, 2♦.",2024-04-17T21:20:49.893Z,171338884989300
+"-- ending hand #21 --",2024-04-17T21:20:48.826Z,171338884882601
+"""codeyu @ DJmgVyLga0"" collected 1795 from pot with Pair, J's (combination: J♥, J♦, A♥, 10♦, 7♠)",2024-04-17T21:20:48.826Z,171338884882600
+"River: J♦, 3♥, A♥, 7♠ [2♣]",2024-04-17T21:20:44.801Z,171338884480100
+"""codeyu @ DJmgVyLga0"" shows a J♥, 10♦.",2024-04-17T21:20:40.793Z,171338884079301
+"""CruJones @ AXNvirFFOh"" shows a 8♠, 9♠.",2024-04-17T21:20:40.793Z,171338884079300
+"""codeyu @ DJmgVyLga0"" calls 260 and go all in",2024-04-17T21:20:39.973Z,171338883997300
+"""CruJones @ AXNvirFFOh"" bets 260",2024-04-17T21:20:29.155Z,171338882915500
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:20:23.497Z,171338882349700
+"Turn: J♦, 3♥, A♥ [7♠]",2024-04-17T21:20:18.961Z,171338881896100
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:20:18.137Z,171338881813700
+"""CruJones @ AXNvirFFOh"" raises to 300",2024-04-17T21:20:13.398Z,171338881339800
+"""codeyu @ DJmgVyLga0"" bets 150",2024-04-17T21:20:09.157Z,171338880915700
+"Flop:  [J♦, 3♥, A♥]",2024-04-17T21:20:06.757Z,171338880675700
+"""codeyu @ DJmgVyLga0"" calls 300",2024-04-17T21:20:05.943Z,171338880594300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:20:02.370Z,171338880237000
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:20:01.497Z,171338880149700
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:19:47.529Z,171338878752900
+"""CruJones @ AXNvirFFOh"" raises to 300",2024-04-17T21:19:39.447Z,171338877944700
+"""codeyu @ DJmgVyLga0"" posts a big blind of 150",2024-04-17T21:19:30.110Z,171338877011008
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 75",2024-04-17T21:19:30.110Z,171338877011007
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1410) | #2 ""dr. disrespect @ crFwBVVQqY"" (1860) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2130) | #6 ""JurgBean @ XWESiVcu1R"" (1020) | #8 ""codeyu @ DJmgVyLga0"" (860)",2024-04-17T21:19:30.110Z,171338877011001
+"-- starting hand #21 (id: onm7jfikdzlu)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:19:30.110Z,171338877011000
+"-- ending hand #20 --",2024-04-17T21:19:27.153Z,171338876715302
+"""Ekingz1 @ m3OcsLhCIV"" collected 300 from pot",2024-04-17T21:19:27.153Z,171338876715301
+"Uncalled bet of 150 returned to ""Ekingz1 @ m3OcsLhCIV""",2024-04-17T21:19:27.153Z,171338876715300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:19:26.329Z,171338876632900
+"""Ekingz1 @ m3OcsLhCIV"" bets 150",2024-04-17T21:19:25.484Z,171338876548400
+"Flop:  [A♥, 9♦, K♣]",2024-04-17T21:19:21.642Z,171338876164200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:19:20.805Z,171338876080500
+"""Ekingz1 @ m3OcsLhCIV"" calls 150",2024-04-17T21:19:19.943Z,171338875994300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:19:16.246Z,171338875624600
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:19:09.563Z,171338874956300
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:19:07.320Z,171338874732000
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 150",2024-04-17T21:19:04.622Z,171338874462210
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 75",2024-04-17T21:19:04.622Z,171338874462209
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1410) | #2 ""dr. disrespect @ crFwBVVQqY"" (1860) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1980) | #6 ""JurgBean @ XWESiVcu1R"" (1170) | #8 ""codeyu @ DJmgVyLga0"" (860)",2024-04-17T21:19:04.622Z,171338874462203
+"-- starting hand #20 (id: jojjvpyplyw2)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:19:04.622Z,171338874462202
+"The game's big blind was changed from 100 to 150.",2024-04-17T21:19:04.622Z,171338874462201
+"The game's small blind was changed from 50 to 75.",2024-04-17T21:19:04.622Z,171338874462200
+"""Ekingz1 @ m3OcsLhCIV"" shows a K♣, 6♦.",2024-04-17T21:18:59.554Z,171338873955400
+"""JurgBean @ XWESiVcu1R"" shows a 2♦, 3♣.",2024-04-17T21:18:57.793Z,171338873779300
+"-- ending hand #19 --",2024-04-17T21:18:57.613Z,171338873761302
+"""dr. disrespect @ crFwBVVQqY"" collected 400 from pot with Two Pair, 7's & 3's (combination: 7♦, 7♥, 3♥, 3♦, K♥)",2024-04-17T21:18:57.613Z,171338873761301
+"""dr. disrespect @ crFwBVVQqY"" shows a K♥, 7♦.",2024-04-17T21:18:57.613Z,171338873761300
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:18:56.797Z,171338873679700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:18:54.643Z,171338873464300
+"River: Q♣, 9♥, 3♥, 7♥ [3♦]",2024-04-17T21:18:50.244Z,171338873024400
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:18:49.425Z,171338872942500
+"""dr. disrespect @ crFwBVVQqY"" bets 100",2024-04-17T21:18:47.587Z,171338872758700
+"Turn: Q♣, 9♥, 3♥ [7♥]",2024-04-17T21:18:45.642Z,171338872564200
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:18:44.827Z,171338872482700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:18:41.474Z,171338872147400
+"Flop:  [Q♣, 9♥, 3♥]",2024-04-17T21:18:36.229Z,171338871622900
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:18:35.385Z,171338871538500
+"""dr. disrespect @ crFwBVVQqY"" calls 100",2024-04-17T21:18:32.617Z,171338871261700
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:18:29.192Z,171338870919200
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:18:28.164Z,171338870816400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:18:27.177Z,171338870717700
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 100",2024-04-17T21:18:25.507Z,171338870550708
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 50",2024-04-17T21:18:25.507Z,171338870550707
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1410) | #2 ""dr. disrespect @ crFwBVVQqY"" (1660) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2180) | #6 ""JurgBean @ XWESiVcu1R"" (1170) | #8 ""codeyu @ DJmgVyLga0"" (860)",2024-04-17T21:18:25.507Z,171338870550701
+"-- starting hand #19 (id: qeonobnmvwgm)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:18:25.507Z,171338870550700
+"""dr. disrespect @ crFwBVVQqY"" shows a A♣, Q♦.",2024-04-17T21:18:23.228Z,171338870322800
+"-- ending hand #18 --",2024-04-17T21:18:21.902Z,171338870190202
+"""dr. disrespect @ crFwBVVQqY"" collected 700 from pot",2024-04-17T21:18:21.902Z,171338870190201
+"Uncalled bet of 300 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-17T21:18:21.902Z,171338870190200
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:18:21.069Z,171338870106900
+"""dr. disrespect @ crFwBVVQqY"" bets 300",2024-04-17T21:18:20.245Z,171338870024500
+"Turn: 9♦, Q♥, Q♠ [K♠]",2024-04-17T21:18:12.399Z,171338869239900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:18:11.557Z,171338869155700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:18:10.731Z,171338869073100
+"Flop:  [9♦, Q♥, Q♠]",2024-04-17T21:18:04.038Z,171338868403800
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:18:03.224Z,171338868322400
+"""JurgBean @ XWESiVcu1R"" calls 300",2024-04-17T21:18:01.512Z,171338868151200
+"""dr. disrespect @ crFwBVVQqY"" raises to 300",2024-04-17T21:17:59.843Z,171338867984300
+"""CruJones @ AXNvirFFOh"" calls 100",2024-04-17T21:17:52.252Z,171338867225200
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:17:48.478Z,171338866847800
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-17T21:17:44.413Z,171338866441300
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:17:34.836Z,171338865483600
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 100",2024-04-17T21:17:31.297Z,171338865129708
+"""CruJones @ AXNvirFFOh"" posts a small blind of 50",2024-04-17T21:17:31.297Z,171338865129707
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1510) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2180) | #6 ""JurgBean @ XWESiVcu1R"" (1470) | #8 ""codeyu @ DJmgVyLga0"" (860)",2024-04-17T21:17:31.297Z,171338865129701
+"-- starting hand #18 (id: utsfiirot2ki)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:17:31.297Z,171338865129700
+"""Ekingz1 @ m3OcsLhCIV"" shows a 10♣, 10♦.",2024-04-17T21:17:28.756Z,171338864875600
+"""dr. disrespect @ crFwBVVQqY"" shows a 3♣, K♦.",2024-04-17T21:17:28.617Z,171338864861700
+"""codeyu @ DJmgVyLga0"" shows a 7♦, 8♦.",2024-04-17T21:17:26.766Z,171338864676600
+"-- ending hand #17 --",2024-04-17T21:17:26.254Z,171338864625402
+"""Ekingz1 @ m3OcsLhCIV"" collected 700 from pot",2024-04-17T21:17:26.254Z,171338864625401
+"Uncalled bet of 100 returned to ""Ekingz1 @ m3OcsLhCIV""",2024-04-17T21:17:26.254Z,171338864625400
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:17:25.438Z,171338864543800
+"""Ekingz1 @ m3OcsLhCIV"" bets 100",2024-04-17T21:17:23.666Z,171338864366600
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:17:13.518Z,171338863351800
+"River: 4♦, 2♥, 5♦, A♣ [5♠]",2024-04-17T21:17:07.936Z,171338862793600
+"""codeyu @ DJmgVyLga0"" calls 100",2024-04-17T21:17:07.127Z,171338862712700
+"""Ekingz1 @ m3OcsLhCIV"" bets 100",2024-04-17T21:17:01.666Z,171338862166600
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:16:59.463Z,171338861946300
+"Turn: 4♦, 2♥, 5♦ [A♣]",2024-04-17T21:16:55.524Z,171338861552400
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:16:54.682Z,171338861468200
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:16:52.574Z,171338861257400
+"""codeyu @ DJmgVyLga0"" bets 100",2024-04-17T21:16:49.127Z,171338860912700
+"Flop:  [4♦, 2♥, 5♦]",2024-04-17T21:16:43.767Z,171338860376700
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T21:16:42.945Z,171338860294500
+"""codeyu @ DJmgVyLga0"" calls 100",2024-04-17T21:16:41.289Z,171338860128900
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:16:38.274Z,171338859827400
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:16:37.400Z,171338859740000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:16:27.445Z,171338858744500
+"""CruJones @ AXNvirFFOh"" posts a big blind of 100",2024-04-17T21:16:22.785Z,171338858278508
+"""codeyu @ DJmgVyLga0"" posts a small blind of 50",2024-04-17T21:16:22.785Z,171338858278507
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1610) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1780) | #6 ""JurgBean @ XWESiVcu1R"" (1470) | #8 ""codeyu @ DJmgVyLga0"" (1160)",2024-04-17T21:16:22.785Z,171338858278501
+"-- starting hand #17 (id: vwlxcvcqug6w)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T21:16:22.785Z,171338858278500
+"""JurgBean @ XWESiVcu1R"" shows a 2♦, K♣.",2024-04-17T21:16:19.960Z,171338857996000
+"""Ekingz1 @ m3OcsLhCIV"" shows a K♠, 4♥.",2024-04-17T21:16:19.628Z,171338857962800
+"-- ending hand #16 --",2024-04-17T21:16:18.473Z,171338857847302
+"""JurgBean @ XWESiVcu1R"" collected 200 from pot",2024-04-17T21:16:18.473Z,171338857847301
+"Uncalled bet of 200 returned to ""JurgBean @ XWESiVcu1R""",2024-04-17T21:16:18.473Z,171338857847300
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:16:17.649Z,171338857764900
+"""JurgBean @ XWESiVcu1R"" bets 200",2024-04-17T21:16:14.884Z,171338857488400
+"River: K♦, 6♣, K♥, 8♥ [4♠]",2024-04-17T21:16:11.871Z,171338857187100
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:16:11.048Z,171338857104800
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:16:09.030Z,171338856903000
+"Turn: K♦, 6♣, K♥ [8♥]",2024-04-17T21:16:07.690Z,171338856769000
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:16:06.863Z,171338856686300
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:16:05.352Z,171338856535200
+"Flop:  [K♦, 6♣, K♥]",2024-04-17T21:16:02.841Z,171338856284100
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:16:01.970Z,171338856197000
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-17T21:15:57.977Z,171338855797700
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:15:57.125Z,171338855712500
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:15:42.150Z,171338854215000
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:15:41.231Z,171338854123100
+"""codeyu @ DJmgVyLga0"" posts a big blind of 100",2024-04-17T21:15:29.385Z,171338852938508
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 50",2024-04-17T21:15:29.385Z,171338852938507
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1610) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1780) | #6 ""JurgBean @ XWESiVcu1R"" (1370) | #8 ""codeyu @ DJmgVyLga0"" (1260)",2024-04-17T21:15:29.385Z,171338852938501
+"-- starting hand #16 (id: q9l8rwtwxmtq)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:15:29.385Z,171338852938500
+"-- ending hand #15 --",2024-04-17T21:15:26.437Z,171338852643702
+"""Ekingz1 @ m3OcsLhCIV"" collected 300 from pot",2024-04-17T21:15:26.437Z,171338852643701
+"Uncalled bet of 100 returned to ""Ekingz1 @ m3OcsLhCIV""",2024-04-17T21:15:26.437Z,171338852643700
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:15:25.575Z,171338852557500
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:15:20.257Z,171338852025700
+"""Ekingz1 @ m3OcsLhCIV"" bets 100",2024-04-17T21:15:17.207Z,171338851720700
+"Turn: 6♦, 6♥, 10♥ [A♥]",2024-04-17T21:15:12.094Z,171338851209400
+"""codeyu @ DJmgVyLga0"" checks",2024-04-17T21:15:11.275Z,171338851127500
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:15:09.709Z,171338850970900
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:15:08.867Z,171338850886700
+"Flop:  [6♦, 6♥, 10♥]",2024-04-17T21:14:57.189Z,171338849718900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:14:56.317Z,171338849631700
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:14:55.471Z,171338849547100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:14:52.011Z,171338849201100
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:14:49.213Z,171338848921300
+"""codeyu @ DJmgVyLga0"" calls 100",2024-04-17T21:14:47.476Z,171338848747600
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 100",2024-04-17T21:14:41.277Z,171338848127709
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 50",2024-04-17T21:14:41.277Z,171338848127708
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1610) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1580) | #6 ""JurgBean @ XWESiVcu1R"" (1470) | #8 ""codeyu @ DJmgVyLga0"" (1360)",2024-04-17T21:14:41.277Z,171338848127702
+"-- starting hand #15 (id: ox2ffbljir1v)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:14:41.277Z,171338848127701
+"The player ""Pinnochio @ TwP4kVW77g"" quits the game with a stack of 0.",2024-04-17T21:14:41.277Z,171338848127700
+"""Ekingz1 @ m3OcsLhCIV"" shows a 6♦, 9♥.",2024-04-17T21:14:37.081Z,171338847708100
+"""dr. disrespect @ crFwBVVQqY"" shows a J♣, 3♠.",2024-04-17T21:14:35.184Z,171338847518400
+"-- ending hand #14 --",2024-04-17T21:14:34.270Z,171338847427001
+"""CruJones @ AXNvirFFOh"" collected 1140 from pot with Two Pair, A's & J's (combination: A♥, A♦, J♠, J♦, Q♠)",2024-04-17T21:14:34.270Z,171338847427000
+"River: 5♣, A♦, 2♥, J♠ [J♦]",2024-04-17T21:14:30.232Z,171338847023200
+"Turn: 5♣, A♦, 2♥ [J♠]",2024-04-17T21:14:26.193Z,171338846619300
+"""Pinnochio @ TwP4kVW77g"" shows a Q♣, Q♥.",2024-04-17T21:14:22.182Z,171338846218202
+"""CruJones @ AXNvirFFOh"" shows a Q♠, A♥.",2024-04-17T21:14:22.182Z,171338846218201
+"Uncalled bet of 470 returned to ""CruJones @ AXNvirFFOh""",2024-04-17T21:14:22.182Z,171338846218200
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:14:21.342Z,171338846134200
+"""CruJones @ AXNvirFFOh"" bets 470 and go all in",2024-04-17T21:14:19.625Z,171338845962500
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:14:15.276Z,171338845527600
+"Flop:  [5♣, A♦, 2♥]",2024-04-17T21:14:05.026Z,171338844502600
+"""CruJones @ AXNvirFFOh"" calls 380",2024-04-17T21:14:04.191Z,171338844419100
+"""Ekingz1 @ m3OcsLhCIV"" calls 380",2024-04-17T21:13:57.578Z,171338843757800
+"""Pinnochio @ TwP4kVW77g"" raises to 380 and go all in",2024-04-17T21:13:49.866Z,171338842986600
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:13:46.516Z,171338842651600
+"""CruJones @ AXNvirFFOh"" raises to 200",2024-04-17T21:13:40.526Z,171338842052600
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:13:35.938Z,171338841593800
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:13:31.785Z,171338841178500
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 100",2024-04-17T21:13:29.857Z,171338840985711
+"""Pinnochio @ TwP4kVW77g"" posts a small blind of 50",2024-04-17T21:13:29.857Z,171338840985710
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (850) | #2 ""dr. disrespect @ crFwBVVQqY"" (1260) | #3 ""Pinnochio @ TwP4kVW77g"" (380) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1960) | #6 ""JurgBean @ XWESiVcu1R"" (1470) | #8 ""codeyu @ DJmgVyLga0"" (1360)",2024-04-17T21:13:29.857Z,171338840985703
+"-- starting hand #14 (id: 6cmmmoyghlqr)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:13:29.857Z,171338840985702
+"The game's big blind was changed from 60 to 100.",2024-04-17T21:13:29.857Z,171338840985701
+"The game's small blind was changed from 30 to 50.",2024-04-17T21:13:29.857Z,171338840985700
+"""Ekingz1 @ m3OcsLhCIV"" shows a 4♠, 6♦.",2024-04-17T21:13:25.749Z,171338840574900
+"-- ending hand #13 --",2024-04-17T21:13:23.354Z,171338840335404
+"""JurgBean @ XWESiVcu1R"" shows a Q♣, J♦.",2024-04-17T21:13:23.354Z,171338840335403
+"""codeyu @ DJmgVyLga0"" collected 1360 from pot with Pair, J's (combination: J♠, J♣, 10♠, 8♥, 7♥)",2024-04-17T21:13:23.354Z,171338840335402
+"""codeyu @ DJmgVyLga0"" shows a J♠, J♣.",2024-04-17T21:13:23.354Z,171338840335401
+"Uncalled bet of 10 returned to ""JurgBean @ XWESiVcu1R""",2024-04-17T21:13:23.354Z,171338840335400
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:13:22.536Z,171338840253600
+"""codeyu @ DJmgVyLga0"" calls 110 and go all in",2024-04-17T21:13:18.888Z,171338839888800
+"""JurgBean @ XWESiVcu1R"" bets 120",2024-04-17T21:13:03.442Z,171338838344200
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:12:59.346Z,171338837934600
+"River: 3♠, 6♣, 10♠, 7♥ [8♥]",2024-04-17T21:12:47.392Z,171338836739200
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-17T21:12:46.549Z,171338836654900
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:12:45.674Z,171338836567400
+"""codeyu @ DJmgVyLga0"" bets 100",2024-04-17T21:12:42.839Z,171338836283900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:12:37.179Z,171338835717900
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:12:36.303Z,171338835630300
+"Turn: 3♠, 6♣, 10♠ [7♥]",2024-04-17T21:12:27.756Z,171338834775600
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-17T21:12:26.905Z,171338834690500
+"""Ekingz1 @ m3OcsLhCIV"" calls 100",2024-04-17T21:12:26.082Z,171338834608200
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:12:24.117Z,171338834411700
+"""codeyu @ DJmgVyLga0"" bets 100",2024-04-17T21:12:22.849Z,171338834284900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:12:19.358Z,171338833935800
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:12:18.133Z,171338833813300
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:12:15.213Z,171338833521300
+"Flop:  [3♠, 6♣, 10♠]",2024-04-17T21:12:09.681Z,171338832968100
+"""Ekingz1 @ m3OcsLhCIV"" calls 120",2024-04-17T21:12:08.835Z,171338832883500
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:12:06.046Z,171338832604600
+"""dr. disrespect @ crFwBVVQqY"" calls 120",2024-04-17T21:12:04.561Z,171338832456100
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:12:01.141Z,171338832114100
+"""codeyu @ DJmgVyLga0"" calls 120",2024-04-17T21:11:56.879Z,171338831687900
+"""JurgBean @ XWESiVcu1R"" raises to 120",2024-04-17T21:11:54.042Z,171338831404200
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:11:52.350Z,171338831235000
+"""Pinnochio @ TwP4kVW77g"" posts a big blind of 60",2024-04-17T21:11:46.072Z,171338830607209
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 30",2024-04-17T21:11:46.072Z,171338830607208
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (850) | #2 ""dr. disrespect @ crFwBVVQqY"" (1380) | #3 ""Pinnochio @ TwP4kVW77g"" (440) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2280) | #6 ""JurgBean @ XWESiVcu1R"" (1900) | #8 ""codeyu @ DJmgVyLga0"" (430)",2024-04-17T21:11:46.072Z,171338830607201
+"-- starting hand #13 (id: ysormu8hk78h)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:11:46.072Z,171338830607200
+"""Pinnochio @ TwP4kVW77g"" shows a K♦, 8♥.",2024-04-17T21:11:44.129Z,171338830412900
+"-- ending hand #12 --",2024-04-17T21:11:42.469Z,171338830246902
+"""Pinnochio @ TwP4kVW77g"" collected 210 from pot",2024-04-17T21:11:42.469Z,171338830246901
+"Uncalled bet of 230 returned to ""Pinnochio @ TwP4kVW77g""",2024-04-17T21:11:42.469Z,171338830246900
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:11:41.645Z,171338830164500
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:11:35.794Z,171338829579400
+"""Pinnochio @ TwP4kVW77g"" bets 230 and go all in",2024-04-17T21:11:34.666Z,171338829466600
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:11:30.953Z,171338829095300
+"Flop:  [2♦, 3♣, 2♠]",2024-04-17T21:11:25.896Z,171338828589600
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:11:25.072Z,171338828507200
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:11:23.200Z,171338828320000
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:11:17.587Z,171338827758700
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-17T21:11:16.600Z,171338827660000
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:11:15.744Z,171338827574400
+"""Pinnochio @ TwP4kVW77g"" calls 60",2024-04-17T21:11:09.983Z,171338826998300
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 60",2024-04-17T21:10:59.564Z,171338825956409
+"""CruJones @ AXNvirFFOh"" posts a small blind of 30",2024-04-17T21:10:59.564Z,171338825956408
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (880) | #2 ""dr. disrespect @ crFwBVVQqY"" (1440) | #3 ""Pinnochio @ TwP4kVW77g"" (290) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2280) | #6 ""JurgBean @ XWESiVcu1R"" (1960) | #8 ""codeyu @ DJmgVyLga0"" (430)",2024-04-17T21:10:59.564Z,171338825956401
+"-- starting hand #12 (id: qn67uuqor81s)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T21:10:59.564Z,171338825956400
+"""JurgBean @ XWESiVcu1R"" shows a Q♦, Q♣.",2024-04-17T21:10:57.357Z,171338825735700
+"""Pinnochio @ TwP4kVW77g"" shows a 4♦, 8♣.",2024-04-17T21:10:56.734Z,171338825673400
+"""dr. disrespect @ crFwBVVQqY"" shows a A♦, 7♥.",2024-04-17T21:10:56.056Z,171338825605600
+"""Ekingz1 @ m3OcsLhCIV"" shows a 2♠, 6♣.",2024-04-17T21:10:54.985Z,171338825498500
+"-- ending hand #11 --",2024-04-17T21:10:53.805Z,171338825380502
+"""JurgBean @ XWESiVcu1R"" collected 450 from pot",2024-04-17T21:10:53.805Z,171338825380501
+"Uncalled bet of 60 returned to ""JurgBean @ XWESiVcu1R""",2024-04-17T21:10:53.805Z,171338825380500
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:10:52.985Z,171338825298500
+"""JurgBean @ XWESiVcu1R"" bets 60",2024-04-17T21:10:49.236Z,171338824923600
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:10:47.794Z,171338824779400
+"Flop:  [J♣, 7♦, A♥]",2024-04-17T21:10:45.606Z,171338824560600
+"""Ekingz1 @ m3OcsLhCIV"" calls 180",2024-04-17T21:10:44.779Z,171338824477900
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:10:42.259Z,171338824225900
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:10:33.720Z,171338823372000
+"""JurgBean @ XWESiVcu1R"" raises to 180",2024-04-17T21:10:29.345Z,171338822934500
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:10:26.353Z,171338822635300
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:10:13.480Z,171338821348000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:10:09.281Z,171338820928100
+"""CruJones @ AXNvirFFOh"" posts a big blind of 60",2024-04-17T21:10:06.352Z,171338820635210
+"""codeyu @ DJmgVyLga0"" posts a small blind of 30",2024-04-17T21:10:06.352Z,171338820635209
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (940) | #2 ""dr. disrespect @ crFwBVVQqY"" (1440) | #3 ""Pinnochio @ TwP4kVW77g"" (290) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2460) | #6 ""JurgBean @ XWESiVcu1R"" (1690) | #8 ""codeyu @ DJmgVyLga0"" (460)",2024-04-17T21:10:06.352Z,171338820635202
+"-- starting hand #11 (id: jgtuxicitpxp)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:10:06.352Z,171338820635201
+"The player ""Pokerinio @ zfbUAAWDl6"" quits the game with a stack of 0.",2024-04-17T21:10:06.352Z,171338820635200
+"-- ending hand #10 --",2024-04-17T21:10:00.342Z,171338820034203
+"""Pokerinio @ zfbUAAWDl6"" shows a A♦, A♥.",2024-04-17T21:10:00.342Z,171338820034202
+"""Ekingz1 @ m3OcsLhCIV"" collected 1960 from pot with Full House, J's over 9's (combination: J♥, J♣, J♦, 9♥, 9♠)",2024-04-17T21:10:00.342Z,171338820034201
+"""Ekingz1 @ m3OcsLhCIV"" shows a J♥, J♣.",2024-04-17T21:10:00.342Z,171338820034200
+"""Ekingz1 @ m3OcsLhCIV"" calls 280",2024-04-17T21:09:59.535Z,171338819953500
+"""Pokerinio @ zfbUAAWDl6"" bets 280 and go all in",2024-04-17T21:09:57.609Z,171338819760900
+"River: J♦, K♠, 9♥, 9♠ [4♣]",2024-04-17T21:09:46.899Z,171338818689900
+"""Pokerinio @ zfbUAAWDl6"" calls 400",2024-04-17T21:09:46.029Z,171338818602900
+"""Ekingz1 @ m3OcsLhCIV"" raises to 400",2024-04-17T21:09:44.607Z,171338818460700
+"""Pokerinio @ zfbUAAWDl6"" bets 200",2024-04-17T21:09:39.014Z,171338817901400
+"Turn: J♦, K♠, 9♥ [9♠]",2024-04-17T21:09:32.340Z,171338817234000
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:09:31.494Z,171338817149400
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:09:26.386Z,171338816638600
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:09:14.969Z,171338815496900
+"""Pokerinio @ zfbUAAWDl6"" bets 60",2024-04-17T21:09:06.546Z,171338814654600
+"Flop:  [J♦, K♠, 9♥]",2024-04-17T21:09:03.775Z,171338814377500
+"""codeyu @ DJmgVyLga0"" calls 120",2024-04-17T21:09:02.939Z,171338814293900
+"""Pokerinio @ zfbUAAWDl6"" calls 120",2024-04-17T21:08:59.430Z,171338813943000
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:08:58.384Z,171338813838400
+"""Ekingz1 @ m3OcsLhCIV"" calls 120",2024-04-17T21:08:57.515Z,171338813751500
+"""Pinnochio @ TwP4kVW77g"" raises to 120",2024-04-17T21:08:53.820Z,171338813382000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:08:44.914Z,171338812491400
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:08:43.756Z,171338812375600
+"""codeyu @ DJmgVyLga0"" posts a big blind of 60",2024-04-17T21:08:28.727Z,171338810872710
+"""Pokerinio @ zfbUAAWDl6"" posts a small blind of 30",2024-04-17T21:08:28.727Z,171338810872709
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (940) | #2 ""dr. disrespect @ crFwBVVQqY"" (1440) | #3 ""Pinnochio @ TwP4kVW77g"" (410) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1360) | #6 ""JurgBean @ XWESiVcu1R"" (1690) | #7 ""Pokerinio @ zfbUAAWDl6"" (860) | #8 ""codeyu @ DJmgVyLga0"" (580)",2024-04-17T21:08:28.727Z,171338810872701
+"-- starting hand #10 (id: r8du9suleeoz)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T21:08:28.727Z,171338810872700
+"""dr. disrespect @ crFwBVVQqY"" shows a 7♥, 7♦.",2024-04-17T21:08:24.640Z,171338810464000
+"-- ending hand #9 --",2024-04-17T21:08:22.161Z,171338810216104
+"""Pokerinio @ zfbUAAWDl6"" collected 390 from pot with Two Pair, A's & 10's (combination: A♥, A♠, 10♣, 10♠, J♠)",2024-04-17T21:08:22.161Z,171338810216103
+"""Pokerinio @ zfbUAAWDl6"" shows a 3♣, A♥.",2024-04-17T21:08:22.161Z,171338810216102
+"""Ekingz1 @ m3OcsLhCIV"" collected 390 from pot with Two Pair, A's & 10's (combination: A♦, A♠, 10♣, 10♠, J♠)",2024-04-17T21:08:22.161Z,171338810216101
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♦, 5♠.",2024-04-17T21:08:22.161Z,171338810216100
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:08:21.338Z,171338810133800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:08:17.387Z,171338809738700
+"""Pokerinio @ zfbUAAWDl6"" bets 60",2024-04-17T21:08:10.180Z,171338809018000
+"River: 10♣, 10♠, 6♥, A♠ [J♠]",2024-04-17T21:08:08.584Z,171338808858400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:08:07.768Z,171338808776800
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:08:06.892Z,171338808689200
+"""dr. disrespect @ crFwBVVQqY"" calls 60",2024-04-17T21:08:04.602Z,171338808460200
+"""Pokerinio @ zfbUAAWDl6"" bets 60",2024-04-17T21:08:02.893Z,171338808289300
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:08:01.280Z,171338808128000
+"Turn: 10♣, 10♠, 6♥ [A♠]",2024-04-17T21:07:59.530Z,171338807953000
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-17T21:07:58.709Z,171338807870900
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:07:55.761Z,171338807576100
+"""dr. disrespect @ crFwBVVQqY"" calls 60",2024-04-17T21:07:51.678Z,171338807167800
+"""Pokerinio @ zfbUAAWDl6"" bets 60",2024-04-17T21:07:45.057Z,171338806505700
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:07:43.226Z,171338806322600
+"Flop:  [10♣, 10♠, 6♥]",2024-04-17T21:07:40.949Z,171338806094900
+"""Pokerinio @ zfbUAAWDl6"" checks",2024-04-17T21:07:40.110Z,171338806011000
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-17T21:07:39.157Z,171338805915700
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-17T21:07:35.836Z,171338805583600
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:07:27.883Z,171338804788300
+"""dr. disrespect @ crFwBVVQqY"" calls 60",2024-04-17T21:07:26.375Z,171338804637500
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:07:25.071Z,171338804507100
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:07:24.148Z,171338804414800
+"""Pokerinio @ zfbUAAWDl6"" posts a big blind of 60",2024-04-17T21:07:18.385Z,171338803838512
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 30",2024-04-17T21:07:18.385Z,171338803838511
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (940) | #2 ""dr. disrespect @ crFwBVVQqY"" (1620) | #3 ""Pinnochio @ TwP4kVW77g"" (410) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1210) | #6 ""JurgBean @ XWESiVcu1R"" (1810) | #7 ""Pokerinio @ zfbUAAWDl6"" (710) | #8 ""codeyu @ DJmgVyLga0"" (580)",2024-04-17T21:07:18.385Z,171338803838503
+"-- starting hand #9 (id: tp9ogzv00eis)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T21:07:18.385Z,171338803838502
+"The game's big blind was changed from 40 to 60.",2024-04-17T21:07:18.385Z,171338803838501
+"The game's small blind was changed from 20 to 30.",2024-04-17T21:07:18.385Z,171338803838500
+"""Ekingz1 @ m3OcsLhCIV"" shows a 5♠, A♥.",2024-04-17T21:07:13.594Z,171338803359400
+"-- ending hand #8 --",2024-04-17T21:07:11.843Z,171338803184302
+"""JurgBean @ XWESiVcu1R"" collected 400 from pot with Two Pair, 8's & 7's (combination: 8♥, 8♣, 7♠, 7♥, K♠)",2024-04-17T21:07:11.843Z,171338803184301
+"""JurgBean @ XWESiVcu1R"" shows a 8♥, 4♠.",2024-04-17T21:07:11.843Z,171338803184300
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-17T21:07:11.033Z,171338803103300
+"""JurgBean @ XWESiVcu1R"" bets 40",2024-04-17T21:07:09.197Z,171338802919700
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:07:07.622Z,171338802762200
+"River: 8♣, 7♠, 7♥, 9♥ [K♠]",2024-04-17T21:07:03.967Z,171338802396700
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:07:03.157Z,171338802315700
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:07:02.199Z,171338802219900
+"Turn: 8♣, 7♠, 7♥ [9♥]",2024-04-17T21:06:58.587Z,171338801858700
+"""Ekingz1 @ m3OcsLhCIV"" calls 80",2024-04-17T21:06:57.781Z,171338801778100
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:06:46.111Z,171338800611100
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:06:41.455Z,171338800145500
+"""JurgBean @ XWESiVcu1R"" bets 80",2024-04-17T21:06:32.640Z,171338799264000
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:06:28.613Z,171338798861300
+"Flop:  [8♣, 7♠, 7♥]",2024-04-17T21:06:22.384Z,171338798238400
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T21:06:21.541Z,171338798154100
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-17T21:06:20.704Z,171338798070400
+"""Pinnochio @ TwP4kVW77g"" calls 40",2024-04-17T21:06:18.174Z,171338797817400
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:06:09.762Z,171338796976200
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:06:06.710Z,171338796671000
+"""codeyu @ DJmgVyLga0"" calls 40",2024-04-17T21:05:50.802Z,171338795080200
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T21:05:46.614Z,171338794661400
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 40",2024-04-17T21:05:41.707Z,171338794170710
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 20",2024-04-17T21:05:41.707Z,171338794170709
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (940) | #2 ""dr. disrespect @ crFwBVVQqY"" (1620) | #3 ""Pinnochio @ TwP4kVW77g"" (450) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1370) | #6 ""JurgBean @ XWESiVcu1R"" (1570) | #7 ""Pokerinio @ zfbUAAWDl6"" (710) | #8 ""codeyu @ DJmgVyLga0"" (620)",2024-04-17T21:05:41.707Z,171338794170701
+"-- starting hand #8 (id: ls8zoahqpgsy)  (No Limit Texas Hold'em) (dead button) --",2024-04-17T21:05:41.707Z,171338794170700
+"""JurgBean @ XWESiVcu1R"" shows a A♦, 2♣.",2024-04-17T21:05:35.675Z,171338793567500
+"-- ending hand #7 --",2024-04-17T21:05:35.166Z,171338793516601
+"""dr. disrespect @ crFwBVVQqY"" collected 1620 from pot with Full House, A's over K's (combination: A♣, A♥, A♠, K♣, K♥)",2024-04-17T21:05:35.166Z,171338793516600
+"River: A♣, 4♥, 8♦, A♥ [A♠]",2024-04-17T21:05:31.120Z,171338793112000
+"""Ekingz1 @ m3OcsLhCIV"" shows a 3♦, 3♥.",2024-04-17T21:05:27.109Z,171338792710901
+"""dr. disrespect @ crFwBVVQqY"" shows a K♣, K♥.",2024-04-17T21:05:27.109Z,171338792710900
+"""Ekingz1 @ m3OcsLhCIV"" calls 530",2024-04-17T21:05:26.295Z,171338792629500
+"""dr. disrespect @ crFwBVVQqY"" bets 530 and go all in",2024-04-17T21:05:19.218Z,171338791921800
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:05:13.553Z,171338791355300
+"Turn: A♣, 4♥, 8♦ [A♥]",2024-04-17T21:05:08.253Z,171338790825300
+"""Ekingz1 @ m3OcsLhCIV"" calls 120",2024-04-17T21:05:07.431Z,171338790743100
+"""dr. disrespect @ crFwBVVQqY"" bets 120",2024-04-17T21:05:04.244Z,171338790424400
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-17T21:04:53.973Z,171338789397300
+"Flop:  [A♣, 4♥, 8♦]",2024-04-17T21:04:41.004Z,171338788100400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:04:40.199Z,171338788019900
+"""Ekingz1 @ m3OcsLhCIV"" calls 140",2024-04-17T21:04:31.252Z,171338787125200
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:04:17.663Z,171338785766300
+"""dr. disrespect @ crFwBVVQqY"" raises to 140",2024-04-17T21:04:14.306Z,171338785430600
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:04:10.228Z,171338785022800
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:04:09.208Z,171338784920800
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T21:04:08.207Z,171338784820700
+"""JurgBean @ XWESiVcu1R"" calls 40",2024-04-17T21:04:07.286Z,171338784728600
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 40",2024-04-17T21:03:58.820Z,171338783882011
+"Dead Small Blind",2024-04-17T21:03:58.820Z,171338783882010
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (940) | #2 ""dr. disrespect @ crFwBVVQqY"" (790) | #3 ""Pinnochio @ TwP4kVW77g"" (450) | #5 ""Ekingz1 @ m3OcsLhCIV"" (2160) | #6 ""JurgBean @ XWESiVcu1R"" (1610) | #7 ""Pokerinio @ zfbUAAWDl6"" (710) | #8 ""codeyu @ DJmgVyLga0"" (620)",2024-04-17T21:03:58.820Z,171338783882002
+"-- starting hand #7 (id: daesnidoyext)  (No Limit Texas Hold'em) (dealer: ""Pinnochio @ TwP4kVW77g"") --",2024-04-17T21:03:58.820Z,171338783882001
+"The player ""davisleland @ SFp_6_KXgs"" quits the game with a stack of 720.",2024-04-17T21:03:58.820Z,171338783882000
+"-- ending hand #6 --",2024-04-17T21:03:52.731Z,171338783273101
+"""Ekingz1 @ m3OcsLhCIV"" collected 2160 from pot with Three of a Kind, J's (combination: J♥, J♣, J♦, Q♠, 7♥)",2024-04-17T21:03:52.731Z,171338783273100
+"River: 5♣, 7♥, Q♠, J♦ [4♣]",2024-04-17T21:03:48.722Z,171338782872200
+"""Ekingz1 @ m3OcsLhCIV"" shows a J♥, J♣.",2024-04-17T21:03:44.715Z,171338782471501
+"""Pinnochio @ TwP4kVW77g"" shows a K♦, Q♣.",2024-04-17T21:03:44.715Z,171338782471500
+"""Pinnochio @ TwP4kVW77g"" calls 670",2024-04-17T21:03:43.900Z,171338782390000
+"""Ekingz1 @ m3OcsLhCIV"" raises to 670 and go all in",2024-04-17T21:03:40.131Z,171338782013100
+"""Pinnochio @ TwP4kVW77g"" bets 400",2024-04-17T21:03:36.712Z,171338781671200
+"Turn: 5♣, 7♥, Q♠ [J♦]",2024-04-17T21:03:27.163Z,171338780716300
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:03:26.341Z,171338780634100
+"""Ekingz1 @ m3OcsLhCIV"" calls 250",2024-04-17T21:03:17.923Z,171338779792300
+"""davisleland @ SFp_6_KXgs"" folds",2024-04-17T21:03:04.538Z,171338778453800
+"""Pinnochio @ TwP4kVW77g"" bets 250",2024-04-17T21:02:59.014Z,171338777901400
+"Flop:  [5♣, 7♥, Q♠]",2024-04-17T21:02:47.009Z,171338776700900
+"""Ekingz1 @ m3OcsLhCIV"" calls 80",2024-04-17T21:02:46.183Z,171338776618300
+"""davisleland @ SFp_6_KXgs"" calls 80",2024-04-17T21:02:41.271Z,171338776127100
+"""Pinnochio @ TwP4kVW77g"" calls 80",2024-04-17T21:02:36.997Z,171338775699700
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:02:33.550Z,171338775355000
+"""CruJones @ AXNvirFFOh"" raises to 80",2024-04-17T21:02:32.605Z,171338775260500
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T21:02:26.264Z,171338774626400
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T21:02:23.056Z,171338774305600
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T21:02:22.092Z,171338774209200
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-17T21:02:21.256Z,171338774125600
+"""davisleland @ SFp_6_KXgs"" posts a big blind of 40",2024-04-17T21:02:11.579Z,171338773157913
+"""Pinnochio @ TwP4kVW77g"" posts a small blind of 20",2024-04-17T21:02:11.579Z,171338773157912
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1020) | #2 ""dr. disrespect @ crFwBVVQqY"" (790) | #3 ""Pinnochio @ TwP4kVW77g"" (1450) | #4 ""davisleland @ SFp_6_KXgs"" (800) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (1610) | #7 ""Pokerinio @ zfbUAAWDl6"" (710) | #8 ""codeyu @ DJmgVyLga0"" (620)",2024-04-17T21:02:11.579Z,171338773157903
+"-- starting hand #6 (id: cw7m4fxm8eu9)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-17T21:02:11.579Z,171338773157902
+"The game's big blind was changed from 20 to 40.",2024-04-17T21:02:11.579Z,171338773157901
+"The game's small blind was changed from 10 to 20.",2024-04-17T21:02:11.579Z,171338773157900
+"-- ending hand #5 --",2024-04-17T21:02:05.572Z,171338772557202
+"""JurgBean @ XWESiVcu1R"" collected 980 from pot with Straight, 5 High (combination: 5♠, 4♠, 3♣, 2♥, A♣)",2024-04-17T21:02:05.572Z,171338772557201
+"""JurgBean @ XWESiVcu1R"" shows a A♣, 4♠.",2024-04-17T21:02:05.572Z,171338772557200
+"""davisleland @ SFp_6_KXgs"" folds",2024-04-17T21:02:04.760Z,171338772476000
+"""codeyu @ DJmgVyLga0"" calls 100",2024-04-17T21:02:02.213Z,171338772221300
+"""JurgBean @ XWESiVcu1R"" bets 100",2024-04-17T21:02:00.736Z,171338772073600
+"""davisleland @ SFp_6_KXgs"" checks",2024-04-17T21:01:57.538Z,171338771753800
+"River: 10♥, 3♣, 5♠, 2♥ [2♦]",2024-04-17T21:01:50.211Z,171338771021100
+"""codeyu @ DJmgVyLga0"" calls 110",2024-04-17T21:01:49.401Z,171338770940100
+"""JurgBean @ XWESiVcu1R"" calls 110",2024-04-17T21:01:44.217Z,171338770421700
+"""davisleland @ SFp_6_KXgs"" bets 110",2024-04-17T21:01:43.009Z,171338770300900
+"Turn: 10♥, 3♣, 5♠ [2♥]",2024-04-17T21:01:32.838Z,171338769283800
+"""codeyu @ DJmgVyLga0"" calls 80",2024-04-17T21:01:32.013Z,171338769201300
+"""JurgBean @ XWESiVcu1R"" calls 80",2024-04-17T21:01:29.019Z,171338768901900
+"""davisleland @ SFp_6_KXgs"" bets 80",2024-04-17T21:01:28.012Z,171338768801200
+"Flop:  [10♥, 3♣, 5♠]",2024-04-17T21:01:18.568Z,171338767856800
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T21:01:17.732Z,171338767773200
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:01:07.640Z,171338766764000
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T21:01:06.665Z,171338766666500
+"""codeyu @ DJmgVyLga0"" calls 60",2024-04-17T21:01:04.131Z,171338766413100
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T21:00:59.578Z,171338765957800
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-17T21:00:58.571Z,171338765857100
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T21:00:57.734Z,171338765773400
+"""davisleland @ SFp_6_KXgs"" raises to 60",2024-04-17T21:00:41.899Z,171338764189900
+"""Pinnochio @ TwP4kVW77g"" posts a big blind of 20",2024-04-17T21:00:33.842Z,171338763384211
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 10",2024-04-17T21:00:33.842Z,171338763384210
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1020) | #2 ""dr. disrespect @ crFwBVVQqY"" (800) | #3 ""Pinnochio @ TwP4kVW77g"" (1470) | #4 ""davisleland @ SFp_6_KXgs"" (1050) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (980) | #7 ""Pokerinio @ zfbUAAWDl6"" (710) | #8 ""codeyu @ DJmgVyLga0"" (970)",2024-04-17T21:00:33.842Z,171338763384201
+"-- starting hand #5 (id: ike7iijfqmon)  (No Limit Texas Hold'em) (dealer: ""CruJones @ AXNvirFFOh"") --",2024-04-17T21:00:33.842Z,171338763384200
+"""Ekingz1 @ m3OcsLhCIV"" shows a 8♣, 3♠.",2024-04-17T21:00:28.733Z,171338762873300
+"-- ending hand #4 --",2024-04-17T21:00:27.293Z,171338762729302
+"""Pinnochio @ TwP4kVW77g"" collected 690 from pot with Four of a Kind, 6's (combination: 6♥, 6♦, 6♣, 6♠, K♦)",2024-04-17T21:00:27.293Z,171338762729301
+"""Pinnochio @ TwP4kVW77g"" shows a 6♥, 6♦.",2024-04-17T21:00:27.293Z,171338762729300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T21:00:26.466Z,171338762646600
+"""Pokerinio @ zfbUAAWDl6"" calls 100",2024-04-17T21:00:10.592Z,171338761059200
+"""Pinnochio @ TwP4kVW77g"" bets 100",2024-04-17T21:00:08.250Z,171338760825000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T21:00:01.393Z,171338760139300
+"River: 6♣, 8♥, 8♠, 6♠ [K♦]",2024-04-17T20:59:59.674Z,171338759967400
+"""dr. disrespect @ crFwBVVQqY"" calls 40",2024-04-17T20:59:58.844Z,171338759884400
+"""Pokerinio @ zfbUAAWDl6"" calls 40",2024-04-17T20:59:57.008Z,171338759700800
+"""Pinnochio @ TwP4kVW77g"" bets 40",2024-04-17T20:59:55.720Z,171338759572000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T20:59:49.340Z,171338758934000
+"Turn: 6♣, 8♥, 8♠ [6♠]",2024-04-17T20:59:43.331Z,171338758333100
+"""Pinnochio @ TwP4kVW77g"" calls 20",2024-04-17T20:59:42.504Z,171338758250400
+"""dr. disrespect @ crFwBVVQqY"" calls 20",2024-04-17T20:59:40.480Z,171338758048000
+"""Pokerinio @ zfbUAAWDl6"" bets 20",2024-04-17T20:59:37.884Z,171338757788400
+"""Pinnochio @ TwP4kVW77g"" checks",2024-04-17T20:59:34.454Z,171338757445400
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-17T20:59:32.646Z,171338757264600
+"Flop:  [6♣, 8♥, 8♠]",2024-04-17T20:59:28.187Z,171338756818700
+"""dr. disrespect @ crFwBVVQqY"" calls 100",2024-04-17T20:59:27.361Z,171338756736100
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T20:59:25.413Z,171338756541300
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T20:59:18.414Z,171338755841400
+"""Pokerinio @ zfbUAAWDl6"" calls 100",2024-04-17T20:59:17.483Z,171338755748300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T20:59:16.460Z,171338755646000
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T20:59:08.415Z,171338754841500
+"""davisleland @ SFp_6_KXgs"" folds",2024-04-17T20:58:52.575Z,171338753257500
+"""Pinnochio @ TwP4kVW77g"" raises to 100",2024-04-17T20:58:51.602Z,171338753160200
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 20",2024-04-17T20:58:44.948Z,171338752494811
+"""CruJones @ AXNvirFFOh"" posts a small blind of 10",2024-04-17T20:58:44.948Z,171338752494810
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1030) | #2 ""dr. disrespect @ crFwBVVQqY"" (960) | #3 ""Pinnochio @ TwP4kVW77g"" (1040) | #4 ""davisleland @ SFp_6_KXgs"" (1050) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (980) | #7 ""Pokerinio @ zfbUAAWDl6"" (970) | #8 ""codeyu @ DJmgVyLga0"" (970)",2024-04-17T20:58:44.948Z,171338752494801
+"-- starting hand #4 (id: xfj6gxzdtic3)  (No Limit Texas Hold'em) (dealer: ""codeyu @ DJmgVyLga0"") --",2024-04-17T20:58:44.948Z,171338752494800
+"""CruJones @ AXNvirFFOh"" shows a K♣, 5♣.",2024-04-17T20:58:43.182Z,171338752318200
+"-- ending hand #3 --",2024-04-17T20:58:41.271Z,171338752127102
+"""CruJones @ AXNvirFFOh"" collected 50 from pot",2024-04-17T20:58:41.271Z,171338752127101
+"Uncalled bet of 25 returned to ""CruJones @ AXNvirFFOh""",2024-04-17T20:58:41.271Z,171338752127100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T20:58:40.463Z,171338752046300
+"""CruJones @ AXNvirFFOh"" bets 25",2024-04-17T20:58:36.900Z,171338751690000
+"Flop:  [K♦, 8♦, 9♦]",2024-04-17T20:58:28.857Z,171338750885700
+"""CruJones @ AXNvirFFOh"" checks",2024-04-17T20:58:28.047Z,171338750804700
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T20:58:26.966Z,171338750696600
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T20:58:18.554Z,171338749855400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T20:58:17.609Z,171338749760900
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T20:58:16.775Z,171338749677500
+"""davisleland @ SFp_6_KXgs"" folds",2024-04-17T20:58:02.099Z,171338748209900
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T20:58:00.977Z,171338748097700
+"""dr. disrespect @ crFwBVVQqY"" calls 20",2024-04-17T20:57:57.735Z,171338747773500
+"""CruJones @ AXNvirFFOh"" posts a big blind of 20",2024-04-17T20:57:56.317Z,171338747631711
+"""codeyu @ DJmgVyLga0"" posts a small blind of 10",2024-04-17T20:57:56.317Z,171338747631710
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1000) | #2 ""dr. disrespect @ crFwBVVQqY"" (980) | #3 ""Pinnochio @ TwP4kVW77g"" (1040) | #4 ""davisleland @ SFp_6_KXgs"" (1050) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (980) | #7 ""Pokerinio @ zfbUAAWDl6"" (970) | #8 ""codeyu @ DJmgVyLga0"" (980)",2024-04-17T20:57:56.317Z,171338747631701
+"-- starting hand #3 (id: bjkgudnaznsq)  (No Limit Texas Hold'em) (dealer: ""Pokerinio @ zfbUAAWDl6"") --",2024-04-17T20:57:56.317Z,171338747631700
+"""dr. disrespect @ crFwBVVQqY"" shows a K♦, 4♦.",2024-04-17T20:57:54.754Z,171338747475400
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♠, 6♣.",2024-04-17T20:57:54.425Z,171338747442500
+"""davisleland @ SFp_6_KXgs"" shows a K♠, A♥.",2024-04-17T20:57:52.977Z,171338747297700
+"-- ending hand #2 --",2024-04-17T20:57:51.315Z,171338747131502
+"""davisleland @ SFp_6_KXgs"" collected 90 from pot",2024-04-17T20:57:51.315Z,171338747131501
+"Uncalled bet of 80 returned to ""davisleland @ SFp_6_KXgs""",2024-04-17T20:57:51.315Z,171338747131500
+"""Pinnochio @ TwP4kVW77g"" folds",2024-04-17T20:57:50.456Z,171338747045600
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T20:57:48.712Z,171338746871200
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T20:57:43.158Z,171338746315800
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T20:57:42.218Z,171338746221800
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T20:57:41.227Z,171338746122700
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T20:57:40.387Z,171338746038700
+"""davisleland @ SFp_6_KXgs"" raises to 100",2024-04-17T20:57:33.767Z,171338745376700
+"""Pinnochio @ TwP4kVW77g"" calls 20",2024-04-17T20:57:24.794Z,171338744479400
+"""dr. disrespect @ crFwBVVQqY"" calls 20",2024-04-17T20:57:22.357Z,171338744235700
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T20:57:21.414Z,171338744141400
+"""codeyu @ DJmgVyLga0"" posts a big blind of 20",2024-04-17T20:57:17.059Z,171338743705911
+"""Pokerinio @ zfbUAAWDl6"" posts a small blind of 10",2024-04-17T20:57:17.059Z,171338743705910
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1000) | #2 ""dr. disrespect @ crFwBVVQqY"" (1000) | #3 ""Pinnochio @ TwP4kVW77g"" (1060) | #4 ""davisleland @ SFp_6_KXgs"" (980) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (980) | #7 ""Pokerinio @ zfbUAAWDl6"" (980) | #8 ""codeyu @ DJmgVyLga0"" (1000)",2024-04-17T20:57:17.059Z,171338743705901
+"-- starting hand #2 (id: i3c9pytlh5ap)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-17T20:57:17.059Z,171338743705900
+"-- ending hand #1 --",2024-04-17T20:57:14.100Z,171338743410002
+"""Pinnochio @ TwP4kVW77g"" collected 80 from pot",2024-04-17T20:57:14.100Z,171338743410001
+"Uncalled bet of 980 returned to ""Pinnochio @ TwP4kVW77g""",2024-04-17T20:57:14.100Z,171338743410000
+"""Pokerinio @ zfbUAAWDl6"" folds",2024-04-17T20:57:13.263Z,171338743326300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-17T20:57:12.280Z,171338743228000
+"""davisleland @ SFp_6_KXgs"" folds",2024-04-17T20:57:06.496Z,171338742649600
+"""Pinnochio @ TwP4kVW77g"" bets 980 and go all in",2024-04-17T20:57:02.944Z,171338742294400
+"""Pokerinio @ zfbUAAWDl6"" checks",2024-04-17T20:56:59.237Z,171338741923700
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-17T20:56:58.255Z,171338741825500
+"Flop:  [8♦, 8♣, 6♥]",2024-04-17T20:56:53.337Z,171338741333700
+"""Pokerinio @ zfbUAAWDl6"" checks",2024-04-17T20:56:52.488Z,171338741248800
+"""JurgBean @ XWESiVcu1R"" calls 20",2024-04-17T20:56:51.498Z,171338741149800
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-17T20:56:50.638Z,171338741063800
+"""davisleland @ SFp_6_KXgs"" calls 20",2024-04-17T20:56:34.750Z,171338739475000
+"""Pinnochio @ TwP4kVW77g"" calls 20",2024-04-17T20:56:33.774Z,171338739377400
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-17T20:56:30.105Z,171338739010500
+"""CruJones @ AXNvirFFOh"" folds",2024-04-17T20:56:14.280Z,171338737428000
+"""codeyu @ DJmgVyLga0"" folds",2024-04-17T20:56:13.323Z,171338737332300
+"""Pokerinio @ zfbUAAWDl6"" posts a big blind of 20",2024-04-17T20:56:07.903Z,171338736790319
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 10",2024-04-17T20:56:07.903Z,171338736790318
+"Player stacks: #1 ""CruJones @ AXNvirFFOh"" (1000) | #2 ""dr. disrespect @ crFwBVVQqY"" (1000) | #3 ""Pinnochio @ TwP4kVW77g"" (1000) | #4 ""davisleland @ SFp_6_KXgs"" (1000) | #5 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #6 ""JurgBean @ XWESiVcu1R"" (1000) | #7 ""Pokerinio @ zfbUAAWDl6"" (1000) | #8 ""codeyu @ DJmgVyLga0"" (1000)",2024-04-17T20:56:07.903Z,171338736790309
+"The player ""codeyu @ DJmgVyLga0"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790308
+"The player ""Pokerinio @ zfbUAAWDl6"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790307
+"The player ""JurgBean @ XWESiVcu1R"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790306
+"The player ""Ekingz1 @ m3OcsLhCIV"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790305
+"The player ""davisleland @ SFp_6_KXgs"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790304
+"The player ""Pinnochio @ TwP4kVW77g"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790303
+"The player ""dr. disrespect @ crFwBVVQqY"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790302
+"The player ""CruJones @ AXNvirFFOh"" joined the game with a stack of 1000.",2024-04-17T20:56:07.903Z,171338736790301
+"-- starting hand #1 (id: eknwrnijan1u)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-17T20:56:07.903Z,171338736790300

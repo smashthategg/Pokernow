@@ -1,0 +1,782 @@
+entry,at,order
+"The player ""lkm69 @ eDEX-uECkK"" quits the game with a stack of 8000.",2024-04-26T18:46:34.683Z,171415719468300
+"The player ""floppynuts @ s8o62OfXVN"" quits the game with a stack of 0.",2024-04-26T18:41:12.161Z,171415687216100
+"-- ending hand #45 --",2024-04-26T18:41:06.059Z,171415686605901
+"""lkm69 @ eDEX-uECkK"" collected 4870 from pot with Three of a Kind, 9's (combination: 9♣, 9♥, 9♦, A♥, J♦)",2024-04-26T18:41:06.059Z,171415686605900
+"River: J♦, 2♥, A♥, 9♦ [8♠]",2024-04-26T18:41:02.052Z,171415686205200
+"""floppynuts @ s8o62OfXVN"" shows a 5♣, J♣.",2024-04-26T18:40:58.047Z,171415685804701
+"""lkm69 @ eDEX-uECkK"" shows a 9♣, 9♥.",2024-04-26T18:40:58.047Z,171415685804700
+"""lkm69 @ eDEX-uECkK"" calls 1985",2024-04-26T18:40:57.200Z,171415685720000
+"""floppynuts @ s8o62OfXVN"" bets 1985 and go all in",2024-04-26T18:40:51.586Z,171415685158600
+"Turn: J♦, 2♥, A♥ [9♦]",2024-04-26T18:40:48.880Z,171415684888000
+"""lkm69 @ eDEX-uECkK"" calls 300",2024-04-26T18:40:48.056Z,171415684805600
+"""floppynuts @ s8o62OfXVN"" bets 300",2024-04-26T18:40:46.736Z,171415684673600
+"Flop:  [J♦, 2♥, A♥]",2024-04-26T18:40:43.468Z,171415684346800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:40:42.655Z,171415684265500
+"""lkm69 @ eDEX-uECkK"" calls 150",2024-04-26T18:40:41.554Z,171415684155400
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 150",2024-04-26T18:40:39.366Z,171415683936605
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 75",2024-04-26T18:40:39.366Z,171415683936604
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (5565) | #8 ""floppynuts @ s8o62OfXVN"" (2435)",2024-04-26T18:40:39.366Z,171415683936601
+"-- starting hand #45 (id: w0o522czi69i)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:40:39.366Z,171415683936600
+"-- ending hand #44 --",2024-04-26T18:40:36.457Z,171415683645702
+"""lkm69 @ eDEX-uECkK"" collected 150 from pot",2024-04-26T18:40:36.457Z,171415683645701
+"Uncalled bet of 75 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:40:36.457Z,171415683645700
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:40:35.620Z,171415683562000
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 150",2024-04-26T18:40:34.592Z,171415683459205
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 75",2024-04-26T18:40:34.592Z,171415683459204
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (5490) | #8 ""floppynuts @ s8o62OfXVN"" (2510)",2024-04-26T18:40:34.592Z,171415683459201
+"-- starting hand #44 (id: qeymggrw7wtn)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:40:34.592Z,171415683459200
+"-- ending hand #43 --",2024-04-26T18:40:31.683Z,171415683168302
+"""lkm69 @ eDEX-uECkK"" collected 600 from pot",2024-04-26T18:40:31.683Z,171415683168301
+"Uncalled bet of 600 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:40:31.683Z,171415683168300
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:40:30.840Z,171415683084000
+"""lkm69 @ eDEX-uECkK"" bets 600",2024-04-26T18:40:29.937Z,171415682993700
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:40:23.795Z,171415682379500
+"River: 6♠, J♥, 6♦, K♦ [10♥]",2024-04-26T18:40:22.629Z,171415682262900
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:40:21.808Z,171415682180800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:40:20.735Z,171415682073500
+"Turn: 6♠, J♥, 6♦ [K♦]",2024-04-26T18:40:19.628Z,171415681962800
+"""floppynuts @ s8o62OfXVN"" calls 150",2024-04-26T18:40:18.763Z,171415681876300
+"""lkm69 @ eDEX-uECkK"" bets 150",2024-04-26T18:40:16.931Z,171415681693100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:40:14.183Z,171415681418300
+"Flop:  [6♠, J♥, 6♦]",2024-04-26T18:40:12.294Z,171415681229400
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:40:11.467Z,171415681146700
+"""lkm69 @ eDEX-uECkK"" calls 150",2024-04-26T18:40:07.650Z,171415680765000
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 150",2024-04-26T18:40:06.105Z,171415680610505
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 75",2024-04-26T18:40:06.105Z,171415680610504
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (5190) | #8 ""floppynuts @ s8o62OfXVN"" (2810)",2024-04-26T18:40:06.105Z,171415680610501
+"-- starting hand #43 (id: pftss97mayxc)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:40:06.105Z,171415680610500
+"-- ending hand #42 --",2024-04-26T18:40:03.200Z,171415680320002
+"""floppynuts @ s8o62OfXVN"" collected 300 from pot",2024-04-26T18:40:03.200Z,171415680320001
+"Uncalled bet of 2510 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:40:03.200Z,171415680320000
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:40:02.360Z,171415680236000
+"""floppynuts @ s8o62OfXVN"" bets 2510 and go all in",2024-04-26T18:40:00.867Z,171415680086700
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:39:58.439Z,171415679843900
+"Flop:  [K♣, 8♠, 8♦]",2024-04-26T18:39:56.085Z,171415679608500
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:39:55.277Z,171415679527700
+"""floppynuts @ s8o62OfXVN"" calls 150",2024-04-26T18:39:54.280Z,171415679428000
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 150",2024-04-26T18:39:52.676Z,171415679267605
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 75",2024-04-26T18:39:52.676Z,171415679267604
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (5340) | #8 ""floppynuts @ s8o62OfXVN"" (2660)",2024-04-26T18:39:52.676Z,171415679267601
+"-- starting hand #42 (id: s0tp2hne2znn)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:39:52.676Z,171415679267600
+"-- ending hand #41 --",2024-04-26T18:39:46.672Z,171415678667201
+"""lkm69 @ eDEX-uECkK"" collected 5340 from pot with Pair, K's (combination: K♥, K♦, 10♦, 9♦, 5♠)",2024-04-26T18:39:46.672Z,171415678667200
+"River: 2♥, K♦, 5♠, 4♦ [9♦]",2024-04-26T18:39:42.659Z,171415678265900
+"Turn: 2♥, K♦, 5♠ [4♦]",2024-04-26T18:39:38.617Z,171415677861700
+"""floppynuts @ s8o62OfXVN"" shows a Q♥, A♠.",2024-04-26T18:39:34.611Z,171415677461101
+"""lkm69 @ eDEX-uECkK"" shows a 10♦, K♥.",2024-04-26T18:39:34.611Z,171415677461100
+"""lkm69 @ eDEX-uECkK"" calls 2220 and go all in",2024-04-26T18:39:33.761Z,171415677376100
+"""floppynuts @ s8o62OfXVN"" bets 2220",2024-04-26T18:39:32.160Z,171415677216000
+"Flop:  [2♥, K♦, 5♠]",2024-04-26T18:39:29.351Z,171415676935100
+"""lkm69 @ eDEX-uECkK"" calls 450",2024-04-26T18:39:28.539Z,171415676853900
+"""floppynuts @ s8o62OfXVN"" raises to 450",2024-04-26T18:39:25.527Z,171415676552700
+"""lkm69 @ eDEX-uECkK"" calls 150",2024-04-26T18:39:22.668Z,171415676266800
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 150",2024-04-26T18:39:20.339Z,171415676033905
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 75",2024-04-26T18:39:20.339Z,171415676033904
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2670) | #8 ""floppynuts @ s8o62OfXVN"" (5330)",2024-04-26T18:39:20.339Z,171415676033901
+"-- starting hand #41 (id: kdeehdzckgxf)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:39:20.339Z,171415676033900
+"-- ending hand #40 --",2024-04-26T18:39:17.357Z,171415675735702
+"""floppynuts @ s8o62OfXVN"" collected 300 from pot",2024-04-26T18:39:17.357Z,171415675735701
+"Uncalled bet of 300 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:39:17.357Z,171415675735700
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:39:16.538Z,171415675653800
+"""floppynuts @ s8o62OfXVN"" bets 300",2024-04-26T18:39:15.076Z,171415675507600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:39:12.928Z,171415675292800
+"Flop:  [4♦, 10♥, K♦]",2024-04-26T18:39:09.587Z,171415674958700
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:39:08.764Z,171415674876400
+"""floppynuts @ s8o62OfXVN"" calls 150",2024-04-26T18:39:07.513Z,171415674751300
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 150",2024-04-26T18:39:06.114Z,171415674611405
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 75",2024-04-26T18:39:06.114Z,171415674611404
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2820) | #8 ""floppynuts @ s8o62OfXVN"" (5180)",2024-04-26T18:39:06.114Z,171415674611401
+"-- starting hand #40 (id: oooimqoe9ck1)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:39:06.114Z,171415674611400
+"-- ending hand #39 --",2024-04-26T18:39:03.171Z,171415674317102
+"""floppynuts @ s8o62OfXVN"" collected 300 from pot",2024-04-26T18:39:03.171Z,171415674317101
+"Uncalled bet of 450 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:39:03.171Z,171415674317100
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:39:02.359Z,171415674235900
+"""floppynuts @ s8o62OfXVN"" raises to 600",2024-04-26T18:39:00.150Z,171415674015000
+"""lkm69 @ eDEX-uECkK"" calls 150",2024-04-26T18:38:57.425Z,171415673742500
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 150",2024-04-26T18:38:55.009Z,171415673500907
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 75",2024-04-26T18:38:55.009Z,171415673500906
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2970) | #8 ""floppynuts @ s8o62OfXVN"" (5030)",2024-04-26T18:38:55.009Z,171415673500903
+"-- starting hand #39 (id: 7bblmxthnamp)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:38:55.009Z,171415673500902
+"The game's big blind was changed from 100 to 150.",2024-04-26T18:38:55.009Z,171415673500901
+"The game's small blind was changed from 50 to 75.",2024-04-26T18:38:55.009Z,171415673500900
+"""floppynuts @ s8o62OfXVN"" shows a 7♦, 10♥.",2024-04-26T18:38:50.684Z,171415673068400
+"-- ending hand #38 --",2024-04-26T18:38:48.440Z,171415672844002
+"""lkm69 @ eDEX-uECkK"" collected 200 from pot with Pair, 6's (combination: 6♦, 6♠, A♥, K♦, 8♣)",2024-04-26T18:38:48.440Z,171415672844001
+"""lkm69 @ eDEX-uECkK"" shows a 6♦, 7♣.",2024-04-26T18:38:48.440Z,171415672844000
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:47.616Z,171415672761600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:38:46.668Z,171415672666800
+"River: 8♣, A♥, K♦, 6♠ [2♦]",2024-04-26T18:38:44.638Z,171415672463800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:43.830Z,171415672383000
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:38:42.881Z,171415672288100
+"Turn: 8♣, A♥, K♦ [6♠]",2024-04-26T18:38:37.589Z,171415671758900
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:36.728Z,171415671672800
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:38:34.364Z,171415671436400
+"Flop:  [8♣, A♥, K♦]",2024-04-26T18:38:32.042Z,171415671204200
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:38:31.208Z,171415671120800
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:38:30.144Z,171415671014400
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:38:28.758Z,171415670875805
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:38:28.758Z,171415670875804
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2870) | #8 ""floppynuts @ s8o62OfXVN"" (5130)",2024-04-26T18:38:28.758Z,171415670875801
+"-- starting hand #38 (id: yvtxj1aam6i3)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:38:28.758Z,171415670875800
+"-- ending hand #37 --",2024-04-26T18:38:22.754Z,171415670275403
+"""floppynuts @ s8o62OfXVN"" shows a 2♠, J♠.",2024-04-26T18:38:22.754Z,171415670275402
+"""lkm69 @ eDEX-uECkK"" collected 2870 from pot with Straight, 7 High (combination: 7♦, 6♣, 5♣, 4♠, 3♥)",2024-04-26T18:38:22.754Z,171415670275401
+"""lkm69 @ eDEX-uECkK"" shows a 7♦, 3♥.",2024-04-26T18:38:22.754Z,171415670275400
+"""floppynuts @ s8o62OfXVN"" calls 1035",2024-04-26T18:38:21.916Z,171415670191600
+"""lkm69 @ eDEX-uECkK"" bets 1035 and go all in",2024-04-26T18:38:20.996Z,171415670099600
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:16.408Z,171415669640800
+"River: 5♣, 6♣, 4♠, J♦ [10♠]",2024-04-26T18:38:14.547Z,171415669454700
+"""floppynuts @ s8o62OfXVN"" calls 300",2024-04-26T18:38:13.731Z,171415669373100
+"""lkm69 @ eDEX-uECkK"" raises to 300",2024-04-26T18:38:12.803Z,171415669280300
+"""floppynuts @ s8o62OfXVN"" bets 100",2024-04-26T18:38:08.328Z,171415668832800
+"Turn: 5♣, 6♣, 4♠ [J♦]",2024-04-26T18:38:06.773Z,171415668677300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:38:05.931Z,171415668593100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:03.904Z,171415668390400
+"Flop:  [5♣, 6♣, 4♠]",2024-04-26T18:38:01.928Z,171415668192800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:38:01.080Z,171415668108000
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:37:59.787Z,171415667978700
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:37:56.830Z,171415667683005
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:37:56.830Z,171415667683004
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1435) | #8 ""floppynuts @ s8o62OfXVN"" (6565)",2024-04-26T18:37:56.830Z,171415667683001
+"-- starting hand #37 (id: vgvzczk3vqtx)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:37:56.830Z,171415667683000
+"-- ending hand #36 --",2024-04-26T18:37:53.911Z,171415667391102
+"""lkm69 @ eDEX-uECkK"" collected 200 from pot",2024-04-26T18:37:53.911Z,171415667391101
+"Uncalled bet of 200 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:37:53.911Z,171415667391100
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:37:53.097Z,171415667309700
+"""lkm69 @ eDEX-uECkK"" raises to 300",2024-04-26T18:37:51.171Z,171415667117100
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:37:47.754Z,171415666775400
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:37:46.426Z,171415666642605
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:37:46.426Z,171415666642604
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1335) | #8 ""floppynuts @ s8o62OfXVN"" (6665)",2024-04-26T18:37:46.426Z,171415666642601
+"-- starting hand #36 (id: 7frrt1dx74bd)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:37:46.426Z,171415666642600
+"-- ending hand #35 --",2024-04-26T18:37:40.421Z,171415666042102
+"""floppynuts @ s8o62OfXVN"" collected 400 from pot with Pair, 5's (combination: 5♦, 5♥, 10♦, 9♠, 7♠)",2024-04-26T18:37:40.421Z,171415666042101
+"""floppynuts @ s8o62OfXVN"" shows a 5♦, 7♠.",2024-04-26T18:37:40.421Z,171415666042100
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:37:39.608Z,171415665960800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:37:37.821Z,171415665782100
+"River: 3♠, 10♦, 9♠, 4♦ [5♥]",2024-04-26T18:37:36.336Z,171415665633600
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:37:35.496Z,171415665549600
+"""lkm69 @ eDEX-uECkK"" bets 100",2024-04-26T18:37:34.558Z,171415665455800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:37:33.104Z,171415665310400
+"Turn: 3♠, 10♦, 9♠ [4♦]",2024-04-26T18:37:30.729Z,171415665072900
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:37:29.879Z,171415664987900
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:37:28.440Z,171415664844000
+"Flop:  [3♠, 10♦, 9♠]",2024-04-26T18:37:26.638Z,171415664663800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:37:25.800Z,171415664580000
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:37:23.850Z,171415664385000
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:37:21.689Z,171415664168905
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:37:21.689Z,171415664168904
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1535) | #8 ""floppynuts @ s8o62OfXVN"" (6465)",2024-04-26T18:37:21.689Z,171415664168901
+"-- starting hand #35 (id: vrrbc2430hii)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:37:21.689Z,171415664168900
+"-- ending hand #34 --",2024-04-26T18:37:18.781Z,171415663878102
+"""lkm69 @ eDEX-uECkK"" collected 600 from pot",2024-04-26T18:37:18.781Z,171415663878101
+"Uncalled bet of 935 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:37:18.781Z,171415663878100
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:37:17.913Z,171415663791300
+"""lkm69 @ eDEX-uECkK"" bets 935 and go all in",2024-04-26T18:37:16.987Z,171415663698700
+"Flop:  [7♦, K♥, A♠]",2024-04-26T18:37:12.372Z,171415663237200
+"""floppynuts @ s8o62OfXVN"" calls 300",2024-04-26T18:37:11.482Z,171415663148200
+"""lkm69 @ eDEX-uECkK"" raises to 300",2024-04-26T18:37:10.622Z,171415663062200
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:37:07.336Z,171415662733600
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:37:06.157Z,171415662615705
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:37:06.157Z,171415662615704
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1235) | #8 ""floppynuts @ s8o62OfXVN"" (6765)",2024-04-26T18:37:06.157Z,171415662615701
+"-- starting hand #34 (id: a8snlg8rzhez)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:37:06.157Z,171415662615700
+"-- ending hand #33 --",2024-04-26T18:37:00.143Z,171415662014302
+"""floppynuts @ s8o62OfXVN"" collected 200 from pot with A High (combination: A♣, Q♣, J♦, 10♠, 6♥)",2024-04-26T18:37:00.143Z,171415662014301
+"""floppynuts @ s8o62OfXVN"" shows a J♦, 4♣.",2024-04-26T18:37:00.143Z,171415662014300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:59.253Z,171415661925300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:58.204Z,171415661820400
+"River: Q♣, 6♥, A♣, 10♠ [3♣]",2024-04-26T18:36:57.119Z,171415661711900
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:56.271Z,171415661627100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:55.252Z,171415661525200
+"Turn: Q♣, 6♥, A♣ [10♠]",2024-04-26T18:36:53.715Z,171415661371500
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:52.909Z,171415661290900
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:51.848Z,171415661184800
+"Flop:  [Q♣, 6♥, A♣]",2024-04-26T18:36:50.161Z,171415661016100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:49.344Z,171415660934400
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:36:48.422Z,171415660842200
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:36:45.619Z,171415660561905
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:36:45.619Z,171415660561904
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1335) | #8 ""floppynuts @ s8o62OfXVN"" (6665)",2024-04-26T18:36:45.619Z,171415660561901
+"-- starting hand #33 (id: ak14pweqdnl6)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:36:45.619Z,171415660561900
+"-- ending hand #32 --",2024-04-26T18:36:42.695Z,171415660269502
+"""lkm69 @ eDEX-uECkK"" collected 100 from pot",2024-04-26T18:36:42.695Z,171415660269501
+"Uncalled bet of 50 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:36:42.695Z,171415660269500
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:36:41.876Z,171415660187600
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:36:40.748Z,171415660074805
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:36:40.748Z,171415660074804
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1285) | #8 ""floppynuts @ s8o62OfXVN"" (6715)",2024-04-26T18:36:40.748Z,171415660074801
+"-- starting hand #32 (id: zpxljkw3q8yt)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:36:40.748Z,171415660074800
+"""floppynuts @ s8o62OfXVN"" shows a 3♥, 2♠.",2024-04-26T18:36:37.823Z,171415659782300
+"-- ending hand #31 --",2024-04-26T18:36:37.087Z,171415659708702
+"""lkm69 @ eDEX-uECkK"" collected 200 from pot",2024-04-26T18:36:37.087Z,171415659708701
+"Uncalled bet of 200 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:36:37.087Z,171415659708700
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:36:36.236Z,171415659623600
+"""lkm69 @ eDEX-uECkK"" bets 200",2024-04-26T18:36:35.290Z,171415659529000
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:31.969Z,171415659196900
+"Turn: 5♠, 5♣, 8♠ [K♦]",2024-04-26T18:36:30.406Z,171415659040600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:29.556Z,171415658955600
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:28.496Z,171415658849600
+"Flop:  [5♠, 5♣, 8♠]",2024-04-26T18:36:26.753Z,171415658675300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:36:25.908Z,171415658590800
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:36:25.032Z,171415658503200
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:36:23.153Z,171415658315305
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:36:23.153Z,171415658315304
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1185) | #8 ""floppynuts @ s8o62OfXVN"" (6815)",2024-04-26T18:36:23.153Z,171415658315301
+"-- starting hand #31 (id: j4v0rpftpcon)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:36:23.153Z,171415658315300
+"-- ending hand #30 --",2024-04-26T18:36:20.245Z,171415658024502
+"""floppynuts @ s8o62OfXVN"" collected 200 from pot",2024-04-26T18:36:20.245Z,171415658024501
+"Uncalled bet of 400 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:36:20.245Z,171415658024500
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:36:19.408Z,171415657940800
+"""floppynuts @ s8o62OfXVN"" bets 400",2024-04-26T18:36:17.900Z,171415657790000
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:13.969Z,171415657396900
+"Flop:  [6♥, 8♦, Q♦]",2024-04-26T18:36:09.135Z,171415656913500
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:36:08.302Z,171415656830200
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:36:05.989Z,171415656598900
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:36:01.386Z,171415656138605
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:36:01.386Z,171415656138604
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1285) | #8 ""floppynuts @ s8o62OfXVN"" (6715)",2024-04-26T18:36:01.386Z,171415656138601
+"-- starting hand #30 (id: t1dw5otpnk9e)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:36:01.386Z,171415656138600
+"-- ending hand #29 --",2024-04-26T18:35:58.449Z,171415655844902
+"""lkm69 @ eDEX-uECkK"" collected 200 from pot",2024-04-26T18:35:58.449Z,171415655844901
+"Uncalled bet of 100 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:35:58.449Z,171415655844900
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:35:57.632Z,171415655763200
+"""lkm69 @ eDEX-uECkK"" bets 100",2024-04-26T18:35:56.656Z,171415655665600
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:35:53.768Z,171415655376800
+"Flop:  [5♥, 7♥, K♦]",2024-04-26T18:35:51.843Z,171415655184300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:35:51.012Z,171415655101200
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:35:50.164Z,171415655016400
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:35:46.754Z,171415654675405
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:35:46.754Z,171415654675404
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1185) | #8 ""floppynuts @ s8o62OfXVN"" (6815)",2024-04-26T18:35:46.754Z,171415654675401
+"-- starting hand #29 (id: pfmgpuv2jmfn)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:35:46.754Z,171415654675400
+"-- ending hand #28 --",2024-04-26T18:35:43.840Z,171415654384002
+"""lkm69 @ eDEX-uECkK"" collected 100 from pot",2024-04-26T18:35:43.840Z,171415654384001
+"Uncalled bet of 50 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:35:43.840Z,171415654384000
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:35:43.015Z,171415654301500
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:35:38.642Z,171415653864205
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:35:38.642Z,171415653864204
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1135) | #8 ""floppynuts @ s8o62OfXVN"" (6865)",2024-04-26T18:35:38.642Z,171415653864201
+"-- starting hand #28 (id: lxnunkjvhrdq)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:35:38.642Z,171415653864200
+"-- ending hand #27 --",2024-04-26T18:35:35.708Z,171415653570802
+"""floppynuts @ s8o62OfXVN"" collected 100 from pot",2024-04-26T18:35:35.708Z,171415653570801
+"Uncalled bet of 50 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:35:35.708Z,171415653570800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:35:34.859Z,171415653485900
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:35:30.032Z,171415653003205
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:35:30.032Z,171415653003204
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1185) | #8 ""floppynuts @ s8o62OfXVN"" (6815)",2024-04-26T18:35:30.032Z,171415653003201
+"-- starting hand #27 (id: g3qse2z9ifmb)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:35:30.032Z,171415653003200
+"-- ending hand #26 --",2024-04-26T18:35:27.078Z,171415652707802
+"""floppynuts @ s8o62OfXVN"" collected 200 from pot",2024-04-26T18:35:27.078Z,171415652707801
+"Uncalled bet of 100 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:35:27.078Z,171415652707800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:35:26.246Z,171415652624600
+"""floppynuts @ s8o62OfXVN"" bets 100",2024-04-26T18:35:22.687Z,171415652268700
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:35:20.880Z,171415652088000
+"Flop:  [3♠, 2♦, A♦]",2024-04-26T18:35:18.021Z,171415651802100
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:35:17.202Z,171415651720200
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:35:15.667Z,171415651566700
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:35:14.301Z,171415651430105
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:35:14.301Z,171415651430104
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1285) | #8 ""floppynuts @ s8o62OfXVN"" (6715)",2024-04-26T18:35:14.301Z,171415651430101
+"-- starting hand #26 (id: 7zvfgwkkp9wt)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:35:14.301Z,171415651430100
+"-- ending hand #25 --",2024-04-26T18:35:08.286Z,171415650828602
+"""floppynuts @ s8o62OfXVN"" collected 600 from pot with Two Pair, 8's & 5's (combination: 8♥, 8♣, 5♣, 5♦, A♠)",2024-04-26T18:35:08.286Z,171415650828601
+"""floppynuts @ s8o62OfXVN"" shows a 5♣, A♠.",2024-04-26T18:35:08.286Z,171415650828600
+"""lkm69 @ eDEX-uECkK"" calls 200",2024-04-26T18:35:07.452Z,171415650745200
+"""floppynuts @ s8o62OfXVN"" bets 200",2024-04-26T18:35:06.050Z,171415650605000
+"River: 8♥, 4♦, J♠, 8♣ [5♦]",2024-04-26T18:35:03.379Z,171415650337900
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:35:02.546Z,171415650254600
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:35:01.399Z,171415650139900
+"Turn: 8♥, 4♦, J♠ [8♣]",2024-04-26T18:35:00.466Z,171415650046600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:34:59.652Z,171415649965200
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:34:58.615Z,171415649861500
+"Flop:  [8♥, 4♦, J♠]",2024-04-26T18:34:56.997Z,171415649699700
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:34:56.178Z,171415649617800
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:34:54.690Z,171415649469000
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:34:52.367Z,171415649236705
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:34:52.367Z,171415649236704
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1585) | #8 ""floppynuts @ s8o62OfXVN"" (6415)",2024-04-26T18:34:52.367Z,171415649236701
+"-- starting hand #25 (id: ndsxp3xdcxwr)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:34:52.367Z,171415649236700
+"-- ending hand #24 --",2024-04-26T18:34:49.448Z,171415648944802
+"""lkm69 @ eDEX-uECkK"" collected 100 from pot",2024-04-26T18:34:49.448Z,171415648944801
+"Uncalled bet of 50 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:34:49.448Z,171415648944800
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:34:48.596Z,171415648859600
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:34:47.349Z,171415648734905
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:34:47.349Z,171415648734904
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1535) | #8 ""floppynuts @ s8o62OfXVN"" (6465)",2024-04-26T18:34:47.349Z,171415648734901
+"-- starting hand #24 (id: ks4m7vi9nutz)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:34:47.349Z,171415648734900
+"-- ending hand #23 --",2024-04-26T18:34:44.442Z,171415648444202
+"""lkm69 @ eDEX-uECkK"" collected 600 from pot",2024-04-26T18:34:44.442Z,171415648444201
+"Uncalled bet of 935 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:34:44.442Z,171415648444200
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:34:43.591Z,171415648359100
+"""lkm69 @ eDEX-uECkK"" bets 935 and go all in",2024-04-26T18:34:42.687Z,171415648268700
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:34:39.919Z,171415647991900
+"Turn: 6♦, 5♠, 7♣ [A♣]",2024-04-26T18:34:38.068Z,171415647806800
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:34:37.241Z,171415647724100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:34:36.104Z,171415647610400
+"Flop:  [6♦, 5♠, 7♣]",2024-04-26T18:34:33.415Z,171415647341500
+"""lkm69 @ eDEX-uECkK"" calls 300",2024-04-26T18:34:32.594Z,171415647259400
+"""floppynuts @ s8o62OfXVN"" raises to 300",2024-04-26T18:34:30.320Z,171415647032000
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:34:27.058Z,171415646705800
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:34:23.519Z,171415646351905
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:34:23.519Z,171415646351904
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1235) | #8 ""floppynuts @ s8o62OfXVN"" (6765)",2024-04-26T18:34:23.519Z,171415646351901
+"-- starting hand #23 (id: ti23nmg6s4uw)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:34:23.519Z,171415646351900
+"-- ending hand #22 --",2024-04-26T18:34:20.599Z,171415646059902
+"""lkm69 @ eDEX-uECkK"" collected 200 from pot",2024-04-26T18:34:20.599Z,171415646059901
+"Uncalled bet of 1035 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:34:20.599Z,171415646059900
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:34:19.715Z,171415645971500
+"""lkm69 @ eDEX-uECkK"" bets 1035 and go all in",2024-04-26T18:34:18.091Z,171415645809100
+"Flop:  [9♦, 9♠, 9♥]",2024-04-26T18:34:10.046Z,171415645004600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:34:09.208Z,171415644920800
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:34:05.648Z,171415644564800
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:34:04.230Z,171415644423005
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:34:04.230Z,171415644423004
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1135) | #8 ""floppynuts @ s8o62OfXVN"" (6865)",2024-04-26T18:34:04.230Z,171415644423001
+"-- starting hand #22 (id: ppghr6ytansl)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:34:04.230Z,171415644423000
+"""floppynuts @ s8o62OfXVN"" shows a 8♠, 3♠.",2024-04-26T18:34:01.391Z,171415644139100
+"-- ending hand #21 --",2024-04-26T18:34:00.615Z,171415644061502
+"""floppynuts @ s8o62OfXVN"" collected 200 from pot",2024-04-26T18:34:00.615Z,171415644061501
+"Uncalled bet of 200 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:34:00.615Z,171415644061500
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:33:59.786Z,171415643978600
+"""floppynuts @ s8o62OfXVN"" bets 200",2024-04-26T18:33:53.432Z,171415643343200
+"Flop:  [A♠, 6♠, J♠]",2024-04-26T18:33:50.352Z,171415643035200
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:33:49.531Z,171415642953100
+"""lkm69 @ eDEX-uECkK"" calls 100",2024-04-26T18:33:48.555Z,171415642855500
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 100",2024-04-26T18:33:46.605Z,171415642660505
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 50",2024-04-26T18:33:46.605Z,171415642660504
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1235) | #8 ""floppynuts @ s8o62OfXVN"" (6765)",2024-04-26T18:33:46.605Z,171415642660501
+"-- starting hand #21 (id: rsirzvafykkd)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:33:46.605Z,171415642660500
+"-- ending hand #20 --",2024-04-26T18:33:43.635Z,171415642363502
+"""floppynuts @ s8o62OfXVN"" collected 200 from pot",2024-04-26T18:33:43.635Z,171415642363501
+"Uncalled bet of 200 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:33:43.635Z,171415642363500
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:33:42.832Z,171415642283200
+"""floppynuts @ s8o62OfXVN"" bets 200",2024-04-26T18:33:40.163Z,171415642016300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:33:37.877Z,171415641787700
+"Flop:  [A♥, 4♠, 7♦]",2024-04-26T18:33:35.990Z,171415641599000
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:33:35.184Z,171415641518400
+"""floppynuts @ s8o62OfXVN"" calls 100",2024-04-26T18:33:34.080Z,171415641408000
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 100",2024-04-26T18:33:32.321Z,171415641232108
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 50",2024-04-26T18:33:32.321Z,171415641232107
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1335) | #8 ""floppynuts @ s8o62OfXVN"" (6665)",2024-04-26T18:33:32.321Z,171415641232104
+"-- starting hand #20 (id: txaho0ivppt2)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:33:32.321Z,171415641232103
+"The game's big blind was changed from 60 to 100.",2024-04-26T18:33:32.321Z,171415641232102
+"The game's small blind was changed from 30 to 50.",2024-04-26T18:33:32.321Z,171415641232101
+"The player ""kk_ @ WWq2ifOCX-"" quits the game with a stack of 0.",2024-04-26T18:33:32.321Z,171415641232100
+"-- ending hand #19 --",2024-04-26T18:33:26.312Z,171415640631201
+"""floppynuts @ s8o62OfXVN"" collected 3030 from pot with Three of a Kind, 9's (combination: 9♠, 9♥, 9♦, K♣, 7♠)",2024-04-26T18:33:26.312Z,171415640631200
+"River: 6♥, 7♠, 9♥, 9♦ [K♣]",2024-04-26T18:33:22.224Z,171415640222400
+"""floppynuts @ s8o62OfXVN"" shows a 9♠, 5♠.",2024-04-26T18:33:18.212Z,171415639821201
+"""kk_ @ WWq2ifOCX-"" shows a Q♥, A♥.",2024-04-26T18:33:18.212Z,171415639821200
+"""kk_ @ WWq2ifOCX-"" calls 1125 and go all in",2024-04-26T18:33:17.363Z,171415639736300
+"""floppynuts @ s8o62OfXVN"" raises to 1125",2024-04-26T18:33:14.360Z,171415639436000
+"""kk_ @ WWq2ifOCX-"" bets 390",2024-04-26T18:33:11.434Z,171415639143400
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:33:08.259Z,171415638825900
+"Turn: 6♥, 7♠, 9♥ [9♦]",2024-04-26T18:33:06.802Z,171415638680200
+"""floppynuts @ s8o62OfXVN"" calls 180",2024-04-26T18:33:05.955Z,171415638595500
+"""kk_ @ WWq2ifOCX-"" bets 180",2024-04-26T18:33:04.648Z,171415638464800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:32:59.995Z,171415637999500
+"Flop:  [6♥, 7♠, 9♥]",2024-04-26T18:32:57.328Z,171415637732800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:32:56.504Z,171415637650400
+"""floppynuts @ s8o62OfXVN"" calls 180",2024-04-26T18:32:55.547Z,171415637554700
+"""kk_ @ WWq2ifOCX-"" raises to 180",2024-04-26T18:32:53.593Z,171415637359300
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 60",2024-04-26T18:32:49.915Z,171415636991506
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 30",2024-04-26T18:32:49.915Z,171415636991505
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1395) | #2 ""kk_ @ WWq2ifOCX-"" (1485) | #8 ""floppynuts @ s8o62OfXVN"" (5120)",2024-04-26T18:32:49.915Z,171415636991501
+"-- starting hand #19 (id: alqxbt7trguf)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T18:32:49.915Z,171415636991500
+"""floppynuts @ s8o62OfXVN"" shows a 4♦, 7♥.",2024-04-26T18:32:48.863Z,171415636886300
+"-- ending hand #18 --",2024-04-26T18:32:43.394Z,171415636339403
+"""kk_ @ WWq2ifOCX-"" shows a 7♠, A♠.",2024-04-26T18:32:43.394Z,171415636339402
+"""lkm69 @ eDEX-uECkK"" collected 1110 from pot with Pair, K's (combination: K♣, K♥, A♣, 9♥, 8♥)",2024-04-26T18:32:43.394Z,171415636339401
+"""lkm69 @ eDEX-uECkK"" shows a K♣, A♣.",2024-04-26T18:32:43.394Z,171415636339400
+"""lkm69 @ eDEX-uECkK"" calls 180",2024-04-26T18:32:42.540Z,171415636254000
+"""kk_ @ WWq2ifOCX-"" bets 180",2024-04-26T18:32:40.744Z,171415636074400
+"River: K♥, 4♣, 9♥, 8♥ [7♣]",2024-04-26T18:32:33.086Z,171415635308600
+"""lkm69 @ eDEX-uECkK"" calls 225",2024-04-26T18:32:32.191Z,171415635219100
+"""kk_ @ WWq2ifOCX-"" bets 225",2024-04-26T18:32:30.482Z,171415635048200
+"Turn: K♥, 4♣, 9♥ [8♥]",2024-04-26T18:32:24.458Z,171415634445800
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:32:23.575Z,171415634357500
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:32:20.527Z,171415634052700
+"""kk_ @ WWq2ifOCX-"" bets 60",2024-04-26T18:32:18.082Z,171415633808200
+"Flop:  [K♥, 4♣, 9♥]",2024-04-26T18:32:14.048Z,171415633404800
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:32:13.172Z,171415633317200
+"""kk_ @ WWq2ifOCX-"" calls 60",2024-04-26T18:32:12.218Z,171415633221800
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:32:09.029Z,171415632902900
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 60",2024-04-26T18:32:02.504Z,171415632250406
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 30",2024-04-26T18:32:02.504Z,171415632250405
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (810) | #2 ""kk_ @ WWq2ifOCX-"" (2010) | #8 ""floppynuts @ s8o62OfXVN"" (5180)",2024-04-26T18:32:02.504Z,171415632250401
+"-- starting hand #18 (id: wdxhybn3l7hr)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:32:02.504Z,171415632250400
+"""floppynuts @ s8o62OfXVN"" shows a J♦, 10♥.",2024-04-26T18:32:00.667Z,171415632066700
+"-- ending hand #17 --",2024-04-26T18:31:58.877Z,171415631887702
+"""lkm69 @ eDEX-uECkK"" collected 180 from pot",2024-04-26T18:31:58.877Z,171415631887701
+"Uncalled bet of 630 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:31:58.877Z,171415631887700
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:31:58.038Z,171415631803800
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:31:57.136Z,171415631713600
+"""lkm69 @ eDEX-uECkK"" bets 630 and go all in",2024-04-26T18:31:53.806Z,171415631380600
+"River: K♦, 6♣, 9♣, 9♦ [7♠]",2024-04-26T18:31:49.261Z,171415630926100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:31:48.410Z,171415630841000
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:31:43.740Z,171415630374000
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:31:40.516Z,171415630051600
+"Turn: K♦, 6♣, 9♣ [9♦]",2024-04-26T18:31:34.841Z,171415629484100
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:31:34.007Z,171415629400700
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:31:30.307Z,171415629030700
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:31:24.329Z,171415628432900
+"Flop:  [K♦, 6♣, 9♣]",2024-04-26T18:31:21.301Z,171415628130100
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:31:20.480Z,171415628048000
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:31:16.551Z,171415627655100
+"""floppynuts @ s8o62OfXVN"" calls 60",2024-04-26T18:31:15.122Z,171415627512200
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 60",2024-04-26T18:31:05.082Z,171415626508206
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 30",2024-04-26T18:31:05.082Z,171415626508205
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (690) | #2 ""kk_ @ WWq2ifOCX-"" (2070) | #8 ""floppynuts @ s8o62OfXVN"" (5240)",2024-04-26T18:31:05.082Z,171415626508201
+"-- starting hand #17 (id: aa90axcliz5j)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:31:05.082Z,171415626508200
+"-- ending hand #16 --",2024-04-26T18:31:02.122Z,171415626212202
+"""lkm69 @ eDEX-uECkK"" collected 150 from pot",2024-04-26T18:31:02.122Z,171415626212201
+"Uncalled bet of 120 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:31:02.122Z,171415626212200
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:31:01.312Z,171415626131200
+"""lkm69 @ eDEX-uECkK"" bets 120",2024-04-26T18:30:59.139Z,171415625913900
+"Turn: 10♥, 8♠, 3♦ [Q♦]",2024-04-26T18:30:53.987Z,171415625398700
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:30:53.113Z,171415625311300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:30:50.190Z,171415625019000
+"Flop:  [10♥, 8♠, 3♦]",2024-04-26T18:30:45.291Z,171415624529100
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:30:44.469Z,171415624446900
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:30:40.394Z,171415624039400
+"""kk_ @ WWq2ifOCX-"" calls 60",2024-04-26T18:30:39.496Z,171415623949600
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 60",2024-04-26T18:30:31.588Z,171415623158806
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 30",2024-04-26T18:30:31.588Z,171415623158805
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (600) | #2 ""kk_ @ WWq2ifOCX-"" (2130) | #8 ""floppynuts @ s8o62OfXVN"" (5270)",2024-04-26T18:30:31.588Z,171415623158801
+"-- starting hand #16 (id: ffs3pggvyyks)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T18:30:31.588Z,171415623158800
+"-- ending hand #15 --",2024-04-26T18:30:28.663Z,171415622866302
+"""kk_ @ WWq2ifOCX-"" collected 720 from pot",2024-04-26T18:30:28.663Z,171415622866301
+"Uncalled bet of 180 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:30:28.663Z,171415622866300
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:30:27.802Z,171415622780200
+"""kk_ @ WWq2ifOCX-"" bets 180",2024-04-26T18:30:26.900Z,171415622690000
+"River: 10♣, 5♠, 6♣, 4♥ [J♣]",2024-04-26T18:30:22.110Z,171415622211000
+"""floppynuts @ s8o62OfXVN"" calls 180",2024-04-26T18:30:21.240Z,171415622124000
+"""kk_ @ WWq2ifOCX-"" bets 180",2024-04-26T18:30:17.620Z,171415621762000
+"Turn: 10♣, 5♠, 6♣ [4♥]",2024-04-26T18:30:14.773Z,171415621477300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:30:13.945Z,171415621394500
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:30:12.510Z,171415621251000
+"Flop:  [10♣, 5♠, 6♣]",2024-04-26T18:30:09.164Z,171415620916400
+"""floppynuts @ s8o62OfXVN"" calls 180",2024-04-26T18:30:08.350Z,171415620835000
+"""kk_ @ WWq2ifOCX-"" raises to 180",2024-04-26T18:30:06.667Z,171415620666700
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:30:02.086Z,171415620208600
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 60",2024-04-26T18:29:59.758Z,171415619975806
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 30",2024-04-26T18:29:59.758Z,171415619975805
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (600) | #2 ""kk_ @ WWq2ifOCX-"" (1770) | #8 ""floppynuts @ s8o62OfXVN"" (5630)",2024-04-26T18:29:59.758Z,171415619975801
+"-- starting hand #15 (id: mz7osddagrlh)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:29:59.758Z,171415619975800
+"-- ending hand #14 --",2024-04-26T18:29:53.724Z,171415619372402
+"""kk_ @ WWq2ifOCX-"" collected 660 from pot with Pair, J's (combination: J♦, J♣, K♦, 10♣, 7♦)",2024-04-26T18:29:53.724Z,171415619372401
+"""kk_ @ WWq2ifOCX-"" shows a J♦, J♣.",2024-04-26T18:29:53.724Z,171415619372400
+"""floppynuts @ s8o62OfXVN"" calls 60",2024-04-26T18:29:52.877Z,171415619287700
+"""kk_ @ WWq2ifOCX-"" bets 60",2024-04-26T18:29:51.941Z,171415619194100
+"River: 10♣, K♦, 7♦, 3♠ [6♣]",2024-04-26T18:29:48.093Z,171415618809300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:29:47.218Z,171415618721800
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:29:43.938Z,171415618393800
+"Turn: 10♣, K♦, 7♦ [3♠]",2024-04-26T18:29:40.375Z,171415618037500
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:29:39.565Z,171415617956500
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:29:38.623Z,171415617862300
+"Flop:  [10♣, K♦, 7♦]",2024-04-26T18:29:31.138Z,171415617113800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:29:30.329Z,171415617032900
+"""floppynuts @ s8o62OfXVN"" calls 240",2024-04-26T18:29:29.329Z,171415616932900
+"""kk_ @ WWq2ifOCX-"" raises to 240",2024-04-26T18:29:26.609Z,171415616660900
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:29:21.280Z,171415616128000
+"""floppynuts @ s8o62OfXVN"" calls 60",2024-04-26T18:29:18.729Z,171415615872900
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 60",2024-04-26T18:29:17.053Z,171415615705306
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 30",2024-04-26T18:29:17.053Z,171415615705305
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (660) | #2 ""kk_ @ WWq2ifOCX-"" (1410) | #8 ""floppynuts @ s8o62OfXVN"" (5930)",2024-04-26T18:29:17.053Z,171415615705301
+"-- starting hand #14 (id: ricteic2v421)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:29:17.053Z,171415615705300
+"-- ending hand #13 --",2024-04-26T18:29:14.103Z,171415615410302
+"""lkm69 @ eDEX-uECkK"" collected 60 from pot",2024-04-26T18:29:14.103Z,171415615410301
+"Uncalled bet of 30 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:29:14.103Z,171415615410300
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:29:13.250Z,171415615325000
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:29:12.327Z,171415615232700
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 60",2024-04-26T18:29:10.450Z,171415615045006
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 30",2024-04-26T18:29:10.450Z,171415615045005
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (630) | #2 ""kk_ @ WWq2ifOCX-"" (1410) | #8 ""floppynuts @ s8o62OfXVN"" (5960)",2024-04-26T18:29:10.450Z,171415615045001
+"-- starting hand #13 (id: k4eutolanfwb)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T18:29:10.450Z,171415615045000
+"-- ending hand #12 --",2024-04-26T18:29:07.538Z,171415614753802
+"""kk_ @ WWq2ifOCX-"" collected 300 from pot",2024-04-26T18:29:07.538Z,171415614753801
+"Uncalled bet of 225 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:29:07.538Z,171415614753800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:29:06.708Z,171415614670800
+"""kk_ @ WWq2ifOCX-"" bets 225",2024-04-26T18:29:04.311Z,171415614431100
+"Flop:  [9♠, J♥, 3♥]",2024-04-26T18:29:00.186Z,171415614018600
+"""lkm69 @ eDEX-uECkK"" calls 120",2024-04-26T18:28:59.380Z,171415613938000
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:28:47.451Z,171415612745100
+"""kk_ @ WWq2ifOCX-"" raises to 120",2024-04-26T18:28:46.500Z,171415612650000
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:28:43.491Z,171415612349100
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 60",2024-04-26T18:28:40.820Z,171415612082006
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 30",2024-04-26T18:28:40.820Z,171415612082005
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (750) | #2 ""kk_ @ WWq2ifOCX-"" (1230) | #8 ""floppynuts @ s8o62OfXVN"" (6020)",2024-04-26T18:28:40.820Z,171415612082001
+"-- starting hand #12 (id: go5e4kw2mw5u)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:28:40.820Z,171415612082000
+"-- ending hand #11 --",2024-04-26T18:28:37.886Z,171415611788602
+"""kk_ @ WWq2ifOCX-"" collected 180 from pot",2024-04-26T18:28:37.886Z,171415611788601
+"Uncalled bet of 60 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:28:37.886Z,171415611788600
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:28:37.080Z,171415611708000
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:28:30.656Z,171415611065600
+"""kk_ @ WWq2ifOCX-"" bets 60",2024-04-26T18:28:29.783Z,171415610978300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:28:27.016Z,171415610701600
+"Flop:  [3♦, 10♥, K♥]",2024-04-26T18:28:21.182Z,171415610118200
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:28:20.355Z,171415610035500
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:28:17.286Z,171415609728600
+"""floppynuts @ s8o62OfXVN"" calls 60",2024-04-26T18:28:04.841Z,171415608484100
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 60",2024-04-26T18:28:02.689Z,171415608268906
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 30",2024-04-26T18:28:02.689Z,171415608268905
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (810) | #2 ""kk_ @ WWq2ifOCX-"" (1110) | #8 ""floppynuts @ s8o62OfXVN"" (6080)",2024-04-26T18:28:02.689Z,171415608268901
+"-- starting hand #11 (id: djutavnzacgq)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:28:02.689Z,171415608268900
+"-- ending hand #10 --",2024-04-26T18:27:59.740Z,171415607974002
+"""lkm69 @ eDEX-uECkK"" collected 60 from pot",2024-04-26T18:27:59.740Z,171415607974001
+"Uncalled bet of 30 returned to ""lkm69 @ eDEX-uECkK""",2024-04-26T18:27:59.740Z,171415607974000
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:27:58.881Z,171415607888100
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:27:55.403Z,171415607540300
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 60",2024-04-26T18:27:51.317Z,171415607131708
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 30",2024-04-26T18:27:51.317Z,171415607131707
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (780) | #2 ""kk_ @ WWq2ifOCX-"" (1110) | #8 ""floppynuts @ s8o62OfXVN"" (6110)",2024-04-26T18:27:51.317Z,171415607131703
+"-- starting hand #10 (id: fel5voeo5s0z)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:27:51.317Z,171415607131702
+"The game's big blind was changed from 40 to 60.",2024-04-26T18:27:51.317Z,171415607131701
+"The game's small blind was changed from 20 to 30.",2024-04-26T18:27:51.317Z,171415607131700
+"-- ending hand #9 --",2024-04-26T18:27:48.388Z,171415606838802
+"""kk_ @ WWq2ifOCX-"" collected 720 from pot",2024-04-26T18:27:48.388Z,171415606838801
+"Uncalled bet of 390 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:27:48.388Z,171415606838800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:27:47.556Z,171415606755600
+"""kk_ @ WWq2ifOCX-"" bets 390 and go all in",2024-04-26T18:27:40.736Z,171415606073600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:27:38.323Z,171415605832300
+"Turn: 6♥, 6♣, 10♣ [2♠]",2024-04-26T18:27:32.827Z,171415605282700
+"""lkm69 @ eDEX-uECkK"" calls 180",2024-04-26T18:27:31.998Z,171415605199800
+"""kk_ @ WWq2ifOCX-"" bets 180",2024-04-26T18:27:26.166Z,171415604616600
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:27:22.206Z,171415604220600
+"Flop:  [6♥, 6♣, 10♣]",2024-04-26T18:27:17.716Z,171415603771600
+"""lkm69 @ eDEX-uECkK"" calls 160",2024-04-26T18:27:16.875Z,171415603687500
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:27:06.479Z,171415602647900
+"""kk_ @ WWq2ifOCX-"" raises to 160",2024-04-26T18:27:05.587Z,171415602558700
+"""lkm69 @ eDEX-uECkK"" calls 40",2024-04-26T18:27:00.912Z,171415602091200
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 40",2024-04-26T18:26:49.055Z,171415600905508
+"Dead Small Blind",2024-04-26T18:26:49.055Z,171415600905507
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1120) | #2 ""kk_ @ WWq2ifOCX-"" (730) | #8 ""floppynuts @ s8o62OfXVN"" (6150)",2024-04-26T18:26:49.055Z,171415600905503
+"-- starting hand #9 (id: k6b1uclpgffd)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:26:49.055Z,171415600905502
+"The player ""K-Chan @ p_t97OeVLx"" quits the game with a stack of 0.",2024-04-26T18:26:49.055Z,171415600905501
+"The player ""Enforcer @ EuvfZRbDqR"" quits the game with a stack of 0.",2024-04-26T18:26:49.055Z,171415600905500
+"-- ending hand #8 --",2024-04-26T18:26:43.043Z,171415600304302
+"""floppynuts @ s8o62OfXVN"" collected 1320 from pot with Full House, A's over 2's (combination: A♠, A♦, A♣, 2♠, 2♦)",2024-04-26T18:26:43.043Z,171415600304301
+"""floppynuts @ s8o62OfXVN"" collected 2720 from pot with Full House, A's over 2's (combination: A♠, A♦, A♣, 2♠, 2♦)",2024-04-26T18:26:43.043Z,171415600304300
+"River: A♣, 2♠, 5♠, 2♦ [8♠]",2024-04-26T18:26:39.017Z,171415599901700
+"Turn: A♣, 2♠, 5♠ [2♦]",2024-04-26T18:26:35.007Z,171415599500700
+"""floppynuts @ s8o62OfXVN"" shows a A♠, A♦.",2024-04-26T18:26:30.922Z,171415599092202
+"""K-Chan @ p_t97OeVLx"" shows a 9♠, J♠.",2024-04-26T18:26:30.922Z,171415599092201
+"""Enforcer @ EuvfZRbDqR"" shows a 6♦, 5♦.",2024-04-26T18:26:30.922Z,171415599092200
+"""K-Chan @ p_t97OeVLx"" calls 1340 and go all in",2024-04-26T18:26:30.088Z,171415599008800
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:26:27.650Z,171415598765000
+"""floppynuts @ s8o62OfXVN"" raises to 1340",2024-04-26T18:26:26.502Z,171415598650200
+"""K-Chan @ p_t97OeVLx"" calls 680",2024-04-26T18:26:23.612Z,171415598361200
+"""Enforcer @ EuvfZRbDqR"" raises to 680 and go all in",2024-04-26T18:26:22.535Z,171415598253500
+"""lkm69 @ eDEX-uECkK"" calls 40",2024-04-26T18:26:13.669Z,171415597366900
+"""floppynuts @ s8o62OfXVN"" bets 40",2024-04-26T18:26:12.385Z,171415597238500
+"""K-Chan @ p_t97OeVLx"" checks",2024-04-26T18:26:08.684Z,171415596868400
+"Flop:  [A♣, 2♠, 5♠]",2024-04-26T18:26:06.560Z,171415596656000
+"""K-Chan @ p_t97OeVLx"" calls 160",2024-04-26T18:26:05.754Z,171415596575400
+"""Enforcer @ EuvfZRbDqR"" calls 160",2024-04-26T18:26:03.224Z,171415596322400
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:25:56.221Z,171415595622100
+"""lkm69 @ eDEX-uECkK"" calls 160",2024-04-26T18:25:55.274Z,171415595527400
+"""floppynuts @ s8o62OfXVN"" raises to 160",2024-04-26T18:25:52.233Z,171415595223300
+"""K-Chan @ p_t97OeVLx"" posts a big blind of 40",2024-04-26T18:25:48.171Z,171415594817109
+"Dead Small Blind",2024-04-26T18:25:48.171Z,171415594817108
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1320) | #2 ""kk_ @ WWq2ifOCX-"" (730) | #3 ""Enforcer @ EuvfZRbDqR"" (840) | #6 ""K-Chan @ p_t97OeVLx"" (1500) | #8 ""floppynuts @ s8o62OfXVN"" (3610)",2024-04-26T18:25:48.171Z,171415594817102
+"-- starting hand #8 (id: z9tfrrktg3ry)  (No Limit Texas Hold'em) (dealer: ""Enforcer @ EuvfZRbDqR"") --",2024-04-26T18:25:48.171Z,171415594817101
+"The player ""Catch4 @ TlkvtU55KV"" quits the game with a stack of 0.",2024-04-26T18:25:48.171Z,171415594817100
+"-- ending hand #7 --",2024-04-26T18:25:42.153Z,171415594215304
+"""floppynuts @ s8o62OfXVN"" collected 110 from pot with Two Pair, J's & 10's (combination: J♦, J♠, 10♣, 10♦, 6♥)",2024-04-26T18:25:42.153Z,171415594215303
+"""lkm69 @ eDEX-uECkK"" collected 110 from pot with Two Pair, J's & 10's (combination: J♦, J♠, 10♥, 10♠, 6♥)",2024-04-26T18:25:42.153Z,171415594215302
+"""floppynuts @ s8o62OfXVN"" collected 1210 from pot with Two Pair, J's & 10's (combination: J♦, J♠, 10♣, 10♦, 6♥)",2024-04-26T18:25:42.153Z,171415594215301
+"""lkm69 @ eDEX-uECkK"" collected 1210 from pot with Two Pair, J's & 10's (combination: J♦, J♠, 10♥, 10♠, 6♥)",2024-04-26T18:25:42.153Z,171415594215300
+"River: 5♣, 5♦, J♦, 6♥ [J♠]",2024-04-26T18:25:38.146Z,171415593814600
+"Turn: 5♣, 5♦, J♦ [6♥]",2024-04-26T18:25:34.118Z,171415593411800
+"""floppynuts @ s8o62OfXVN"" shows a 10♣, 10♦.",2024-04-26T18:25:30.071Z,171415593007102
+"""Catch4 @ TlkvtU55KV"" shows a 6♦, 7♦.",2024-04-26T18:25:30.071Z,171415593007101
+"""lkm69 @ eDEX-uECkK"" shows a 10♥, 10♠.",2024-04-26T18:25:30.071Z,171415593007100
+"""floppynuts @ s8o62OfXVN"" calls 670",2024-04-26T18:25:29.216Z,171415592921600
+"""Catch4 @ TlkvtU55KV"" calls 560 and go all in",2024-04-26T18:25:28.235Z,171415592823500
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:25:27.267Z,171415592726700
+"""lkm69 @ eDEX-uECkK"" bets 670 and go all in",2024-04-26T18:25:23.767Z,171415592376700
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:25:18.561Z,171415591856100
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:25:15.580Z,171415591558000
+"Flop:  [5♣, 5♦, J♦]",2024-04-26T18:25:09.032Z,171415590903200
+"""Catch4 @ TlkvtU55KV"" calls 180",2024-04-26T18:25:08.179Z,171415590817900
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:25:06.515Z,171415590651500
+"""kk_ @ WWq2ifOCX-"" calls 180",2024-04-26T18:24:57.335Z,171415589733500
+"""lkm69 @ eDEX-uECkK"" calls 180",2024-04-26T18:24:52.592Z,171415589259200
+"""floppynuts @ s8o62OfXVN"" raises to 180",2024-04-26T18:24:50.260Z,171415589026000
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:24:45.685Z,171415588568500
+"""Catch4 @ TlkvtU55KV"" posts a big blind of 40",2024-04-26T18:24:42.552Z,171415588255210
+"""Enforcer @ EuvfZRbDqR"" posts a small blind of 20",2024-04-26T18:24:42.552Z,171415588255209
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (850) | #2 ""kk_ @ WWq2ifOCX-"" (910) | #3 ""Enforcer @ EuvfZRbDqR"" (860) | #5 ""Catch4 @ TlkvtU55KV"" (740) | #6 ""K-Chan @ p_t97OeVLx"" (1500) | #8 ""floppynuts @ s8o62OfXVN"" (3140)",2024-04-26T18:24:42.552Z,171415588255202
+"-- starting hand #7 (id: z50b1k4hdl7f)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T18:24:42.552Z,171415588255201
+"The player ""LuckyMan243432 @ IecvKAjGxS"" quits the game with a stack of 0.",2024-04-26T18:24:42.552Z,171415588255200
+"-- ending hand #6 --",2024-04-26T18:24:36.488Z,171415587648802
+"""floppynuts @ s8o62OfXVN"" collected 1070 from pot with Pair, A's (combination: A♥, A♠, 10♦, 9♣, 8♠)",2024-04-26T18:24:36.488Z,171415587648801
+"""floppynuts @ s8o62OfXVN"" collected 2070 from pot with Pair, A's (combination: A♥, A♠, 10♦, 9♣, 8♠)",2024-04-26T18:24:36.488Z,171415587648800
+"River: 9♣, 4♥, 8♠, 6♦ [10♦]",2024-04-26T18:24:32.467Z,171415587246700
+"Turn: 9♣, 4♥, 8♠ [6♦]",2024-04-26T18:24:28.464Z,171415586846400
+"""floppynuts @ s8o62OfXVN"" shows a A♥, A♠.",2024-04-26T18:24:24.459Z,171415586445902
+"""LuckyMan243432 @ IecvKAjGxS"" shows a 2♠, Q♠.",2024-04-26T18:24:24.459Z,171415586445901
+"""lkm69 @ eDEX-uECkK"" shows a K♠, 9♠.",2024-04-26T18:24:24.459Z,171415586445900
+"""lkm69 @ eDEX-uECkK"" calls 925",2024-04-26T18:24:23.615Z,171415586361500
+"""floppynuts @ s8o62OfXVN"" raises to 925 and go all in",2024-04-26T18:24:16.347Z,171415585634700
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:24:14.289Z,171415585428900
+"""LuckyMan243432 @ IecvKAjGxS"" bets 390 and go all in",2024-04-26T18:24:09.868Z,171415584986800
+"Flop:  [9♣, 4♥, 8♠]",2024-04-26T18:24:04.774Z,171415584477400
+"""Catch4 @ TlkvtU55KV"" calls 210",2024-04-26T18:24:03.960Z,171415584396000
+"""LuckyMan243432 @ IecvKAjGxS"" calls 210",2024-04-26T18:24:03.091Z,171415584309100
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:24:01.984Z,171415584198400
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:23:52.792Z,171415583279200
+"""lkm69 @ eDEX-uECkK"" calls 210",2024-04-26T18:23:51.836Z,171415583183600
+"""floppynuts @ s8o62OfXVN"" raises to 210",2024-04-26T18:23:50.105Z,171415583010500
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:23:44.709Z,171415582470900
+"""Catch4 @ TlkvtU55KV"" calls 40",2024-04-26T18:23:40.717Z,171415582071700
+"""LuckyMan243432 @ IecvKAjGxS"" calls 40",2024-04-26T18:23:39.837Z,171415581983700
+"""Enforcer @ EuvfZRbDqR"" posts a big blind of 40",2024-04-26T18:23:36.086Z,171415581608610
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 20",2024-04-26T18:23:36.086Z,171415581608609
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1985) | #2 ""kk_ @ WWq2ifOCX-"" (930) | #3 ""Enforcer @ EuvfZRbDqR"" (900) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (600) | #5 ""Catch4 @ TlkvtU55KV"" (950) | #6 ""K-Chan @ p_t97OeVLx"" (1500) | #8 ""floppynuts @ s8o62OfXVN"" (1135)",2024-04-26T18:23:36.086Z,171415581608601
+"-- starting hand #6 (id: xhmcbaqrzmzr)  (No Limit Texas Hold'em) (dealer: ""lkm69 @ eDEX-uECkK"") --",2024-04-26T18:23:36.086Z,171415581608600
+"-- ending hand #5 --",2024-04-26T18:23:33.173Z,171415581317302
+"""kk_ @ WWq2ifOCX-"" collected 480 from pot",2024-04-26T18:23:33.173Z,171415581317301
+"Uncalled bet of 450 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:23:33.173Z,171415581317300
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T18:23:32.308Z,171415581230800
+"""kk_ @ WWq2ifOCX-"" bets 450 and go all in",2024-04-26T18:23:16.677Z,171415579667700
+"Turn: 4♣, 4♥, 6♣ [7♦]",2024-04-26T18:23:12.813Z,171415579281300
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:23:11.988Z,171415579198800
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:23:10.848Z,171415579084800
+"""LuckyMan243432 @ IecvKAjGxS"" calls 160",2024-04-26T18:23:09.113Z,171415578911300
+"""kk_ @ WWq2ifOCX-"" bets 160",2024-04-26T18:23:07.838Z,171415578783800
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:23:01.467Z,171415578146700
+"Flop:  [4♣, 4♥, 6♣]",2024-04-26T18:22:55.903Z,171415577590300
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T18:22:55.020Z,171415577502000
+"""lkm69 @ eDEX-uECkK"" calls 40",2024-04-26T18:22:49.940Z,171415576994000
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:22:36.988Z,171415575698800
+"""K-Chan @ p_t97OeVLx"" calls 40",2024-04-26T18:22:36.044Z,171415575604400
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:22:29.227Z,171415574922700
+"""LuckyMan243432 @ IecvKAjGxS"" calls 40",2024-04-26T18:22:28.347Z,171415574834700
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:22:26.655Z,171415574665500
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 40",2024-04-26T18:22:23.074Z,171415574307412
+"""lkm69 @ eDEX-uECkK"" posts a small blind of 20",2024-04-26T18:22:23.074Z,171415574307411
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2025) | #2 ""kk_ @ WWq2ifOCX-"" (650) | #3 ""Enforcer @ EuvfZRbDqR"" (900) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (800) | #5 ""Catch4 @ TlkvtU55KV"" (950) | #6 ""K-Chan @ p_t97OeVLx"" (1540) | #8 ""floppynuts @ s8o62OfXVN"" (1135)",2024-04-26T18:22:23.074Z,171415574307403
+"-- starting hand #5 (id: q2g5vlza2blv)  (No Limit Texas Hold'em) (dealer: ""floppynuts @ s8o62OfXVN"") --",2024-04-26T18:22:23.074Z,171415574307402
+"The game's big blind was changed from 20 to 40.",2024-04-26T18:22:23.074Z,171415574307401
+"The game's small blind was changed from 10 to 20.",2024-04-26T18:22:23.074Z,171415574307400
+"-- ending hand #4 --",2024-04-26T18:22:20.132Z,171415574013202
+"""kk_ @ WWq2ifOCX-"" collected 90 from pot",2024-04-26T18:22:20.132Z,171415574013201
+"Uncalled bet of 45 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T18:22:20.132Z,171415574013200
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:22:19.322Z,171415573932200
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:22:16.406Z,171415573640600
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T18:22:00.497Z,171415572049700
+"""kk_ @ WWq2ifOCX-"" bets 45",2024-04-26T18:21:59.623Z,171415571962300
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:21:55.789Z,171415571578900
+"Flop:  [3♣, K♥, 7♥]",2024-04-26T18:21:48.085Z,171415570808500
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:21:47.246Z,171415570724600
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:21:46.272Z,171415570627200
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:21:45.364Z,171415570536400
+"""Catch4 @ TlkvtU55KV"" calls 20",2024-04-26T18:21:43.062Z,171415570306200
+"""LuckyMan243432 @ IecvKAjGxS"" calls 20",2024-04-26T18:21:28.596Z,171415568859600
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:21:27.384Z,171415568738400
+"""kk_ @ WWq2ifOCX-"" calls 20",2024-04-26T18:21:26.310Z,171415568631000
+"""lkm69 @ eDEX-uECkK"" posts a big blind of 20",2024-04-26T18:21:19.729Z,171415567972910
+"""floppynuts @ s8o62OfXVN"" posts a small blind of 10",2024-04-26T18:21:19.729Z,171415567972909
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2045) | #2 ""kk_ @ WWq2ifOCX-"" (580) | #3 ""Enforcer @ EuvfZRbDqR"" (900) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (820) | #5 ""Catch4 @ TlkvtU55KV"" (970) | #6 ""K-Chan @ p_t97OeVLx"" (1540) | #8 ""floppynuts @ s8o62OfXVN"" (1145)",2024-04-26T18:21:19.729Z,171415567972901
+"-- starting hand #4 (id: ai7ku6633oqo)  (No Limit Texas Hold'em) (dealer: ""K-Chan @ p_t97OeVLx"") --",2024-04-26T18:21:19.729Z,171415567972900
+"""floppynuts @ s8o62OfXVN"" shows a J♥, 7♦.",2024-04-26T18:21:16.888Z,171415567688800
+"-- ending hand #3 --",2024-04-26T18:21:16.097Z,171415567609702
+"""K-Chan @ p_t97OeVLx"" collected 1040 from pot",2024-04-26T18:21:16.097Z,171415567609701
+"Uncalled bet of 500 returned to ""K-Chan @ p_t97OeVLx""",2024-04-26T18:21:16.097Z,171415567609700
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:21:15.280Z,171415567528000
+"""K-Chan @ p_t97OeVLx"" bets 500 and go all in",2024-04-26T18:21:00.854Z,171415566085400
+"River: J♦, 6♦, 7♠, 2♦ [4♥]",2024-04-26T18:20:57.984Z,171415565798400
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T18:20:57.158Z,171415565715800
+"""kk_ @ WWq2ifOCX-"" calls 260",2024-04-26T18:20:56.187Z,171415565618700
+"""K-Chan @ p_t97OeVLx"" bets 260",2024-04-26T18:20:43.484Z,171415564348400
+"Turn: J♦, 6♦, 7♠ [2♦]",2024-04-26T18:20:38.486Z,171415563848600
+"""LuckyMan243432 @ IecvKAjGxS"" calls 60",2024-04-26T18:20:37.674Z,171415563767400
+"""kk_ @ WWq2ifOCX-"" calls 60",2024-04-26T18:20:35.080Z,171415563508000
+"""K-Chan @ p_t97OeVLx"" bets 60",2024-04-26T18:20:28.645Z,171415562864500
+"Flop:  [J♦, 6♦, 7♠]",2024-04-26T18:20:14.464Z,171415561446400
+"""kk_ @ WWq2ifOCX-"" calls 100",2024-04-26T18:20:13.644Z,171415561364400
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:20:12.676Z,171415561267600
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:20:11.550Z,171415561155000
+"""K-Chan @ p_t97OeVLx"" calls 100",2024-04-26T18:20:10.605Z,171415561060500
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:20:08.188Z,171415560818800
+"""LuckyMan243432 @ IecvKAjGxS"" raises to 100",2024-04-26T18:19:52.298Z,171415559229800
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:19:49.955Z,171415558995500
+"""kk_ @ WWq2ifOCX-"" calls 20",2024-04-26T18:19:45.324Z,171415558532400
+"""lkm69 @ eDEX-uECkK"" calls 20",2024-04-26T18:19:39.845Z,171415557984500
+"""floppynuts @ s8o62OfXVN"" posts a big blind of 20",2024-04-26T18:19:36.163Z,171415557616310
+"""K-Chan @ p_t97OeVLx"" posts a small blind of 10",2024-04-26T18:19:36.163Z,171415557616309
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2065) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Enforcer @ EuvfZRbDqR"" (900) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (980) | #5 ""Catch4 @ TlkvtU55KV"" (970) | #6 ""K-Chan @ p_t97OeVLx"" (920) | #8 ""floppynuts @ s8o62OfXVN"" (1165)",2024-04-26T18:19:36.163Z,171415557616301
+"-- starting hand #3 (id: z2nj7g3lxte5)  (No Limit Texas Hold'em) (dealer: ""Catch4 @ TlkvtU55KV"") --",2024-04-26T18:19:36.163Z,171415557616300
+"-- ending hand #2 --",2024-04-26T18:19:33.164Z,171415557316402
+"""floppynuts @ s8o62OfXVN"" collected 380 from pot",2024-04-26T18:19:33.164Z,171415557316401
+"Uncalled bet of 190 returned to ""floppynuts @ s8o62OfXVN""",2024-04-26T18:19:33.164Z,171415557316400
+"""lkm69 @ eDEX-uECkK"" folds",2024-04-26T18:19:32.285Z,171415557228500
+"""floppynuts @ s8o62OfXVN"" bets 190",2024-04-26T18:19:27.717Z,171415556771700
+"River: 8♦, 10♣, 8♠, 4♠ [A♣]",2024-04-26T18:19:25.005Z,171415556500500
+"""lkm69 @ eDEX-uECkK"" checks",2024-04-26T18:19:24.153Z,171415556415300
+"""floppynuts @ s8o62OfXVN"" checks",2024-04-26T18:19:23.098Z,171415556309800
+"Turn: 8♦, 10♣, 8♠ [4♠]",2024-04-26T18:19:21.147Z,171415556114700
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:19:20.318Z,171415556031800
+"""lkm69 @ eDEX-uECkK"" calls 95",2024-04-26T18:19:16.033Z,171415555603300
+"""floppynuts @ s8o62OfXVN"" bets 95",2024-04-26T18:19:14.650Z,171415555465000
+"""K-Chan @ p_t97OeVLx"" checks",2024-04-26T18:19:11.928Z,171415555192800
+"Flop:  [8♦, 10♣, 8♠]",2024-04-26T18:19:09.174Z,171415554917400
+"""K-Chan @ p_t97OeVLx"" calls 60",2024-04-26T18:19:08.335Z,171415554833500
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:19:06.200Z,171415554620000
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T18:19:05.316Z,171415554531600
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:19:04.395Z,171415554439500
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:19:03.408Z,171415554340800
+"""lkm69 @ eDEX-uECkK"" calls 60",2024-04-26T18:19:00.813Z,171415554081300
+"""floppynuts @ s8o62OfXVN"" raises to 60",2024-04-26T18:18:58.854Z,171415553885400
+"""K-Chan @ p_t97OeVLx"" posts a big blind of 20",2024-04-26T18:18:55.772Z,171415553577211
+"""Catch4 @ TlkvtU55KV"" posts a small blind of 10",2024-04-26T18:18:55.772Z,171415553577210
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (2220) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Enforcer @ EuvfZRbDqR"" (900) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (980) | #5 ""Catch4 @ TlkvtU55KV"" (980) | #6 ""K-Chan @ p_t97OeVLx"" (980) | #8 ""floppynuts @ s8o62OfXVN"" (940)",2024-04-26T18:18:55.772Z,171415553577202
+"-- starting hand #2 (id: spt55nwvjmht)  (No Limit Texas Hold'em) (dealer: ""LuckyMan243432 @ IecvKAjGxS"") --",2024-04-26T18:18:55.772Z,171415553577201
+"The player ""Rocket25 @ B4GKTgAtM4"" quits the game with a stack of 0.",2024-04-26T18:18:55.772Z,171415553577200
+"-- ending hand #1 --",2024-04-26T18:18:49.767Z,171415552976701
+"""lkm69 @ eDEX-uECkK"" collected 2220 from pot with Full House, 6's over 3's (combination: 6♥, 6♠, 6♣, 3♥, 3♦)",2024-04-26T18:18:49.767Z,171415552976700
+"River: 3♥, 2♣, 6♠, 3♦ [6♣]",2024-04-26T18:18:45.703Z,171415552570300
+"""Rocket25 @ B4GKTgAtM4"" shows a 5♦, 4♣.",2024-04-26T18:18:41.699Z,171415552169901
+"""lkm69 @ eDEX-uECkK"" shows a 6♥, Q♥.",2024-04-26T18:18:41.699Z,171415552169900
+"""Rocket25 @ B4GKTgAtM4"" calls 860 and go all in",2024-04-26T18:18:40.873Z,171415552087300
+"""lkm69 @ eDEX-uECkK"" raises to 860 and go all in",2024-04-26T18:18:38.965Z,171415551896500
+"""Rocket25 @ B4GKTgAtM4"" bets 150",2024-04-26T18:18:35.945Z,171415551594500
+"Turn: 3♥, 2♣, 6♠ [3♦]",2024-04-26T18:18:27.913Z,171415550791300
+"""Enforcer @ EuvfZRbDqR"" folds",2024-04-26T18:18:27.075Z,171415550707500
+"""lkm69 @ eDEX-uECkK"" calls 120",2024-04-26T18:18:25.594Z,171415550559400
+"""floppynuts @ s8o62OfXVN"" folds",2024-04-26T18:18:23.828Z,171415550382800
+"""Rocket25 @ B4GKTgAtM4"" raises to 120",2024-04-26T18:18:19.212Z,171415549921200
+"""K-Chan @ p_t97OeVLx"" folds",2024-04-26T18:18:14.322Z,171415549432200
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:18:11.840Z,171415549184000
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T18:18:10.947Z,171415549094700
+"""Enforcer @ EuvfZRbDqR"" calls 80",2024-04-26T18:18:10.059Z,171415549005900
+"""lkm69 @ eDEX-uECkK"" raises to 80",2024-04-26T18:18:08.660Z,171415548866000
+"""floppynuts @ s8o62OfXVN"" calls 40",2024-04-26T18:18:04.062Z,171415548406200
+"""Rocket25 @ B4GKTgAtM4"" bets 40",2024-04-26T18:18:03.148Z,171415548314800
+"""K-Chan @ p_t97OeVLx"" checks",2024-04-26T18:17:58.884Z,171415547888400
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:17:56.652Z,171415547665200
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T18:17:40.800Z,171415546080000
+"Flop:  [3♥, 2♣, 6♠]",2024-04-26T18:17:37.725Z,171415545772500
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:17:36.918Z,171415545691800
+"""LuckyMan243432 @ IecvKAjGxS"" calls 20",2024-04-26T18:17:31.326Z,171415545132600
+"""Enforcer @ EuvfZRbDqR"" calls 20",2024-04-26T18:17:30.406Z,171415545040600
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T18:17:20.687Z,171415544068700
+"""lkm69 @ eDEX-uECkK"" calls 20",2024-04-26T18:17:19.725Z,171415543972500
+"""floppynuts @ s8o62OfXVN"" calls 20",2024-04-26T18:17:18.393Z,171415543839300
+"""Rocket25 @ B4GKTgAtM4"" calls 20",2024-04-26T18:17:17.533Z,171415543753300
+"""K-Chan @ p_t97OeVLx"" calls 20",2024-04-26T18:17:15.245Z,171415543524500
+"""Catch4 @ TlkvtU55KV"" posts a big blind of 20",2024-04-26T18:17:10.472Z,171415543047219
+"""LuckyMan243432 @ IecvKAjGxS"" posts a small blind of 10",2024-04-26T18:17:10.472Z,171415543047218
+"Player stacks: #1 ""lkm69 @ eDEX-uECkK"" (1000) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Enforcer @ EuvfZRbDqR"" (1000) | #4 ""LuckyMan243432 @ IecvKAjGxS"" (1000) | #5 ""Catch4 @ TlkvtU55KV"" (1000) | #6 ""K-Chan @ p_t97OeVLx"" (1000) | #7 ""Rocket25 @ B4GKTgAtM4"" (1000) | #8 ""floppynuts @ s8o62OfXVN"" (1000)",2024-04-26T18:17:10.472Z,171415543047209
+"The player ""floppynuts @ s8o62OfXVN"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047208
+"The player ""Rocket25 @ B4GKTgAtM4"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047207
+"The player ""K-Chan @ p_t97OeVLx"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047206
+"The player ""Catch4 @ TlkvtU55KV"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047205
+"The player ""LuckyMan243432 @ IecvKAjGxS"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047204
+"The player ""Enforcer @ EuvfZRbDqR"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047203
+"The player ""kk_ @ WWq2ifOCX-"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047202
+"The player ""lkm69 @ eDEX-uECkK"" joined the game with a stack of 1000.",2024-04-26T18:17:10.472Z,171415543047201
+"-- starting hand #1 (id: psxx0sx6yplg)  (No Limit Texas Hold'em) (dealer: ""Enforcer @ EuvfZRbDqR"") --",2024-04-26T18:17:10.472Z,171415543047200

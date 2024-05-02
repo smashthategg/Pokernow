@@ -1,0 +1,853 @@
+entry,at,order
+"The player ""JustinS @ 1VDWHDzw9I"" quits the game with a stack of 8000.",2024-04-26T18:17:04.277Z,171415542427700
+"The player ""albs @ ssNGMVFlqq"" quits the game with a stack of 0.",2024-04-26T17:50:06.209Z,171415380620900
+"-- ending hand #43 --",2024-04-26T17:50:00.148Z,171415380014801
+"""JustinS @ 1VDWHDzw9I"" collected 7300 from pot with Two Pair, K's & 6's (combination: K♥, K♠, 6♠, 6♣, Q♣)",2024-04-26T17:50:00.148Z,171415380014800
+"River: 8♦, Q♣, K♠, J♦ [6♣]",2024-04-26T17:49:56.069Z,171415379606900
+"""JustinS @ 1VDWHDzw9I"" shows a 6♠, K♥.",2024-04-26T17:49:52.048Z,171415379204801
+"""albs @ ssNGMVFlqq"" shows a J♣, Q♠.",2024-04-26T17:49:52.048Z,171415379204800
+"""albs @ ssNGMVFlqq"" calls 1250 and go all in",2024-04-26T17:49:51.209Z,171415379120900
+"""JustinS @ 1VDWHDzw9I"" bets 1250",2024-04-26T17:49:49.863Z,171415378986300
+"Turn: 8♦, Q♣, K♠ [J♦]",2024-04-26T17:49:46.643Z,171415378664300
+"""JustinS @ 1VDWHDzw9I"" calls 2000",2024-04-26T17:49:45.835Z,171415378583500
+"""albs @ ssNGMVFlqq"" raises to 2000",2024-04-26T17:49:42.048Z,171415378204800
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:49:35.112Z,171415377511200
+"Flop:  [8♦, Q♣, K♠]",2024-04-26T17:49:31.604Z,171415377160400
+"""JustinS @ 1VDWHDzw9I"" calls 400",2024-04-26T17:49:30.783Z,171415377078300
+"""albs @ ssNGMVFlqq"" raises to 400",2024-04-26T17:49:28.619Z,171415376861900
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:49:22.712Z,171415376271205
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:49:22.712Z,171415376271204
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (3650) | #6 ""JustinS @ 1VDWHDzw9I"" (4350)",2024-04-26T17:49:22.712Z,171415376271201
+"-- starting hand #43 (id: eernyg19uxmz)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:49:22.712Z,171415376271200
+"-- ending hand #42 --",2024-04-26T17:49:19.759Z,171415375975902
+"""JustinS @ 1VDWHDzw9I"" collected 400 from pot",2024-04-26T17:49:19.759Z,171415375975901
+"Uncalled bet of 3650 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:49:19.759Z,171415375975900
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:49:18.953Z,171415375895300
+"""JustinS @ 1VDWHDzw9I"" raises to 3850",2024-04-26T17:49:17.322Z,171415375732200
+"""albs @ ssNGMVFlqq"" posts a big blind of 200",2024-04-26T17:49:14.951Z,171415375495105
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 100",2024-04-26T17:49:14.951Z,171415375495104
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (3850) | #6 ""JustinS @ 1VDWHDzw9I"" (4150)",2024-04-26T17:49:14.951Z,171415375495101
+"-- starting hand #42 (id: xwcczzp0iyhi)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:49:14.951Z,171415375495100
+"-- ending hand #41 --",2024-04-26T17:49:08.905Z,171415374890501
+"""albs @ ssNGMVFlqq"" collected 3850 from pot with Pair, 6's (combination: 6♥, 6♦, A♠, J♥, 10♣)",2024-04-26T17:49:08.905Z,171415374890500
+"River: 7♣, 6♥, A♠, 8♠ [6♦]",2024-04-26T17:49:04.888Z,171415374488800
+"""JustinS @ 1VDWHDzw9I"" shows a 3♣, 9♣.",2024-04-26T17:49:00.863Z,171415374086301
+"""albs @ ssNGMVFlqq"" shows a J♥, 10♣.",2024-04-26T17:49:00.863Z,171415374086300
+"""albs @ ssNGMVFlqq"" calls 1525 and go all in",2024-04-26T17:49:00.059Z,171415374005900
+"""JustinS @ 1VDWHDzw9I"" bets 1525",2024-04-26T17:48:58.703Z,171415373870300
+"Turn: 7♣, 6♥, A♠ [8♠]",2024-04-26T17:48:50.906Z,171415373090600
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:48:50.064Z,171415373006400
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:48:48.903Z,171415372890300
+"Flop:  [7♣, 6♥, A♠]",2024-04-26T17:48:45.252Z,171415372525200
+"""JustinS @ 1VDWHDzw9I"" calls 400",2024-04-26T17:48:44.342Z,171415372434200
+"""albs @ ssNGMVFlqq"" raises to 400",2024-04-26T17:48:37.618Z,171415371761800
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:48:33.456Z,171415371345605
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:48:33.456Z,171415371345604
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1925) | #6 ""JustinS @ 1VDWHDzw9I"" (6075)",2024-04-26T17:48:33.456Z,171415371345601
+"-- starting hand #41 (id: 4mta8cmyqxek)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:48:33.456Z,171415371345600
+"-- ending hand #40 --",2024-04-26T17:48:30.444Z,171415371044402
+"""albs @ ssNGMVFlqq"" collected 200 from pot",2024-04-26T17:48:30.444Z,171415371044401
+"Uncalled bet of 100 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:48:30.444Z,171415371044400
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:48:29.638Z,171415370963800
+"""albs @ ssNGMVFlqq"" posts a big blind of 200",2024-04-26T17:48:27.208Z,171415370720805
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 100",2024-04-26T17:48:27.208Z,171415370720804
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1825) | #6 ""JustinS @ 1VDWHDzw9I"" (6175)",2024-04-26T17:48:27.208Z,171415370720801
+"-- starting hand #40 (id: a1vbhpd5ujxm)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:48:27.208Z,171415370720800
+"-- ending hand #39 --",2024-04-26T17:48:24.201Z,171415370420102
+"""JustinS @ 1VDWHDzw9I"" collected 200 from pot",2024-04-26T17:48:24.201Z,171415370420101
+"Uncalled bet of 100 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:48:24.201Z,171415370420100
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:48:23.389Z,171415370338900
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:48:11.182Z,171415369118205
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:48:11.182Z,171415369118204
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1925) | #6 ""JustinS @ 1VDWHDzw9I"" (6075)",2024-04-26T17:48:11.182Z,171415369118201
+"-- starting hand #39 (id: kqvaxue1ah8q)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:48:11.182Z,171415369118200
+"-- ending hand #38 --",2024-04-26T17:48:08.227Z,171415368822702
+"""JustinS @ 1VDWHDzw9I"" collected 800 from pot",2024-04-26T17:48:08.227Z,171415368822701
+"Uncalled bet of 1925 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:48:08.227Z,171415368822700
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:48:07.418Z,171415368741800
+"""JustinS @ 1VDWHDzw9I"" raises to 2125",2024-04-26T17:48:04.505Z,171415368450500
+"""albs @ ssNGMVFlqq"" bets 200",2024-04-26T17:47:59.570Z,171415367957000
+"Flop:  [8♥, K♥, K♦]",2024-04-26T17:47:55.159Z,171415367515900
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:47:54.338Z,171415367433800
+"""JustinS @ 1VDWHDzw9I"" calls 200",2024-04-26T17:47:50.568Z,171415367056800
+"""albs @ ssNGMVFlqq"" posts a big blind of 200",2024-04-26T17:47:48.903Z,171415366890305
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 100",2024-04-26T17:47:48.903Z,171415366890304
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2325) | #6 ""JustinS @ 1VDWHDzw9I"" (5675)",2024-04-26T17:47:48.903Z,171415366890301
+"-- starting hand #38 (id: qokwh0djacyu)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:47:48.903Z,171415366890300
+"-- ending hand #37 --",2024-04-26T17:47:45.942Z,171415366594202
+"""albs @ ssNGMVFlqq"" collected 800 from pot",2024-04-26T17:47:45.942Z,171415366594201
+"Uncalled bet of 1525 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:47:45.942Z,171415366594200
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:47:45.133Z,171415366513300
+"""albs @ ssNGMVFlqq"" bets 1525 and go all in",2024-04-26T17:47:41.681Z,171415366168100
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:47:36.023Z,171415365602300
+"Turn: 6♣, A♠, J♦ [9♦]",2024-04-26T17:47:34.879Z,171415365487900
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:47:34.068Z,171415365406800
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:47:32.357Z,171415365235700
+"Flop:  [6♣, A♠, J♦]",2024-04-26T17:47:30.966Z,171415365096600
+"""JustinS @ 1VDWHDzw9I"" calls 400",2024-04-26T17:47:30.124Z,171415365012400
+"""albs @ ssNGMVFlqq"" raises to 400",2024-04-26T17:47:27.429Z,171415364742900
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:47:25.291Z,171415364529105
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:47:25.291Z,171415364529104
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1925) | #6 ""JustinS @ 1VDWHDzw9I"" (6075)",2024-04-26T17:47:25.291Z,171415364529101
+"-- starting hand #37 (id: egguvilqk8xu)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:47:25.291Z,171415364529100
+"-- ending hand #36 --",2024-04-26T17:47:22.355Z,171415364235502
+"""JustinS @ 1VDWHDzw9I"" collected 400 from pot",2024-04-26T17:47:22.355Z,171415364235501
+"Uncalled bet of 200 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:47:22.355Z,171415364235500
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:47:21.488Z,171415364148800
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:47:18.437Z,171415363843700
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:47:15.810Z,171415363581000
+"Flop:  [4♦, Q♥, 2♠]",2024-04-26T17:47:07.925Z,171415362792500
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:47:07.069Z,171415362706900
+"""JustinS @ 1VDWHDzw9I"" calls 200",2024-04-26T17:47:03.728Z,171415362372800
+"""albs @ ssNGMVFlqq"" posts a big blind of 200",2024-04-26T17:47:01.714Z,171415362171405
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 100",2024-04-26T17:47:01.714Z,171415362171404
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2125) | #6 ""JustinS @ 1VDWHDzw9I"" (5875)",2024-04-26T17:47:01.714Z,171415362171401
+"-- starting hand #36 (id: ycgxbqrtoxrh)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:47:01.714Z,171415362171400
+"""JustinS @ 1VDWHDzw9I"" shows a 5♣, 2♦.",2024-04-26T17:46:58.872Z,171415361887200
+"-- ending hand #35 --",2024-04-26T17:46:58.096Z,171415361809602
+"""JustinS @ 1VDWHDzw9I"" collected 200 from pot",2024-04-26T17:46:58.096Z,171415361809601
+"Uncalled bet of 100 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:46:58.096Z,171415361809600
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:46:57.257Z,171415361725700
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:46:51.435Z,171415361143506
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:46:51.435Z,171415361143505
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2225) | #6 ""JustinS @ 1VDWHDzw9I"" (5775)",2024-04-26T17:46:51.435Z,171415361143502
+"-- starting hand #35 (id: ehfnjvr289oh)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:46:51.435Z,171415361143501
+"The player ""Skinner @ 1VQShb3AFa"" quits the game with a stack of 0.",2024-04-26T17:46:51.435Z,171415361143500
+"-- ending hand #34 --",2024-04-26T17:46:45.418Z,171415360541803
+"""Skinner @ 1VQShb3AFa"" shows a A♥, 5♦.",2024-04-26T17:46:45.418Z,171415360541802
+"""JustinS @ 1VDWHDzw9I"" collected 4200 from pot with Three of a Kind, 6's (combination: 6♦, 6♥, 6♣, K♣, 10♦)",2024-04-26T17:46:45.418Z,171415360541801
+"""JustinS @ 1VDWHDzw9I"" shows a 6♦, 9♠.",2024-04-26T17:46:45.418Z,171415360541800
+"""JustinS @ 1VDWHDzw9I"" calls 1650",2024-04-26T17:46:44.608Z,171415360460800
+"""Skinner @ 1VQShb3AFa"" raises to 1650 and go all in",2024-04-26T17:46:43.354Z,171415360335400
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:46:40.687Z,171415360068700
+"River: K♣, 7♣, 10♦, 6♥ [6♣]",2024-04-26T17:46:39.150Z,171415359915000
+"""Skinner @ 1VQShb3AFa"" calls 200",2024-04-26T17:46:38.329Z,171415359832900
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:46:37.348Z,171415359734800
+"Turn: K♣, 7♣, 10♦ [6♥]",2024-04-26T17:46:34.549Z,171415359454900
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:46:33.739Z,171415359373900
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:46:32.817Z,171415359281700
+"Flop:  [K♣, 7♣, 10♦]",2024-04-26T17:46:31.302Z,171415359130200
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:46:30.455Z,171415359045500
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:46:29.578Z,171415358957800
+"""Skinner @ 1VQShb3AFa"" calls 200",2024-04-26T17:46:22.430Z,171415358243000
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 200",2024-04-26T17:46:20.214Z,171415358021406
+"""albs @ ssNGMVFlqq"" posts a small blind of 100",2024-04-26T17:46:20.214Z,171415358021405
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2325) | #6 ""JustinS @ 1VDWHDzw9I"" (3625) | #7 ""Skinner @ 1VQShb3AFa"" (2050)",2024-04-26T17:46:20.214Z,171415358021401
+"-- starting hand #34 (id: aq6syia8vqyo)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:46:20.214Z,171415358021400
+"-- ending hand #33 --",2024-04-26T17:46:17.280Z,171415357728002
+"""JustinS @ 1VDWHDzw9I"" collected 1200 from pot",2024-04-26T17:46:17.280Z,171415357728001
+"Uncalled bet of 600 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:46:17.280Z,171415357728000
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:46:16.412Z,171415357641200
+"""JustinS @ 1VDWHDzw9I"" bets 600",2024-04-26T17:46:12.813Z,171415357281300
+"Flop:  [J♥, 5♥, 2♠]",2024-04-26T17:46:08.126Z,171415356812600
+"""JustinS @ 1VDWHDzw9I"" calls 500",2024-04-26T17:46:07.287Z,171415356728700
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:46:04.538Z,171415356453800
+"""Skinner @ 1VQShb3AFa"" raises to 500",2024-04-26T17:45:58.664Z,171415355866400
+"""JustinS @ 1VDWHDzw9I"" calls 200",2024-04-26T17:45:54.612Z,171415355461200
+"""albs @ ssNGMVFlqq"" posts a big blind of 200",2024-04-26T17:45:52.634Z,171415355263407
+"Dead Small Blind",2024-04-26T17:45:52.634Z,171415355263406
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2525) | #6 ""JustinS @ 1VDWHDzw9I"" (2925) | #7 ""Skinner @ 1VQShb3AFa"" (2550)",2024-04-26T17:45:52.634Z,171415355263402
+"-- starting hand #33 (id: j663avtb96er)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:45:52.634Z,171415355263401
+"The player ""Pumpkineater69 @ B4pEZB-R0t"" quits the game with a stack of 0.",2024-04-26T17:45:52.634Z,171415355263400
+"""JustinS @ 1VDWHDzw9I"" shows a J♥, 2♣.",2024-04-26T17:45:47.385Z,171415354738500
+"-- ending hand #32 --",2024-04-26T17:45:46.122Z,171415354612201
+"""albs @ ssNGMVFlqq"" collected 330 from pot with Pair, 2's (combination: 2♥, 2♠, A♣, J♣, 9♠)",2024-04-26T17:45:46.122Z,171415354612200
+"River: 2♠, 5♣, 7♦, J♣ [9♠]",2024-04-26T17:45:42.119Z,171415354211900
+"Turn: 2♠, 5♣, 7♦ [J♣]",2024-04-26T17:45:38.083Z,171415353808300
+"Flop:  [2♠, 5♣, 7♦]",2024-04-26T17:45:34.074Z,171415353407400
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 6♣, A♦.",2024-04-26T17:45:30.069Z,171415353006902
+"""albs @ ssNGMVFlqq"" shows a A♣, 2♥.",2024-04-26T17:45:30.069Z,171415353006901
+"Uncalled bet of 285 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:45:30.069Z,171415353006900
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:45:29.237Z,171415352923700
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:45:23.717Z,171415352371700
+"""albs @ ssNGMVFlqq"" raises to 400",2024-04-26T17:45:22.699Z,171415352269900
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 115 and go all in ",2024-04-26T17:45:16.371Z,171415351637107
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 100",2024-04-26T17:45:16.371Z,171415351637106
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2310) | #6 ""JustinS @ 1VDWHDzw9I"" (2925) | #7 ""Skinner @ 1VQShb3AFa"" (2650) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (115)",2024-04-26T17:45:16.371Z,171415351637101
+"-- starting hand #32 (id: dce4inkko1sl)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:45:16.371Z,171415351637100
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 4♦, 9♣.",2024-04-26T17:45:13.044Z,171415351304400
+"""JustinS @ 1VDWHDzw9I"" shows a A♦, Q♠.",2024-04-26T17:45:12.769Z,171415351276900
+"-- ending hand #31 --",2024-04-26T17:45:12.002Z,171415351200202
+"""JustinS @ 1VDWHDzw9I"" collected 400 from pot",2024-04-26T17:45:12.002Z,171415351200201
+"Uncalled bet of 200 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:45:12.002Z,171415351200200
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:45:11.165Z,171415351116500
+"""JustinS @ 1VDWHDzw9I"" raises to 400",2024-04-26T17:45:09.166Z,171415350916600
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:45:04.032Z,171415350403200
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:44:55.010Z,171415349501000
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 200",2024-04-26T17:44:49.312Z,171415348931209
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 100",2024-04-26T17:44:49.312Z,171415348931208
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2310) | #6 ""JustinS @ 1VDWHDzw9I"" (2725) | #7 ""Skinner @ 1VQShb3AFa"" (2850) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (115)",2024-04-26T17:44:49.312Z,171415348931203
+"-- starting hand #31 (id: 1pvayyjy1nol)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:44:49.312Z,171415348931202
+"The game's big blind was changed from 150 to 200.",2024-04-26T17:44:49.312Z,171415348931201
+"The game's small blind was changed from 75 to 100.",2024-04-26T17:44:49.312Z,171415348931200
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a Q♠, 5♣.",2024-04-26T17:44:43.527Z,171415348352700
+"-- ending hand #30 --",2024-04-26T17:44:42.799Z,171415348279903
+"""albs @ ssNGMVFlqq"" shows a 8♥, 9♦.",2024-04-26T17:44:42.799Z,171415348279902
+"""JustinS @ 1VDWHDzw9I"" collected 300 from pot with Pair, K's (combination: K♣, K♦, Q♣, 8♦, 5♦)",2024-04-26T17:44:42.799Z,171415348279901
+"""JustinS @ 1VDWHDzw9I"" shows a 8♦, Q♣.",2024-04-26T17:44:42.799Z,171415348279900
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:44:41.970Z,171415348197000
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:44:38.020Z,171415347802000
+"River: K♣, 3♦, 4♥, K♦ [5♦]",2024-04-26T17:44:29.974Z,171415346997400
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:44:29.161Z,171415346916100
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:44:24.584Z,171415346458400
+"Turn: K♣, 3♦, 4♥ [K♦]",2024-04-26T17:44:22.412Z,171415346241200
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:44:21.583Z,171415346158300
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:44:18.689Z,171415345868900
+"Flop:  [K♣, 3♦, 4♥]",2024-04-26T17:44:16.750Z,171415345675000
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:44:15.903Z,171415345590300
+"""albs @ ssNGMVFlqq"" calls 150",2024-04-26T17:44:14.848Z,171415345484800
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:44:13.444Z,171415345344400
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:44:07.990Z,171415344799000
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 150",2024-04-26T17:44:06.186Z,171415344618607
+"""albs @ ssNGMVFlqq"" posts a small blind of 75",2024-04-26T17:44:06.186Z,171415344618606
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (2460) | #6 ""JustinS @ 1VDWHDzw9I"" (2575) | #7 ""Skinner @ 1VQShb3AFa"" (2850) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (115)",2024-04-26T17:44:06.186Z,171415344618601
+"-- starting hand #30 (id: p48mnytkqckn)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T17:44:06.186Z,171415344618600
+"-- ending hand #29 --",2024-04-26T17:44:00.173Z,171415344017301
+"""albs @ ssNGMVFlqq"" collected 2460 from pot with Flush, Jc High (combination: J♣, 6♣, 5♣, 4♣, 3♣)",2024-04-26T17:44:00.173Z,171415344017300
+"River: 6♣, K♥, J♥, 4♣ [5♣]",2024-04-26T17:43:56.157Z,171415343615700
+"Turn: 6♣, K♥, J♥ [4♣]",2024-04-26T17:43:52.108Z,171415343210800
+"Flop:  [6♣, K♥, J♥]",2024-04-26T17:43:48.093Z,171415342809300
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a A♥, 2♦.",2024-04-26T17:43:44.075Z,171415342407501
+"""albs @ ssNGMVFlqq"" shows a 3♣, J♣.",2024-04-26T17:43:44.075Z,171415342407500
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 1230",2024-04-26T17:43:43.216Z,171415342321600
+"""albs @ ssNGMVFlqq"" raises to 1230 and go all in",2024-04-26T17:43:41.661Z,171415342166100
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 450",2024-04-26T17:43:38.914Z,171415341891400
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:43:33.250Z,171415341325000
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:43:30.351Z,171415341035100
+"""albs @ ssNGMVFlqq"" posts a big blind of 150",2024-04-26T17:43:23.253Z,171415340325307
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 75",2024-04-26T17:43:23.253Z,171415340325306
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1230) | #6 ""JustinS @ 1VDWHDzw9I"" (2575) | #7 ""Skinner @ 1VQShb3AFa"" (2850) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1345)",2024-04-26T17:43:23.253Z,171415340325301
+"-- starting hand #29 (id: d8vckez0pavm)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:43:23.253Z,171415340325300
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♥, 5♥.",2024-04-26T17:43:20.404Z,171415340040400
+"-- ending hand #28 --",2024-04-26T17:43:19.647Z,171415339964702
+"""Skinner @ 1VQShb3AFa"" collected 300 from pot",2024-04-26T17:43:19.647Z,171415339964701
+"Uncalled bet of 150 returned to ""Skinner @ 1VQShb3AFa""",2024-04-26T17:43:19.647Z,171415339964700
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:43:18.804Z,171415339880400
+"""Skinner @ 1VQShb3AFa"" raises to 300",2024-04-26T17:43:04.885Z,171415338488500
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:42:55.937Z,171415337593700
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:42:44.032Z,171415336403200
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 150",2024-04-26T17:42:41.535Z,171415336153508
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 75",2024-04-26T17:42:41.535Z,171415336153507
+"Player stacks: #5 ""albs @ ssNGMVFlqq"" (1230) | #6 ""JustinS @ 1VDWHDzw9I"" (2575) | #7 ""Skinner @ 1VQShb3AFa"" (2700) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1495)",2024-04-26T17:42:41.535Z,171415336153502
+"-- starting hand #28 (id: 6foss6mkacg8)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:42:41.535Z,171415336153501
+"The player ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" quits the game with a stack of 0.",2024-04-26T17:42:41.535Z,171415336153500
+"""Skinner @ 1VQShb3AFa"" shows a 7♦, 7♣.",2024-04-26T17:42:37.630Z,171415335763000
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♣, 3♥.",2024-04-26T17:42:35.434Z,171415335543400
+"-- ending hand #27 --",2024-04-26T17:42:34.446Z,171415335444601
+"""JustinS @ 1VDWHDzw9I"" collected 2360 from pot with Three of a Kind, 6's (combination: 6♦, 6♠, 6♣, A♥, J♥)",2024-04-26T17:42:34.446Z,171415335444600
+"River: 3♣, 6♦, 6♠, 8♦ [6♣]",2024-04-26T17:42:30.431Z,171415335043100
+"Turn: 3♣, 6♦, 6♠ [8♦]",2024-04-26T17:42:26.403Z,171415334640300
+"Flop:  [3♣, 6♦, 6♠]",2024-04-26T17:42:22.387Z,171415334238700
+"""JustinS @ 1VDWHDzw9I"" shows a A♥, J♥.",2024-04-26T17:42:18.376Z,171415333837602
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" shows a Q♥, 10♦.",2024-04-26T17:42:18.376Z,171415333837601
+"Uncalled bet of 215 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:42:18.376Z,171415333837600
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" calls 1105 and go all in",2024-04-26T17:42:17.542Z,171415333754200
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:42:14.417Z,171415333441700
+"""JustinS @ 1VDWHDzw9I"" raises to 1320 and go all in",2024-04-26T17:42:05.194Z,171415332519400
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:42:02.072Z,171415332207200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" raises to 450",2024-04-26T17:42:00.830Z,171415332083000
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:41:57.051Z,171415331705100
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 150",2024-04-26T17:41:46.215Z,171415330621508
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 75",2024-04-26T17:41:46.215Z,171415330621507
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1105) | #5 ""albs @ ssNGMVFlqq"" (1230) | #6 ""JustinS @ 1VDWHDzw9I"" (1320) | #7 ""Skinner @ 1VQShb3AFa"" (2850) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1495)",2024-04-26T17:41:46.215Z,171415330621501
+"-- starting hand #27 (id: eq7eflrs3dbw)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:41:46.215Z,171415330621500
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♠, 4♣.",2024-04-26T17:41:40.949Z,171415330094900
+"""JustinS @ 1VDWHDzw9I"" shows a 2♠, J♣.",2024-04-26T17:41:39.892Z,171415329989200
+"-- ending hand #26 --",2024-04-26T17:41:39.189Z,171415329918901
+"""Skinner @ 1VQShb3AFa"" collected 2850 from pot with Two Pair, Q's & 8's (combination: Q♦, Q♠, 8♣, 8♥, 3♦)",2024-04-26T17:41:39.189Z,171415329918900
+"River: 2♦, Q♦, 2♥, Q♠ [3♦]",2024-04-26T17:41:35.183Z,171415329518300
+"Turn: 2♦, Q♦, 2♥ [Q♠]",2024-04-26T17:41:31.154Z,171415329115400
+"Flop:  [2♦, Q♦, 2♥]",2024-04-26T17:41:27.147Z,171415328714700
+"""Skinner @ 1VQShb3AFa"" shows a 8♣, 8♥.",2024-04-26T17:41:23.071Z,171415328307102
+"""albs @ ssNGMVFlqq"" shows a J♦, A♠.",2024-04-26T17:41:23.071Z,171415328307101
+"Uncalled bet of 120 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:41:23.071Z,171415328307100
+"""Skinner @ 1VQShb3AFa"" calls 1350 and go all in",2024-04-26T17:41:22.180Z,171415328218000
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:41:21.213Z,171415328121300
+"""albs @ ssNGMVFlqq"" raises to 1470",2024-04-26T17:41:18.948Z,171415327894800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:41:11.373Z,171415327137300
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:41:10.378Z,171415327037800
+"""Skinner @ 1VQShb3AFa"" raises to 375",2024-04-26T17:41:09.403Z,171415326940300
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 150",2024-04-26T17:41:04.734Z,171415326473408
+"""albs @ ssNGMVFlqq"" posts a small blind of 75",2024-04-26T17:41:04.734Z,171415326473407
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1105) | #5 ""albs @ ssNGMVFlqq"" (2580) | #6 ""JustinS @ 1VDWHDzw9I"" (1470) | #7 ""Skinner @ 1VQShb3AFa"" (1350) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1495)",2024-04-26T17:41:04.734Z,171415326473401
+"-- starting hand #26 (id: 6b3ivmiyjw8j)  (No Limit Texas Hold'em) (dealer: ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"") --",2024-04-26T17:41:04.734Z,171415326473400
+"""albs @ ssNGMVFlqq"" shows a 10♠, 7♣.",2024-04-26T17:41:02.757Z,171415326275700
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 4♣, 4♦.",2024-04-26T17:41:01.320Z,171415326132000
+"-- ending hand #25 --",2024-04-26T17:41:00.411Z,171415326041102
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 375 from pot",2024-04-26T17:41:00.411Z,171415326041101
+"Uncalled bet of 300 returned to ""Pumpkineater69 @ B4pEZB-R0t""",2024-04-26T17:41:00.411Z,171415326041100
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:40:59.539Z,171415325953900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:40:49.224Z,171415324922400
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 450",2024-04-26T17:40:45.961Z,171415324596100
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:40:36.528Z,171415323652800
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:40:28.433Z,171415322843300
+"""albs @ ssNGMVFlqq"" posts a big blind of 150",2024-04-26T17:40:25.858Z,171415322585808
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a small blind of 75",2024-04-26T17:40:25.858Z,171415322585807
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1180) | #5 ""albs @ ssNGMVFlqq"" (2730) | #6 ""JustinS @ 1VDWHDzw9I"" (1470) | #7 ""Skinner @ 1VQShb3AFa"" (1350) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1270)",2024-04-26T17:40:25.858Z,171415322585801
+"-- starting hand #25 (id: pf5fsompyi0c)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T17:40:25.858Z,171415322585800
+"-- ending hand #24 --",2024-04-26T17:40:19.854Z,171415321985401
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" collected 1180 from pot with Pair, J's (combination: J♠, J♥, 9♣, 7♦, 6♥)",2024-04-26T17:40:19.854Z,171415321985400
+"River: J♥, 4♦, 3♦, 6♥ [9♣]",2024-04-26T17:40:15.845Z,171415321584500
+"Turn: J♥, 4♦, 3♦ [6♥]",2024-04-26T17:40:11.811Z,171415321181100
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a K♠, 4♠.",2024-04-26T17:40:07.796Z,171415320779601
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" shows a 7♦, J♠.",2024-04-26T17:40:07.796Z,171415320779600
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 440",2024-04-26T17:40:06.899Z,171415320689900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" bets 440 and go all in",2024-04-26T17:39:57.189Z,171415319718900
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:39:52.044Z,171415319204400
+"Flop:  [J♥, 4♦, 3♦]",2024-04-26T17:39:49.406Z,171415318940600
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" checks",2024-04-26T17:39:48.581Z,171415318858100
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 150",2024-04-26T17:39:45.011Z,171415318501100
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:39:43.121Z,171415318312100
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:39:29.084Z,171415316908400
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:39:26.769Z,171415316676900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a big blind of 150",2024-04-26T17:39:25.547Z,171415316554710
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 75",2024-04-26T17:39:25.547Z,171415316554709
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (590) | #5 ""albs @ ssNGMVFlqq"" (2730) | #6 ""JustinS @ 1VDWHDzw9I"" (1470) | #7 ""Skinner @ 1VQShb3AFa"" (1350) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1860)",2024-04-26T17:39:25.547Z,171415316554703
+"-- starting hand #24 (id: r6tryqnysols)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:39:25.547Z,171415316554702
+"The game's big blind was changed from 100 to 150.",2024-04-26T17:39:25.547Z,171415316554701
+"The game's small blind was changed from 50 to 75.",2024-04-26T17:39:25.547Z,171415316554700
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 9♦, 6♠.",2024-04-26T17:39:22.606Z,171415316260600
+"-- ending hand #23 --",2024-04-26T17:39:21.916Z,171415316191602
+"""albs @ ssNGMVFlqq"" collected 450 from pot",2024-04-26T17:39:21.916Z,171415316191601
+"Uncalled bet of 100 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:39:21.916Z,171415316191600
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:39:21.022Z,171415316102200
+"""albs @ ssNGMVFlqq"" bets 100",2024-04-26T17:39:12.240Z,171415315224000
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:39:08.434Z,171415314843400
+"Flop:  [A♠, Q♥, 4♥]",2024-04-26T17:39:06.514Z,171415314651400
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 200",2024-04-26T17:39:05.705Z,171415314570500
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:39:03.856Z,171415314385600
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:38:56.948Z,171415313694800
+"""albs @ ssNGMVFlqq"" raises to 200",2024-04-26T17:38:56.099Z,171415313609900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:38:54.330Z,171415313433000
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 100",2024-04-26T17:38:51.458Z,171415313145808
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 50",2024-04-26T17:38:51.458Z,171415313145807
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (590) | #5 ""albs @ ssNGMVFlqq"" (2480) | #6 ""JustinS @ 1VDWHDzw9I"" (1470) | #7 ""Skinner @ 1VQShb3AFa"" (1400) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (2060)",2024-04-26T17:38:51.458Z,171415313145801
+"-- starting hand #23 (id: flitsomxmecn)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:38:51.458Z,171415313145800
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♣, J♣.",2024-04-26T17:38:48.648Z,171415312864800
+"-- ending hand #22 --",2024-04-26T17:38:47.750Z,171415312775002
+"""albs @ ssNGMVFlqq"" collected 700 from pot",2024-04-26T17:38:47.750Z,171415312775001
+"Uncalled bet of 300 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:38:47.750Z,171415312775000
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:38:46.943Z,171415312694300
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:38:40.239Z,171415312023900
+"""albs @ ssNGMVFlqq"" bets 300",2024-04-26T17:38:38.173Z,171415311817300
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:38:35.602Z,171415311560200
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:38:28.149Z,171415310814900
+"River: 3♥, K♦, 2♣, 7♦ [K♠]",2024-04-26T17:38:23.214Z,171415310321400
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:38:22.390Z,171415310239000
+"""Skinner @ 1VQShb3AFa"" calls 100",2024-04-26T17:38:16.005Z,171415309600500
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:38:13.651Z,171415309365100
+"""albs @ ssNGMVFlqq"" bets 100",2024-04-26T17:38:10.025Z,171415309002500
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:38:07.998Z,171415308799800
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:38:06.991Z,171415308699100
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:38:05.764Z,171415308576400
+"Turn: 3♥, K♦, 2♣ [7♦]",2024-04-26T17:38:03.934Z,171415308393400
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:38:03.112Z,171415308311200
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:37:58.271Z,171415307827100
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:37:57.257Z,171415307725700
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:37:56.323Z,171415307632300
+"Flop:  [3♥, K♦, 2♣]",2024-04-26T17:37:54.470Z,171415307447000
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:37:53.584Z,171415307358400
+"""JustinS @ 1VDWHDzw9I"" calls 100",2024-04-26T17:37:52.617Z,171415307261700
+"""albs @ ssNGMVFlqq"" calls 100",2024-04-26T17:37:51.759Z,171415307175900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:37:48.925Z,171415306892500
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:37:45.313Z,171415306531300
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 100",2024-04-26T17:37:41.243Z,171415306124308
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 50",2024-04-26T17:37:41.243Z,171415306124307
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (590) | #5 ""albs @ ssNGMVFlqq"" (1980) | #6 ""JustinS @ 1VDWHDzw9I"" (1570) | #7 ""Skinner @ 1VQShb3AFa"" (1600) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (2260)",2024-04-26T17:37:41.243Z,171415306124301
+"-- starting hand #22 (id: tgdiw57uxsr8)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:37:41.243Z,171415306124300
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 9♠, 10♥.",2024-04-26T17:37:39.199Z,171415305919900
+"-- ending hand #21 --",2024-04-26T17:37:37.634Z,171415305763402
+"""JustinS @ 1VDWHDzw9I"" collected 100 from pot",2024-04-26T17:37:37.634Z,171415305763401
+"Uncalled bet of 50 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:37:37.634Z,171415305763400
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:37:36.788Z,171415305678800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:37:35.792Z,171415305579200
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:37:34.823Z,171415305482300
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:37:33.769Z,171415305376900
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 100",2024-04-26T17:37:28.947Z,171415304894708
+"""albs @ ssNGMVFlqq"" posts a small blind of 50",2024-04-26T17:37:28.947Z,171415304894707
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (590) | #5 ""albs @ ssNGMVFlqq"" (2030) | #6 ""JustinS @ 1VDWHDzw9I"" (1520) | #7 ""Skinner @ 1VQShb3AFa"" (1600) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (2260)",2024-04-26T17:37:28.947Z,171415304894701
+"-- starting hand #21 (id: swtnygjf6ej1)  (No Limit Texas Hold'em) (dealer: ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"") --",2024-04-26T17:37:28.947Z,171415304894700
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a A♣, 3♦.",2024-04-26T17:37:26.536Z,171415304653600
+"-- ending hand #20 --",2024-04-26T17:37:25.335Z,171415304533502
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 250 from pot",2024-04-26T17:37:25.335Z,171415304533501
+"Uncalled bet of 100 returned to ""Pumpkineater69 @ B4pEZB-R0t""",2024-04-26T17:37:25.335Z,171415304533500
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:37:24.499Z,171415304449900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:37:23.276Z,171415304327600
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 200",2024-04-26T17:37:22.265Z,171415304226500
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:37:16.449Z,171415303644900
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:37:15.475Z,171415303547500
+"""albs @ ssNGMVFlqq"" posts a big blind of 100",2024-04-26T17:37:14.024Z,171415303402409
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a small blind of 50",2024-04-26T17:37:14.024Z,171415303402408
+"Player stacks: #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (640) | #5 ""albs @ ssNGMVFlqq"" (2130) | #6 ""JustinS @ 1VDWHDzw9I"" (1520) | #7 ""Skinner @ 1VQShb3AFa"" (1600) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (2110)",2024-04-26T17:37:14.024Z,171415303402402
+"-- starting hand #20 (id: mrh23fr8main)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:37:14.024Z,171415303402401
+"The player ""cliffmafe @ Euu9xO9oqu"" quits the game with a stack of 0.",2024-04-26T17:37:14.024Z,171415303402400
+"""cliffmafe @ Euu9xO9oqu"" shows a 7♦, A♣.",2024-04-26T17:37:10.973Z,171415303097300
+"-- ending hand #19 --",2024-04-26T17:37:07.503Z,171415302750306
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 400 from pot with Straight, K High (combination: K♦, Q♥, J♠, 10♦, 9♦)",2024-04-26T17:37:07.503Z,171415302750305
+"""JustinS @ 1VDWHDzw9I"" collected 400 from pot with Straight, K High (combination: K♣, Q♠, J♠, 10♥, 9♦)",2024-04-26T17:37:07.503Z,171415302750304
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 560 from pot with Straight, K High (combination: K♦, Q♥, J♠, 10♦, 9♦)",2024-04-26T17:37:07.503Z,171415302750303
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 10♦, K♦.",2024-04-26T17:37:07.503Z,171415302750302
+"""JustinS @ 1VDWHDzw9I"" collected 560 from pot with Straight, K High (combination: K♣, Q♠, J♠, 10♥, 9♦)",2024-04-26T17:37:07.503Z,171415302750301
+"""JustinS @ 1VDWHDzw9I"" shows a Q♠, K♣.",2024-04-26T17:37:07.503Z,171415302750300
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 200",2024-04-26T17:37:06.692Z,171415302669200
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:36:59.775Z,171415301977500
+"River: 10♥, J♠, 9♦, Q♥ [3♣]",2024-04-26T17:36:57.022Z,171415301702200
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:36:56.158Z,171415301615800
+"""JustinS @ 1VDWHDzw9I"" bets 100",2024-04-26T17:36:49.639Z,171415300963900
+"Turn: 10♥, J♠, 9♦ [Q♥]",2024-04-26T17:36:46.875Z,171415300687500
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:36:46.042Z,171415300604200
+"""JustinS @ 1VDWHDzw9I"" bets 100",2024-04-26T17:36:37.822Z,171415299782200
+"Flop:  [10♥, J♠, 9♦]",2024-04-26T17:36:34.504Z,171415299450400
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 340",2024-04-26T17:36:33.659Z,171415299365900
+"""JustinS @ 1VDWHDzw9I"" calls 340",2024-04-26T17:36:20.670Z,171415298067000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:36:19.810Z,171415297981000
+"""cliffmafe @ Euu9xO9oqu"" raises to 340 and go all in",2024-04-26T17:36:14.479Z,171415297447900
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:36:10.841Z,171415297084100
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:36:08.441Z,171415296844100
+"""JustinS @ 1VDWHDzw9I"" calls 100",2024-04-26T17:36:05.605Z,171415296560500
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:35:52.569Z,171415295256900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a big blind of 100",2024-04-26T17:35:51.259Z,171415295125909
+"""cliffmafe @ Euu9xO9oqu"" posts a small blind of 50",2024-04-26T17:35:51.259Z,171415295125908
+"Player stacks: #2 ""cliffmafe @ Euu9xO9oqu"" (340) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (740) | #5 ""albs @ ssNGMVFlqq"" (2130) | #6 ""JustinS @ 1VDWHDzw9I"" (1300) | #7 ""Skinner @ 1VQShb3AFa"" (1600) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1890)",2024-04-26T17:35:51.259Z,171415295125901
+"-- starting hand #19 (id: jy28jjxcfufc)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T17:35:51.259Z,171415295125900
+"""JustinS @ 1VDWHDzw9I"" shows a 4♦, 8♦.",2024-04-26T17:35:49.596Z,171415294959600
+"""albs @ ssNGMVFlqq"" shows a A♣, 2♦.",2024-04-26T17:35:47.748Z,171415294774800
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 5♠, 9♣.",2024-04-26T17:35:47.195Z,171415294719500
+"-- ending hand #18 --",2024-04-26T17:35:46.251Z,171415294625102
+"""albs @ ssNGMVFlqq"" collected 350 from pot",2024-04-26T17:35:46.251Z,171415294625101
+"Uncalled bet of 100 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:35:46.251Z,171415294625100
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:35:45.412Z,171415294541200
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:35:44.385Z,171415294438500
+"""albs @ ssNGMVFlqq"" bets 100",2024-04-26T17:35:35.383Z,171415293538300
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" checks",2024-04-26T17:35:33.510Z,171415293351000
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:35:32.517Z,171415293251700
+"Turn: 3♦, 9♦, 7♣ [5♦]",2024-04-26T17:35:30.259Z,171415293025900
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:35:29.432Z,171415292943200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" checks",2024-04-26T17:35:28.192Z,171415292819200
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:35:26.938Z,171415292693800
+"Flop:  [3♦, 9♦, 7♣]",2024-04-26T17:35:23.750Z,171415292375000
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:35:22.865Z,171415292286500
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:35:21.957Z,171415292195700
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:35:14.750Z,171415291475000
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:35:08.207Z,171415290820700
+"""albs @ ssNGMVFlqq"" calls 100",2024-04-26T17:35:07.331Z,171415290733100
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" calls 100",2024-04-26T17:35:04.622Z,171415290462200
+"""cliffmafe @ Euu9xO9oqu"" posts a big blind of 100",2024-04-26T17:35:01.649Z,171415290164909
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 50",2024-04-26T17:35:01.649Z,171415290164908
+"Player stacks: #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (840) | #5 ""albs @ ssNGMVFlqq"" (1880) | #6 ""JustinS @ 1VDWHDzw9I"" (1300) | #7 ""Skinner @ 1VQShb3AFa"" (1600) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1940)",2024-04-26T17:35:01.649Z,171415290164901
+"-- starting hand #18 (id: fekoa0ybyvap)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:35:01.649Z,171415290164900
+"""Skinner @ 1VQShb3AFa"" shows a 10♠, 5♠.",2024-04-26T17:34:55.898Z,171415289589800
+"-- ending hand #17 --",2024-04-26T17:34:55.114Z,171415289511401
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 1940 from pot with Flush, Qs High (combination: Q♠, J♠, 7♠, 3♠, 2♠)",2024-04-26T17:34:55.114Z,171415289511400
+"River: Q♥, 2♠, 7♠, J♠ [9♥]",2024-04-26T17:34:51.099Z,171415289109900
+"Turn: Q♥, 2♠, 7♠ [J♠]",2024-04-26T17:34:47.084Z,171415288708400
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a Q♠, 3♠.",2024-04-26T17:34:43.067Z,171415288306702
+"""JustinS @ 1VDWHDzw9I"" shows a J♦, Q♦.",2024-04-26T17:34:43.067Z,171415288306701
+"Uncalled bet of 780 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:34:43.067Z,171415288306700
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 820 and go all in",2024-04-26T17:34:42.252Z,171415288225200
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:34:33.302Z,171415287330200
+"""JustinS @ 1VDWHDzw9I"" raises to 1600",2024-04-26T17:34:21.748Z,171415286174800
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 300",2024-04-26T17:34:17.119Z,171415285711900
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:34:09.995Z,171415284999500
+"Flop:  [Q♥, 2♠, 7♠]",2024-04-26T17:34:06.763Z,171415284676300
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:34:05.922Z,171415284592200
+"""Skinner @ 1VQShb3AFa"" calls 100",2024-04-26T17:34:04.881Z,171415284488100
+"""JustinS @ 1VDWHDzw9I"" calls 100",2024-04-26T17:33:59.627Z,171415283962700
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:33:56.808Z,171415283680800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:33:55.883Z,171415283588300
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:33:54.902Z,171415283490200
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 100",2024-04-26T17:33:51.655Z,171415283165511
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 50",2024-04-26T17:33:51.655Z,171415283165510
+"Player stacks: #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (840) | #5 ""albs @ ssNGMVFlqq"" (1880) | #6 ""JustinS @ 1VDWHDzw9I"" (2220) | #7 ""Skinner @ 1VQShb3AFa"" (1700) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (920)",2024-04-26T17:33:51.655Z,171415283165503
+"-- starting hand #17 (id: yidlquzn0cjx)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:33:51.655Z,171415283165502
+"The game's big blind was changed from 60 to 100.",2024-04-26T17:33:51.655Z,171415283165501
+"The game's small blind was changed from 30 to 50.",2024-04-26T17:33:51.655Z,171415283165500
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 9♠, 4♣.",2024-04-26T17:33:48.826Z,171415282882600
+"-- ending hand #16 --",2024-04-26T17:33:48.037Z,171415282803702
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" collected 150 from pot",2024-04-26T17:33:48.037Z,171415282803701
+"Uncalled bet of 120 returned to ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD""",2024-04-26T17:33:48.037Z,171415282803700
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:33:47.198Z,171415282719800
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:33:46.243Z,171415282624300
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:33:30.388Z,171415281038800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" raises to 180",2024-04-26T17:33:29.343Z,171415280934300
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:33:24.278Z,171415280427800
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:33:23.378Z,171415280337800
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 60",2024-04-26T17:33:11.200Z,171415279120010
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 30",2024-04-26T17:33:11.200Z,171415279120009
+"Player stacks: #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (750) | #5 ""albs @ ssNGMVFlqq"" (1880) | #6 ""JustinS @ 1VDWHDzw9I"" (2250) | #7 ""Skinner @ 1VQShb3AFa"" (1760) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (920)",2024-04-26T17:33:11.200Z,171415279120002
+"-- starting hand #16 (id: rihhyrikefuc)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:33:11.200Z,171415279120001
+"The player ""Chine2312 @ WRbbB7EpUQ"" quits the game with a stack of 0.",2024-04-26T17:33:11.200Z,171415279120000
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 3♠, K♠.",2024-04-26T17:33:05.894Z,171415278589400
+"-- ending hand #15 --",2024-04-26T17:33:04.606Z,171415278460601
+"""Skinner @ 1VQShb3AFa"" collected 970 from pot with Two Pair, A's & 9's (combination: A♦, A♥, 9♠, 9♦, K♦)",2024-04-26T17:33:04.606Z,171415278460600
+"River: A♦, A♥, J♠, K♦ [2♠]",2024-04-26T17:33:00.585Z,171415278058500
+"Turn: A♦, A♥, J♠ [K♦]",2024-04-26T17:32:56.572Z,171415277657200
+"Flop:  [A♦, A♥, J♠]",2024-04-26T17:32:52.570Z,171415277257000
+"""Skinner @ 1VQShb3AFa"" shows a 9♠, 9♦.",2024-04-26T17:32:48.545Z,171415276854501
+"""Chine2312 @ WRbbB7EpUQ"" shows a 9♣, 8♣.",2024-04-26T17:32:48.545Z,171415276854500
+"""Skinner @ 1VQShb3AFa"" calls 440",2024-04-26T17:32:47.701Z,171415276770100
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:32:46.776Z,171415276677600
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:32:45.839Z,171415276583900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:32:43.870Z,171415276387000
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:32:42.834Z,171415276283400
+"""Chine2312 @ WRbbB7EpUQ"" raises to 440 and go all in",2024-04-26T17:32:41.937Z,171415276193700
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:32:28.652Z,171415274865200
+"""Skinner @ 1VQShb3AFa"" raises to 180",2024-04-26T17:32:18.473Z,171415273847300
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 60",2024-04-26T17:32:14.678Z,171415273467810
+"""albs @ ssNGMVFlqq"" posts a small blind of 30",2024-04-26T17:32:14.678Z,171415273467809
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (440) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (750) | #5 ""albs @ ssNGMVFlqq"" (1910) | #6 ""JustinS @ 1VDWHDzw9I"" (2310) | #7 ""Skinner @ 1VQShb3AFa"" (1230) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (920)",2024-04-26T17:32:14.678Z,171415273467801
+"-- starting hand #15 (id: dbq5eojp3l5o)  (No Limit Texas Hold'em) (dealer: ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"") --",2024-04-26T17:32:14.678Z,171415273467800
+"""cliffmafe @ Euu9xO9oqu"" shows a 7♣, K♦.",2024-04-26T17:32:10.031Z,171415273003100
+"""Skinner @ 1VQShb3AFa"" shows a K♣, J♠.",2024-04-26T17:32:10.016Z,171415273001600
+"-- ending hand #14 --",2024-04-26T17:32:07.660Z,171415272766002
+"""albs @ ssNGMVFlqq"" collected 850 from pot with Three of a Kind, 8's (combination: 8♦, 8♥, 8♠, A♥, J♥)",2024-04-26T17:32:07.660Z,171415272766001
+"""albs @ ssNGMVFlqq"" shows a J♥, A♥.",2024-04-26T17:32:07.660Z,171415272766000
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:32:06.855Z,171415272685500
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:32:05.788Z,171415272578800
+"River: 8♦, 7♦, 8♥, 9♥ [8♠]",2024-04-26T17:32:00.315Z,171415272031500
+"""albs @ ssNGMVFlqq"" calls 200",2024-04-26T17:31:59.468Z,171415271946800
+"""Skinner @ 1VQShb3AFa"" bets 200",2024-04-26T17:31:49.093Z,171415270909300
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:31:42.564Z,171415270256400
+"Turn: 8♦, 7♦, 8♥ [9♥]",2024-04-26T17:31:40.392Z,171415270039200
+"""albs @ ssNGMVFlqq"" calls 90",2024-04-26T17:31:39.568Z,171415269956800
+"""Skinner @ 1VQShb3AFa"" bets 90",2024-04-26T17:31:36.760Z,171415269676000
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:31:29.720Z,171415268972000
+"Flop:  [8♦, 7♦, 8♥]",2024-04-26T17:31:26.773Z,171415268677300
+"""albs @ ssNGMVFlqq"" calls 120",2024-04-26T17:31:25.918Z,171415268591800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:31:24.050Z,171415268405000
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:31:19.411Z,171415267941100
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:31:18.511Z,171415267851100
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:31:15.883Z,171415267588300
+"""Skinner @ 1VQShb3AFa"" raises to 120",2024-04-26T17:31:10.441Z,171415267044100
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:31:08.333Z,171415266833300
+"""albs @ ssNGMVFlqq"" posts a big blind of 60",2024-04-26T17:31:05.431Z,171415266543110
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a small blind of 30",2024-04-26T17:31:05.431Z,171415266543109
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (440) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (780) | #5 ""albs @ ssNGMVFlqq"" (1470) | #6 ""JustinS @ 1VDWHDzw9I"" (2310) | #7 ""Skinner @ 1VQShb3AFa"" (1640) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (920)",2024-04-26T17:31:05.431Z,171415266543101
+"-- starting hand #14 (id: rl4fc8rc1sb4)  (No Limit Texas Hold'em) (dealer: ""cliffmafe @ Euu9xO9oqu"") --",2024-04-26T17:31:05.431Z,171415266543100
+"""Chine2312 @ WRbbB7EpUQ"" shows a A♥, K♦.",2024-04-26T17:31:02.157Z,171415266215700
+"""cliffmafe @ Euu9xO9oqu"" shows a 10♣, 2♣.",2024-04-26T17:31:00.621Z,171415266062100
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a A♠, K♣.",2024-04-26T17:31:00.106Z,171415266010600
+"-- ending hand #13 --",2024-04-26T17:30:57.910Z,171415265791002
+"""albs @ ssNGMVFlqq"" collected 1470 from pot with Two Pair, 9's & 8's (combination: 9♣, 9♠, 8♣, 8♦, 10♥)",2024-04-26T17:30:57.910Z,171415265791001
+"""albs @ ssNGMVFlqq"" shows a 8♣, 8♦.",2024-04-26T17:30:57.910Z,171415265791000
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:30:57.041Z,171415265704100
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:30:52.696Z,171415265269600
+"River: 9♣, 9♠, 5♥, 10♥ [7♣]",2024-04-26T17:30:49.398Z,171415264939800
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:30:48.579Z,171415264857900
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:30:47.355Z,171415264735500
+"Turn: 9♣, 9♠, 5♥ [10♥]",2024-04-26T17:30:44.169Z,171415264416900
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:30:43.355Z,171415264335500
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:30:37.822Z,171415263782200
+"Flop:  [9♣, 9♠, 5♥]",2024-04-26T17:30:32.981Z,171415263298100
+"""Chine2312 @ WRbbB7EpUQ"" calls 460",2024-04-26T17:30:32.154Z,171415263215400
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 460",2024-04-26T17:30:30.418Z,171415263041800
+"""albs @ ssNGMVFlqq"" raises to 460 and go all in",2024-04-26T17:30:26.058Z,171415262605800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:30:23.988Z,171415262398800
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:30:22.934Z,171415262293400
+"""Chine2312 @ WRbbB7EpUQ"" raises to 300",2024-04-26T17:30:21.980Z,171415262198000
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 180",2024-04-26T17:30:13.213Z,171415261321300
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:30:04.243Z,171415260424300
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:30:00.174Z,171415260017400
+"""albs @ ssNGMVFlqq"" raises to 180",2024-04-26T17:29:55.919Z,171415259591900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a big blind of 60",2024-04-26T17:29:50.768Z,171415259076810
+"""cliffmafe @ Euu9xO9oqu"" posts a small blind of 30",2024-04-26T17:29:50.768Z,171415259076809
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (900) | #2 ""cliffmafe @ Euu9xO9oqu"" (470) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (840) | #5 ""albs @ ssNGMVFlqq"" (460) | #6 ""JustinS @ 1VDWHDzw9I"" (2310) | #7 ""Skinner @ 1VQShb3AFa"" (1640) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1380)",2024-04-26T17:29:50.768Z,171415259076801
+"-- starting hand #13 (id: euwnecxbskbb)  (No Limit Texas Hold'em) (dealer: ""Chine2312 @ WRbbB7EpUQ"") --",2024-04-26T17:29:50.768Z,171415259076800
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♠, 6♦.",2024-04-26T17:29:45.666Z,171415258566600
+"-- ending hand #12 --",2024-04-26T17:29:44.262Z,171415258426204
+"""cliffmafe @ Euu9xO9oqu"" collected 150 from pot with Pair, 5's (combination: 5♥, 5♠, A♥, K♥, Q♦)",2024-04-26T17:29:44.262Z,171415258426203
+"""cliffmafe @ Euu9xO9oqu"" shows a 6♣, A♥.",2024-04-26T17:29:44.262Z,171415258426202
+"""Chine2312 @ WRbbB7EpUQ"" collected 150 from pot with Pair, 5's (combination: 5♥, 5♠, A♠, K♥, Q♦)",2024-04-26T17:29:44.262Z,171415258426201
+"""Chine2312 @ WRbbB7EpUQ"" shows a A♠, 6♠.",2024-04-26T17:29:44.262Z,171415258426200
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:29:43.432Z,171415258343200
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:29:41.536Z,171415258153600
+"River: Q♦, K♥, 5♥, 8♣ [5♠]",2024-04-26T17:29:38.212Z,171415257821200
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:29:37.398Z,171415257739800
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:29:35.036Z,171415257503600
+"Turn: Q♦, K♥, 5♥ [8♣]",2024-04-26T17:29:29.629Z,171415256962900
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:29:28.802Z,171415256880200
+"""cliffmafe @ Euu9xO9oqu"" calls 60",2024-04-26T17:29:24.400Z,171415256440000
+"""Chine2312 @ WRbbB7EpUQ"" bets 60",2024-04-26T17:29:18.802Z,171415255880200
+"Flop:  [Q♦, K♥, 5♥]",2024-04-26T17:29:09.974Z,171415254997400
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:29:09.163Z,171415254916300
+"""Chine2312 @ WRbbB7EpUQ"" calls 60",2024-04-26T17:29:07.265Z,171415254726500
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 60",2024-04-26T17:29:01.326Z,171415254132600
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:28:58.845Z,171415253884500
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:28:54.838Z,171415253483800
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:28:53.950Z,171415253395000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:28:47.563Z,171415252756300
+"""cliffmafe @ Euu9xO9oqu"" posts a big blind of 60",2024-04-26T17:28:43.601Z,171415252360112
+"""Chine2312 @ WRbbB7EpUQ"" posts a small blind of 30",2024-04-26T17:28:43.601Z,171415252360111
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (870) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (840) | #5 ""albs @ ssNGMVFlqq"" (460) | #6 ""JustinS @ 1VDWHDzw9I"" (2310) | #7 ""Skinner @ 1VQShb3AFa"" (1640) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1440)",2024-04-26T17:28:43.601Z,171415252360103
+"-- starting hand #12 (id: gay8i3iruchq)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T17:28:43.601Z,171415252360102
+"The game's big blind was changed from 40 to 60.",2024-04-26T17:28:43.601Z,171415252360101
+"The game's small blind was changed from 20 to 30.",2024-04-26T17:28:43.601Z,171415252360100
+"-- ending hand #11 --",2024-04-26T17:28:40.670Z,171415252067002
+"""JustinS @ 1VDWHDzw9I"" collected 180 from pot",2024-04-26T17:28:40.670Z,171415252067001
+"Uncalled bet of 80 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:28:40.670Z,171415252067000
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:28:39.820Z,171415251982000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:28:36.370Z,171415251637000
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:28:32.778Z,171415251277800
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:28:30.147Z,171415251014700
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:28:29.025Z,171415250902500
+"""JustinS @ 1VDWHDzw9I"" raises to 120",2024-04-26T17:28:23.426Z,171415250342600
+"""albs @ ssNGMVFlqq"" calls 40",2024-04-26T17:28:20.552Z,171415250055200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" calls 40",2024-04-26T17:28:12.433Z,171415249243300
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:28:08.775Z,171415248877500
+"""Chine2312 @ WRbbB7EpUQ"" posts a big blind of 40",2024-04-26T17:28:06.382Z,171415248638210
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 20",2024-04-26T17:28:06.382Z,171415248638209
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (910) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (880) | #5 ""albs @ ssNGMVFlqq"" (500) | #6 ""JustinS @ 1VDWHDzw9I"" (2170) | #7 ""Skinner @ 1VQShb3AFa"" (1640) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1460)",2024-04-26T17:28:06.382Z,171415248638201
+"-- starting hand #11 (id: mguswrv8qi5h)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:28:06.382Z,171415248638200
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a K♠, 8♥.",2024-04-26T17:28:02.879Z,171415248287900
+"""Chine2312 @ WRbbB7EpUQ"" shows a 2♦, 2♥.",2024-04-26T17:28:02.546Z,171415248254600
+"-- ending hand #10 --",2024-04-26T17:28:02.044Z,171415248204402
+"""Chine2312 @ WRbbB7EpUQ"" collected 100 from pot",2024-04-26T17:28:02.044Z,171415248204401
+"Uncalled bet of 810 returned to ""Chine2312 @ WRbbB7EpUQ""",2024-04-26T17:28:02.044Z,171415248204400
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:28:01.174Z,171415248117400
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:27:47.071Z,171415246707100
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:27:41.511Z,171415246151100
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:27:40.639Z,171415246063900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:27:39.431Z,171415245943100
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:27:36.049Z,171415245604900
+"""Chine2312 @ WRbbB7EpUQ"" raises to 850 and go all in",2024-04-26T17:27:34.202Z,171415245420200
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 40",2024-04-26T17:27:25.906Z,171415244590610
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 20",2024-04-26T17:27:25.906Z,171415244590609
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (850) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (880) | #5 ""albs @ ssNGMVFlqq"" (500) | #6 ""JustinS @ 1VDWHDzw9I"" (2170) | #7 ""Skinner @ 1VQShb3AFa"" (1660) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1500)",2024-04-26T17:27:25.906Z,171415244590601
+"-- starting hand #10 (id: 9yj4arw8osoo)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:27:25.906Z,171415244590600
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 4♠, 3♥.",2024-04-26T17:27:23.018Z,171415244301800
+"""Skinner @ 1VQShb3AFa"" shows a 5♦, J♥.",2024-04-26T17:27:22.192Z,171415244219200
+"-- ending hand #9 --",2024-04-26T17:27:21.583Z,171415244158302
+"""JustinS @ 1VDWHDzw9I"" collected 80 from pot",2024-04-26T17:27:21.583Z,171415244158301
+"Uncalled bet of 40 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:27:21.583Z,171415244158300
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:27:20.734Z,171415244073400
+"""JustinS @ 1VDWHDzw9I"" bets 40",2024-04-26T17:27:17.593Z,171415243759300
+"Flop:  [5♥, K♥, 10♠]",2024-04-26T17:27:15.926Z,171415243592600
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:27:15.094Z,171415243509400
+"""JustinS @ 1VDWHDzw9I"" calls 40",2024-04-26T17:27:12.161Z,171415243216100
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:27:11.290Z,171415243129000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:27:09.790Z,171415242979000
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:27:05.303Z,171415242530300
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:27:04.282Z,171415242428200
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:27:03.427Z,171415242342700
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 40",2024-04-26T17:26:59.043Z,171415241904310
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 20",2024-04-26T17:26:59.043Z,171415241904309
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (850) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (880) | #5 ""albs @ ssNGMVFlqq"" (500) | #6 ""JustinS @ 1VDWHDzw9I"" (2130) | #7 ""Skinner @ 1VQShb3AFa"" (1700) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1500)",2024-04-26T17:26:59.043Z,171415241904301
+"-- starting hand #9 (id: uipntslccybt)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:26:59.043Z,171415241904300
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 4♣, 8♦.",2024-04-26T17:26:56.730Z,171415241673000
+"""Chine2312 @ WRbbB7EpUQ"" shows a Q♦, 2♦.",2024-04-26T17:26:54.944Z,171415241494400
+"-- ending hand #8 --",2024-04-26T17:26:54.715Z,171415241471502
+"""albs @ ssNGMVFlqq"" collected 160 from pot",2024-04-26T17:26:54.715Z,171415241471501
+"Uncalled bet of 80 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:26:54.715Z,171415241471500
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:26:53.900Z,171415241390000
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:26:50.450Z,171415241045000
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:26:47.285Z,171415240728500
+"""albs @ ssNGMVFlqq"" bets 80",2024-04-26T17:26:42.127Z,171415240212700
+"Flop:  [A♦, K♥, 10♣]",2024-04-26T17:26:27.839Z,171415238783900
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:26:27.020Z,171415238702000
+"""albs @ ssNGMVFlqq"" calls 40",2024-04-26T17:26:26.138Z,171415238613800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:26:10.784Z,171415237078400
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:26:04.785Z,171415236478500
+"""Chine2312 @ WRbbB7EpUQ"" calls 40",2024-04-26T17:26:03.872Z,171415236387200
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:25:59.354Z,171415235935400
+"""Skinner @ 1VQShb3AFa"" calls 40",2024-04-26T17:25:53.367Z,171415235336700
+"""JustinS @ 1VDWHDzw9I"" posts a big blind of 40",2024-04-26T17:25:46.970Z,171415234697010
+"""albs @ ssNGMVFlqq"" posts a small blind of 20",2024-04-26T17:25:46.970Z,171415234697009
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (890) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (880) | #5 ""albs @ ssNGMVFlqq"" (380) | #6 ""JustinS @ 1VDWHDzw9I"" (2170) | #7 ""Skinner @ 1VQShb3AFa"" (1740) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1500)",2024-04-26T17:25:46.970Z,171415234697001
+"-- starting hand #8 (id: wehymmkb9qyf)  (No Limit Texas Hold'em) (dealer: ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"") --",2024-04-26T17:25:46.970Z,171415234697000
+"""Chine2312 @ WRbbB7EpUQ"" shows a 6♥, J♦.",2024-04-26T17:25:44.392Z,171415234439200
+"""cliffmafe @ Euu9xO9oqu"" shows a Q♦, 4♣.",2024-04-26T17:25:42.973Z,171415234297300
+"-- ending hand #7 --",2024-04-26T17:25:39.959Z,171415233995901
+"""albs @ ssNGMVFlqq"" collected 380 from pot with Pair, 2's (combination: 2♣, 2♠, A♥, 10♠, 9♣)",2024-04-26T17:25:39.959Z,171415233995900
+"River: 9♣, 3♣, 10♠, 2♠ [A♥]",2024-04-26T17:25:35.944Z,171415233594400
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 8♦, Q♣.",2024-04-26T17:25:31.923Z,171415233192301
+"""albs @ ssNGMVFlqq"" shows a 5♠, 2♣.",2024-04-26T17:25:31.923Z,171415233192300
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:25:31.092Z,171415233109200
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 100",2024-04-26T17:25:22.348Z,171415232234800
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:25:14.510Z,171415231451000
+"""albs @ ssNGMVFlqq"" bets 100 and go all in",2024-04-26T17:25:10.938Z,171415231093800
+"Turn: 9♣, 3♣, 10♠ [2♠]",2024-04-26T17:25:06.895Z,171415230689500
+"""Chine2312 @ WRbbB7EpUQ"" checks",2024-04-26T17:25:06.070Z,171415230607000
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:25:03.961Z,171415230396100
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:25:00.023Z,171415230002300
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:24:54.908Z,171415229490800
+"Flop:  [9♣, 3♣, 10♠]",2024-04-26T17:24:50.269Z,171415229026900
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:24:49.438Z,171415228943800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:24:48.339Z,171415228833900
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:24:44.808Z,171415228480800
+"""Chine2312 @ WRbbB7EpUQ"" calls 40",2024-04-26T17:24:43.919Z,171415228391900
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 40",2024-04-26T17:24:38.843Z,171415227884300
+"""Skinner @ 1VQShb3AFa"" calls 40",2024-04-26T17:24:29.071Z,171415226907100
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:24:27.257Z,171415226725700
+"""albs @ ssNGMVFlqq"" posts a big blind of 40",2024-04-26T17:24:25.670Z,171415226567010
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a small blind of 20",2024-04-26T17:24:25.670Z,171415226567009
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (930) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (900) | #5 ""albs @ ssNGMVFlqq"" (140) | #6 ""JustinS @ 1VDWHDzw9I"" (2170) | #7 ""Skinner @ 1VQShb3AFa"" (1780) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1640)",2024-04-26T17:24:25.670Z,171415226567001
+"-- starting hand #7 (id: pusxvysukiqg)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:24:25.670Z,171415226567000
+"-- ending hand #6 --",2024-04-26T17:24:19.660Z,171415225966001
+"""Skinner @ 1VQShb3AFa"" collected 1780 from pot with Pair, A's (combination: A♠, A♣, K♥, Q♦, 8♦)",2024-04-26T17:24:19.660Z,171415225966000
+"River: 2♦, 8♦, 6♣, Q♦ [A♣]",2024-04-26T17:24:15.640Z,171415225564000
+"Turn: 2♦, 8♦, 6♣ [Q♦]",2024-04-26T17:24:11.608Z,171415225160800
+"Flop:  [2♦, 8♦, 6♣]",2024-04-26T17:24:07.596Z,171415224759600
+"""Skinner @ 1VQShb3AFa"" shows a A♠, K♥.",2024-04-26T17:24:03.507Z,171415224350702
+"""albs @ ssNGMVFlqq"" shows a 5♥, 5♦.",2024-04-26T17:24:03.507Z,171415224350701
+"Uncalled bet of 140 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:24:03.507Z,171415224350700
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:24:02.696Z,171415224269600
+"""albs @ ssNGMVFlqq"" raises to 950 and go all in",2024-04-26T17:23:59.169Z,171415223916900
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:23:57.220Z,171415223722000
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:23:47.359Z,171415222735900
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:23:46.398Z,171415222639800
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:23:45.504Z,171415222550400
+"""Skinner @ 1VQShb3AFa"" raises to 810 and go all in",2024-04-26T17:23:36.966Z,171415221696600
+"""JustinS @ 1VDWHDzw9I"" calls 120",2024-04-26T17:23:29.882Z,171415220988200
+"""albs @ ssNGMVFlqq"" raises to 120",2024-04-26T17:23:26.668Z,171415220666800
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" posts a big blind of 40",2024-04-26T17:23:23.941Z,171415220394113
+"Dead Small Blind",2024-04-26T17:23:23.941Z,171415220394112
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (930) | #2 ""cliffmafe @ Euu9xO9oqu"" (440) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (940) | #5 ""albs @ ssNGMVFlqq"" (950) | #6 ""JustinS @ 1VDWHDzw9I"" (2290) | #7 ""Skinner @ 1VQShb3AFa"" (810) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1640)",2024-04-26T17:23:23.941Z,171415220394104
+"-- starting hand #6 (id: b1aeupul8yia)  (No Limit Texas Hold'em) (dealer: ""cliffmafe @ Euu9xO9oqu"") --",2024-04-26T17:23:23.941Z,171415220394103
+"The game's big blind was changed from 20 to 40.",2024-04-26T17:23:23.941Z,171415220394102
+"The game's small blind was changed from 10 to 20.",2024-04-26T17:23:23.941Z,171415220394101
+"The player ""Clownfest @ DQEIYvISCQ"" quits the game with a stack of 0.",2024-04-26T17:23:23.941Z,171415220394100
+"-- ending hand #5 --",2024-04-26T17:23:17.924Z,171415219792402
+"""albs @ ssNGMVFlqq"" collected 150 from pot with Two Pair, A's & 6's (combination: A♥, A♣, 6♦, 6♥, J♠)",2024-04-26T17:23:17.924Z,171415219792401
+"""albs @ ssNGMVFlqq"" collected 40 from pot with Two Pair, A's & 6's (combination: A♥, A♣, 6♦, 6♥, J♠)",2024-04-26T17:23:17.924Z,171415219792400
+"River: A♣, 6♦, 6♥, J♠ [7♣]",2024-04-26T17:23:13.880Z,171415219388000
+"Turn: A♣, 6♦, 6♥ [J♠]",2024-04-26T17:23:09.868Z,171415218986800
+"""albs @ ssNGMVFlqq"" shows a 8♣, A♥.",2024-04-26T17:23:05.852Z,171415218585202
+"""Clownfest @ DQEIYvISCQ"" shows a 10♦, K♦.",2024-04-26T17:23:05.852Z,171415218585201
+"Uncalled bet of 60 returned to ""albs @ ssNGMVFlqq""",2024-04-26T17:23:05.852Z,171415218585200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:23:05.013Z,171415218501300
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:23:03.989Z,171415218398900
+"""albs @ ssNGMVFlqq"" bets 60",2024-04-26T17:23:02.620Z,171415218262000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" checks",2024-04-26T17:22:59.114Z,171415217911400
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:22:53.626Z,171415217362600
+"Flop:  [A♣, 6♦, 6♥]",2024-04-26T17:22:50.233Z,171415217023300
+"""cliffmafe @ Euu9xO9oqu"" calls 60",2024-04-26T17:22:49.403Z,171415216940300
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:22:48.429Z,171415216842900
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:22:32.561Z,171415215256100
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:22:30.132Z,171415215013200
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:22:29.126Z,171415214912600
+"""albs @ ssNGMVFlqq"" calls 60",2024-04-26T17:22:27.772Z,171415214777200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" raises to 60",2024-04-26T17:22:24.154Z,171415214415400
+"""Clownfest @ DQEIYvISCQ"" posts a big blind of 10 and go all in ",2024-04-26T17:22:14.354Z,171415213435411
+"""cliffmafe @ Euu9xO9oqu"" posts a small blind of 10",2024-04-26T17:22:14.354Z,171415213435410
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (930) | #2 ""cliffmafe @ Euu9xO9oqu"" (500) | #3 ""Clownfest @ DQEIYvISCQ"" (10) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1000) | #5 ""albs @ ssNGMVFlqq"" (820) | #6 ""JustinS @ 1VDWHDzw9I"" (2290) | #7 ""Skinner @ 1VQShb3AFa"" (810) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1640)",2024-04-26T17:22:14.354Z,171415213435401
+"-- starting hand #5 (id: nufwkxiodefz)  (No Limit Texas Hold'em) (dealer: ""Chine2312 @ WRbbB7EpUQ"") --",2024-04-26T17:22:14.354Z,171415213435400
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 10♦, 9♣.",2024-04-26T17:22:08.042Z,171415212804200
+"""cliffmafe @ Euu9xO9oqu"" shows a 3♣, 5♠.",2024-04-26T17:22:07.813Z,171415212781300
+"-- ending hand #4 --",2024-04-26T17:22:07.270Z,171415212727001
+"""JustinS @ 1VDWHDzw9I"" collected 2290 from pot with Two Pair, K's & 6's (combination: K♠, K♦, 6♠, 6♥, 8♦)",2024-04-26T17:22:07.270Z,171415212727000
+"River: 6♥, 4♦, K♦, 7♦ [8♦]",2024-04-26T17:22:03.253Z,171415212325300
+"""JustinS @ 1VDWHDzw9I"" shows a 6♠, K♠.",2024-04-26T17:21:59.247Z,171415211924701
+"""Clownfest @ DQEIYvISCQ"" shows a K♥, 10♥.",2024-04-26T17:21:59.247Z,171415211924700
+"""Clownfest @ DQEIYvISCQ"" raises to 610",2024-04-26T17:21:58.401Z,171415211840100
+"""JustinS @ 1VDWHDzw9I"" bets 610 and go all in",2024-04-26T17:21:55.419Z,171415211541900
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:21:53.052Z,171415211305200
+"Turn: 6♥, 4♦, K♦ [7♦]",2024-04-26T17:21:49.859Z,171415210985900
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:21:49.028Z,171415210902800
+"""Clownfest @ DQEIYvISCQ"" calls 200",2024-04-26T17:21:40.056Z,171415210005600
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:21:38.920Z,171415209892000
+"""JustinS @ 1VDWHDzw9I"" bets 200",2024-04-26T17:21:34.945Z,171415209494500
+"""albs @ ssNGMVFlqq"" checks",2024-04-26T17:21:32.009Z,171415209200900
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:21:26.732Z,171415208673200
+"Flop:  [6♥, 4♦, K♦]",2024-04-26T17:21:22.630Z,171415208263000
+"""JustinS @ 1VDWHDzw9I"" calls 160",2024-04-26T17:21:21.780Z,171415208178000
+"""albs @ ssNGMVFlqq"" calls 160",2024-04-26T17:21:20.359Z,171415208035900
+"""Clownfest @ DQEIYvISCQ"" calls 160",2024-04-26T17:21:12.202Z,171415207220200
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:21:11.098Z,171415207109800
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:21:10.179Z,171415207017900
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:21:09.320Z,171415206932000
+"""Skinner @ 1VQShb3AFa"" raises to 160",2024-04-26T17:21:03.320Z,171415206332000
+"""JustinS @ 1VDWHDzw9I"" calls 60",2024-04-26T17:20:55.712Z,171415205571200
+"""albs @ ssNGMVFlqq"" raises to 60",2024-04-26T17:20:53.002Z,171415205300200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:20:46.584Z,171415204658400
+"""Clownfest @ DQEIYvISCQ"" calls 20",2024-04-26T17:20:38.984Z,171415203898400
+"""cliffmafe @ Euu9xO9oqu"" posts a big blind of 20",2024-04-26T17:20:34.587Z,171415203458711
+"""Chine2312 @ WRbbB7EpUQ"" posts a small blind of 10",2024-04-26T17:20:34.587Z,171415203458710
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (940) | #2 ""cliffmafe @ Euu9xO9oqu"" (520) | #3 ""Clownfest @ DQEIYvISCQ"" (980) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1000) | #5 ""albs @ ssNGMVFlqq"" (980) | #6 ""JustinS @ 1VDWHDzw9I"" (970) | #7 ""Skinner @ 1VQShb3AFa"" (970) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1640)",2024-04-26T17:20:34.587Z,171415203458701
+"-- starting hand #4 (id: ewg5l1i6ki4k)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T17:20:34.587Z,171415203458700
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 3♣, Q♠.",2024-04-26T17:20:33.607Z,171415203360700
+"-- ending hand #3 --",2024-04-26T17:20:30.982Z,171415203098202
+"""JustinS @ 1VDWHDzw9I"" collected 450 from pot",2024-04-26T17:20:30.982Z,171415203098201
+"Uncalled bet of 520 returned to ""JustinS @ 1VDWHDzw9I""",2024-04-26T17:20:30.982Z,171415203098200
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:20:30.175Z,171415203017500
+"""JustinS @ 1VDWHDzw9I"" raises to 620 and go all in",2024-04-26T17:20:27.134Z,171415202713400
+"""cliffmafe @ Euu9xO9oqu"" bets 100",2024-04-26T17:20:22.565Z,171415202256500
+"Flop:  [K♥, 4♥, 6♥]",2024-04-26T17:20:16.720Z,171415201672000
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:20:15.878Z,171415201587800
+"""cliffmafe @ Euu9xO9oqu"" calls 100",2024-04-26T17:20:14.354Z,171415201435400
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:20:13.430Z,171415201343000
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T17:20:02.996Z,171415200299600
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:20:01.967Z,171415200196700
+"""JustinS @ 1VDWHDzw9I"" raises to 100",2024-04-26T17:19:57.342Z,171415199734200
+"""albs @ ssNGMVFlqq"" calls 20",2024-04-26T17:19:54.280Z,171415199428000
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:19:46.182Z,171415198618200
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:19:45.084Z,171415198508400
+"""cliffmafe @ Euu9xO9oqu"" calls 20",2024-04-26T17:19:44.186Z,171415198418600
+"""Chine2312 @ WRbbB7EpUQ"" posts a big blind of 20",2024-04-26T17:19:41.972Z,171415198197211
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 10",2024-04-26T17:19:41.972Z,171415198197210
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (960) | #2 ""cliffmafe @ Euu9xO9oqu"" (720) | #3 ""Clownfest @ DQEIYvISCQ"" (980) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1000) | #5 ""albs @ ssNGMVFlqq"" (1000) | #6 ""JustinS @ 1VDWHDzw9I"" (720) | #7 ""Skinner @ 1VQShb3AFa"" (970) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1650)",2024-04-26T17:19:41.972Z,171415198197201
+"-- starting hand #3 (id: xxn4vx0ji5c9)  (No Limit Texas Hold'em) (dealer: ""Skinner @ 1VQShb3AFa"") --",2024-04-26T17:19:41.972Z,171415198197200
+"""cliffmafe @ Euu9xO9oqu"" shows a A♠, 7♥.",2024-04-26T17:19:39.609Z,171415197960900
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a J♦, J♥.",2024-04-26T17:19:38.207Z,171415197820700
+"-- ending hand #2 --",2024-04-26T17:19:37.575Z,171415197757502
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 750 from pot",2024-04-26T17:19:37.575Z,171415197757501
+"Uncalled bet of 720 returned to ""Pumpkineater69 @ B4pEZB-R0t""",2024-04-26T17:19:37.575Z,171415197757500
+"""JustinS @ 1VDWHDzw9I"" folds",2024-04-26T17:19:36.717Z,171415197671700
+"""cliffmafe @ Euu9xO9oqu"" folds",2024-04-26T17:19:35.857Z,171415197585700
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 720",2024-04-26T17:19:21.274Z,171415196127400
+"Flop:  [6♦, 8♣, J♠]",2024-04-26T17:19:17.775Z,171415195777500
+"""JustinS @ 1VDWHDzw9I"" calls 240",2024-04-26T17:19:16.964Z,171415195696400
+"""cliffmafe @ Euu9xO9oqu"" calls 240",2024-04-26T17:19:15.090Z,171415195509000
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:19:14.120Z,171415195412000
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 240",2024-04-26T17:19:12.984Z,171415195298400
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:19:05.816Z,171415194581600
+"""JustinS @ 1VDWHDzw9I"" calls 80",2024-04-26T17:19:03.347Z,171415194334700
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:19:02.443Z,171415194244300
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:19:01.461Z,171415194146100
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:19:00.382Z,171415194038200
+"""cliffmafe @ Euu9xO9oqu"" raises to 80",2024-04-26T17:18:56.948Z,171415193694800
+"""Chine2312 @ WRbbB7EpUQ"" calls 20",2024-04-26T17:18:51.948Z,171415193194800
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 20",2024-04-26T17:18:48.480Z,171415192848011
+"""Skinner @ 1VQShb3AFa"" posts a small blind of 10",2024-04-26T17:18:48.480Z,171415192848010
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (980) | #2 ""cliffmafe @ Euu9xO9oqu"" (960) | #3 ""Clownfest @ DQEIYvISCQ"" (980) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1000) | #5 ""albs @ ssNGMVFlqq"" (1000) | #6 ""JustinS @ 1VDWHDzw9I"" (960) | #7 ""Skinner @ 1VQShb3AFa"" (980) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1140)",2024-04-26T17:18:48.480Z,171415192848001
+"-- starting hand #2 (id: evmcikt0a1xu)  (No Limit Texas Hold'em) (dealer: ""JustinS @ 1VDWHDzw9I"") --",2024-04-26T17:18:48.480Z,171415192848000
+"-- ending hand #1 --",2024-04-26T17:18:42.474Z,171415192247403
+"""JustinS @ 1VDWHDzw9I"" shows a A♣, 4♠.",2024-04-26T17:18:42.474Z,171415192247402
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 180 from pot with Two Pair, 8's & 6's (combination: 8♥, 8♠, 6♦, 6♣, K♦)",2024-04-26T17:18:42.474Z,171415192247401
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 6♦, K♦.",2024-04-26T17:18:42.474Z,171415192247400
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:18:41.604Z,171415192160400
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:18:40.155Z,171415192015500
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:18:38.638Z,171415191863800
+"River: 6♣, 2♦, J♣, 8♥ [8♠]",2024-04-26T17:18:36.465Z,171415191646500
+"""cliffmafe @ Euu9xO9oqu"" checks",2024-04-26T17:18:35.615Z,171415191561500
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T17:18:33.990Z,171415191399000
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:18:33.006Z,171415191300600
+"Turn: 6♣, 2♦, J♣ [8♥]",2024-04-26T17:18:31.311Z,171415191131100
+"""Skinner @ 1VQShb3AFa"" folds",2024-04-26T17:18:30.489Z,171415191048900
+"""JustinS @ 1VDWHDzw9I"" calls 20",2024-04-26T17:18:14.655Z,171415189465500
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:18:11.728Z,171415189172800
+"""cliffmafe @ Euu9xO9oqu"" calls 20",2024-04-26T17:18:10.834Z,171415189083400
+"""Chine2312 @ WRbbB7EpUQ"" folds",2024-04-26T17:18:09.131Z,171415188913100
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 20",2024-04-26T17:18:06.643Z,171415188664300
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:18:02.932Z,171415188293200
+"""JustinS @ 1VDWHDzw9I"" checks",2024-04-26T17:18:01.201Z,171415188120100
+"Flop:  [6♣, 2♦, J♣]",2024-04-26T17:17:59.166Z,171415187916600
+"""Skinner @ 1VQShb3AFa"" checks",2024-04-26T17:17:58.325Z,171415187832500
+"""JustinS @ 1VDWHDzw9I"" calls 20",2024-04-26T17:17:57.370Z,171415187737000
+"""albs @ ssNGMVFlqq"" folds",2024-04-26T17:17:56.462Z,171415187646200
+"""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" folds",2024-04-26T17:17:40.589Z,171415186058900
+"""Clownfest @ DQEIYvISCQ"" calls 20",2024-04-26T17:17:39.610Z,171415185961000
+"""cliffmafe @ Euu9xO9oqu"" calls 20",2024-04-26T17:17:38.705Z,171415185870500
+"""Chine2312 @ WRbbB7EpUQ"" calls 20",2024-04-26T17:17:35.958Z,171415185595800
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 20",2024-04-26T17:17:30.339Z,171415185033900
+"""Skinner @ 1VQShb3AFa"" posts a big blind of 20",2024-04-26T17:17:24.637Z,171415184463719
+"""JustinS @ 1VDWHDzw9I"" posts a small blind of 10",2024-04-26T17:17:24.637Z,171415184463718
+"Player stacks: #1 ""Chine2312 @ WRbbB7EpUQ"" (1000) | #2 ""cliffmafe @ Euu9xO9oqu"" (1000) | #3 ""Clownfest @ DQEIYvISCQ"" (1000) | #4 ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" (1000) | #5 ""albs @ ssNGMVFlqq"" (1000) | #6 ""JustinS @ 1VDWHDzw9I"" (1000) | #7 ""Skinner @ 1VQShb3AFa"" (1000) | #8 ""Pumpkineater69 @ B4pEZB-R0t"" (1000)",2024-04-26T17:17:24.637Z,171415184463709
+"The player ""Pumpkineater69 @ B4pEZB-R0t"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463708
+"The player ""Skinner @ 1VQShb3AFa"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463707
+"The player ""JustinS @ 1VDWHDzw9I"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463706
+"The player ""albs @ ssNGMVFlqq"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463705
+"The player ""Debí 🏳️‍⚧️ 🇮🇪 @ BFPKkAjmiD"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463704
+"The player ""Clownfest @ DQEIYvISCQ"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463703
+"The player ""cliffmafe @ Euu9xO9oqu"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463702
+"The player ""Chine2312 @ WRbbB7EpUQ"" joined the game with a stack of 1000.",2024-04-26T17:17:24.637Z,171415184463701
+"-- starting hand #1 (id: imllmklzrr8r)  (No Limit Texas Hold'em) (dealer: ""albs @ ssNGMVFlqq"") --",2024-04-26T17:17:24.637Z,171415184463700

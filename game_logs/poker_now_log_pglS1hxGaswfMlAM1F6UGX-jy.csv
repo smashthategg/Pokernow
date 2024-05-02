@@ -1,0 +1,706 @@
+entry,at,order
+"The player ""kk_ @ WWq2ifOCX-"" quits the game with a stack of 8000.",2024-04-26T19:54:12.555Z,171416125255500
+"The player ""7güevos @ w9IAYKKvBy"" quits the game with a stack of 0.",2024-04-26T19:48:36.698Z,171416091669800
+"-- ending hand #35 --",2024-04-26T19:48:30.692Z,171416091069201
+"""kk_ @ WWq2ifOCX-"" collected 760 from pot with Pair, 7's (combination: 7♣, 7♥, A♠, K♥, 8♣)",2024-04-26T19:48:30.692Z,171416091069200
+"River: 2♣, 7♥, 8♣, 3♠ [K♥]",2024-04-26T19:48:26.651Z,171416090665100
+"Turn: 2♣, 7♥, 8♣ [3♠]",2024-04-26T19:48:22.640Z,171416090264000
+"Flop:  [2♣, 7♥, 8♣]",2024-04-26T19:48:18.626Z,171416089862600
+"""7güevos @ w9IAYKKvBy"" shows a Q♦, 3♦.",2024-04-26T19:48:14.620Z,171416089462001
+"""kk_ @ WWq2ifOCX-"" shows a A♠, 7♣.",2024-04-26T19:48:14.620Z,171416089462000
+"""kk_ @ WWq2ifOCX-"" calls 380",2024-04-26T19:48:13.809Z,171416089380900
+"""7güevos @ w9IAYKKvBy"" raises to 380 and go all in",2024-04-26T19:48:12.454Z,171416089245400
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 200",2024-04-26T19:48:07.221Z,171416088722105
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 100",2024-04-26T19:48:07.221Z,171416088722104
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (7620) | #4 ""7güevos @ w9IAYKKvBy"" (380)",2024-04-26T19:48:07.221Z,171416088722101
+"-- starting hand #35 (id: bfr3tyel53bz)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:48:07.221Z,171416088722100
+"-- ending hand #34 --",2024-04-26T19:48:01.211Z,171416088121101
+"""kk_ @ WWq2ifOCX-"" collected 7620 from pot with Full House, 10's over 7's (combination: 10♣, 10♥, 10♠, 7♠, 7♥)",2024-04-26T19:48:01.211Z,171416088121100
+"River: 7♠, 10♥, 7♥, A♠ [10♠]",2024-04-26T19:47:57.184Z,171416087718400
+"Turn: 7♠, 10♥, 7♥ [A♠]",2024-04-26T19:47:53.170Z,171416087317000
+"Flop:  [7♠, 10♥, 7♥]",2024-04-26T19:47:49.157Z,171416086915700
+"""7güevos @ w9IAYKKvBy"" shows a A♥, K♥.",2024-04-26T19:47:45.154Z,171416086515401
+"""kk_ @ WWq2ifOCX-"" shows a 10♣, 9♣.",2024-04-26T19:47:45.154Z,171416086515400
+"""kk_ @ WWq2ifOCX-"" calls 3810 and go all in",2024-04-26T19:47:44.293Z,171416086429300
+"""7güevos @ w9IAYKKvBy"" raises to 3810",2024-04-26T19:47:42.614Z,171416086261400
+"""kk_ @ WWq2ifOCX-"" raises to 600",2024-04-26T19:47:39.494Z,171416085949400
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 200",2024-04-26T19:47:35.554Z,171416085555405
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 100",2024-04-26T19:47:35.554Z,171416085555404
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (3810) | #4 ""7güevos @ w9IAYKKvBy"" (4190)",2024-04-26T19:47:35.554Z,171416085555401
+"-- starting hand #34 (id: bpykgzgwtet8)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:47:35.554Z,171416085555400
+"-- ending hand #33 --",2024-04-26T19:47:32.635Z,171416085263502
+"""7güevos @ w9IAYKKvBy"" collected 1600 from pot",2024-04-26T19:47:32.635Z,171416085263501
+"Uncalled bet of 2590 returned to ""7güevos @ w9IAYKKvBy""",2024-04-26T19:47:32.635Z,171416085263500
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:47:31.801Z,171416085180100
+"""7güevos @ w9IAYKKvBy"" raises to 2790 and go all in",2024-04-26T19:47:28.639Z,171416084863900
+"""kk_ @ WWq2ifOCX-"" bets 200",2024-04-26T19:47:25.061Z,171416084506100
+"Turn: J♠, 7♣, 6♦ [J♦]",2024-04-26T19:47:24.033Z,171416084403300
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:47:23.222Z,171416084322200
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:47:21.297Z,171416084129700
+"Flop:  [J♠, 7♣, 6♦]",2024-04-26T19:47:15.533Z,171416083553300
+"""7güevos @ w9IAYKKvBy"" calls 600",2024-04-26T19:47:14.699Z,171416083469900
+"""kk_ @ WWq2ifOCX-"" raises to 600",2024-04-26T19:47:13.038Z,171416083303800
+"""7güevos @ w9IAYKKvBy"" calls 200",2024-04-26T19:47:10.536Z,171416083053600
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 200",2024-04-26T19:47:08.326Z,171416082832605
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 100",2024-04-26T19:47:08.326Z,171416082832604
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (4610) | #4 ""7güevos @ w9IAYKKvBy"" (3390)",2024-04-26T19:47:08.326Z,171416082832601
+"-- starting hand #33 (id: rqqfnkklbdop)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:47:08.326Z,171416082832600
+"-- ending hand #32 --",2024-04-26T19:47:05.414Z,171416082541402
+"""7güevos @ w9IAYKKvBy"" collected 1200 from pot",2024-04-26T19:47:05.414Z,171416082541401
+"Uncalled bet of 2190 returned to ""7güevos @ w9IAYKKvBy""",2024-04-26T19:47:05.414Z,171416082541400
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:47:04.551Z,171416082455100
+"""7güevos @ w9IAYKKvBy"" raises to 2790 and go all in",2024-04-26T19:46:58.660Z,171416081866000
+"""kk_ @ WWq2ifOCX-"" raises to 600",2024-04-26T19:46:55.384Z,171416081538400
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 200",2024-04-26T19:46:51.116Z,171416081111605
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 100",2024-04-26T19:46:51.116Z,171416081111604
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (5210) | #4 ""7güevos @ w9IAYKKvBy"" (2790)",2024-04-26T19:46:51.116Z,171416081111601
+"-- starting hand #32 (id: sinnlndbr0to)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:46:51.116Z,171416081111600
+"-- ending hand #31 --",2024-04-26T19:46:48.159Z,171416080815902
+"""kk_ @ WWq2ifOCX-"" collected 1200 from pot",2024-04-26T19:46:48.159Z,171416080815901
+"Uncalled bet of 1100 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:46:48.159Z,171416080815900
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:46:47.334Z,171416080733400
+"""kk_ @ WWq2ifOCX-"" bets 1100",2024-04-26T19:46:42.423Z,171416080242300
+"Turn: 2♠, 3♥, 4♣ [2♦]",2024-04-26T19:46:36.482Z,171416079648200
+"""7güevos @ w9IAYKKvBy"" calls 400",2024-04-26T19:46:35.655Z,171416079565500
+"""kk_ @ WWq2ifOCX-"" bets 400",2024-04-26T19:46:33.174Z,171416079317400
+"Flop:  [2♠, 3♥, 4♣]",2024-04-26T19:46:29.727Z,171416078972700
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:46:28.892Z,171416078889200
+"""7güevos @ w9IAYKKvBy"" calls 200",2024-04-26T19:46:26.630Z,171416078663000
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 200",2024-04-26T19:46:24.368Z,171416078436807
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 100",2024-04-26T19:46:24.368Z,171416078436806
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (4610) | #4 ""7güevos @ w9IAYKKvBy"" (3390)",2024-04-26T19:46:24.368Z,171416078436803
+"-- starting hand #31 (id: w2rqphzugboi)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:46:24.368Z,171416078436802
+"The game's big blind was changed from 150 to 200.",2024-04-26T19:46:24.368Z,171416078436801
+"The game's small blind was changed from 75 to 100.",2024-04-26T19:46:24.368Z,171416078436800
+"-- ending hand #30 --",2024-04-26T19:46:21.461Z,171416078146102
+"""7güevos @ w9IAYKKvBy"" collected 150 from pot",2024-04-26T19:46:21.461Z,171416078146101
+"Uncalled bet of 75 returned to ""7güevos @ w9IAYKKvBy""",2024-04-26T19:46:21.461Z,171416078146100
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:46:20.620Z,171416078062000
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 150",2024-04-26T19:46:15.758Z,171416077575806
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 75",2024-04-26T19:46:15.758Z,171416077575805
+"Player stacks: #2 ""kk_ @ WWq2ifOCX-"" (4685) | #4 ""7güevos @ w9IAYKKvBy"" (3315)",2024-04-26T19:46:15.758Z,171416077575802
+"-- starting hand #30 (id: g4q6ifecoru3)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:46:15.758Z,171416077575801
+"The player ""Kester Okenya🌟 @ JNBa1WUmVp"" quits the game with a stack of 0.",2024-04-26T19:46:15.758Z,171416077575800
+"-- ending hand #29 --",2024-04-26T19:46:09.698Z,171416076969801
+"""kk_ @ WWq2ifOCX-"" collected 3390 from pot with Flush, Ac High (combination: A♣, Q♣, 6♣, 5♣, 2♣)",2024-04-26T19:46:09.698Z,171416076969800
+"River: 6♣, 6♠, 3♦, 2♣ [A♣]",2024-04-26T19:46:05.682Z,171416076568200
+"Turn: 6♣, 6♠, 3♦ [2♣]",2024-04-26T19:46:01.677Z,171416076167700
+"Flop:  [6♣, 6♠, 3♦]",2024-04-26T19:45:57.583Z,171416075758300
+"""kk_ @ WWq2ifOCX-"" shows a Q♣, 5♣.",2024-04-26T19:45:53.572Z,171416075357201
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 5♥, K♥.",2024-04-26T19:45:53.572Z,171416075357200
+"""kk_ @ WWq2ifOCX-"" calls 1620",2024-04-26T19:45:52.745Z,171416075274500
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 1620 and go all in",2024-04-26T19:45:51.052Z,171416075105200
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:45:48.324Z,171416074832400
+"""kk_ @ WWq2ifOCX-"" raises to 600",2024-04-26T19:45:45.697Z,171416074569700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 150",2024-04-26T19:45:42.810Z,171416074281000
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 150",2024-04-26T19:45:40.650Z,171416074065006
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 75",2024-04-26T19:45:40.650Z,171416074065005
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1620) | #2 ""kk_ @ WWq2ifOCX-"" (2915) | #4 ""7güevos @ w9IAYKKvBy"" (3465)",2024-04-26T19:45:40.650Z,171416074065001
+"-- starting hand #29 (id: cgvfkmkaavff)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:45:40.650Z,171416074065000
+"-- ending hand #28 --",2024-04-26T19:45:34.639Z,171416073463901
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 1620 from pot with Straight, J High (combination: J♠, 10♣, 9♣, 8♥, 7♠)",2024-04-26T19:45:34.639Z,171416073463900
+"River: 7♠, 9♣, 8♥, 5♠ [10♣]",2024-04-26T19:45:30.633Z,171416073063300
+"Turn: 7♠, 9♣, 8♥ [5♠]",2024-04-26T19:45:26.628Z,171416072662800
+"""kk_ @ WWq2ifOCX-"" shows a 3♥, 8♣.",2024-04-26T19:45:22.620Z,171416072262001
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a J♠, A♠.",2024-04-26T19:45:22.620Z,171416072262000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 660 and go all in",2024-04-26T19:45:21.799Z,171416072179900
+"""kk_ @ WWq2ifOCX-"" raises to 660",2024-04-26T19:45:19.133Z,171416071913300
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 150",2024-04-26T19:45:16.820Z,171416071682000
+"Flop:  [7♠, 9♣, 8♥]",2024-04-26T19:45:13.607Z,171416071360700
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:45:12.747Z,171416071274700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 150",2024-04-26T19:45:10.702Z,171416071070200
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:45:08.140Z,171416070814000
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 150",2024-04-26T19:45:06.501Z,171416070650106
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 75",2024-04-26T19:45:06.501Z,171416070650105
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (810) | #2 ""kk_ @ WWq2ifOCX-"" (3725) | #4 ""7güevos @ w9IAYKKvBy"" (3465)",2024-04-26T19:45:06.501Z,171416070650101
+"-- starting hand #28 (id: lcptm2ahfc9d)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:45:06.501Z,171416070650100
+"-- ending hand #27 --",2024-04-26T19:45:03.597Z,171416070359702
+"""kk_ @ WWq2ifOCX-"" collected 375 from pot",2024-04-26T19:45:03.597Z,171416070359701
+"Uncalled bet of 375 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:45:03.597Z,171416070359700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:45:02.734Z,171416070273400
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:45:01.614Z,171416070161400
+"""kk_ @ WWq2ifOCX-"" raises to 525",2024-04-26T19:44:59.630Z,171416069963000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 150",2024-04-26T19:44:55.177Z,171416069517706
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 75",2024-04-26T19:44:55.177Z,171416069517705
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (960) | #2 ""kk_ @ WWq2ifOCX-"" (3500) | #4 ""7güevos @ w9IAYKKvBy"" (3540)",2024-04-26T19:44:55.177Z,171416069517701
+"-- starting hand #27 (id: iwkhvovnshvj)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:44:55.177Z,171416069517700
+"-- ending hand #26 --",2024-04-26T19:44:52.240Z,171416069224002
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 375 from pot",2024-04-26T19:44:52.240Z,171416069224001
+"Uncalled bet of 585 returned to ""Kester Okenya🌟 @ JNBa1WUmVp""",2024-04-26T19:44:52.240Z,171416069224000
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:44:51.400Z,171416069140000
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:44:47.450Z,171416068745000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 735 and go all in",2024-04-26T19:44:45.146Z,171416068514600
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 150",2024-04-26T19:44:40.149Z,171416068014906
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 75",2024-04-26T19:44:40.149Z,171416068014905
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (735) | #2 ""kk_ @ WWq2ifOCX-"" (3575) | #4 ""7güevos @ w9IAYKKvBy"" (3690)",2024-04-26T19:44:40.149Z,171416068014901
+"-- starting hand #26 (id: ppgtv2ab3guu)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:44:40.149Z,171416068014900
+"-- ending hand #25 --",2024-04-26T19:44:37.174Z,171416067717402
+"""kk_ @ WWq2ifOCX-"" collected 150 from pot",2024-04-26T19:44:37.174Z,171416067717401
+"Uncalled bet of 75 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:44:37.174Z,171416067717400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:44:36.357Z,171416067635700
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:44:29.780Z,171416066978000
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 150",2024-04-26T19:44:26.637Z,171416066663706
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 75",2024-04-26T19:44:26.637Z,171416066663705
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (810) | #2 ""kk_ @ WWq2ifOCX-"" (3500) | #4 ""7güevos @ w9IAYKKvBy"" (3690)",2024-04-26T19:44:26.637Z,171416066663701
+"-- starting hand #25 (id: nh99r4gj0zcq)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:44:26.637Z,171416066663700
+"-- ending hand #24 --",2024-04-26T19:44:20.628Z,171416066062801
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 810 from pot with Pair, 4's (combination: 4♣, 4♦, A♥, K♦, J♣)",2024-04-26T19:44:20.628Z,171416066062800
+"River: 4♦, 8♦, K♦, 7♣ [A♥]",2024-04-26T19:44:16.589Z,171416065658900
+"Turn: 4♦, 8♦, K♦ [7♣]",2024-04-26T19:44:12.556Z,171416065255600
+"Flop:  [4♦, 8♦, K♦]",2024-04-26T19:44:08.550Z,171416064855000
+"""7güevos @ w9IAYKKvBy"" shows a 5♥, 3♥.",2024-04-26T19:44:04.539Z,171416064453901
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 4♣, J♣.",2024-04-26T19:44:04.539Z,171416064453900
+"""7güevos @ w9IAYKKvBy"" calls 405",2024-04-26T19:44:03.734Z,171416064373400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 405 and go all in",2024-04-26T19:43:59.144Z,171416063914400
+"""7güevos @ w9IAYKKvBy"" calls 150",2024-04-26T19:43:54.416Z,171416063441600
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:43:51.047Z,171416063104700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 150",2024-04-26T19:43:48.037Z,171416062803706
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 75",2024-04-26T19:43:48.037Z,171416062803705
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (405) | #2 ""kk_ @ WWq2ifOCX-"" (3500) | #4 ""7güevos @ w9IAYKKvBy"" (4095)",2024-04-26T19:43:48.037Z,171416062803701
+"-- starting hand #24 (id: j36phnumsrur)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:43:48.037Z,171416062803700
+"-- ending hand #23 --",2024-04-26T19:43:45.131Z,171416062513102
+"""kk_ @ WWq2ifOCX-"" collected 300 from pot",2024-04-26T19:43:45.131Z,171416062513101
+"Uncalled bet of 300 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:43:45.131Z,171416062513100
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:43:44.268Z,171416062426800
+"""kk_ @ WWq2ifOCX-"" raises to 450",2024-04-26T19:43:41.423Z,171416062142300
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:43:38.310Z,171416061831000
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 150",2024-04-26T19:43:36.021Z,171416061602106
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 75",2024-04-26T19:43:36.021Z,171416061602105
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (405) | #2 ""kk_ @ WWq2ifOCX-"" (3350) | #4 ""7güevos @ w9IAYKKvBy"" (4245)",2024-04-26T19:43:36.021Z,171416061602101
+"-- starting hand #23 (id: ai4v3h9ovtgp)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:43:36.021Z,171416061602100
+"-- ending hand #22 --",2024-04-26T19:43:29.960Z,171416060996003
+"""kk_ @ WWq2ifOCX-"" shows a 6♣, 9♥.",2024-04-26T19:43:29.960Z,171416060996002
+"""7güevos @ w9IAYKKvBy"" collected 675 from pot with Two Pair, 10's & 2's (combination: 10♠, 10♦, 2♣, 2♥, A♣)",2024-04-26T19:43:29.960Z,171416060996001
+"""7güevos @ w9IAYKKvBy"" shows a A♣, 10♠.",2024-04-26T19:43:29.960Z,171416060996000
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:43:29.142Z,171416060914200
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:43:27.814Z,171416060781400
+"River: 2♣, K♠, 10♦, Q♠ [2♥]",2024-04-26T19:43:25.152Z,171416060515200
+"""7güevos @ w9IAYKKvBy"" calls 150",2024-04-26T19:43:24.348Z,171416060434800
+"""kk_ @ WWq2ifOCX-"" bets 150",2024-04-26T19:43:22.594Z,171416060259400
+"Turn: 2♣, K♠, 10♦ [Q♠]",2024-04-26T19:43:20.948Z,171416060094800
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:43:20.110Z,171416060011000
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:43:18.762Z,171416059876200
+"Flop:  [2♣, K♠, 10♦]",2024-04-26T19:43:16.737Z,171416059673700
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:43:15.926Z,171416059592600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:43:13.822Z,171416059382200
+"""7güevos @ w9IAYKKvBy"" calls 150",2024-04-26T19:43:12.222Z,171416059222200
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 150",2024-04-26T19:43:09.644Z,171416058964406
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 75",2024-04-26T19:43:09.644Z,171416058964405
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (480) | #2 ""kk_ @ WWq2ifOCX-"" (3650) | #4 ""7güevos @ w9IAYKKvBy"" (3870)",2024-04-26T19:43:09.644Z,171416058964401
+"-- starting hand #22 (id: syp48tx9zzfu)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:43:09.644Z,171416058964400
+"-- ending hand #21 --",2024-04-26T19:43:03.585Z,171416058358501
+"""7güevos @ w9IAYKKvBy"" collected 3870 from pot with Pair, A's (combination: A♦, A♣, 9♠, 8♠, 7♥)",2024-04-26T19:43:03.585Z,171416058358500
+"River: 8♠, A♣, 4♦, 9♠ [7♥]",2024-04-26T19:42:59.573Z,171416057957300
+"Turn: 8♠, A♣, 4♦ [9♠]",2024-04-26T19:42:55.566Z,171416057556600
+"Flop:  [8♠, A♣, 4♦]",2024-04-26T19:42:51.529Z,171416057152900
+"""7güevos @ w9IAYKKvBy"" shows a A♦, 5♦.",2024-04-26T19:42:47.482Z,171416056748202
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a K♦, 8♦.",2024-04-26T19:42:47.482Z,171416056748201
+"Uncalled bet of 480 returned to ""Kester Okenya🌟 @ JNBa1WUmVp""",2024-04-26T19:42:47.482Z,171416056748200
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:42:46.648Z,171416056664800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 2190 and go all in",2024-04-26T19:42:44.241Z,171416056424100
+"""7güevos @ w9IAYKKvBy"" raises to 1710 and go all in",2024-04-26T19:42:39.431Z,171416055943100
+"""kk_ @ WWq2ifOCX-"" raises to 450",2024-04-26T19:42:35.879Z,171416055587900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 150",2024-04-26T19:42:31.259Z,171416055125906
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 75",2024-04-26T19:42:31.259Z,171416055125905
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (2190) | #2 ""kk_ @ WWq2ifOCX-"" (4100) | #4 ""7güevos @ w9IAYKKvBy"" (1710)",2024-04-26T19:42:31.259Z,171416055125901
+"-- starting hand #21 (id: q2t9vlorbeqr)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:42:31.259Z,171416055125900
+"-- ending hand #20 --",2024-04-26T19:42:28.313Z,171416054831302
+"""kk_ @ WWq2ifOCX-"" collected 300 from pot",2024-04-26T19:42:28.313Z,171416054831301
+"Uncalled bet of 300 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:42:28.313Z,171416054831300
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:42:27.495Z,171416054749500
+"""kk_ @ WWq2ifOCX-"" raises to 450",2024-04-26T19:42:24.017Z,171416054401700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:42:11.061Z,171416053106100
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 150",2024-04-26T19:42:09.211Z,171416052921106
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 75",2024-04-26T19:42:09.211Z,171416052921105
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (2190) | #2 ""kk_ @ WWq2ifOCX-"" (3950) | #4 ""7güevos @ w9IAYKKvBy"" (1860)",2024-04-26T19:42:09.211Z,171416052921101
+"-- starting hand #20 (id: yurdmwvedmxf)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:42:09.211Z,171416052921100
+"-- ending hand #19 --",2024-04-26T19:42:06.279Z,171416052627902
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 1200 from pot",2024-04-26T19:42:06.279Z,171416052627901
+"Uncalled bet of 990 returned to ""Kester Okenya🌟 @ JNBa1WUmVp""",2024-04-26T19:42:06.279Z,171416052627900
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:42:05.421Z,171416052542100
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 990 and go all in",2024-04-26T19:42:01.448Z,171416052144800
+"River: 5♣, 10♣, 2♥, 4♣ [2♠]",2024-04-26T19:41:57.381Z,171416051738100
+"""kk_ @ WWq2ifOCX-"" calls 150",2024-04-26T19:41:56.552Z,171416051655200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 150",2024-04-26T19:41:54.661Z,171416051466100
+"Turn: 5♣, 10♣, 2♥ [4♣]",2024-04-26T19:41:52.575Z,171416051257500
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 300",2024-04-26T19:41:51.721Z,171416051172100
+"""kk_ @ WWq2ifOCX-"" raises to 300",2024-04-26T19:41:49.839Z,171416050983900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 150",2024-04-26T19:41:42.204Z,171416050220400
+"Flop:  [5♣, 10♣, 2♥]",2024-04-26T19:41:40.410Z,171416050041000
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:41:39.559Z,171416049955900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 150",2024-04-26T19:41:23.730Z,171416048373000
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:41:19.374Z,171416047937400
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 150",2024-04-26T19:41:16.203Z,171416047620309
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 75",2024-04-26T19:41:16.203Z,171416047620308
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1590) | #2 ""kk_ @ WWq2ifOCX-"" (4550) | #4 ""7güevos @ w9IAYKKvBy"" (1860)",2024-04-26T19:41:16.203Z,171416047620304
+"-- starting hand #19 (id: 86bgkhlv5dy5)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:41:16.203Z,171416047620303
+"The game's big blind was changed from 100 to 150.",2024-04-26T19:41:16.203Z,171416047620302
+"The game's small blind was changed from 50 to 75.",2024-04-26T19:41:16.203Z,171416047620301
+"The player ""Abdulcryptofx @ ipblIB7ofh"" quits the game with a stack of 0.",2024-04-26T19:41:16.203Z,171416047620300
+"-- ending hand #18 --",2024-04-26T19:41:10.189Z,171416047018901
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 880 from pot with Pair, K's (combination: K♣, K♠, J♥, 10♥, 9♦)",2024-04-26T19:41:10.189Z,171416047018900
+"River: J♥, 3♥, 6♣, 9♦ [10♥]",2024-04-26T19:41:06.182Z,171416046618200
+"Turn: J♥, 3♥, 6♣ [9♦]",2024-04-26T19:41:02.177Z,171416046217700
+"""Abdulcryptofx @ ipblIB7ofh"" shows a A♥, J♦.",2024-04-26T19:40:58.170Z,171416045817002
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a K♣, K♠.",2024-04-26T19:40:58.170Z,171416045817001
+"Uncalled bet of 15 returned to ""Kester Okenya🌟 @ JNBa1WUmVp""",2024-04-26T19:40:58.170Z,171416045817000
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:40:57.352Z,171416045735200
+"""Abdulcryptofx @ ipblIB7ofh"" calls 140 and go all in",2024-04-26T19:40:54.498Z,171416045449800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 155",2024-04-26T19:40:51.941Z,171416045194100
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:40:46.670Z,171416044667000
+"Flop:  [J♥, 3♥, 6♣]",2024-04-26T19:40:42.257Z,171416044225700
+"""7güevos @ w9IAYKKvBy"" calls 200",2024-04-26T19:40:41.420Z,171416044142000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 200",2024-04-26T19:40:38.740Z,171416043874000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 200",2024-04-26T19:40:36.412Z,171416043641200
+"""7güevos @ w9IAYKKvBy"" calls 100",2024-04-26T19:40:33.308Z,171416043330800
+"""Abdulcryptofx @ ipblIB7ofh"" calls 100",2024-04-26T19:40:31.380Z,171416043138000
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:40:28.984Z,171416042898400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 100",2024-04-26T19:40:26.611Z,171416042661107
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 50",2024-04-26T19:40:26.611Z,171416042661106
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1050) | #2 ""kk_ @ WWq2ifOCX-"" (4550) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (340) | #4 ""7güevos @ w9IAYKKvBy"" (2060)",2024-04-26T19:40:26.611Z,171416042661101
+"-- starting hand #18 (id: rbkvxqahdybo)  (No Limit Texas Hold'em) (dealer: ""Abdulcryptofx @ ipblIB7ofh"") --",2024-04-26T19:40:26.611Z,171416042661100
+"-- ending hand #17 --",2024-04-26T19:40:23.664Z,171416042366402
+"""kk_ @ WWq2ifOCX-"" collected 650 from pot",2024-04-26T19:40:23.664Z,171416042366401
+"Uncalled bet of 500 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:40:23.664Z,171416042366400
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:40:22.857Z,171416042285700
+"""kk_ @ WWq2ifOCX-"" bets 500",2024-04-26T19:40:19.670Z,171416041967000
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:40:13.460Z,171416041346000
+"Flop:  [A♥, 6♦, A♣]",2024-04-26T19:40:10.164Z,171416041016400
+"""7güevos @ w9IAYKKvBy"" calls 300",2024-04-26T19:40:09.350Z,171416040935000
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:40:07.448Z,171416040744800
+"""kk_ @ WWq2ifOCX-"" raises to 300",2024-04-26T19:40:02.522Z,171416040252200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:39:58.735Z,171416039873500
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 100",2024-04-26T19:39:53.969Z,171416039396907
+"""Abdulcryptofx @ ipblIB7ofh"" posts a small blind of 50",2024-04-26T19:39:53.969Z,171416039396906
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1050) | #2 ""kk_ @ WWq2ifOCX-"" (4200) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (390) | #4 ""7güevos @ w9IAYKKvBy"" (2360)",2024-04-26T19:39:53.969Z,171416039396901
+"-- starting hand #17 (id: qwwolxqtfbko)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:39:53.969Z,171416039396900
+"-- ending hand #16 --",2024-04-26T19:39:51.062Z,171416039106202
+"""7güevos @ w9IAYKKvBy"" collected 250 from pot",2024-04-26T19:39:51.062Z,171416039106201
+"Uncalled bet of 390 returned to ""7güevos @ w9IAYKKvBy""",2024-04-26T19:39:51.062Z,171416039106200
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:39:50.227Z,171416039022700
+"""7güevos @ w9IAYKKvBy"" bets 390",2024-04-26T19:39:47.781Z,171416038778100
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:39:44.657Z,171416038465700
+"Turn: 4♣, K♣, 10♦ [J♠]",2024-04-26T19:39:41.918Z,171416038191800
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:39:41.071Z,171416038107100
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:39:38.276Z,171416037827600
+"Flop:  [4♣, K♣, 10♦]",2024-04-26T19:39:34.557Z,171416037455700
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:39:33.735Z,171416037373500
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:39:31.679Z,171416037167900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:39:30.732Z,171416037073200
+"""7güevos @ w9IAYKKvBy"" calls 100",2024-04-26T19:39:29.147Z,171416036914700
+"""Abdulcryptofx @ ipblIB7ofh"" posts a big blind of 100",2024-04-26T19:39:25.324Z,171416036532407
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 50",2024-04-26T19:39:25.324Z,171416036532406
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1050) | #2 ""kk_ @ WWq2ifOCX-"" (4250) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (490) | #4 ""7güevos @ w9IAYKKvBy"" (2210)",2024-04-26T19:39:25.324Z,171416036532401
+"-- starting hand #16 (id: hr3lmqaxr2eg)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:39:25.324Z,171416036532400
+"-- ending hand #15 --",2024-04-26T19:39:19.230Z,171416035923001
+"""Abdulcryptofx @ ipblIB7ofh"" collected 490 from pot with Pair, Q's (combination: Q♥, Q♦, A♥, J♠, 8♦)",2024-04-26T19:39:19.230Z,171416035923000
+"River: J♠, Q♦, 8♦, 6♥ [4♥]",2024-04-26T19:39:15.224Z,171416035522400
+"Turn: J♠, Q♦, 8♦ [6♥]",2024-04-26T19:39:11.183Z,171416035118300
+"""Abdulcryptofx @ ipblIB7ofh"" shows a Q♥, A♥.",2024-04-26T19:39:07.171Z,171416034717101
+"""kk_ @ WWq2ifOCX-"" shows a 3♦, 2♠.",2024-04-26T19:39:07.171Z,171416034717100
+"""Abdulcryptofx @ ipblIB7ofh"" calls 120 and go all in",2024-04-26T19:39:06.365Z,171416034636500
+"""kk_ @ WWq2ifOCX-"" bets 120",2024-04-26T19:39:04.279Z,171416034427900
+"Flop:  [J♠, Q♦, 8♦]",2024-04-26T19:38:57.901Z,171416033790100
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:38:57.012Z,171416033701200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:38:54.348Z,171416033434800
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:38:52.464Z,171416033246400
+"""Abdulcryptofx @ ipblIB7ofh"" calls 100",2024-04-26T19:38:51.425Z,171416033142500
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 100",2024-04-26T19:38:47.887Z,171416032788707
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 50",2024-04-26T19:38:47.887Z,171416032788706
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1100) | #2 ""kk_ @ WWq2ifOCX-"" (4470) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (220) | #4 ""7güevos @ w9IAYKKvBy"" (2210)",2024-04-26T19:38:47.887Z,171416032788701
+"-- starting hand #15 (id: vrrs0ddachdq)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:38:47.887Z,171416032788700
+"-- ending hand #14 --",2024-04-26T19:38:41.876Z,171416032187603
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a Q♠, J♦.",2024-04-26T19:38:41.876Z,171416032187602
+"""kk_ @ WWq2ifOCX-"" collected 2050 from pot with A High (combination: A♠, K♥, 10♣, 9♠, 7♣)",2024-04-26T19:38:41.876Z,171416032187601
+"""kk_ @ WWq2ifOCX-"" shows a A♠, K♥.",2024-04-26T19:38:41.876Z,171416032187600
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:38:40.968Z,171416032096800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:38:38.227Z,171416031822700
+"River: 5♠, 9♠, 10♣, 3♣ [7♣]",2024-04-26T19:38:36.512Z,171416031651200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 400",2024-04-26T19:38:35.581Z,171416031558100
+"""kk_ @ WWq2ifOCX-"" raises to 400",2024-04-26T19:38:33.846Z,171416031384600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 100",2024-04-26T19:38:30.327Z,171416031032700
+"Turn: 5♠, 9♠, 10♣ [3♣]",2024-04-26T19:38:26.651Z,171416030665100
+"""kk_ @ WWq2ifOCX-"" calls 100",2024-04-26T19:38:25.767Z,171416030576700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 100",2024-04-26T19:38:22.242Z,171416030224200
+"Flop:  [5♠, 9♠, 10♣]",2024-04-26T19:38:17.933Z,171416029793300
+"""kk_ @ WWq2ifOCX-"" calls 500",2024-04-26T19:38:17.095Z,171416029709500
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 500",2024-04-26T19:38:14.686Z,171416029468600
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:38:10.388Z,171416029038800
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:38:09.366Z,171416028936600
+"""kk_ @ WWq2ifOCX-"" raises to 300",2024-04-26T19:38:03.991Z,171416028399100
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 100",2024-04-26T19:37:58.994Z,171416027899407
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 50",2024-04-26T19:37:58.994Z,171416027899406
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (2100) | #2 ""kk_ @ WWq2ifOCX-"" (3420) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (220) | #4 ""7güevos @ w9IAYKKvBy"" (2260)",2024-04-26T19:37:58.994Z,171416027899401
+"-- starting hand #14 (id: y4ccgspvsb4v)  (No Limit Texas Hold'em) (dealer: ""Abdulcryptofx @ ipblIB7ofh"") --",2024-04-26T19:37:58.994Z,171416027899400
+"-- ending hand #13 --",2024-04-26T19:37:56.009Z,171416027600902
+"""kk_ @ WWq2ifOCX-"" collected 2640 from pot",2024-04-26T19:37:56.009Z,171416027600901
+"Uncalled bet of 780 returned to ""kk_ @ WWq2ifOCX-""",2024-04-26T19:37:56.009Z,171416027600900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:37:55.188Z,171416027518800
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:37:31.299Z,171416025129900
+"""kk_ @ WWq2ifOCX-"" raises to 1000 and go all in",2024-04-26T19:37:28.206Z,171416024820600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 220",2024-04-26T19:37:22.113Z,171416024211300
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:37:16.298Z,171416023629800
+"Flop:  [J♣, 3♥, 10♦]",2024-04-26T19:37:12.450Z,171416023245000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 700",2024-04-26T19:37:11.603Z,171416023160300
+"""kk_ @ WWq2ifOCX-"" calls 700",2024-04-26T19:37:08.377Z,171416022837700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 700",2024-04-26T19:37:03.975Z,171416022397500
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:36:59.829Z,171416021982900
+"""Abdulcryptofx @ ipblIB7ofh"" calls 400",2024-04-26T19:36:56.564Z,171416021656400
+"""kk_ @ WWq2ifOCX-"" raises to 400",2024-04-26T19:36:53.776Z,171416021377600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 100",2024-04-26T19:36:44.334Z,171416020433400
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 100",2024-04-26T19:36:41.457Z,171416020145708
+"""Abdulcryptofx @ ipblIB7ofh"" posts a small blind of 50",2024-04-26T19:36:41.457Z,171416020145707
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (3020) | #2 ""kk_ @ WWq2ifOCX-"" (1700) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (920) | #4 ""7güevos @ w9IAYKKvBy"" (2360)",2024-04-26T19:36:41.457Z,171416020145702
+"-- starting hand #13 (id: u9jxac9oiiit)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:36:41.457Z,171416020145701
+"The player ""Nutter Butter @ laT36LjhgF"" quits the game with a stack of 0.",2024-04-26T19:36:41.457Z,171416020145700
+"-- ending hand #12 --",2024-04-26T19:36:35.450Z,171416019545001
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 2030 from pot with Pair, 8's (combination: 8♠, 8♣, A♥, J♠, 6♥)",2024-04-26T19:36:35.450Z,171416019545000
+"River: J♠, 2♥, 5♥, 6♥ [A♥]",2024-04-26T19:36:31.418Z,171416019141800
+"Turn: J♠, 2♥, 5♥ [6♥]",2024-04-26T19:36:27.410Z,171416018741000
+"Flop:  [J♠, 2♥, 5♥]",2024-04-26T19:36:23.401Z,171416018340100
+"""Nutter Butter @ laT36LjhgF"" shows a 3♣, 3♠.",2024-04-26T19:36:19.374Z,171416017937401
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 8♠, 8♣.",2024-04-26T19:36:19.374Z,171416017937400
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:36:18.548Z,171416017854800
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:36:15.934Z,171416017593400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 940",2024-04-26T19:36:13.073Z,171416017307300
+"""Nutter Butter @ laT36LjhgF"" raises to 940 and go all in",2024-04-26T19:36:10.244Z,171416017024400
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:36:06.364Z,171416016636400
+"""Abdulcryptofx @ ipblIB7ofh"" posts a big blind of 100",2024-04-26T19:35:54.720Z,171416015472010
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 50",2024-04-26T19:35:54.720Z,171416015472009
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1930) | #2 ""kk_ @ WWq2ifOCX-"" (1750) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1020) | #4 ""7güevos @ w9IAYKKvBy"" (2360) | #5 ""Nutter Butter @ laT36LjhgF"" (940)",2024-04-26T19:35:54.720Z,171416015472003
+"-- starting hand #12 (id: 7c4byvljfpel)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:35:54.720Z,171416015472002
+"The game's big blind was changed from 60 to 100.",2024-04-26T19:35:54.720Z,171416015472001
+"The game's small blind was changed from 30 to 50.",2024-04-26T19:35:54.720Z,171416015472000
+"-- ending hand #11 --",2024-04-26T19:35:48.709Z,171416014870903
+"""Abdulcryptofx @ ipblIB7ofh"" shows a Q♠, J♦.",2024-04-26T19:35:48.709Z,171416014870902
+"""7güevos @ w9IAYKKvBy"" collected 480 from pot with Pair, A's (combination: A♣, A♥, 10♥, 8♦, 7♥)",2024-04-26T19:35:48.709Z,171416014870901
+"""7güevos @ w9IAYKKvBy"" shows a A♣, 8♦.",2024-04-26T19:35:48.709Z,171416014870900
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:35:47.868Z,171416014786800
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:35:46.127Z,171416014612700
+"River: A♥, 2♠, 10♥, 5♣ [7♥]",2024-04-26T19:35:42.900Z,171416014290000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:35:42.018Z,171416014201800
+"""7güevos @ w9IAYKKvBy"" bets 60",2024-04-26T19:35:39.912Z,171416013991200
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:35:37.686Z,171416013768600
+"Turn: A♥, 2♠, 10♥ [5♣]",2024-04-26T19:35:34.857Z,171416013485700
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:35:34.049Z,171416013404900
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:35:32.929Z,171416013292900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:35:29.078Z,171416012907800
+"""7güevos @ w9IAYKKvBy"" bets 60",2024-04-26T19:35:27.952Z,171416012795200
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:35:15.228Z,171416011522800
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:35:13.314Z,171416011331400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:35:09.321Z,171416010932100
+"Flop:  [A♥, 2♠, 10♥]",2024-04-26T19:35:06.209Z,171416010620900
+"""kk_ @ WWq2ifOCX-"" checks",2024-04-26T19:35:05.370Z,171416010537000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 60",2024-04-26T19:35:03.404Z,171416010340400
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:35:02.258Z,171416010225800
+"""7güevos @ w9IAYKKvBy"" calls 60",2024-04-26T19:35:01.363Z,171416010136300
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:34:56.947Z,171416009694700
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 60",2024-04-26T19:34:53.453Z,171416009345308
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 30",2024-04-26T19:34:53.453Z,171416009345307
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1990) | #2 ""kk_ @ WWq2ifOCX-"" (1810) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1200) | #4 ""7güevos @ w9IAYKKvBy"" (2060) | #5 ""Nutter Butter @ laT36LjhgF"" (940)",2024-04-26T19:34:53.453Z,171416009345301
+"-- starting hand #11 (id: qobbnuftrega)  (No Limit Texas Hold'em) (dealer: ""Nutter Butter @ laT36LjhgF"") --",2024-04-26T19:34:53.453Z,171416009345300
+"-- ending hand #10 --",2024-04-26T19:34:50.545Z,171416009054502
+"""Abdulcryptofx @ ipblIB7ofh"" collected 270 from pot",2024-04-26T19:34:50.545Z,171416009054501
+"Uncalled bet of 254 returned to ""Abdulcryptofx @ ipblIB7ofh""",2024-04-26T19:34:50.545Z,171416009054500
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:34:49.713Z,171416008971300
+"""Abdulcryptofx @ ipblIB7ofh"" bets 254",2024-04-26T19:34:47.708Z,171416008770800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:34:40.560Z,171416008056000
+"River: 5♦, 8♠, 4♣, 3♠ [6♦]",2024-04-26T19:34:37.584Z,171416007758400
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:34:36.771Z,171416007677100
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 60",2024-04-26T19:34:32.796Z,171416007279600
+"Turn: 5♦, 8♠, 4♣ [3♠]",2024-04-26T19:34:29.760Z,171416006976000
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:34:28.948Z,171416006894800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:34:25.841Z,171416006584100
+"Flop:  [5♦, 8♠, 4♣]",2024-04-26T19:34:23.758Z,171416006375800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:34:22.916Z,171416006291600
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:34:20.342Z,171416006034200
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:34:19.434Z,171416005943400
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:34:11.967Z,171416005196700
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:34:10.316Z,171416005031600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 60",2024-04-26T19:33:58.063Z,171416003806308
+"""Nutter Butter @ laT36LjhgF"" posts a small blind of 30",2024-04-26T19:33:58.063Z,171416003806307
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (2110) | #2 ""kk_ @ WWq2ifOCX-"" (1810) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1050) | #4 ""7güevos @ w9IAYKKvBy"" (2060) | #5 ""Nutter Butter @ laT36LjhgF"" (970)",2024-04-26T19:33:58.063Z,171416003806301
+"-- starting hand #10 (id: ujbjf7all5zy)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:33:58.063Z,171416003806300
+"""Nutter Butter @ laT36LjhgF"" shows a 8♠, 2♣.",2024-04-26T19:33:55.777Z,171416003577700
+"-- ending hand #9 --",2024-04-26T19:33:51.522Z,171416003152203
+"""7güevos @ w9IAYKKvBy"" shows a Q♥, Q♠.",2024-04-26T19:33:51.522Z,171416003152202
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 420 from pot with Pair, K's (combination: K♠, K♣, A♣, Q♦, J♥)",2024-04-26T19:33:51.522Z,171416003152201
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a K♠, Q♦.",2024-04-26T19:33:51.522Z,171416003152200
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:33:50.687Z,171416003068700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:33:48.140Z,171416002814000
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:33:42.664Z,171416002266400
+"River: 5♦, K♣, J♥, 2♦ [A♣]",2024-04-26T19:33:40.108Z,171416002010800
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:33:39.275Z,171416001927500
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:33:35.200Z,171416001520000
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:33:30.795Z,171416001079500
+"Turn: 5♦, K♣, J♥ [2♦]",2024-04-26T19:33:25.240Z,171416000524000
+"""7güevos @ w9IAYKKvBy"" calls 60",2024-04-26T19:33:24.397Z,171416000439700
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:33:21.526Z,171416000152600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 60",2024-04-26T19:33:17.569Z,171415999756900
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:33:10.483Z,171415999048300
+"Flop:  [5♦, K♣, J♥]",2024-04-26T19:33:07.759Z,171415998775900
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:33:06.888Z,171415998688800
+"""7güevos @ w9IAYKKvBy"" calls 60",2024-04-26T19:33:06.042Z,171415998604200
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:33:04.497Z,171415998449700
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:33:02.414Z,171415998241400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 60",2024-04-26T19:33:00.412Z,171415998041200
+"""Nutter Butter @ laT36LjhgF"" posts a big blind of 60",2024-04-26T19:32:56.354Z,171415997635408
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 30",2024-04-26T19:32:56.354Z,171415997635407
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1810) | #2 ""kk_ @ WWq2ifOCX-"" (1810) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1170) | #4 ""7güevos @ w9IAYKKvBy"" (2180) | #5 ""Nutter Butter @ laT36LjhgF"" (1030)",2024-04-26T19:32:56.354Z,171415997635401
+"-- starting hand #9 (id: dxyqyhrganao)  (No Limit Texas Hold'em) (dealer: ""Abdulcryptofx @ ipblIB7ofh"") --",2024-04-26T19:32:56.354Z,171415997635400
+"-- ending hand #8 --",2024-04-26T19:32:50.259Z,171415997025901
+"""Kester Okenya🌟 @ JNBa1WUmVp"" collected 1810 from pot with Pair, 9's (combination: 9♠, 9♣, A♠, K♥, 8♠)",2024-04-26T19:32:50.259Z,171415997025900
+"River: 4♠, 2♦, 8♠, A♠ [K♥]",2024-04-26T19:32:46.157Z,171415996615700
+"Turn: 4♠, 2♦, 8♠ [A♠]",2024-04-26T19:32:42.153Z,171415996215300
+"Flop:  [4♠, 2♦, 8♠]",2024-04-26T19:32:38.151Z,171415995815100
+"""kk_ @ WWq2ifOCX-"" shows a J♥, 10♥.",2024-04-26T19:32:34.142Z,171415995414201
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 9♠, 9♣.",2024-04-26T19:32:34.142Z,171415995414200
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:32:33.314Z,171415995331400
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:32:17.436Z,171415993743600
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:32:16.276Z,171415993627600
+"""kk_ @ WWq2ifOCX-"" calls 800",2024-04-26T19:32:12.436Z,171415993243600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 800 and go all in",2024-04-26T19:32:09.491Z,171415992949100
+"""Nutter Butter @ laT36LjhgF"" raises to 120",2024-04-26T19:31:59.543Z,171415991954300
+"""7güevos @ w9IAYKKvBy"" posts a big blind of 60",2024-04-26T19:31:55.324Z,171415991532409
+"""Abdulcryptofx @ ipblIB7ofh"" posts a small blind of 30",2024-04-26T19:31:55.324Z,171415991532408
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (800) | #2 ""kk_ @ WWq2ifOCX-"" (2610) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1200) | #4 ""7güevos @ w9IAYKKvBy"" (2240) | #5 ""Nutter Butter @ laT36LjhgF"" (1150)",2024-04-26T19:31:55.324Z,171415991532402
+"-- starting hand #8 (id: s1y4kr8hwfdz)  (No Limit Texas Hold'em) (dealer: ""kk_ @ WWq2ifOCX-"") --",2024-04-26T19:31:55.324Z,171415991532401
+"The player ""Zerevo @ XucQQZoQF7"" quits the game with a stack of 0.",2024-04-26T19:31:55.324Z,171415991532400
+"-- ending hand #7 --",2024-04-26T19:31:49.264Z,171415990926402
+"""kk_ @ WWq2ifOCX-"" collected 660 from pot with Two Pair, Q's & J's (combination: Q♠, Q♦, J♣, J♠, 8♠)",2024-04-26T19:31:49.264Z,171415990926401
+"""kk_ @ WWq2ifOCX-"" collected 1950 from pot with Two Pair, Q's & J's (combination: Q♠, Q♦, J♣, J♠, 8♠)",2024-04-26T19:31:49.264Z,171415990926400
+"River: 3♣, Q♦, 8♠, J♠ [7♥]",2024-04-26T19:31:45.193Z,171415990519300
+"Turn: 3♣, Q♦, 8♠ [J♠]",2024-04-26T19:31:41.178Z,171415990117800
+"Flop:  [3♣, Q♦, 8♠]",2024-04-26T19:31:37.171Z,171415989717100
+"""Zerevo @ XucQQZoQF7"" shows a 4♥, 4♣.",2024-04-26T19:31:33.117Z,171415989311702
+"""Nutter Butter @ laT36LjhgF"" shows a J♦, A♣.",2024-04-26T19:31:33.117Z,171415989311701
+"""kk_ @ WWq2ifOCX-"" shows a J♣, Q♠.",2024-04-26T19:31:33.117Z,171415989311700
+"""kk_ @ WWq2ifOCX-"" calls 960 and go all in",2024-04-26T19:31:32.281Z,171415989228100
+"""Nutter Butter @ laT36LjhgF"" raises to 960",2024-04-26T19:31:29.399Z,171415988939900
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:31:26.524Z,171415988652400
+"""kk_ @ WWq2ifOCX-"" calls 630",2024-04-26T19:31:20.207Z,171415988020700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:31:14.448Z,171415987444800
+"""Zerevo @ XucQQZoQF7"" raises to 630 and go all in",2024-04-26T19:31:13.004Z,171415987300400
+"""Nutter Butter @ laT36LjhgF"" raises to 172",2024-04-26T19:31:09.321Z,171415986932100
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:31:00.117Z,171415986011700
+"""Abdulcryptofx @ ipblIB7ofh"" posts a big blind of 60",2024-04-26T19:30:53.498Z,171415985349813
+"""kk_ @ WWq2ifOCX-"" posts a small blind of 30",2024-04-26T19:30:53.498Z,171415985349812
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (800) | #2 ""kk_ @ WWq2ifOCX-"" (960) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1260) | #4 ""7güevos @ w9IAYKKvBy"" (2240) | #5 ""Nutter Butter @ laT36LjhgF"" (2110) | #8 ""Zerevo @ XucQQZoQF7"" (630)",2024-04-26T19:30:53.498Z,171415985349805
+"-- starting hand #7 (id: q44ysetygo3v)  (No Limit Texas Hold'em) (dealer: ""Kester Okenya🌟 @ JNBa1WUmVp"") --",2024-04-26T19:30:53.498Z,171415985349804
+"The game's big blind was changed from 40 to 60.",2024-04-26T19:30:53.498Z,171415985349803
+"The game's small blind was changed from 20 to 30.",2024-04-26T19:30:53.498Z,171415985349802
+"The player ""DEverestTrader @ btc14uqUBI"" quits the game with a stack of 0.",2024-04-26T19:30:53.498Z,171415985349801
+"The player ""LuckyMan243432 @ IecvKAjGxS"" quits the game with a stack of 0.",2024-04-26T19:30:53.498Z,171415985349800
+"-- ending hand #6 --",2024-04-26T19:30:47.494Z,171415984749403
+"""Zerevo @ XucQQZoQF7"" collected 540 from pot with Two Pair, 5's & 4's (combination: 5♦, 5♥, 4♣, 4♥, K♠)",2024-04-26T19:30:47.494Z,171415984749402
+"""Nutter Butter @ laT36LjhgF"" collected 90 from pot with Two Pair, K's & 4's (combination: K♦, K♠, 4♣, 4♥, Q♦)",2024-04-26T19:30:47.494Z,171415984749401
+"""Nutter Butter @ laT36LjhgF"" collected 2020 from pot with Two Pair, K's & 4's (combination: K♦, K♠, 4♣, 4♥, Q♦)",2024-04-26T19:30:47.494Z,171415984749400
+"River: 4♣, 4♥, 7♠, K♠ [6♠]",2024-04-26T19:30:43.487Z,171415984348700
+"Turn: 4♣, 4♥, 7♠ [K♠]",2024-04-26T19:30:39.476Z,171415983947600
+"Flop:  [4♣, 4♥, 7♠]",2024-04-26T19:30:35.460Z,171415983546000
+"""Zerevo @ XucQQZoQF7"" shows a 5♦, 5♥.",2024-04-26T19:30:31.449Z,171415983144904
+"""LuckyMan243432 @ IecvKAjGxS"" shows a 2♣, K♣.",2024-04-26T19:30:31.449Z,171415983144903
+"""DEverestTrader @ btc14uqUBI"" shows a 9♥, A♦.",2024-04-26T19:30:31.449Z,171415983144902
+"""Nutter Butter @ laT36LjhgF"" shows a K♦, Q♦.",2024-04-26T19:30:31.449Z,171415983144901
+"Uncalled bet of 90 returned to ""Zerevo @ XucQQZoQF7""",2024-04-26T19:30:31.449Z,171415983144900
+"""LuckyMan243432 @ IecvKAjGxS"" calls 470 and go all in",2024-04-26T19:30:30.644Z,171415983064400
+"""DEverestTrader @ btc14uqUBI"" calls 770 and go all in",2024-04-26T19:30:29.699Z,171415982969900
+"""Nutter Butter @ laT36LjhgF"" calls 500 and go all in",2024-04-26T19:30:26.979Z,171415982697900
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:30:26.026Z,171415982602600
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:30:24.722Z,171415982472200
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:30:15.282Z,171415981528200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:30:12.563Z,171415981256300
+"""Zerevo @ XucQQZoQF7"" raises to 860 and go all in",2024-04-26T19:30:11.685Z,171415981168500
+"""LuckyMan243432 @ IecvKAjGxS"" calls 130",2024-04-26T19:30:06.450Z,171415980645000
+"""DEverestTrader @ btc14uqUBI"" calls 130",2024-04-26T19:30:03.953Z,171415980395300
+"""Nutter Butter @ laT36LjhgF"" raises to 130",2024-04-26T19:30:01.891Z,171415980189100
+"""7güevos @ w9IAYKKvBy"" calls 40",2024-04-26T19:29:58.400Z,171415979840000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:29:43.953Z,171415978395300
+"""kk_ @ WWq2ifOCX-"" posts a big blind of 40",2024-04-26T19:29:38.009Z,171415977800911
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a small blind of 20",2024-04-26T19:29:38.009Z,171415977800910
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (820) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1300) | #4 ""7güevos @ w9IAYKKvBy"" (2280) | #5 ""Nutter Butter @ laT36LjhgF"" (500) | #6 ""DEverestTrader @ btc14uqUBI"" (770) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (470) | #8 ""Zerevo @ XucQQZoQF7"" (860)",2024-04-26T19:29:38.009Z,171415977800901
+"-- starting hand #6 (id: vltckrkxsrkq)  (No Limit Texas Hold'em) (dealer: ""Zerevo @ XucQQZoQF7"") --",2024-04-26T19:29:38.009Z,171415977800900
+"-- ending hand #5 --",2024-04-26T19:29:32.007Z,171415977200705
+"""DEverestTrader @ btc14uqUBI"" collected 180 from pot with Pair, 6's (combination: 6♦, 6♥, K♠, J♦, 10♣)",2024-04-26T19:29:32.007Z,171415977200704
+"""DEverestTrader @ btc14uqUBI"" shows a K♠, 10♣.",2024-04-26T19:29:32.007Z,171415977200703
+"""LuckyMan243432 @ IecvKAjGxS"" shows a K♥, 7♦.",2024-04-26T19:29:32.007Z,171415977200702
+"""Nutter Butter @ laT36LjhgF"" collected 500 from pot with Pair, 6's (combination: 6♦, 6♥, A♥, J♦, 8♦)",2024-04-26T19:29:32.007Z,171415977200701
+"""Nutter Butter @ laT36LjhgF"" shows a A♥, 2♥.",2024-04-26T19:29:32.007Z,171415977200700
+"""DEverestTrader @ btc14uqUBI"" calls 60",2024-04-26T19:29:31.201Z,171415977120100
+"""Abdulcryptofx @ ipblIB7ofh"" calls 60",2024-04-26T19:29:29.854Z,171415976985400
+"""LuckyMan243432 @ IecvKAjGxS"" bets 60",2024-04-26T19:29:26.406Z,171415976640600
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:29:20.722Z,171415976072200
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:29:19.074Z,171415975907400
+"River: 6♦, 4♣, J♦, 6♥ [8♦]",2024-04-26T19:29:13.907Z,171415975390700
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:29:13.087Z,171415975308700
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:29:08.935Z,171415974893500
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:29:07.651Z,171415974765100
+"Turn: 6♦, 4♣, J♦ [6♥]",2024-04-26T19:29:04.299Z,171415974429900
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:29:03.470Z,171415974347000
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:29:00.460Z,171415974046000
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:28:58.284Z,171415973828400
+"Flop:  [6♦, 4♣, J♦]",2024-04-26T19:28:54.195Z,171415973419500
+"""Abdulcryptofx @ ipblIB7ofh"" calls 110",2024-04-26T19:28:53.347Z,171415973334700
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:28:51.690Z,171415973169000
+"""Zerevo @ XucQQZoQF7"" folds",2024-04-26T19:28:25.805Z,171415970580500
+"""LuckyMan243432 @ IecvKAjGxS"" calls 110",2024-04-26T19:28:21.970Z,171415970197000
+"""DEverestTrader @ btc14uqUBI"" calls 110",2024-04-26T19:28:20.644Z,171415970064400
+"""Nutter Butter @ laT36LjhgF"" raises to 110 and go all in",2024-04-26T19:28:19.259Z,171415969925900
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:28:16.222Z,171415969622200
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:28:14.035Z,171415969403500
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:28:00.371Z,171415968037100
+"""Kester Okenya🌟 @ JNBa1WUmVp"" posts a big blind of 40",2024-04-26T19:27:56.764Z,171415967676411
+"""Zerevo @ XucQQZoQF7"" posts a small blind of 20",2024-04-26T19:27:56.764Z,171415967676410
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (860) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1470) | #4 ""7güevos @ w9IAYKKvBy"" (2280) | #5 ""Nutter Butter @ laT36LjhgF"" (110) | #6 ""DEverestTrader @ btc14uqUBI"" (760) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (640) | #8 ""Zerevo @ XucQQZoQF7"" (880)",2024-04-26T19:27:56.764Z,171415967676401
+"-- starting hand #5 (id: orhbioo8ojfw)  (No Limit Texas Hold'em) (dealer: ""LuckyMan243432 @ IecvKAjGxS"") --",2024-04-26T19:27:56.764Z,171415967676400
+"-- ending hand #4 --",2024-04-26T19:27:50.757Z,171415967075704
+"""Nutter Butter @ laT36LjhgF"" shows a 5♥, 8♥.",2024-04-26T19:27:50.757Z,171415967075703
+"""7güevos @ w9IAYKKvBy"" collected 2280 from pot with Flush, Ac High (combination: A♣, J♣, 10♣, 8♣, 7♣)",2024-04-26T19:27:50.757Z,171415967075702
+"""7güevos @ w9IAYKKvBy"" shows a 8♣, A♣.",2024-04-26T19:27:50.757Z,171415967075701
+"Uncalled bet of 110 returned to ""Nutter Butter @ laT36LjhgF""",2024-04-26T19:27:50.757Z,171415967075700
+"""Abdulcryptofx @ ipblIB7ofh"" folds",2024-04-26T19:27:49.895Z,171415966989500
+"""Zerevo @ XucQQZoQF7"" folds",2024-04-26T19:27:36.286Z,171415965628600
+"""DEverestTrader @ btc14uqUBI"" folds",2024-04-26T19:27:34.900Z,171415965490000
+"""Nutter Butter @ laT36LjhgF"" raises to 850 and go all in",2024-04-26T19:27:33.709Z,171415965370900
+"""7güevos @ w9IAYKKvBy"" raises to 740 and go all in",2024-04-26T19:27:30.021Z,171415965002100
+"""Abdulcryptofx @ ipblIB7ofh"" bets 120",2024-04-26T19:27:19.995Z,171415963999500
+"""Zerevo @ XucQQZoQF7"" checks",2024-04-26T19:27:15.050Z,171415963505000
+"River: 9♦, 2♠, 7♣, 10♣ [J♣]",2024-04-26T19:27:04.866Z,171415962486600
+"""DEverestTrader @ btc14uqUBI"" calls 40",2024-04-26T19:27:04.009Z,171415962400900
+"""Nutter Butter @ laT36LjhgF"" calls 40",2024-04-26T19:27:02.800Z,171415962280000
+"""7güevos @ w9IAYKKvBy"" calls 40",2024-04-26T19:27:01.920Z,171415962192000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:26:53.853Z,171415961385300
+"""Zerevo @ XucQQZoQF7"" bets 40",2024-04-26T19:26:44.987Z,171415960498700
+"Turn: 9♦, 2♠, 7♣ [10♣]",2024-04-26T19:26:39.253Z,171415959925300
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T19:26:38.394Z,171415959839400
+"""DEverestTrader @ btc14uqUBI"" calls 40",2024-04-26T19:26:37.457Z,171415959745700
+"""Nutter Butter @ laT36LjhgF"" calls 40",2024-04-26T19:26:31.571Z,171415959157100
+"""7güevos @ w9IAYKKvBy"" calls 40",2024-04-26T19:26:27.701Z,171415958770100
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:26:24.473Z,171415958447300
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:26:23.312Z,171415958331200
+"""Zerevo @ XucQQZoQF7"" bets 40",2024-04-26T19:26:15.766Z,171415957576600
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:26:11.458Z,171415957145800
+"Flop:  [9♦, 2♠, 7♣]",2024-04-26T19:26:07.413Z,171415956741300
+"""Zerevo @ XucQQZoQF7"" checks",2024-04-26T19:26:06.566Z,171415956656600
+"""LuckyMan243432 @ IecvKAjGxS"" calls 40",2024-04-26T19:26:05.518Z,171415956551800
+"""DEverestTrader @ btc14uqUBI"" calls 40",2024-04-26T19:26:03.707Z,171415956370700
+"""Nutter Butter @ laT36LjhgF"" calls 40",2024-04-26T19:26:02.382Z,171415956238200
+"""7güevos @ w9IAYKKvBy"" calls 40",2024-04-26T19:25:56.543Z,171415955654300
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:25:53.033Z,171415955303300
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:25:47.480Z,171415954748000
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 40",2024-04-26T19:25:46.403Z,171415954640300
+"""Zerevo @ XucQQZoQF7"" posts a big blind of 40",2024-04-26T19:25:37.870Z,171415953787013
+"""LuckyMan243432 @ IecvKAjGxS"" posts a small blind of 20",2024-04-26T19:25:37.870Z,171415953787012
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (900) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1710) | #4 ""7güevos @ w9IAYKKvBy"" (860) | #5 ""Nutter Butter @ laT36LjhgF"" (970) | #6 ""DEverestTrader @ btc14uqUBI"" (880) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (680) | #8 ""Zerevo @ XucQQZoQF7"" (1000)",2024-04-26T19:25:37.870Z,171415953787003
+"-- starting hand #4 (id: jc4cicrv8nhh)  (No Limit Texas Hold'em) (dealer: ""DEverestTrader @ btc14uqUBI"") --",2024-04-26T19:25:37.870Z,171415953787002
+"The game's big blind was changed from 20 to 40.",2024-04-26T19:25:37.870Z,171415953787001
+"The game's small blind was changed from 10 to 20.",2024-04-26T19:25:37.870Z,171415953787000
+"-- ending hand #3 --",2024-04-26T19:25:34.904Z,171415953490402
+"""Abdulcryptofx @ ipblIB7ofh"" collected 220 from pot",2024-04-26T19:25:34.904Z,171415953490401
+"Uncalled bet of 348 returned to ""Abdulcryptofx @ ipblIB7ofh""",2024-04-26T19:25:34.904Z,171415953490400
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:25:34.093Z,171415953409300
+"""Abdulcryptofx @ ipblIB7ofh"" bets 348",2024-04-26T19:25:27.292Z,171415952729200
+"River: 4♠, 10♣, K♥, Q♠ [7♦]",2024-04-26T19:25:18.451Z,171415951845100
+"""7güevos @ w9IAYKKvBy"" calls 40",2024-04-26T19:25:17.628Z,171415951762800
+"""Abdulcryptofx @ ipblIB7ofh"" bets 40",2024-04-26T19:25:15.161Z,171415951516100
+"Turn: 4♠, 10♣, K♥ [Q♠]",2024-04-26T19:25:07.554Z,171415950755400
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:25:06.723Z,171415950672300
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:24:58.450Z,171415949845000
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T19:24:53.524Z,171415949352400
+"""DEverestTrader @ btc14uqUBI"" folds",2024-04-26T19:24:49.015Z,171415948901500
+"""7güevos @ w9IAYKKvBy"" bets 20",2024-04-26T19:24:48.184Z,171415948818400
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:24:46.434Z,171415948643400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:24:41.874Z,171415948187400
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:24:40.337Z,171415948033700
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:24:36.434Z,171415947643400
+"Flop:  [4♠, 10♣, K♥]",2024-04-26T19:24:21.423Z,171415946142300
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:24:20.570Z,171415946057000
+"""DEverestTrader @ btc14uqUBI"" calls 20",2024-04-26T19:24:19.578Z,171415945957800
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:24:13.358Z,171415945335800
+"""7güevos @ w9IAYKKvBy"" calls 20",2024-04-26T19:24:12.541Z,171415945254100
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:24:09.508Z,171415944950800
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:24:04.468Z,171415944446800
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 20",2024-04-26T19:23:57.400Z,171415943740000
+"""Zerevo @ XucQQZoQF7"" folds",2024-04-26T19:23:56.232Z,171415943623200
+"""LuckyMan243432 @ IecvKAjGxS"" posts a big blind of 20",2024-04-26T19:23:50.265Z,171415943026511
+"""DEverestTrader @ btc14uqUBI"" posts a small blind of 10",2024-04-26T19:23:50.265Z,171415943026510
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (920) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1570) | #4 ""7güevos @ w9IAYKKvBy"" (940) | #5 ""Nutter Butter @ laT36LjhgF"" (970) | #6 ""DEverestTrader @ btc14uqUBI"" (900) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (700) | #8 ""Zerevo @ XucQQZoQF7"" (1000)",2024-04-26T19:23:50.265Z,171415943026501
+"-- starting hand #3 (id: cosfgdvj0qgc)  (No Limit Texas Hold'em) (dealer: ""Nutter Butter @ laT36LjhgF"") --",2024-04-26T19:23:50.265Z,171415943026500
+"""Zerevo @ XucQQZoQF7"" shows a A♠, 4♦.",2024-04-26T19:23:46.861Z,171415942686100
+"""DEverestTrader @ btc14uqUBI"" shows a 8♥, 6♠.",2024-04-26T19:23:44.976Z,171415942497600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 9♣, 5♦.",2024-04-26T19:23:44.462Z,171415942446200
+"-- ending hand #2 --",2024-04-26T19:23:42.697Z,171415942269702
+"""Abdulcryptofx @ ipblIB7ofh"" collected 950 from pot with Straight, 10 High (combination: 10♥, 9♦, 8♦, 7♠, 6♦)",2024-04-26T19:23:42.697Z,171415942269701
+"""Abdulcryptofx @ ipblIB7ofh"" shows a 2♥, 9♦.",2024-04-26T19:23:42.697Z,171415942269700
+"""LuckyMan243432 @ IecvKAjGxS"" calls 260",2024-04-26T19:23:41.868Z,171415942186800
+"""DEverestTrader @ btc14uqUBI"" calls 260",2024-04-26T19:23:39.125Z,171415941912500
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:23:32.194Z,171415941219400
+"""Abdulcryptofx @ ipblIB7ofh"" raises to 260",2024-04-26T19:23:30.185Z,171415941018500
+"""LuckyMan243432 @ IecvKAjGxS"" raises to 100",2024-04-26T19:23:19.627Z,171415939962700
+"""DEverestTrader @ btc14uqUBI"" bets 20",2024-04-26T19:23:14.110Z,171415939411000
+"River: 10♥, 7♠, 6♦, 3♦ [8♦]",2024-04-26T19:23:11.873Z,171415939187300
+"""7güevos @ w9IAYKKvBy"" calls 20",2024-04-26T19:23:11.070Z,171415939107000
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:23:05.909Z,171415938590900
+"""LuckyMan243432 @ IecvKAjGxS"" calls 20",2024-04-26T19:23:02.395Z,171415938239500
+"""DEverestTrader @ btc14uqUBI"" bets 20",2024-04-26T19:22:59.376Z,171415937937600
+"Turn: 10♥, 7♠, 6♦ [3♦]",2024-04-26T19:22:56.440Z,171415937644000
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:22:55.635Z,171415937563500
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:22:53.353Z,171415937335300
+"""LuckyMan243432 @ IecvKAjGxS"" checks",2024-04-26T19:22:49.406Z,171415936940600
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:22:47.444Z,171415936744400
+"Flop:  [10♥, 7♠, 6♦]",2024-04-26T19:22:43.868Z,171415936386800
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:22:43.030Z,171415936303000
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:22:41.867Z,171415936186700
+"""7güevos @ w9IAYKKvBy"" calls 20",2024-04-26T19:22:26.018Z,171415934601800
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:22:17.396Z,171415933739600
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:22:16.256Z,171415933625600
+"""Kester Okenya🌟 @ JNBa1WUmVp"" folds",2024-04-26T19:22:12.449Z,171415933244900
+"""Zerevo @ XucQQZoQF7"" folds",2024-04-26T19:22:11.032Z,171415933103200
+"""LuckyMan243432 @ IecvKAjGxS"" calls 20",2024-04-26T19:22:10.218Z,171415933021800
+"""DEverestTrader @ btc14uqUBI"" posts a big blind of 20",2024-04-26T19:22:06.972Z,171415932697211
+"""Nutter Butter @ laT36LjhgF"" posts a small blind of 10",2024-04-26T19:22:06.972Z,171415932697210
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (920) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (920) | #4 ""7güevos @ w9IAYKKvBy"" (980) | #5 ""Nutter Butter @ laT36LjhgF"" (980) | #6 ""DEverestTrader @ btc14uqUBI"" (1200) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (1000) | #8 ""Zerevo @ XucQQZoQF7"" (1000)",2024-04-26T19:22:06.972Z,171415932697201
+"-- starting hand #2 (id: ixcvngzh5h6t)  (No Limit Texas Hold'em) (dealer: ""7güevos @ w9IAYKKvBy"") --",2024-04-26T19:22:06.972Z,171415932697200
+"-- ending hand #1 --",2024-04-26T19:22:00.958Z,171415932095803
+"""Kester Okenya🌟 @ JNBa1WUmVp"" shows a 6♥, K♣.",2024-04-26T19:22:00.958Z,171415932095802
+"""DEverestTrader @ btc14uqUBI"" collected 280 from pot with Pair, K's (combination: K♥, K♠, A♣, J♦, 10♦)",2024-04-26T19:22:00.958Z,171415932095801
+"""DEverestTrader @ btc14uqUBI"" shows a 10♦, K♥.",2024-04-26T19:22:00.958Z,171415932095800
+"""DEverestTrader @ btc14uqUBI"" calls 20",2024-04-26T19:22:00.133Z,171415932013300
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:21:58.983Z,171415931898300
+"""Kester Okenya🌟 @ JNBa1WUmVp"" bets 20",2024-04-26T19:21:57.167Z,171415931716700
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:21:54.635Z,171415931463500
+"River: J♦, 4♥, 5♣, K♠ [A♣]",2024-04-26T19:21:51.558Z,171415931155800
+"""DEverestTrader @ btc14uqUBI"" calls 40",2024-04-26T19:21:50.746Z,171415931074600
+"""7güevos @ w9IAYKKvBy"" folds",2024-04-26T19:21:49.549Z,171415930954900
+"""Abdulcryptofx @ ipblIB7ofh"" calls 40",2024-04-26T19:21:48.462Z,171415930846200
+"""Kester Okenya🌟 @ JNBa1WUmVp"" raises to 40",2024-04-26T19:21:44.625Z,171415930462500
+"""DEverestTrader @ btc14uqUBI"" bets 20",2024-04-26T19:21:38.966Z,171415929896600
+"""Nutter Butter @ laT36LjhgF"" folds",2024-04-26T19:21:37.133Z,171415929713300
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:21:36.324Z,171415929632400
+"Turn: J♦, 4♥, 5♣ [K♠]",2024-04-26T19:21:28.368Z,171415928836800
+"""Abdulcryptofx @ ipblIB7ofh"" checks",2024-04-26T19:21:27.559Z,171415928755900
+"""Kester Okenya🌟 @ JNBa1WUmVp"" checks",2024-04-26T19:21:26.365Z,171415928636500
+"""DEverestTrader @ btc14uqUBI"" checks",2024-04-26T19:21:25.156Z,171415928515600
+"""Nutter Butter @ laT36LjhgF"" checks",2024-04-26T19:21:20.691Z,171415928069100
+"""7güevos @ w9IAYKKvBy"" checks",2024-04-26T19:21:19.822Z,171415927982200
+"Flop:  [J♦, 4♥, 5♣]",2024-04-26T19:21:16.516Z,171415927651600
+"""Nutter Butter @ laT36LjhgF"" checks",2024-04-26T19:21:15.687Z,171415927568700
+"""7güevos @ w9IAYKKvBy"" calls 20",2024-04-26T19:20:59.839Z,171415925983900
+"""Abdulcryptofx @ ipblIB7ofh"" calls 20",2024-04-26T19:20:54.073Z,171415925407300
+"""kk_ @ WWq2ifOCX-"" folds",2024-04-26T19:20:47.934Z,171415924793400
+"""Kester Okenya🌟 @ JNBa1WUmVp"" calls 20",2024-04-26T19:20:46.933Z,171415924693300
+"""Zerevo @ XucQQZoQF7"" folds",2024-04-26T19:20:45.414Z,171415924541400
+"""LuckyMan243432 @ IecvKAjGxS"" folds",2024-04-26T19:20:29.559Z,171415922955900
+"""DEverestTrader @ btc14uqUBI"" calls 20",2024-04-26T19:20:28.612Z,171415922861200
+"""Nutter Butter @ laT36LjhgF"" posts a big blind of 20",2024-04-26T19:20:25.584Z,171415922558419
+"""7güevos @ w9IAYKKvBy"" posts a small blind of 10",2024-04-26T19:20:25.584Z,171415922558418
+"Player stacks: #1 ""Kester Okenya🌟 @ JNBa1WUmVp"" (1000) | #2 ""kk_ @ WWq2ifOCX-"" (1000) | #3 ""Abdulcryptofx @ ipblIB7ofh"" (1000) | #4 ""7güevos @ w9IAYKKvBy"" (1000) | #5 ""Nutter Butter @ laT36LjhgF"" (1000) | #6 ""DEverestTrader @ btc14uqUBI"" (1000) | #7 ""LuckyMan243432 @ IecvKAjGxS"" (1000) | #8 ""Zerevo @ XucQQZoQF7"" (1000)",2024-04-26T19:20:25.584Z,171415922558409
+"The player ""Zerevo @ XucQQZoQF7"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558408
+"The player ""LuckyMan243432 @ IecvKAjGxS"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558407
+"The player ""DEverestTrader @ btc14uqUBI"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558406
+"The player ""Nutter Butter @ laT36LjhgF"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558405
+"The player ""7güevos @ w9IAYKKvBy"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558404
+"The player ""Abdulcryptofx @ ipblIB7ofh"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558403
+"The player ""kk_ @ WWq2ifOCX-"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558402
+"The player ""Kester Okenya🌟 @ JNBa1WUmVp"" joined the game with a stack of 1000.",2024-04-26T19:20:25.584Z,171415922558401
+"-- starting hand #1 (id: pxjz19kudz7e)  (No Limit Texas Hold'em) (dealer: ""Abdulcryptofx @ ipblIB7ofh"") --",2024-04-26T19:20:25.584Z,171415922558400

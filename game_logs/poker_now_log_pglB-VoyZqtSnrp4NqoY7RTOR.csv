@@ -1,0 +1,578 @@
+entry,at,order
+"The player ""Til-Ted Uphill @ 9XVJnr5eQi"" quits the game with a stack of 8000.",2024-04-26T20:27:32.552Z,171416325255200
+"The player ""tenten1010 @ 7bT8XwIUWr"" quits the game with a stack of 0.",2024-04-26T20:22:08.036Z,171416292803600
+"-- ending hand #24 --",2024-04-26T20:22:01.962Z,171416292196201
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 2048 from pot with Pair, 9's (combination: 9♠, 9♣, A♦, J♥, 10♠)",2024-04-26T20:22:01.962Z,171416292196200
+"River: 9♣, 10♠, 7♣, 3♥ [A♦]",2024-04-26T20:21:57.951Z,171416291795100
+"Turn: 9♣, 10♠, 7♣ [3♥]",2024-04-26T20:21:53.907Z,171416291390700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a 9♠, J♥.",2024-04-26T20:21:49.895Z,171416290989501
+"""tenten1010 @ 7bT8XwIUWr"" shows a 2♣, 8♣.",2024-04-26T20:21:49.895Z,171416290989500
+"""tenten1010 @ 7bT8XwIUWr"" calls 874 and go all in",2024-04-26T20:21:49.077Z,171416290907700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 874",2024-04-26T20:21:46.800Z,171416290680000
+"""tenten1010 @ 7bT8XwIUWr"" bets 150",2024-04-26T20:21:43.965Z,171416290396500
+"Flop:  [9♣, 10♠, 7♣]",2024-04-26T20:21:40.585Z,171416290058500
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:21:39.748Z,171416289974800
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 150",2024-04-26T20:21:35.425Z,171416289542500
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 150",2024-04-26T20:21:32.384Z,171416289238407
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 75",2024-04-26T20:21:32.384Z,171416289238406
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1024) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6976)",2024-04-26T20:21:32.384Z,171416289238403
+"-- starting hand #24 (id: aoa86h6sfdlp)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:21:32.384Z,171416289238402
+"The game's big blind was changed from 100 to 150.",2024-04-26T20:21:32.384Z,171416289238401
+"The game's small blind was changed from 50 to 75.",2024-04-26T20:21:32.384Z,171416289238400
+"-- ending hand #23 --",2024-04-26T20:21:29.471Z,171416288947102
+"""tenten1010 @ 7bT8XwIUWr"" collected 200 from pot",2024-04-26T20:21:29.471Z,171416288947101
+"Uncalled bet of 100 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T20:21:29.471Z,171416288947100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:21:28.662Z,171416288866200
+"""tenten1010 @ 7bT8XwIUWr"" bets 100",2024-04-26T20:21:27.477Z,171416288747700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:21:24.744Z,171416288474400
+"Flop:  [10♦, K♣, 10♣]",2024-04-26T20:21:20.867Z,171416288086700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:21:20.010Z,171416288001000
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T20:21:17.076Z,171416287707600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 100",2024-04-26T20:21:15.311Z,171416287531105
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T20:21:15.311Z,171416287531104
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (924) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (7076)",2024-04-26T20:21:15.311Z,171416287531101
+"-- starting hand #23 (id: q0gxad1u4upk)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T20:21:15.311Z,171416287531100
+"-- ending hand #22 --",2024-04-26T20:21:12.368Z,171416287236802
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 200 from pot",2024-04-26T20:21:12.368Z,171416287236801
+"Uncalled bet of 150 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:21:12.368Z,171416287236800
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:21:11.515Z,171416287151500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" bets 150",2024-04-26T20:21:08.760Z,171416286876000
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:21:05.961Z,171416286596100
+"Turn: Q♠, A♣, Q♣ [3♣]",2024-04-26T20:21:04.174Z,171416286417400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:21:03.358Z,171416286335800
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:21:00.955Z,171416286095500
+"Flop:  [Q♠, A♣, Q♣]",2024-04-26T20:20:52.497Z,171416285249700
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:20:51.676Z,171416285167600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 100",2024-04-26T20:20:49.945Z,171416284994500
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T20:20:47.050Z,171416284705005
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 50",2024-04-26T20:20:47.050Z,171416284705004
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1024) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6976)",2024-04-26T20:20:47.050Z,171416284705001
+"-- starting hand #22 (id: e1yiicx1eqh6)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:20:47.050Z,171416284705000
+"""tenten1010 @ 7bT8XwIUWr"" shows a Q♣, 4♥.",2024-04-26T20:20:44.957Z,171416284495700
+"-- ending hand #21 --",2024-04-26T20:20:43.444Z,171416284344402
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 400 from pot",2024-04-26T20:20:43.444Z,171416284344401
+"Uncalled bet of 300 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:20:43.444Z,171416284344400
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:20:42.632Z,171416284263200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" bets 300",2024-04-26T20:20:38.438Z,171416283843800
+"Turn: K♣, 6♣, 8♣ [J♦]",2024-04-26T20:20:34.780Z,171416283478000
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T20:20:33.957Z,171416283395700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" bets 100",2024-04-26T20:20:32.700Z,171416283270000
+"Flop:  [K♣, 6♣, 8♣]",2024-04-26T20:20:29.139Z,171416282913900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:20:28.256Z,171416282825600
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T20:20:26.475Z,171416282647500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 100",2024-04-26T20:20:23.554Z,171416282355405
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T20:20:23.554Z,171416282355404
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1224) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6776)",2024-04-26T20:20:23.554Z,171416282355401
+"-- starting hand #21 (id: 7fg96aeilx6c)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T20:20:23.554Z,171416282355400
+"""tenten1010 @ 7bT8XwIUWr"" shows a 3♠, 7♦.",2024-04-26T20:20:20.954Z,171416282095400
+"-- ending hand #20 --",2024-04-26T20:20:19.933Z,171416281993302
+"""tenten1010 @ 7bT8XwIUWr"" collected 200 from pot",2024-04-26T20:20:19.933Z,171416281993301
+"Uncalled bet of 100 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T20:20:19.933Z,171416281993300
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:20:19.117Z,171416281911700
+"""tenten1010 @ 7bT8XwIUWr"" bets 100",2024-04-26T20:20:17.316Z,171416281731600
+"Turn: 9♣, 8♣, 6♥ [5♦]",2024-04-26T20:20:15.534Z,171416281553400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:20:14.704Z,171416281470400
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:20:12.474Z,171416281247400
+"Flop:  [9♣, 8♣, 6♥]",2024-04-26T20:20:09.212Z,171416280921200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:20:08.396Z,171416280839600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 100",2024-04-26T20:20:06.901Z,171416280690100
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T20:20:04.935Z,171416280493506
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 50",2024-04-26T20:20:04.935Z,171416280493505
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1124) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6876)",2024-04-26T20:20:04.935Z,171416280493502
+"-- starting hand #20 (id: fmfpothlgckx)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:20:04.935Z,171416280493501
+"The player ""Veyebr104 @ 4DRg3NH-lF"" quits the game with a stack of 0.",2024-04-26T20:20:04.935Z,171416280493500
+"""tenten1010 @ 7bT8XwIUWr"" shows a 4♠, 2♥.",2024-04-26T20:19:59.412Z,171416279941200
+"-- ending hand #19 --",2024-04-26T20:19:58.401Z,171416279840101
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 1410 from pot with Two Pair, A's & 2's (combination: A♥, A♦, 2♠, 2♦, J♥)",2024-04-26T20:19:58.401Z,171416279840100
+"River: A♦, 2♠, 3♠, J♥ [2♦]",2024-04-26T20:19:54.321Z,171416279432100
+"Turn: A♦, 2♠, 3♠ [J♥]",2024-04-26T20:19:50.315Z,171416279031500
+"Flop:  [A♦, 2♠, 3♠]",2024-04-26T20:19:46.311Z,171416278631100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a A♥, 9♣.",2024-04-26T20:19:42.274Z,171416278227401
+"""Veyebr104 @ 4DRg3NH-lF"" shows a 7♠, Q♥.",2024-04-26T20:19:42.274Z,171416278227400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 705",2024-04-26T20:19:41.436Z,171416278143600
+"""Veyebr104 @ 4DRg3NH-lF"" raises to 705 and go all in",2024-04-26T20:19:37.562Z,171416277756200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:19:34.477Z,171416277447700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 100",2024-04-26T20:19:32.485Z,171416277248506
+"""Veyebr104 @ 4DRg3NH-lF"" posts a small blind of 50",2024-04-26T20:19:32.485Z,171416277248505
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1124) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (705) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6171)",2024-04-26T20:19:32.485Z,171416277248501
+"-- starting hand #19 (id: bzj9mqdgsptq)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T20:19:32.485Z,171416277248500
+"""Veyebr104 @ 4DRg3NH-lF"" shows a 6♥, 8♠.",2024-04-26T20:19:29.237Z,171416276923700
+"-- ending hand #18 --",2024-04-26T20:19:28.883Z,171416276888302
+"""Veyebr104 @ 4DRg3NH-lF"" collected 100 from pot",2024-04-26T20:19:28.883Z,171416276888301
+"Uncalled bet of 50 returned to ""Veyebr104 @ 4DRg3NH-lF""",2024-04-26T20:19:28.883Z,171416276888300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:19:28.077Z,171416276807700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:19:25.681Z,171416276568100
+"""Veyebr104 @ 4DRg3NH-lF"" posts a big blind of 100",2024-04-26T20:19:23.671Z,171416276367106
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T20:19:23.671Z,171416276367105
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1174) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (655) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (6171)",2024-04-26T20:19:23.671Z,171416276367101
+"-- starting hand #18 (id: 1a9qfyne9qcm)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:19:23.671Z,171416276367100
+"-- ending hand #17 --",2024-04-26T20:19:20.746Z,171416276074602
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 750 from pot",2024-04-26T20:19:20.746Z,171416276074601
+"Uncalled bet of 655 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:19:20.746Z,171416276074600
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:19:19.921Z,171416275992100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" bets 655",2024-04-26T20:19:17.887Z,171416275788700
+"River: K♥, 6♠, 9♠, 7♠ [5♠]",2024-04-26T20:19:12.226Z,171416275222600
+"""Veyebr104 @ 4DRg3NH-lF"" checks",2024-04-26T20:19:11.399Z,171416275139900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:19:10.498Z,171416275049800
+"Turn: K♥, 6♠, 9♠ [7♠]",2024-04-26T20:19:06.363Z,171416274636300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:19:05.539Z,171416274553900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 225",2024-04-26T20:19:04.336Z,171416274433600
+"""Veyebr104 @ 4DRg3NH-lF"" bets 225",2024-04-26T20:19:00.380Z,171416274038000
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:18:56.257Z,171416273625700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:18:55.238Z,171416273523800
+"Flop:  [K♥, 6♠, 9♠]",2024-04-26T20:18:52.527Z,171416273252700
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:18:51.716Z,171416273171600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 100",2024-04-26T20:18:49.566Z,171416272956600
+"""Veyebr104 @ 4DRg3NH-lF"" calls 100",2024-04-26T20:18:47.976Z,171416272797600
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T20:18:37.742Z,171416271774207
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 50",2024-04-26T20:18:37.742Z,171416271774206
+"Player stacks: #4 ""tenten1010 @ 7bT8XwIUWr"" (1274) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (980) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (5746)",2024-04-26T20:18:37.742Z,171416271774202
+"-- starting hand #17 (id: kpj7kxrdsyme)  (No Limit Texas Hold'em) (dealer: ""Veyebr104 @ 4DRg3NH-lF"") --",2024-04-26T20:18:37.742Z,171416271774201
+"The player ""tom dwan ooooo @ wXP3Rvt2Yz"" quits the game with a stack of 0.",2024-04-26T20:18:37.742Z,171416271774200
+"-- ending hand #16 --",2024-04-26T20:18:31.740Z,171416271174001
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 4256 from pot with Two Pair, K's & J's (combination: K♥, K♦, J♣, J♠, 8♥)",2024-04-26T20:18:31.740Z,171416271174000
+"River: J♣, 6♦, J♠, K♥ [K♦]",2024-04-26T20:18:27.685Z,171416270768500
+"Turn: J♣, 6♦, J♠ [K♥]",2024-04-26T20:18:23.683Z,171416270368300
+"Flop:  [J♣, 6♦, J♠]",2024-04-26T20:18:19.645Z,171416269964500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a 8♥, 8♦.",2024-04-26T20:18:15.632Z,171416269563201
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 7♦, 3♠.",2024-04-26T20:18:15.632Z,171416269563200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 2103",2024-04-26T20:18:14.806Z,171416269480600
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:18:13.848Z,171416269384800
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:18:04.716Z,171416268471600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 2103 and go all in",2024-04-26T20:18:02.903Z,171416268290300
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 100",2024-04-26T20:17:58.970Z,171416267897008
+"""Veyebr104 @ 4DRg3NH-lF"" posts a small blind of 50",2024-04-26T20:17:58.970Z,171416267897007
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2103) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1274) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1030) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (3593)",2024-04-26T20:17:58.970Z,171416267897002
+"-- starting hand #16 (id: qmvukam9etby)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T20:17:58.970Z,171416267897001
+"The player ""!Neon10 @ 7cTV432CiQ"" quits the game with a stack of 0.",2024-04-26T20:17:58.970Z,171416267897000
+"-- ending hand #15 --",2024-04-26T20:17:52.949Z,171416267294901
+"""tom dwan ooooo @ wXP3Rvt2Yz"" collected 1242 from pot with Two Pair, A's & 7's (combination: A♣, A♥, 7♠, 7♣, K♠)",2024-04-26T20:17:52.949Z,171416267294900
+"River: K♠, Q♣, 10♠, A♥ [7♣]",2024-04-26T20:17:48.918Z,171416266891800
+"Turn: K♠, Q♣, 10♠ [A♥]",2024-04-26T20:17:44.899Z,171416266489900
+"Flop:  [K♠, Q♣, 10♠]",2024-04-26T20:17:40.892Z,171416266089200
+"""!Neon10 @ 7cTV432CiQ"" shows a 2♣, 2♦.",2024-04-26T20:17:36.864Z,171416265686402
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 7♠, A♣.",2024-04-26T20:17:36.864Z,171416265686401
+"Uncalled bet of 778 returned to ""tom dwan ooooo @ wXP3Rvt2Yz""",2024-04-26T20:17:36.864Z,171416265686400
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:17:36.008Z,171416265600800
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:17:30.807Z,171416265080700
+"""!Neon10 @ 7cTV432CiQ"" calls 546 and go all in",2024-04-26T20:17:28.351Z,171416264835100
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 1324",2024-04-26T20:17:24.507Z,171416264450700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:17:20.678Z,171416264067800
+"""Veyebr104 @ 4DRg3NH-lF"" posts a big blind of 100",2024-04-26T20:17:18.484Z,171416263848408
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T20:17:18.484Z,171416263848407
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1407) | #2 ""!Neon10 @ 7cTV432CiQ"" (546) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1324) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1130) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (3593)",2024-04-26T20:17:18.484Z,171416263848401
+"-- starting hand #15 (id: 3wcsiigvctga)  (No Limit Texas Hold'em) (dealer: ""!Neon10 @ 7cTV432CiQ"") --",2024-04-26T20:17:18.484Z,171416263848400
+"-- ending hand #14 --",2024-04-26T20:17:12.424Z,171416263242401
+"""tenten1010 @ 7bT8XwIUWr"" collected 1324 from pot with Two Pair, A's & 5's (combination: A♦, A♥, 5♣, 5♥, K♥)",2024-04-26T20:17:12.424Z,171416263242400
+"River: 5♣, K♥, 3♠, Q♣ [5♥]",2024-04-26T20:17:08.417Z,171416262841700
+"Turn: 5♣, K♥, 3♠ [Q♣]",2024-04-26T20:17:04.409Z,171416262440900
+"Flop:  [5♣, K♥, 3♠]",2024-04-26T20:17:00.319Z,171416262031900
+"""tenten1010 @ 7bT8XwIUWr"" shows a A♦, A♥.",2024-04-26T20:16:56.257Z,171416261625702
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 6♣, Q♠.",2024-04-26T20:16:56.257Z,171416261625701
+"Uncalled bet of 793 returned to ""tom dwan ooooo @ wXP3Rvt2Yz""",2024-04-26T20:16:56.257Z,171416261625700
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:16:55.407Z,171416261540700
+"""tenten1010 @ 7bT8XwIUWr"" calls 537 and go all in",2024-04-26T20:16:49.596Z,171416260959600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 1330",2024-04-26T20:16:47.846Z,171416260784600
+"""Veyebr104 @ 4DRg3NH-lF"" calls 200",2024-04-26T20:16:43.714Z,171416260371400
+"""tenten1010 @ 7bT8XwIUWr"" raises to 200",2024-04-26T20:16:41.515Z,171416260151500
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:16:36.514Z,171416259651400
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 100",2024-04-26T20:16:32.246Z,171416259224600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:16:30.982Z,171416259098200
+"""Veyebr104 @ 4DRg3NH-lF"" calls 100",2024-04-26T20:16:29.762Z,171416258976200
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T20:16:25.102Z,171416258510211
+"""!Neon10 @ 7cTV432CiQ"" posts a small blind of 50",2024-04-26T20:16:25.102Z,171416258510210
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1944) | #2 ""!Neon10 @ 7cTV432CiQ"" (596) | #4 ""tenten1010 @ 7bT8XwIUWr"" (537) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1330) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (3593)",2024-04-26T20:16:25.102Z,171416258510204
+"-- starting hand #14 (id: rld9jesj0oei)  (No Limit Texas Hold'em) (dealer: ""tom dwan ooooo @ wXP3Rvt2Yz"") --",2024-04-26T20:16:25.102Z,171416258510203
+"The game's big blind was changed from 60 to 100.",2024-04-26T20:16:25.102Z,171416258510202
+"The game's small blind was changed from 30 to 50.",2024-04-26T20:16:25.102Z,171416258510201
+"The player ""jblvn @ D7EZCpTbav"" quits the game with a stack of 0.",2024-04-26T20:16:25.102Z,171416258510200
+"-- ending hand #13 --",2024-04-26T20:16:19.090Z,171416257909001
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 2924 from pot with Full House, A's over 6's (combination: A♣, A♠, A♥, 6♥, 6♣, 6♦)",2024-04-26T20:16:19.090Z,171416257909000
+"River: K♦, 6♥, A♥, 6♣ [6♦]",2024-04-26T20:16:15.054Z,171416257505400
+"Turn: K♦, 6♥, A♥ [6♣]",2024-04-26T20:16:11.035Z,171416257103500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a A♣, A♠.",2024-04-26T20:16:07.032Z,171416256703202
+"""jblvn @ D7EZCpTbav"" shows a K♥, J♠.",2024-04-26T20:16:07.032Z,171416256703201
+"Uncalled bet of 669 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:16:07.032Z,171416256703200
+"""jblvn @ D7EZCpTbav"" calls 788 and go all in",2024-04-26T20:16:06.228Z,171416256622800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:16:05.244Z,171416256524400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 1457 and go all in",2024-04-26T20:16:03.986Z,171416256398600
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:15:59.796Z,171416255979600
+"""jblvn @ D7EZCpTbav"" bets 674",2024-04-26T20:15:57.619Z,171416255761900
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:15:52.834Z,171416255283400
+"Flop:  [K♦, 6♥, A♥]",2024-04-26T20:15:49.121Z,171416254912100
+"""tenten1010 @ 7bT8XwIUWr"" calls 322",2024-04-26T20:15:48.278Z,171416254827800
+"""jblvn @ D7EZCpTbav"" calls 322",2024-04-26T20:15:43.496Z,171416254349600
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:15:42.588Z,171416254258800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 322",2024-04-26T20:15:41.490Z,171416254149000
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 322",2024-04-26T20:15:37.296Z,171416253729600
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:15:32.750Z,171416253275000
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T20:15:31.820Z,171416253182000
+"""jblvn @ D7EZCpTbav"" calls 60",2024-04-26T20:15:30.498Z,171416253049800
+"""!Neon10 @ 7cTV432CiQ"" posts a big blind of 60",2024-04-26T20:15:26.697Z,171416252669709
+"""tom dwan ooooo @ wXP3Rvt2Yz"" posts a small blind of 30",2024-04-26T20:15:26.697Z,171416252669708
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2266) | #2 ""!Neon10 @ 7cTV432CiQ"" (656) | #3 ""jblvn @ D7EZCpTbav"" (1110) | #4 ""tenten1010 @ 7bT8XwIUWr"" (859) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1330) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (1779)",2024-04-26T20:15:26.697Z,171416252669701
+"-- starting hand #13 (id: ogaisd1kt9kz)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:15:26.697Z,171416252669700
+"-- ending hand #12 --",2024-04-26T20:15:23.764Z,171416252376402
+"""tom dwan ooooo @ wXP3Rvt2Yz"" collected 300 from pot",2024-04-26T20:15:23.764Z,171416252376401
+"Uncalled bet of 1779 returned to ""tom dwan ooooo @ wXP3Rvt2Yz""",2024-04-26T20:15:23.764Z,171416252376400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:15:22.932Z,171416252293200
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:15:17.245Z,171416251724500
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:15:13.466Z,171416251346600
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:15:08.483Z,171416250848300
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 1839",2024-04-26T20:15:01.333Z,171416250133300
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 60",2024-04-26T20:14:56.287Z,171416249628700
+"""Veyebr104 @ 4DRg3NH-lF"" calls 60",2024-04-26T20:14:53.302Z,171416249330200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:14:50.499Z,171416249049900
+"""jblvn @ D7EZCpTbav"" calls 60",2024-04-26T20:14:49.509Z,171416248950900
+"""!Neon10 @ 7cTV432CiQ"" calls 60",2024-04-26T20:14:48.619Z,171416248861900
+"""tom dwan ooooo @ wXP3Rvt2Yz"" posts a big blind of 60",2024-04-26T20:14:42.824Z,171416248282409
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 30",2024-04-26T20:14:42.824Z,171416248282408
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2026) | #2 ""!Neon10 @ 7cTV432CiQ"" (716) | #3 ""jblvn @ D7EZCpTbav"" (1170) | #4 ""tenten1010 @ 7bT8XwIUWr"" (859) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1390) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (1839)",2024-04-26T20:14:42.824Z,171416248282401
+"-- starting hand #12 (id: oglngzkyssin)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T20:14:42.824Z,171416248282400
+"-- ending hand #11 --",2024-04-26T20:14:39.903Z,171416247990302
+"""Veyebr104 @ 4DRg3NH-lF"" collected 480 from pot",2024-04-26T20:14:39.903Z,171416247990301
+"Uncalled bet of 360 returned to ""Veyebr104 @ 4DRg3NH-lF""",2024-04-26T20:14:39.903Z,171416247990300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:14:39.036Z,171416247903600
+"""Veyebr104 @ 4DRg3NH-lF"" bets 360",2024-04-26T20:14:37.122Z,171416247712200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:14:29.195Z,171416246919500
+"Turn: 9♠, 10♦, Q♠ [8♦]",2024-04-26T20:14:27.489Z,171416246748900
+"""tenten1010 @ 7bT8XwIUWr"" calls 120",2024-04-26T20:14:26.676Z,171416246667600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:14:24.472Z,171416246447200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:14:21.241Z,171416246124100
+"""Veyebr104 @ 4DRg3NH-lF"" bets 120",2024-04-26T20:14:19.455Z,171416245945500
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:14:17.317Z,171416245731700
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:14:09.201Z,171416244920100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:14:06.703Z,171416244670300
+"Flop:  [9♠, 10♦, Q♠]",2024-04-26T20:14:04.703Z,171416244470300
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:14:03.876Z,171416244387600
+"""Veyebr104 @ 4DRg3NH-lF"" calls 60",2024-04-26T20:14:01.531Z,171416244153100
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T20:13:54.476Z,171416243447600
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:13:51.452Z,171416243145200
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:13:43.499Z,171416242349900
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 60",2024-04-26T20:13:34.388Z,171416241438800
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 60",2024-04-26T20:13:32.118Z,171416241211810
+"Dead Small Blind",2024-04-26T20:13:32.118Z,171416241211809
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2086) | #2 ""!Neon10 @ 7cTV432CiQ"" (716) | #3 ""jblvn @ D7EZCpTbav"" (1170) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1039) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1090) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (1899)",2024-04-26T20:13:32.118Z,171416241211802
+"-- starting hand #11 (id: 1wx3hnqvgpud)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T20:13:32.118Z,171416241211801
+"The player ""vc02 @ DiwHfv5G2T"" quits the game with a stack of 0.",2024-04-26T20:13:32.118Z,171416241211800
+"-- ending hand #10 --",2024-04-26T20:13:26.110Z,171416240611001
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 1750 from pot with Two Pair, K's & J's (combination: K♦, K♣, J♣, J♠, Q♦)",2024-04-26T20:13:26.110Z,171416240611000
+"River: Q♦, 5♣, K♣, J♠ [6♣]",2024-04-26T20:13:22.072Z,171416240207200
+"Turn: Q♦, 5♣, K♣ [J♠]",2024-04-26T20:13:18.067Z,171416239806700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a K♦, J♣.",2024-04-26T20:13:14.059Z,171416239405902
+"""vc02 @ DiwHfv5G2T"" shows a 8♥, K♠.",2024-04-26T20:13:14.059Z,171416239405901
+"Uncalled bet of 149 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:13:14.059Z,171416239405900
+"""vc02 @ DiwHfv5G2T"" calls 590 and go all in",2024-04-26T20:13:13.245Z,171416239324500
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:13:12.116Z,171416239211600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 739 and go all in",2024-04-26T20:13:09.847Z,171416238984700
+"""vc02 @ DiwHfv5G2T"" raises to 480",2024-04-26T20:13:06.893Z,171416238689300
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:12:52.614Z,171416237261400
+"""tenten1010 @ 7bT8XwIUWr"" calls 270",2024-04-26T20:12:51.675Z,171416237167500
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:12:39.511Z,171416235951100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 270",2024-04-26T20:12:36.266Z,171416235626600
+"""vc02 @ DiwHfv5G2T"" bets 60",2024-04-26T20:12:29.084Z,171416234908400
+"Flop:  [Q♦, 5♣, K♣]",2024-04-26T20:12:25.564Z,171416234556400
+"""vc02 @ DiwHfv5G2T"" checks",2024-04-26T20:12:24.722Z,171416234472200
+"""Veyebr104 @ 4DRg3NH-lF"" calls 60",2024-04-26T20:12:21.393Z,171416234139300
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T20:12:18.636Z,171416233863600
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:12:17.158Z,171416233715800
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:12:16.176Z,171416233617600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 60",2024-04-26T20:12:14.961Z,171416233496100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 60",2024-04-26T20:12:13.528Z,171416233352800
+"""vc02 @ DiwHfv5G2T"" posts a big blind of 60",2024-04-26T20:12:10.422Z,171416233042211
+"Dead Small Blind",2024-04-26T20:12:10.422Z,171416233042210
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2146) | #2 ""!Neon10 @ 7cTV432CiQ"" (716) | #3 ""jblvn @ D7EZCpTbav"" (1170) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1369) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1150) | #7 ""vc02 @ DiwHfv5G2T"" (650) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (799)",2024-04-26T20:12:10.422Z,171416233042202
+"-- starting hand #10 (id: wpuf5bscfp8i)  (No Limit Texas Hold'em) (dealer: ""Veyebr104 @ 4DRg3NH-lF"") --",2024-04-26T20:12:10.422Z,171416233042201
+"The player ""Ekingz1 @ m3OcsLhCIV"" quits the game with a stack of 0.",2024-04-26T20:12:10.422Z,171416233042200
+"-- ending hand #9 --",2024-04-26T20:12:04.419Z,171416232441902
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 453 from pot with Two Pair, A's & 7's (combination: A♦, A♥, 7♣, 7♥, Q♠)",2024-04-26T20:12:04.419Z,171416232441901
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 346 from pot with Two Pair, A's & 7's (combination: A♦, A♥, 7♣, 7♥, Q♠)",2024-04-26T20:12:04.419Z,171416232441900
+"River: 7♣, 7♥, 2♥, 6♦ [A♥]",2024-04-26T20:12:00.386Z,171416232038600
+"Turn: 7♣, 7♥, 2♥ [6♦]",2024-04-26T20:11:56.325Z,171416231632500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a A♦, Q♠.",2024-04-26T20:11:52.277Z,171416231227703
+"""Ekingz1 @ m3OcsLhCIV"" shows a 9♣, 4♣.",2024-04-26T20:11:52.277Z,171416231227702
+"""jblvn @ D7EZCpTbav"" shows a 3♣, 3♦.",2024-04-26T20:11:52.277Z,171416231227701
+"Uncalled bet of 599 returned to ""jblvn @ D7EZCpTbav""",2024-04-26T20:11:52.277Z,171416231227700
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:11:51.435Z,171416231143500
+"""jblvn @ D7EZCpTbav"" bets 599",2024-04-26T20:11:47.675Z,171416230767500
+"""!Neon10 @ 7cTV432CiQ"" checks",2024-04-26T20:11:37.687Z,171416229768700
+"Flop:  [7♣, 7♥, 2♥]",2024-04-26T20:11:34.042Z,171416229404200
+"""Ekingz1 @ m3OcsLhCIV"" calls 79 and go all in",2024-04-26T20:11:33.209Z,171416229320900
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:11:32.065Z,171416229206500
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:11:28.309Z,171416228830900
+"""jblvn @ D7EZCpTbav"" calls 230",2024-04-26T20:11:27.125Z,171416228712500
+"""!Neon10 @ 7cTV432CiQ"" calls 230",2024-04-26T20:11:24.330Z,171416228433000
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:11:20.869Z,171416228086900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 230 and go all in",2024-04-26T20:11:18.885Z,171416227888500
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:11:16.075Z,171416227607500
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 60",2024-04-26T20:11:11.204Z,171416227120413
+"""Veyebr104 @ 4DRg3NH-lF"" posts a small blind of 30",2024-04-26T20:11:11.204Z,171416227120412
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2146) | #2 ""!Neon10 @ 7cTV432CiQ"" (946) | #3 ""jblvn @ D7EZCpTbav"" (1400) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1369) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1180) | #6 ""Ekingz1 @ m3OcsLhCIV"" (79) | #7 ""vc02 @ DiwHfv5G2T"" (650) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (230)",2024-04-26T20:11:11.204Z,171416227120403
+"-- starting hand #9 (id: atkavgycs6vs)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T20:11:11.204Z,171416227120402
+"The game's big blind was changed from 40 to 60.",2024-04-26T20:11:11.204Z,171416227120401
+"The game's small blind was changed from 20 to 30.",2024-04-26T20:11:11.204Z,171416227120400
+"""Ekingz1 @ m3OcsLhCIV"" shows a 5♦, K♣.",2024-04-26T20:11:06.407Z,171416226640700
+"""tenten1010 @ 7bT8XwIUWr"" shows a 4♠, 6♥.",2024-04-26T20:11:05.956Z,171416226595600
+"-- ending hand #8 --",2024-04-26T20:11:04.192Z,171416226419201
+"""jblvn @ D7EZCpTbav"" collected 1400 from pot with Three of a Kind, 4's (combination: 4♦, 4♥, 4♣, 8♦, 6♣)",2024-04-26T20:11:04.192Z,171416226419200
+"River: 4♣, 6♣, 8♦, 2♠ [5♥]",2024-04-26T20:11:00.189Z,171416226018900
+"Turn: 4♣, 6♣, 8♦ [2♠]",2024-04-26T20:10:56.168Z,171416225616800
+"Flop:  [4♣, 6♣, 8♦]",2024-04-26T20:10:52.139Z,171416225213900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a 8♠, Q♠.",2024-04-26T20:10:48.059Z,171416224805902
+"""jblvn @ D7EZCpTbav"" shows a 4♦, 4♥.",2024-04-26T20:10:48.059Z,171416224805901
+"Uncalled bet of 230 returned to ""Til-Ted Uphill @ 9XVJnr5eQi""",2024-04-26T20:10:48.059Z,171416224805900
+"""jblvn @ D7EZCpTbav"" calls 610 and go all in",2024-04-26T20:10:47.234Z,171416224723400
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:10:45.843Z,171416224584300
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:10:38.076Z,171416223807600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 840 and go all in",2024-04-26T20:10:36.792Z,171416223679200
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:10:33.963Z,171416223396300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:10:33.038Z,171416223303800
+"""jblvn @ D7EZCpTbav"" raises to 230",2024-04-26T20:10:21.710Z,171416222171000
+"""!Neon10 @ 7cTV432CiQ"" raises to 80",2024-04-26T20:10:13.996Z,171416221399600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 40",2024-04-26T20:10:08.082Z,171416220808200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 40",2024-04-26T20:10:06.697Z,171416220669700
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:10:04.858Z,171416220485800
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-26T20:10:02.260Z,171416220226000
+"""Veyebr104 @ 4DRg3NH-lF"" posts a big blind of 40",2024-04-26T20:09:58.800Z,171416219880011
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 20",2024-04-26T20:09:58.800Z,171416219880010
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (2186) | #2 ""!Neon10 @ 7cTV432CiQ"" (1026) | #3 ""jblvn @ D7EZCpTbav"" (610) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1389) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1220) | #6 ""Ekingz1 @ m3OcsLhCIV"" (79) | #7 ""vc02 @ DiwHfv5G2T"" (650) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (840)",2024-04-26T20:09:58.800Z,171416219880001
+"-- starting hand #8 (id: 2kywxv0leupf)  (No Limit Texas Hold'em) (dealer: ""jblvn @ D7EZCpTbav"") --",2024-04-26T20:09:58.800Z,171416219880000
+"-- ending hand #7 --",2024-04-26T20:09:52.787Z,171416219278703
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♣, A♦.",2024-04-26T20:09:52.787Z,171416219278702
+"""tom dwan ooooo @ wXP3Rvt2Yz"" collected 2186 from pot with Straight, 10 High (combination: 10♠, 9♦, 8♦, 7♥, 6♣)",2024-04-26T20:09:52.787Z,171416219278701
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 7♥, 7♣.",2024-04-26T20:09:52.787Z,171416219278700
+"""Ekingz1 @ m3OcsLhCIV"" calls 873",2024-04-26T20:09:51.959Z,171416219195900
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:09:41.358Z,171416218135800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 873 and go all in",2024-04-26T20:09:33.942Z,171416217394200
+"""Ekingz1 @ m3OcsLhCIV"" bets 220",2024-04-26T20:09:30.211Z,171416217021100
+"River: 6♣, 8♦, 10♠, A♥ [9♦]",2024-04-26T20:09:20.162Z,171416216016200
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T20:09:19.326Z,171416215932600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 40",2024-04-26T20:09:16.700Z,171416215670000
+"""Ekingz1 @ m3OcsLhCIV"" bets 40",2024-04-26T20:09:14.900Z,171416215490000
+"Turn: 6♣, 8♦, 10♠ [A♥]",2024-04-26T20:09:10.230Z,171416215023000
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:09:09.393Z,171416214939300
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:09:08.070Z,171416214807000
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T20:09:06.717Z,171416214671700
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 40",2024-04-26T20:09:05.601Z,171416214560100
+"""Ekingz1 @ m3OcsLhCIV"" bets 40",2024-04-26T20:09:02.832Z,171416214283200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:08:57.476Z,171416213747600
+"""jblvn @ D7EZCpTbav"" checks",2024-04-26T20:08:45.104Z,171416212510400
+"Flop:  [6♣, 8♦, 10♠]",2024-04-26T20:08:39.226Z,171416211922600
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:08:38.383Z,171416211838300
+"""jblvn @ D7EZCpTbav"" calls 40",2024-04-26T20:08:37.098Z,171416211709800
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T20:08:36.120Z,171416211612000
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 40",2024-04-26T20:08:31.132Z,171416211113200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:08:29.798Z,171416210979800
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:08:28.918Z,171416210891800
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-26T20:08:26.756Z,171416210675600
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:08:22.245Z,171416210224500
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 40",2024-04-26T20:08:21.382Z,171416210138211
+"""jblvn @ D7EZCpTbav"" posts a small blind of 20",2024-04-26T20:08:21.382Z,171416210138210
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (993) | #2 ""!Neon10 @ 7cTV432CiQ"" (1146) | #3 ""jblvn @ D7EZCpTbav"" (650) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1429) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1220) | #6 ""Ekingz1 @ m3OcsLhCIV"" (1072) | #7 ""vc02 @ DiwHfv5G2T"" (650) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (840)",2024-04-26T20:08:21.382Z,171416210138201
+"-- starting hand #7 (id: wy297h5rfcjb)  (No Limit Texas Hold'em) (dealer: ""!Neon10 @ 7cTV432CiQ"") --",2024-04-26T20:08:21.382Z,171416210138200
+"""Veyebr104 @ 4DRg3NH-lF"" shows a 7♣, 2♠.",2024-04-26T20:08:18.290Z,171416209829000
+"""jblvn @ D7EZCpTbav"" shows a 4♦, 6♥.",2024-04-26T20:08:15.579Z,171416209557900
+"-- ending hand #6 --",2024-04-26T20:08:14.367Z,171416209436702
+"""Til-Ted Uphill @ 9XVJnr5eQi"" collected 840 from pot with Straight, 10 High (combination: 10♦, 9♦, 8♦, 7♠, 6♦)",2024-04-26T20:08:14.367Z,171416209436701
+"""Ekingz1 @ m3OcsLhCIV"" collected 840 from pot with Straight, 10 High (combination: 10♦, 9♦, 8♦, 7♠, 6♦)",2024-04-26T20:08:14.367Z,171416209436700
+"River: 9♦, 8♦, 7♠, 10♦ [6♦]",2024-04-26T20:08:10.315Z,171416209031500
+"Turn: 9♦, 8♦, 7♠ [10♦]",2024-04-26T20:08:06.307Z,171416208630700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a K♣, Q♥.",2024-04-26T20:08:02.213Z,171416208221301
+"""Ekingz1 @ m3OcsLhCIV"" shows a 5♣, 5♠.",2024-04-26T20:08:02.213Z,171416208221300
+"""Ekingz1 @ m3OcsLhCIV"" calls 510",2024-04-26T20:08:01.396Z,171416208139600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" bets 510 and go all in",2024-04-26T20:07:59.430Z,171416207943000
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:07:56.752Z,171416207675200
+"Flop:  [9♦, 8♦, 7♠]",2024-04-26T20:07:49.187Z,171416206918700
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:07:48.359Z,171416206835900
+"""Ekingz1 @ m3OcsLhCIV"" calls 260",2024-04-26T20:07:47.193Z,171416206719300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:07:44.273Z,171416206427300
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:07:43.302Z,171416206330200
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:07:40.507Z,171416206050700
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:07:36.327Z,171416205632700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 260",2024-04-26T20:07:33.867Z,171416205386700
+"""vc02 @ DiwHfv5G2T"" calls 40",2024-04-26T20:07:31.363Z,171416205136300
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-26T20:07:30.246Z,171416205024600
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:07:26.646Z,171416204664600
+"""tenten1010 @ 7bT8XwIUWr"" calls 40",2024-04-26T20:07:21.796Z,171416204179600
+"""jblvn @ D7EZCpTbav"" posts a big blind of 40",2024-04-26T20:07:19.206Z,171416203920611
+"""!Neon10 @ 7cTV432CiQ"" posts a small blind of 20",2024-04-26T20:07:19.206Z,171416203920610
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (993) | #2 ""!Neon10 @ 7cTV432CiQ"" (1166) | #3 ""jblvn @ D7EZCpTbav"" (690) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1469) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1220) | #6 ""Ekingz1 @ m3OcsLhCIV"" (1002) | #7 ""vc02 @ DiwHfv5G2T"" (690) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (770)",2024-04-26T20:07:19.206Z,171416203920601
+"-- starting hand #6 (id: bb7w15eexhjz)  (No Limit Texas Hold'em) (dealer: ""tom dwan ooooo @ wXP3Rvt2Yz"") --",2024-04-26T20:07:19.206Z,171416203920600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" shows a 2♥, 9♠.",2024-04-26T20:07:18.067Z,171416203806700
+"""vc02 @ DiwHfv5G2T"" shows a K♥, A♠.",2024-04-26T20:07:16.269Z,171416203626900
+"""tenten1010 @ 7bT8XwIUWr"" shows a K♠, A♥.",2024-04-26T20:07:12.920Z,171416203292000
+"-- ending hand #5 --",2024-04-26T20:07:11.649Z,171416203164901
+"""Ekingz1 @ m3OcsLhCIV"" collected 1002 from pot with Flush, Kc High (combination: K♣, 10♣, 8♣, 4♣, 3♣)",2024-04-26T20:07:11.649Z,171416203164900
+"River: 3♣, 5♠, 4♣, 8♣ [6♦]",2024-04-26T20:07:07.600Z,171416202760000
+"""Ekingz1 @ m3OcsLhCIV"" shows a 10♣, K♣.",2024-04-26T20:07:03.590Z,171416202359001
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 6♥, 7♦.",2024-04-26T20:07:03.590Z,171416202359000
+"""Ekingz1 @ m3OcsLhCIV"" calls 41 and go all in",2024-04-26T20:07:02.756Z,171416202275600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" bets 41",2024-04-26T20:07:00.691Z,171416202069100
+"Turn: 3♣, 5♠, 4♣ [8♣]",2024-04-26T20:06:52.274Z,171416201227400
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:06:51.448Z,171416201144800
+"""Ekingz1 @ m3OcsLhCIV"" calls 160",2024-04-26T20:06:50.277Z,171416201027700
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:06:49.075Z,171416200907500
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:06:38.828Z,171416199882800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" bets 160",2024-04-26T20:06:36.812Z,171416199681200
+"Flop:  [3♣, 5♠, 4♣]",2024-04-26T20:06:23.999Z,171416198399900
+"""!Neon10 @ 7cTV432CiQ"" calls 120",2024-04-26T20:06:23.196Z,171416198319600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 120",2024-04-26T20:06:17.379Z,171416197737900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:06:16.008Z,171416197600800
+"""vc02 @ DiwHfv5G2T"" calls 120",2024-04-26T20:06:10.367Z,171416197036700
+"""Ekingz1 @ m3OcsLhCIV"" calls 120",2024-04-26T20:06:03.239Z,171416196323900
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:06:00.683Z,171416196068300
+"""tenten1010 @ 7bT8XwIUWr"" raises to 120",2024-04-26T20:05:59.756Z,171416195975600
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:05:53.625Z,171416195362500
+"""!Neon10 @ 7cTV432CiQ"" posts a big blind of 40",2024-04-26T20:05:47.663Z,171416194766313
+"""tom dwan ooooo @ wXP3Rvt2Yz"" posts a small blind of 20",2024-04-26T20:05:47.663Z,171416194766312
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1314) | #2 ""!Neon10 @ 7cTV432CiQ"" (1286) | #3 ""jblvn @ D7EZCpTbav"" (690) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1589) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1220) | #6 ""Ekingz1 @ m3OcsLhCIV"" (321) | #7 ""vc02 @ DiwHfv5G2T"" (810) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (770)",2024-04-26T20:05:47.663Z,171416194766303
+"-- starting hand #5 (id: bnzyi0hgerdk)  (No Limit Texas Hold'em) (dealer: ""Til-Ted Uphill @ 9XVJnr5eQi"") --",2024-04-26T20:05:47.663Z,171416194766302
+"The game's big blind was changed from 20 to 40.",2024-04-26T20:05:47.663Z,171416194766301
+"The game's small blind was changed from 10 to 20.",2024-04-26T20:05:47.663Z,171416194766300
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♦, 3♠.",2024-04-26T20:05:42.596Z,171416194259600
+"-- ending hand #4 --",2024-04-26T20:05:41.110Z,171416194111002
+"""tenten1010 @ 7bT8XwIUWr"" collected 1118 from pot with Full House, 6's over 2's (combination: 6♥, 6♦, 6♠, 2♥, 2♦)",2024-04-26T20:05:41.110Z,171416194111001
+"""tenten1010 @ 7bT8XwIUWr"" shows a 6♥, 6♦.",2024-04-26T20:05:41.110Z,171416194111000
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:05:40.292Z,171416194029200
+"""Ekingz1 @ m3OcsLhCIV"" calls 159",2024-04-26T20:05:38.402Z,171416193840200
+"""tenten1010 @ 7bT8XwIUWr"" bets 159",2024-04-26T20:05:35.876Z,171416193587600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:05:28.903Z,171416192890300
+"River: 2♥, 2♦, 3♣, 8♠ [6♠]",2024-04-26T20:05:25.092Z,171416192509200
+"""tenten1010 @ 7bT8XwIUWr"" calls 20",2024-04-26T20:05:24.273Z,171416192427300
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:05:23.264Z,171416192326400
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 20",2024-04-26T20:05:20.210Z,171416192021000
+"""Ekingz1 @ m3OcsLhCIV"" bets 20",2024-04-26T20:05:17.708Z,171416191770800
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:05:14.960Z,171416191496000
+"""jblvn @ D7EZCpTbav"" checks",2024-04-26T20:05:11.988Z,171416191198800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:05:11.021Z,171416191102100
+"Turn: 2♥, 2♦, 3♣ [8♠]",2024-04-26T20:05:02.455Z,171416190245500
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:05:01.595Z,171416190159500
+"""Ekingz1 @ m3OcsLhCIV"" calls 80",2024-04-26T20:04:59.206Z,171416189920600
+"""tenten1010 @ 7bT8XwIUWr"" calls 80",2024-04-26T20:04:58.075Z,171416189807500
+"""jblvn @ D7EZCpTbav"" calls 80",2024-04-26T20:04:49.726Z,171416188972600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" bets 80",2024-04-26T20:04:40.102Z,171416188010200
+"Flop:  [2♥, 2♦, 3♣]",2024-04-26T20:04:26.926Z,171416186692600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:04:26.084Z,171416186608400
+"""vc02 @ DiwHfv5G2T"" calls 80",2024-04-26T20:04:25.043Z,171416186504300
+"""Ekingz1 @ m3OcsLhCIV"" calls 80",2024-04-26T20:04:22.590Z,171416186259000
+"""tenten1010 @ 7bT8XwIUWr"" calls 80",2024-04-26T20:04:21.357Z,171416186135700
+"""jblvn @ D7EZCpTbav"" calls 80",2024-04-26T20:04:17.590Z,171416185759000
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 80",2024-04-26T20:04:13.429Z,171416185342900
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 20",2024-04-26T20:04:07.747Z,171416184774700
+"""vc02 @ DiwHfv5G2T"" calls 20",2024-04-26T20:04:06.744Z,171416184674400
+"""Ekingz1 @ m3OcsLhCIV"" calls 20",2024-04-26T20:04:02.523Z,171416184252300
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:04:00.570Z,171416184057000
+"""tenten1010 @ 7bT8XwIUWr"" calls 20",2024-04-26T20:03:59.678Z,171416183967800
+"""jblvn @ D7EZCpTbav"" calls 20",2024-04-26T20:03:57.205Z,171416183720500
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:03:53.185Z,171416183318500
+"""tom dwan ooooo @ wXP3Rvt2Yz"" posts a big blind of 20",2024-04-26T20:03:46.442Z,171416182644211
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a small blind of 10",2024-04-26T20:03:46.442Z,171416182644210
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1494) | #2 ""!Neon10 @ 7cTV432CiQ"" (1286) | #3 ""jblvn @ D7EZCpTbav"" (850) | #4 ""tenten1010 @ 7bT8XwIUWr"" (810) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1220) | #6 ""Ekingz1 @ m3OcsLhCIV"" (660) | #7 ""vc02 @ DiwHfv5G2T"" (890) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (790)",2024-04-26T20:03:46.442Z,171416182644201
+"-- starting hand #4 (id: clbid9ctpifi)  (No Limit Texas Hold'em) (dealer: ""vc02 @ DiwHfv5G2T"") --",2024-04-26T20:03:46.442Z,171416182644200
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♣, 10♦.",2024-04-26T20:03:41.449Z,171416182144900
+"-- ending hand #3 --",2024-04-26T20:03:39.860Z,171416181986002
+"""Veyebr104 @ 4DRg3NH-lF"" collected 380 from pot with Pair, 5's (combination: 5♠, 5♥, K♠, J♠, 9♣)",2024-04-26T20:03:39.860Z,171416181986001
+"""Veyebr104 @ 4DRg3NH-lF"" shows a 5♠, K♠.",2024-04-26T20:03:39.860Z,171416181986000
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:03:39.030Z,171416181903000
+"""Veyebr104 @ 4DRg3NH-lF"" checks",2024-04-26T20:03:37.235Z,171416181723500
+"River: J♠, 9♣, 2♠, 4♣ [5♥]",2024-04-26T20:03:35.905Z,171416181590500
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:03:35.090Z,171416181509000
+"""Veyebr104 @ 4DRg3NH-lF"" checks",2024-04-26T20:03:33.203Z,171416181320300
+"Turn: J♠, 9♣, 2♠ [4♣]",2024-04-26T20:03:26.228Z,171416180622800
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:03:25.396Z,171416180539600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:03:24.518Z,171416180451800
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:03:20.228Z,171416180022800
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:03:19.265Z,171416179926500
+"""Ekingz1 @ m3OcsLhCIV"" calls 130",2024-04-26T20:03:09.511Z,171416178951100
+"""Veyebr104 @ 4DRg3NH-lF"" bets 130",2024-04-26T20:03:07.115Z,171416178711500
+"""jblvn @ D7EZCpTbav"" checks",2024-04-26T20:03:01.163Z,171416178116300
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:03:00.270Z,171416178027000
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:02:46.129Z,171416176612900
+"""vc02 @ DiwHfv5G2T"" checks",2024-04-26T20:02:45.148Z,171416176514800
+"Flop:  [J♠, 9♣, 2♠]",2024-04-26T20:02:39.902Z,171416175990200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:02:39.063Z,171416175906300
+"""vc02 @ DiwHfv5G2T"" calls 20",2024-04-26T20:02:38.069Z,171416175806900
+"""Ekingz1 @ m3OcsLhCIV"" calls 20",2024-04-26T20:02:36.955Z,171416175695500
+"""Veyebr104 @ 4DRg3NH-lF"" calls 20",2024-04-26T20:02:35.835Z,171416175583500
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:02:30.613Z,171416175061300
+"""jblvn @ D7EZCpTbav"" calls 20",2024-04-26T20:02:29.607Z,171416174960700
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:02:28.719Z,171416174871900
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 20",2024-04-26T20:02:26.532Z,171416174653200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" posts a big blind of 20",2024-04-26T20:02:23.573Z,171416174357311
+"""vc02 @ DiwHfv5G2T"" posts a small blind of 10",2024-04-26T20:02:23.573Z,171416174357310
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1514) | #2 ""!Neon10 @ 7cTV432CiQ"" (1286) | #3 ""jblvn @ D7EZCpTbav"" (870) | #4 ""tenten1010 @ 7bT8XwIUWr"" (810) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (990) | #6 ""Ekingz1 @ m3OcsLhCIV"" (810) | #7 ""vc02 @ DiwHfv5G2T"" (910) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (810)",2024-04-26T20:02:23.573Z,171416174357301
+"-- starting hand #3 (id: zilgvjouumxv)  (No Limit Texas Hold'em) (dealer: ""Ekingz1 @ m3OcsLhCIV"") --",2024-04-26T20:02:23.573Z,171416174357300
+"-- ending hand #2 --",2024-04-26T20:02:17.559Z,171416173755903
+"""Ekingz1 @ m3OcsLhCIV"" shows a A♦, 2♥.",2024-04-26T20:02:17.559Z,171416173755902
+"""tom dwan ooooo @ wXP3Rvt2Yz"" collected 780 from pot with Pair, 6's (combination: 6♥, 6♦, K♥, 9♥, 8♣)",2024-04-26T20:02:17.559Z,171416173755901
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a 6♥, 9♥.",2024-04-26T20:02:17.559Z,171416173755900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:02:16.717Z,171416173671700
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:02:14.671Z,171416173467100
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:02:12.632Z,171416173263200
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:02:11.367Z,171416173136700
+"River: K♥, 4♥, 8♣, 3♣ [6♦]",2024-04-26T20:02:09.026Z,171416172902600
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T20:02:08.196Z,171416172819600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:02:03.755Z,171416172375500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:02:01.835Z,171416172183500
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:02:00.532Z,171416172053200
+"Turn: K♥, 4♥, 8♣ [3♣]",2024-04-26T20:01:55.270Z,171416171527000
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:01:54.456Z,171416171445600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 60",2024-04-26T20:01:53.484Z,171416171348400
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 60",2024-04-26T20:01:52.170Z,171416171217000
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T20:01:51.249Z,171416171124900
+"""Ekingz1 @ m3OcsLhCIV"" calls 60",2024-04-26T20:01:49.339Z,171416170933900
+"""tenten1010 @ 7bT8XwIUWr"" bets 60",2024-04-26T20:01:45.395Z,171416170539500
+"""jblvn @ D7EZCpTbav"" checks",2024-04-26T20:01:39.218Z,171416169921800
+"""tom dwan ooooo @ wXP3Rvt2Yz"" checks",2024-04-26T20:01:38.323Z,171416169832300
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:01:31.987Z,171416169198700
+"""vc02 @ DiwHfv5G2T"" checks",2024-04-26T20:01:30.496Z,171416169049600
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:01:14.660Z,171416167466000
+"Flop:  [K♥, 4♥, 8♣]",2024-04-26T20:01:10.409Z,171416167040900
+"""vc02 @ DiwHfv5G2T"" calls 90",2024-04-26T20:01:09.559Z,171416166955900
+"""Ekingz1 @ m3OcsLhCIV"" calls 90",2024-04-26T20:00:59.370Z,171416165937000
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T20:00:57.988Z,171416165798800
+"""tenten1010 @ 7bT8XwIUWr"" calls 90",2024-04-26T20:00:54.434Z,171416165443400
+"""jblvn @ D7EZCpTbav"" calls 90",2024-04-26T20:00:50.354Z,171416165035400
+"""!Neon10 @ 7cTV432CiQ"" folds",2024-04-26T20:00:49.346Z,171416164934600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" calls 90",2024-04-26T20:00:48.247Z,171416164824700
+"""Til-Ted Uphill @ 9XVJnr5eQi"" raises to 90",2024-04-26T20:00:45.767Z,171416164576700
+"""vc02 @ DiwHfv5G2T"" posts a big blind of 20",2024-04-26T20:00:42.171Z,171416164217111
+"""Ekingz1 @ m3OcsLhCIV"" posts a small blind of 10",2024-04-26T20:00:42.171Z,171416164217110
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (884) | #2 ""!Neon10 @ 7cTV432CiQ"" (1286) | #3 ""jblvn @ D7EZCpTbav"" (960) | #4 ""tenten1010 @ 7bT8XwIUWr"" (960) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (990) | #6 ""Ekingz1 @ m3OcsLhCIV"" (960) | #7 ""vc02 @ DiwHfv5G2T"" (1000) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (960)",2024-04-26T20:00:42.171Z,171416164217101
+"-- starting hand #2 (id: io9reyybta4t)  (No Limit Texas Hold'em) (dealer: ""Veyebr104 @ 4DRg3NH-lF"") --",2024-04-26T20:00:42.171Z,171416164217100
+"""Ekingz1 @ m3OcsLhCIV"" shows a 7♥, 8♠.",2024-04-26T20:00:40.629Z,171416164062900
+"""tom dwan ooooo @ wXP3Rvt2Yz"" shows a Q♥, K♥.",2024-04-26T20:00:39.317Z,171416163931700
+"-- ending hand #1 --",2024-04-26T20:00:37.770Z,171416163777002
+"""!Neon10 @ 7cTV432CiQ"" collected 402 from pot",2024-04-26T20:00:37.770Z,171416163777001
+"Uncalled bet of 884 returned to ""!Neon10 @ 7cTV432CiQ""",2024-04-26T20:00:37.770Z,171416163777000
+"""tom dwan ooooo @ wXP3Rvt2Yz"" folds",2024-04-26T20:00:36.945Z,171416163694500
+"""Til-Ted Uphill @ 9XVJnr5eQi"" folds",2024-04-26T20:00:33.831Z,171416163383100
+"""Ekingz1 @ m3OcsLhCIV"" folds",2024-04-26T20:00:32.721Z,171416163272100
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T20:00:24.624Z,171416162462400
+"""jblvn @ D7EZCpTbav"" folds",2024-04-26T20:00:23.619Z,171416162361900
+"""!Neon10 @ 7cTV432CiQ"" raises to 960 and go all in",2024-04-26T20:00:21.526Z,171416162152600
+"""tom dwan ooooo @ wXP3Rvt2Yz"" bets 76",2024-04-26T20:00:14.052Z,171416161405200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" checks",2024-04-26T20:00:04.290Z,171416160429000
+"""Ekingz1 @ m3OcsLhCIV"" checks",2024-04-26T20:00:01.782Z,171416160178200
+"Flop:  [A♠, A♦, K♦]",2024-04-26T19:59:58.526Z,171416159852600
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 40",2024-04-26T19:59:57.705Z,171416159770500
+"""Ekingz1 @ m3OcsLhCIV"" calls 40",2024-04-26T19:59:55.780Z,171416159578000
+"""Veyebr104 @ 4DRg3NH-lF"" folds",2024-04-26T19:59:52.826Z,171416159282600
+"""tenten1010 @ 7bT8XwIUWr"" calls 40",2024-04-26T19:59:51.956Z,171416159195600
+"""jblvn @ D7EZCpTbav"" calls 40",2024-04-26T19:59:47.615Z,171416158761500
+"""!Neon10 @ 7cTV432CiQ"" calls 40",2024-04-26T19:59:46.504Z,171416158650400
+"""tom dwan ooooo @ wXP3Rvt2Yz"" raises to 40",2024-04-26T19:59:42.532Z,171416158253200
+"""Til-Ted Uphill @ 9XVJnr5eQi"" calls 20",2024-04-26T19:59:27.390Z,171416156739000
+"""vc02 @ DiwHfv5G2T"" folds",2024-04-26T19:59:26.456Z,171416156645600
+"""Ekingz1 @ m3OcsLhCIV"" posts a big blind of 20",2024-04-26T19:59:11.446Z,171416155144619
+"""Veyebr104 @ 4DRg3NH-lF"" posts a small blind of 10",2024-04-26T19:59:11.446Z,171416155144618
+"Player stacks: #1 ""tom dwan ooooo @ wXP3Rvt2Yz"" (1000) | #2 ""!Neon10 @ 7cTV432CiQ"" (1000) | #3 ""jblvn @ D7EZCpTbav"" (1000) | #4 ""tenten1010 @ 7bT8XwIUWr"" (1000) | #5 ""Veyebr104 @ 4DRg3NH-lF"" (1000) | #6 ""Ekingz1 @ m3OcsLhCIV"" (1000) | #7 ""vc02 @ DiwHfv5G2T"" (1000) | #8 ""Til-Ted Uphill @ 9XVJnr5eQi"" (1000)",2024-04-26T19:59:11.446Z,171416155144609
+"The player ""Til-Ted Uphill @ 9XVJnr5eQi"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144608
+"The player ""vc02 @ DiwHfv5G2T"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144607
+"The player ""Ekingz1 @ m3OcsLhCIV"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144606
+"The player ""Veyebr104 @ 4DRg3NH-lF"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144605
+"The player ""tenten1010 @ 7bT8XwIUWr"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144604
+"The player ""jblvn @ D7EZCpTbav"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144603
+"The player ""!Neon10 @ 7cTV432CiQ"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144602
+"The player ""tom dwan ooooo @ wXP3Rvt2Yz"" joined the game with a stack of 1000.",2024-04-26T19:59:11.446Z,171416155144601
+"-- starting hand #1 (id: 2ixrqqpkadnl)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T19:59:11.446Z,171416155144600

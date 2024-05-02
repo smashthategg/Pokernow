@@ -1,0 +1,826 @@
+2024-04-17
+-- starting hand #1 (id: 5ptaa8rbihwr)  (No Limit Texas Hold'em) (dealer: "medmes") --
+The player "killjoy.0001" joined the game with a stack of 1000.
+The player "Jiriakel" joined the game with a stack of 1000.
+The player "Kar7ik" joined the game with a stack of 1000.
+The player "ishida1xyz" joined the game with a stack of 1000.
+The player "juicysnail" joined the game with a stack of 1000.
+The player "medmes" joined the game with a stack of 1000.
+The player "Knew It" joined the game with a stack of 1000.
+The player "Cabes805" joined the game with a stack of 1000.
+Player stacks: #1 "killjoy.0001" (1000) | #2 "Jiriakel" (1000) | #3 "Kar7ik" (1000) | #4 "ishida1xyz" (1000) | #5 "juicysnail" (1000) | #6 "medmes" (1000) | #7 "Knew It" (1000) | #8 "Cabes805" (1000)
+"Knew It" posts a small blind of 10
+"Cabes805" posts a big blind of 20
+"killjoy.0001" calls 20
+"Jiriakel" calls 20
+"Kar7ik" folds
+"ishida1xyz" calls 20
+"juicysnail" folds
+"medmes" folds
+"Knew It" folds
+"Cabes805" raises to 110
+"killjoy.0001" calls 110
+"Jiriakel" folds
+"ishida1xyz" calls 110
+Flop:  [5♠, T♦, 4♣]
+"Cabes805" bets 180
+"killjoy.0001" folds
+"ishida1xyz" folds
+Uncalled bet of 180 returned to "Cabes805"
+"Cabes805" collected 360 from pot
+-- ending hand #1 --
+-- starting hand #2 (id: 0w9nkzh2hm8p)  (No Limit Texas Hold'em) (dealer: "Knew It") --
+Player stacks: #1 "killjoy.0001" (890) | #2 "Jiriakel" (980) | #3 "Kar7ik" (1000) | #4 "ishida1xyz" (890) | #5 "juicysnail" (1000) | #6 "medmes" (1000) | #7 "Knew It" (990) | #8 "Cabes805" (1250)
+"Cabes805" posts a small blind of 10
+"killjoy.0001" posts a big blind of 20
+"Jiriakel" folds
+"Kar7ik" folds
+"ishida1xyz" folds
+"juicysnail" folds
+"medmes" folds
+"Knew It" folds
+"Cabes805" calls 20
+"killjoy.0001" checks
+Flop:  [T♥, K♦, 5♥]
+"Cabes805" checks
+"killjoy.0001" checks
+Turn: T♥, K♦, 5♥ [7♦]
+"Cabes805" checks
+"killjoy.0001" checks
+River: T♥, K♦, 5♥, 7♦ [3♥]
+"Cabes805" bets 20
+"killjoy.0001" raises to 60
+"Cabes805" folds
+Uncalled bet of 40 returned to "killjoy.0001"
+"killjoy.0001" collected 80 from pot
+-- ending hand #2 --
+-- starting hand #3 (id: msaxb3pwri4g)  (No Limit Texas Hold'em) (dealer: "Cabes805") --
+Player stacks: #1 "killjoy.0001" (930) | #2 "Jiriakel" (980) | #3 "Kar7ik" (1000) | #4 "ishida1xyz" (890) | #5 "juicysnail" (1000) | #6 "medmes" (1000) | #7 "Knew It" (990) | #8 "Cabes805" (1210)
+"killjoy.0001" posts a small blind of 10
+"Jiriakel" posts a big blind of 20
+"Kar7ik" folds
+"ishida1xyz" folds
+"juicysnail" raises to 60
+"medmes" calls 60
+"Knew It" calls 60
+"Cabes805" calls 60
+"killjoy.0001" calls 60
+"Jiriakel" calls 60
+Flop:  [7♦, J♥, Q♥]
+"killjoy.0001" bets 20
+"Jiriakel" raises to 120
+"juicysnail" calls 120
+"medmes" folds
+"Knew It" folds
+"Cabes805" raises to 490
+"killjoy.0001" folds
+"Jiriakel" raises to 920 and go all in
+"juicysnail" calls 920
+"Cabes805" calls 920
+Turn: 7♦, J♥, Q♥ [Q♠]
+"juicysnail" bets 20 and go all in
+"Cabes805" raises to 20
+"Jiriakel" shows a K♣, Q♣.
+"juicysnail" shows a T♠, K♥.
+"Cabes805" shows a Q♦, 9♠.
+River: 7♦, J♥, Q♥, Q♠ [T♦]
+"Jiriakel" collected 3140 from pot with Three of a Kind, Q's (combination: Q♣, Q♥, Q♠, K♣, J♥)
+"Cabes805" collected 40 from pot with Three of a Kind, Q's (combination: Q♦, Q♥, Q♠, J♥, T♦)
+-- ending hand #3 --
+The player "juicysnail" quits the game with a stack of 0.
+-- starting hand #4 (id: pppafhmorb03)  (No Limit Texas Hold'em) (dealer: "killjoy.0001") --
+Player stacks: #1 "killjoy.0001" (850) | #2 "Jiriakel" (3140) | #3 "Kar7ik" (1000) | #4 "ishida1xyz" (890) | #6 "medmes" (940) | #7 "Knew It" (930) | #8 "Cabes805" (250)
+"Jiriakel" posts a small blind of 10
+"Kar7ik" posts a big blind of 20
+"ishida1xyz" calls 20
+"medmes" folds
+"Knew It" calls 20
+"Cabes805" folds
+"killjoy.0001" folds
+"Jiriakel" raises to 80
+"Kar7ik" calls 80
+"ishida1xyz" calls 80
+"Knew It" calls 80
+Flop:  [6♥, 4♠, T♦]
+"Jiriakel" checks
+"Kar7ik" checks
+"ishida1xyz" checks
+"Knew It" checks
+Turn: 6♥, 4♠, T♦ [T♣]
+"Jiriakel" checks
+"Kar7ik" checks
+"ishida1xyz" bets 200
+"Knew It" folds
+"Jiriakel" folds
+"Kar7ik" folds
+Uncalled bet of 200 returned to "ishida1xyz"
+"ishida1xyz" collected 320 from pot
+-- ending hand #4 --
+"Knew It" shows a A♠, 5♣.
+The game's small blind was changed from 10 to 20.
+The game's big blind was changed from 20 to 40.
+-- starting hand #5 (id: jvgqjsj6anao)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #1 "killjoy.0001" (850) | #2 "Jiriakel" (3060) | #3 "Kar7ik" (920) | #4 "ishida1xyz" (1130) | #6 "medmes" (940) | #7 "Knew It" (850) | #8 "Cabes805" (250)
+"Kar7ik" posts a small blind of 20
+"ishida1xyz" posts a big blind of 40
+"medmes" folds
+"Knew It" raises to 120
+"Cabes805" folds
+"killjoy.0001" folds
+"Jiriakel" calls 120
+"Kar7ik" folds
+"ishida1xyz" calls 120
+Flop:  [3♣, J♦, 8♠]
+"ishida1xyz" checks
+"Knew It" checks
+"Jiriakel" checks
+Turn: 3♣, J♦, 8♠ [A♠]
+"ishida1xyz" checks
+"Knew It" checks
+"Jiriakel" bets 120
+"ishida1xyz" folds
+"Knew It" folds
+Uncalled bet of 120 returned to "Jiriakel"
+"Jiriakel" collected 380 from pot
+-- ending hand #5 --
+-- starting hand #6 (id: 6bwwnff70wkw)  (No Limit Texas Hold'em) (dealer: "Kar7ik") --
+Player stacks: #1 "killjoy.0001" (850) | #2 "Jiriakel" (3320) | #3 "Kar7ik" (900) | #4 "ishida1xyz" (1010) | #6 "medmes" (940) | #7 "Knew It" (730) | #8 "Cabes805" (250)
+"ishida1xyz" posts a small blind of 20
+"medmes" posts a big blind of 40
+"Knew It" calls 40
+"Cabes805" folds
+"killjoy.0001" raises to 120
+"Jiriakel" folds
+"Kar7ik" folds
+"ishida1xyz" folds
+"medmes" folds
+"Knew It" calls 120
+Flop:  [K♣, 9♠, Q♥]
+"Knew It" checks
+"killjoy.0001" bets 120
+"Knew It" folds
+Uncalled bet of 120 returned to "killjoy.0001"
+"killjoy.0001" collected 300 from pot
+-- ending hand #6 --
+"killjoy.0001" shows a A♠, A♥.
+-- starting hand #7 (id: mggs2hhm29aa)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #1 "killjoy.0001" (1030) | #2 "Jiriakel" (3320) | #3 "Kar7ik" (900) | #4 "ishida1xyz" (990) | #6 "medmes" (900) | #7 "Knew It" (610) | #8 "Cabes805" (250)
+"medmes" posts a small blind of 20
+"Knew It" posts a big blind of 40
+"Cabes805" folds
+"killjoy.0001" calls 40
+"Jiriakel" folds
+"Kar7ik" calls 40
+"ishida1xyz" folds
+"medmes" calls 40
+"Knew It" checks
+Flop:  [8♦, 5♣, Q♠]
+"medmes" checks
+"Knew It" checks
+"killjoy.0001" checks
+"Kar7ik" checks
+Turn: 8♦, 5♣, Q♠ [J♥]
+"medmes" bets 40
+"Knew It" folds
+"killjoy.0001" calls 40
+"Kar7ik" folds
+River: 8♦, 5♣, Q♠, J♥ [5♦]
+"medmes" bets 120
+"killjoy.0001" folds
+Uncalled bet of 120 returned to "medmes"
+"medmes" collected 240 from pot
+-- ending hand #7 --
+-- starting hand #8 (id: avugpkyfzs1j)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #1 "killjoy.0001" (950) | #2 "Jiriakel" (3320) | #3 "Kar7ik" (860) | #4 "ishida1xyz" (990) | #6 "medmes" (1060) | #7 "Knew It" (570) | #8 "Cabes805" (250)
+"Knew It" posts a small blind of 20
+"Cabes805" posts a big blind of 40
+"killjoy.0001" folds
+"Jiriakel" raises to 120
+"Kar7ik" folds
+"ishida1xyz" calls 120
+"medmes" folds
+"Knew It" calls 120
+"Cabes805" raises to 250 and go all in
+"Jiriakel" calls 250
+"ishida1xyz" calls 250
+"Knew It" calls 250
+Flop:  [J♠, T♣, 8♥]
+"Knew It" checks
+"Jiriakel" checks
+"ishida1xyz" checks
+Turn: J♠, T♣, 8♥ [2♣]
+"Knew It" checks
+"Jiriakel" checks
+"ishida1xyz" checks
+River: J♠, T♣, 8♥, 2♣ [Q♦]
+"Knew It" checks
+"Jiriakel" checks
+"ishida1xyz" checks
+"Knew It" shows a Q♣, 5♣.
+"Knew It" collected 1000 from pot with Pair, Q's (combination: Q♣, Q♦, J♠, T♣, 8♥)
+-- ending hand #8 --
+The player "Cabes805" quits the game with a stack of 0.
+-- starting hand #9 (id: reuyw85lz2lr)  (No Limit Texas Hold'em) (dealer: "Knew It") --
+Player stacks: #1 "killjoy.0001" (950) | #2 "Jiriakel" (3070) | #3 "Kar7ik" (860) | #4 "ishida1xyz" (740) | #6 "medmes" (1060) | #7 "Knew It" (1320)
+Dead Small Blind
+"killjoy.0001" posts a big blind of 40
+"Jiriakel" raises to 120
+"Kar7ik" calls 120
+"ishida1xyz" folds
+"medmes" folds
+"Knew It" calls 120
+"killjoy.0001" folds
+Flop:  [6♠, 5♠, J♦]
+"Jiriakel" bets 80
+"Kar7ik" calls 80
+"Knew It" calls 80
+Turn: 6♠, 5♠, J♦ [6♦]
+"Jiriakel" bets 160
+"Kar7ik" calls 160
+"Knew It" folds
+River: 6♠, 5♠, J♦, 6♦ [5♥]
+"Jiriakel" checks
+"Kar7ik" bets 40
+"Jiriakel" calls 40
+"Jiriakel" shows a Q♣, Q♦.
+"Jiriakel" collected 1040 from pot with Two Pair, Q's & 6's (combination: Q♣, Q♦, 6♠, 6♦, J♦)
+"Kar7ik" shows a J♠, K♠.
+-- ending hand #9 --
+-- starting hand #10 (id: y23iq538mrvp)  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 "killjoy.0001" (910) | #2 "Jiriakel" (3710) | #3 "Kar7ik" (460) | #4 "ishida1xyz" (740) | #6 "medmes" (1060) | #7 "Knew It" (1120)
+"killjoy.0001" posts a small blind of 20
+"Jiriakel" posts a big blind of 40
+"Kar7ik" folds
+"ishida1xyz" folds
+"medmes" calls 40
+"Knew It" calls 40
+"killjoy.0001" raises to 120
+"Jiriakel" folds
+"medmes" calls 120
+"Knew It" calls 120
+Flop:  [9♥, Q♣, 5♠]
+"killjoy.0001" bets 120
+"medmes" folds
+"Knew It" calls 120
+Turn: 9♥, Q♣, 5♠ [2♣]
+"killjoy.0001" bets 160
+"Knew It" calls 160
+River: 9♥, Q♣, 5♠, 2♣ [J♦]
+"killjoy.0001" bets 160
+"Knew It" calls 160
+"killjoy.0001" shows a K♥, K♣.
+"killjoy.0001" collected 1280 from pot with Pair, K's (combination: K♥, K♣, Q♣, J♦, 9♥)
+-- ending hand #10 --
+The game's small blind was changed from 20 to 30.
+The game's big blind was changed from 40 to 60.
+-- starting hand #11 (id: blalcxmgi68y)  (No Limit Texas Hold'em) (dealer: "killjoy.0001") --
+Player stacks: #1 "killjoy.0001" (1630) | #2 "Jiriakel" (3670) | #3 "Kar7ik" (460) | #4 "ishida1xyz" (740) | #6 "medmes" (940) | #7 "Knew It" (560)
+"Jiriakel" posts a small blind of 30
+"Kar7ik" posts a big blind of 60
+"ishida1xyz" folds
+"medmes" folds
+"Knew It" folds
+"killjoy.0001" folds
+"Jiriakel" raises to 120
+"Kar7ik" calls 120
+Flop:  [8♥, 4♥, J♦]
+"Jiriakel" checks
+"Kar7ik" bets 60
+"Jiriakel" calls 60
+Turn: 8♥, 4♥, J♦ [T♣]
+"Jiriakel" checks
+"Kar7ik" bets 60
+"Jiriakel" calls 60
+River: 8♥, 4♥, J♦, T♣ [9♠]
+"Jiriakel" checks
+"Kar7ik" bets 60
+"Jiriakel" raises to 220
+"Kar7ik" calls 220 and go all in
+"Jiriakel" shows a Q♣, 5♥.
+"Jiriakel" collected 920 from pot with Straight, Q High (combination: Q♣, J♦, T♣, 9♠, 8♥)
+"Kar7ik" shows a K♦, 7♥.
+-- ending hand #11 --
+The player "Kar7ik" quits the game with a stack of 0.
+-- starting hand #12 (id: ph55v1hkvoge)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #1 "killjoy.0001" (1630) | #2 "Jiriakel" (4130) | #4 "ishida1xyz" (740) | #6 "medmes" (940) | #7 "Knew It" (560)
+Dead Small Blind
+"ishida1xyz" posts a big blind of 60
+"medmes" folds
+"Knew It" calls 60
+"killjoy.0001" folds
+"Jiriakel" raises to 180
+"ishida1xyz" folds
+"Knew It" calls 180
+Flop:  [5♦, J♣, 8♥]
+"Knew It" checks
+"Jiriakel" bets 380
+"Knew It" folds
+Uncalled bet of 380 returned to "Jiriakel"
+"Jiriakel" collected 420 from pot
+-- ending hand #12 --
+-- starting hand #13 (id: 2ndry72dqvzd)  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #1 "killjoy.0001" (1630) | #2 "Jiriakel" (4370) | #4 "ishida1xyz" (680) | #6 "medmes" (940) | #7 "Knew It" (380)
+"ishida1xyz" posts a small blind of 30
+"medmes" posts a big blind of 60
+"Knew It" folds
+"killjoy.0001" folds
+"Jiriakel" raises to 180
+"ishida1xyz" calls 180
+"medmes" folds
+Flop:  [Q♥, A♥, 6♣]
+"ishida1xyz" checks
+"Jiriakel" bets 180
+"ishida1xyz" raises to 500 and go all in
+"Jiriakel" calls 500
+"Jiriakel" shows a J♥, T♦.
+"ishida1xyz" shows a T♥, K♣.
+Turn: Q♥, A♥, 6♣ [7♥]
+River: Q♥, A♥, 6♣, 7♥ [8♦]
+"ishida1xyz" collected 1420 from pot with A High (combination: A♥, K♣, Q♥, T♥, 8♦)
+-- ending hand #13 --
+-- starting hand #14 (id: poffy3jmakxm)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #1 "killjoy.0001" (1630) | #2 "Jiriakel" (3690) | #4 "ishida1xyz" (1420) | #6 "medmes" (880) | #7 "Knew It" (380)
+"medmes" posts a small blind of 30
+"Knew It" posts a big blind of 60
+"killjoy.0001" folds
+"Jiriakel" folds
+"ishida1xyz" folds
+"medmes" calls 60
+"Knew It" raises to 180
+"medmes" raises to 380
+"Knew It" calls 380 and go all in
+"medmes" shows a A♦, T♠.
+"Knew It" shows a T♣, K♦.
+Flop:  [8♥, 7♠, 9♦]
+Turn: 8♥, 7♠, 9♦ [A♣]
+River: 8♥, 7♠, 9♦, A♣ [6♥]
+"medmes" collected 380 from pot with Straight, 10 High (combination: T♠, 9♦, 8♥, 7♠, 6♥)
+"Knew It" collected 380 from pot with Straight, 10 High (combination: T♣, 9♦, 8♥, 7♠, 6♥)
+-- ending hand #14 --
+-- starting hand #15 (id: xkwcqkkbui92)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #1 "killjoy.0001" (1630) | #2 "Jiriakel" (3690) | #4 "ishida1xyz" (1420) | #6 "medmes" (880) | #7 "Knew It" (380)
+"Knew It" posts a small blind of 30
+"killjoy.0001" posts a big blind of 60
+"Jiriakel" folds
+"ishida1xyz" calls 60
+"medmes" calls 60
+"Knew It" folds
+"killjoy.0001" checks
+Flop:  [T♦, 8♣, 3♥]
+"killjoy.0001" bets 60
+"ishida1xyz" raises to 360
+"medmes" folds
+"killjoy.0001" folds
+Uncalled bet of 300 returned to "ishida1xyz"
+"ishida1xyz" collected 330 from pot
+-- ending hand #15 --
+-- starting hand #16 (id: i29xoiupfmjg)  (No Limit Texas Hold'em) (dealer: "Knew It") --
+Player stacks: #1 "killjoy.0001" (1510) | #2 "Jiriakel" (3690) | #4 "ishida1xyz" (1630) | #6 "medmes" (820) | #7 "Knew It" (350)
+"killjoy.0001" posts a small blind of 30
+"Jiriakel" posts a big blind of 60
+"ishida1xyz" folds
+"medmes" folds
+"Knew It" calls 60
+"killjoy.0001" calls 60
+"Jiriakel" checks
+Flop:  [J♠, 4♣, 3♦]
+"killjoy.0001" checks
+"Jiriakel" checks
+"Knew It" checks
+Turn: J♠, 4♣, 3♦ [5♣]
+"killjoy.0001" checks
+"Jiriakel" checks
+"Knew It" checks
+River: J♠, 4♣, 3♦, 5♣ [7♣]
+"killjoy.0001" checks
+"Jiriakel" checks
+"Knew It" bets 180
+"killjoy.0001" folds
+"Jiriakel" folds
+Uncalled bet of 180 returned to "Knew It"
+"Knew It" collected 180 from pot
+-- ending hand #16 --
+The game's small blind was changed from 30 to 50.
+The game's big blind was changed from 60 to 100.
+-- starting hand #17 (id: g4pwwcozjiqb)  (No Limit Texas Hold'em) (dealer: "killjoy.0001") --
+Player stacks: #1 "killjoy.0001" (1450) | #2 "Jiriakel" (3630) | #4 "ishida1xyz" (1630) | #6 "medmes" (820) | #7 "Knew It" (470)
+"Jiriakel" posts a small blind of 50
+"ishida1xyz" posts a big blind of 100
+"medmes" folds
+"Knew It" calls 100
+"killjoy.0001" folds
+"Jiriakel" calls 100
+"ishida1xyz" checks
+Flop:  [8♦, 7♥, K♠]
+"Jiriakel" checks
+"ishida1xyz" bets 200
+"Knew It" calls 200
+"Jiriakel" folds
+Turn: 8♦, 7♥, K♠ [J♥]
+"ishida1xyz" bets 100
+"Knew It" calls 100
+River: 8♦, 7♥, K♠, J♥ [7♠]
+"ishida1xyz" bets 100
+"Knew It" calls 70 and go all in
+Uncalled bet of 30 returned to "ishida1xyz"
+"ishida1xyz" shows a 4♥, 7♣.
+"ishida1xyz" collected 1040 from pot with Three of a Kind, 7's (combination: 7♣, 7♥, 7♠, K♠, J♥)
+"Knew It" shows a 9♥, A♣.
+-- ending hand #17 --
+The player "Knew It" quits the game with a stack of 0.
+-- starting hand #18 (id: nkwf8xaniubj)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #1 "killjoy.0001" (1450) | #2 "Jiriakel" (3530) | #4 "ishida1xyz" (2200) | #6 "medmes" (820)
+"ishida1xyz" posts a small blind of 50
+"medmes" posts a big blind of 100
+"killjoy.0001" calls 100
+"Jiriakel" folds
+"ishida1xyz" folds
+"medmes" checks
+Flop:  [K♥, 7♠, K♠]
+"medmes" checks
+"killjoy.0001" checks
+Turn: K♥, 7♠, K♠ [7♣]
+"medmes" bets 720 and go all in
+"killjoy.0001" calls 720
+"killjoy.0001" shows a K♦, J♥.
+"medmes" shows a 7♥, 7♦.
+River: K♥, 7♠, K♠, 7♣ [J♣]
+"medmes" collected 1690 from pot with Four of a Kind, 7's (combination: 7♥, 7♦, 7♠, 7♣, K♥)
+-- ending hand #18 --
+-- starting hand #19 (id: nnecz8fmzqvi)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #1 "killjoy.0001" (630) | #2 "Jiriakel" (3530) | #4 "ishida1xyz" (2150) | #6 "medmes" (1690)
+"medmes" posts a small blind of 50
+"killjoy.0001" posts a big blind of 100
+"Jiriakel" folds
+"ishida1xyz" calls 100
+"medmes" calls 100
+"killjoy.0001" checks
+Flop:  [9♦, 6♠, J♣]
+"medmes" checks
+"killjoy.0001" bets 100
+"ishida1xyz" raises to 400
+"medmes" folds
+"killjoy.0001" calls 400
+Turn: 9♦, 6♠, J♣ [A♥]
+"killjoy.0001" bets 130 and go all in
+"ishida1xyz" calls 130
+"killjoy.0001" shows a 2♣, J♦.
+"ishida1xyz" shows a K♥, J♥.
+River: 9♦, 6♠, J♣, A♥ [T♥]
+"ishida1xyz" collected 1360 from pot with Pair, J's (combination: J♥, J♣, A♥, K♥, T♥)
+-- ending hand #19 --
+The player "killjoy.0001" quits the game with a stack of 0.
+-- starting hand #20 (id: abvosuutjjc8)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (3530) | #4 "ishida1xyz" (2880) | #6 "medmes" (1590)
+Dead Small Blind
+"Jiriakel" posts a big blind of 100
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 100 returned to "Jiriakel"
+"Jiriakel" collected 0 from pot
+-- ending hand #20 --
+-- starting hand #21 (id: lfbah0qpddh7)  (No Limit Texas Hold'em) (dead button) --
+Player stacks: #2 "Jiriakel" (3530) | #4 "ishida1xyz" (2880) | #6 "medmes" (1590)
+"Jiriakel" posts a small blind of 50
+"ishida1xyz" posts a big blind of 100
+"medmes" folds
+"Jiriakel" folds
+Uncalled bet of 50 returned to "ishida1xyz"
+"ishida1xyz" collected 100 from pot
+-- ending hand #21 --
+-- starting hand #22 (id: ay7wxgdpbtsf)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (3480) | #4 "ishida1xyz" (2930) | #6 "medmes" (1590)
+"ishida1xyz" posts a small blind of 50
+"medmes" posts a big blind of 100
+"Jiriakel" folds
+"ishida1xyz" calls 100
+"medmes" checks
+Flop:  [T♥, 3♠, K♣]
+"ishida1xyz" checks
+"medmes" checks
+Turn: T♥, 3♠, K♣ [5♣]
+"ishida1xyz" checks
+"medmes" checks
+River: T♥, 3♠, K♣, 5♣ [9♣]
+"ishida1xyz" bets 200
+"medmes" folds
+Uncalled bet of 200 returned to "ishida1xyz"
+"ishida1xyz" collected 200 from pot
+-- ending hand #22 --
+-- starting hand #23 (id: 9h8v7iign1kb)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (3480) | #4 "ishida1xyz" (3030) | #6 "medmes" (1490)
+"medmes" posts a small blind of 50
+"Jiriakel" posts a big blind of 100
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 50 returned to "Jiriakel"
+"Jiriakel" collected 100 from pot
+-- ending hand #23 --
+-- starting hand #24 (id: rmesyfaoqc3n)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (3530) | #4 "ishida1xyz" (3030) | #6 "medmes" (1440)
+"Jiriakel" posts a small blind of 50
+"ishida1xyz" posts a big blind of 100
+"medmes" folds
+"Jiriakel" raises to 200
+"ishida1xyz" folds
+Uncalled bet of 100 returned to "Jiriakel"
+"Jiriakel" collected 200 from pot
+-- ending hand #24 --
+-- starting hand #25 (id: hoeghjf5yyv0)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (3630) | #4 "ishida1xyz" (2930) | #6 "medmes" (1440)
+"ishida1xyz" posts a small blind of 50
+"medmes" posts a big blind of 100
+"Jiriakel" folds
+"ishida1xyz" raises to 200
+"medmes" folds
+Uncalled bet of 100 returned to "ishida1xyz"
+"ishida1xyz" collected 200 from pot
+-- ending hand #25 --
+-- starting hand #26 (id: 04uwlu7z3jmd)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (3630) | #4 "ishida1xyz" (3030) | #6 "medmes" (1340)
+"medmes" posts a small blind of 50
+"Jiriakel" posts a big blind of 100
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 50 returned to "Jiriakel"
+"Jiriakel" collected 100 from pot
+-- ending hand #26 --
+-- starting hand #27 (id: oziyheealir2)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (3680) | #4 "ishida1xyz" (3030) | #6 "medmes" (1290)
+"Jiriakel" posts a small blind of 50
+"ishida1xyz" posts a big blind of 100
+"medmes" folds
+"Jiriakel" folds
+Uncalled bet of 50 returned to "ishida1xyz"
+"ishida1xyz" collected 100 from pot
+-- ending hand #27 --
+-- starting hand #28 (id: jhp9pvk68fv6)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (3630) | #4 "ishida1xyz" (3080) | #6 "medmes" (1290)
+"ishida1xyz" posts a small blind of 50
+"medmes" posts a big blind of 100
+"Jiriakel" raises to 300
+"ishida1xyz" calls 300
+"medmes" folds
+Flop:  [Q♦, 4♦, 5♣]
+"ishida1xyz" bets 100
+"Jiriakel" calls 100
+Turn: Q♦, 4♦, 5♣ [2♠]
+"ishida1xyz" bets 100
+"Jiriakel" calls 100
+River: Q♦, 4♦, 5♣, 2♠ [2♦]
+"ishida1xyz" bets 100
+"Jiriakel" raises to 500
+"ishida1xyz" folds
+Uncalled bet of 400 returned to "Jiriakel"
+"Jiriakel" collected 1300 from pot
+-- ending hand #28 --
+-- starting hand #29 (id: ljamqcngjye7)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (4330) | #4 "ishida1xyz" (2480) | #6 "medmes" (1190)
+"medmes" posts a small blind of 50
+"Jiriakel" posts a big blind of 100
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 50 returned to "Jiriakel"
+"Jiriakel" collected 100 from pot
+-- ending hand #29 --
+-- starting hand #30 (id: 8onbbqrsyftt)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (4380) | #4 "ishida1xyz" (2480) | #6 "medmes" (1140)
+"Jiriakel" posts a small blind of 50
+"ishida1xyz" posts a big blind of 100
+"medmes" folds
+"Jiriakel" folds
+Uncalled bet of 50 returned to "ishida1xyz"
+"ishida1xyz" collected 100 from pot
+-- ending hand #30 --
+-- starting hand #31 (id: s3edxlxnn1kc)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (4330) | #4 "ishida1xyz" (2530) | #6 "medmes" (1140)
+"ishida1xyz" posts a small blind of 50
+"medmes" posts a big blind of 100
+"Jiriakel" raises to 300
+"ishida1xyz" raises to 700
+"medmes" folds
+"Jiriakel" calls 700
+Flop:  [2♦, 4♠, 4♦]
+"ishida1xyz" bets 1830 and go all in
+"Jiriakel" folds
+Uncalled bet of 1830 returned to "ishida1xyz"
+"ishida1xyz" collected 1500 from pot
+-- ending hand #31 --
+The game's small blind was changed from 50 to 75.
+The game's big blind was changed from 100 to 150.
+-- starting hand #32 (id: ojkfvbusej3q)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (3630) | #4 "ishida1xyz" (3330) | #6 "medmes" (1040)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 75 returned to "Jiriakel"
+"Jiriakel" collected 150 from pot
+-- ending hand #32 --
+-- starting hand #33 (id: kglbntickzio)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (3705) | #4 "ishida1xyz" (3330) | #6 "medmes" (965)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" raises to 300
+"ishida1xyz" folds
+Uncalled bet of 150 returned to "Jiriakel"
+"Jiriakel" collected 300 from pot
+-- ending hand #33 --
+-- starting hand #34 (id: s7jmjb5odlq6)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (3855) | #4 "ishida1xyz" (3180) | #6 "medmes" (965)
+"ishida1xyz" posts a small blind of 75
+"medmes" posts a big blind of 150
+"Jiriakel" folds
+"ishida1xyz" folds
+Uncalled bet of 75 returned to "medmes"
+"medmes" collected 150 from pot
+-- ending hand #34 --
+-- starting hand #35 (id: bnhdeu8tk3gp)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (3855) | #4 "ishida1xyz" (3105) | #6 "medmes" (1040)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 75 returned to "Jiriakel"
+"Jiriakel" collected 150 from pot
+-- ending hand #35 --
+-- starting hand #36 (id: jwawkn9wh4zi)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (3930) | #4 "ishida1xyz" (3105) | #6 "medmes" (965)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" raises to 300
+"ishida1xyz" raises to 600
+"Jiriakel" calls 600
+Flop:  [T♠, A♣, 9♥]
+"Jiriakel" checks
+"ishida1xyz" bets 300
+"Jiriakel" calls 300
+Turn: T♠, A♣, 9♥ [3♦]
+"Jiriakel" checks
+"ishida1xyz" checks
+River: T♠, A♣, 9♥, 3♦ [Q♣]
+"Jiriakel" checks
+"ishida1xyz" bets 1050
+"Jiriakel" calls 1050
+"ishida1xyz" shows a A♥, A♠.
+"ishida1xyz" collected 3900 from pot with Three of a Kind, A's (combination: A♥, A♠, A♣, Q♣, T♠)
+-- ending hand #36 --
+-- starting hand #37 (id: ar97wveip5rd)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (1980) | #4 "ishida1xyz" (5055) | #6 "medmes" (965)
+"ishida1xyz" posts a small blind of 75
+"medmes" posts a big blind of 150
+"Jiriakel" raises to 300
+"ishida1xyz" raises to 750
+"medmes" folds
+"Jiriakel" raises to 1980 and go all in
+"ishida1xyz" calls 1980
+"Jiriakel" shows a 5♣, K♠.
+"ishida1xyz" shows a A♠, 9♦.
+Flop:  [2♠, 6♣, Q♠]
+Turn: 2♠, 6♣, Q♠ [7♦]
+River: 2♠, 6♣, Q♠, 7♦ [5♦]
+"Jiriakel" collected 4110 from pot with Pair, 5's (combination: 5♣, 5♦, K♠, Q♠, 7♦)
+-- ending hand #37 --
+-- starting hand #38 (id: gnlxoromcoaj)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (4110) | #4 "ishida1xyz" (3075) | #6 "medmes" (815)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 75 returned to "Jiriakel"
+"Jiriakel" collected 150 from pot
+-- ending hand #38 --
+-- starting hand #39 (id: fkowdqsbquij)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (4185) | #4 "ishida1xyz" (3075) | #6 "medmes" (740)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" folds
+Uncalled bet of 75 returned to "ishida1xyz"
+"ishida1xyz" collected 150 from pot
+-- ending hand #39 --
+-- starting hand #40 (id: a68hh9fw3y5o)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (4110) | #4 "ishida1xyz" (3150) | #6 "medmes" (740)
+"ishida1xyz" posts a small blind of 75
+"medmes" posts a big blind of 150
+"Jiriakel" raises to 300
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 150 returned to "Jiriakel"
+"Jiriakel" collected 375 from pot
+-- ending hand #40 --
+-- starting hand #41 (id: rpqxgppquupa)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (4335) | #4 "ishida1xyz" (3075) | #6 "medmes" (590)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 75 returned to "Jiriakel"
+"Jiriakel" collected 150 from pot
+-- ending hand #41 --
+-- starting hand #42 (id: rgeo2j3pagfs)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (4410) | #4 "ishida1xyz" (3075) | #6 "medmes" (515)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" raises to 300
+"ishida1xyz" calls 300
+Flop:  [K♦, 2♣, 8♦]
+"Jiriakel" checks
+"ishida1xyz" checks
+Turn: K♦, 2♣, 8♦ [6♣]
+"Jiriakel" bets 300
+"ishida1xyz" folds
+Uncalled bet of 300 returned to "Jiriakel"
+"Jiriakel" collected 600 from pot
+-- ending hand #42 --
+-- starting hand #43 (id: 59wtexipjd1m)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (4710) | #4 "ishida1xyz" (2775) | #6 "medmes" (515)
+"ishida1xyz" posts a small blind of 75
+"medmes" posts a big blind of 150
+"Jiriakel" folds
+"ishida1xyz" calls 150
+"medmes" checks
+Flop:  [K♦, 9♦, 5♠]
+"ishida1xyz" bets 150
+"medmes" folds
+Uncalled bet of 150 returned to "ishida1xyz"
+"ishida1xyz" collected 300 from pot
+-- ending hand #43 --
+-- starting hand #44 (id: ivp6qeohmbrs)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (4710) | #4 "ishida1xyz" (2925) | #6 "medmes" (365)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" raises to 450
+"medmes" folds
+"Jiriakel" folds
+Uncalled bet of 300 returned to "ishida1xyz"
+"ishida1xyz" collected 375 from pot
+-- ending hand #44 --
+-- starting hand #45 (id: dues6mnxgb43)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (4560) | #4 "ishida1xyz" (3150) | #6 "medmes" (290)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" raises to 300
+"ishida1xyz" folds
+Uncalled bet of 150 returned to "Jiriakel"
+"Jiriakel" collected 300 from pot
+-- ending hand #45 --
+-- starting hand #46 (id: zaekcka1qsss)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (4710) | #4 "ishida1xyz" (3000) | #6 "medmes" (290)
+"ishida1xyz" posts a small blind of 75
+"medmes" posts a big blind of 150
+"Jiriakel" folds
+"ishida1xyz" raises to 290
+"medmes" folds
+Uncalled bet of 140 returned to "ishida1xyz"
+"ishida1xyz" collected 300 from pot
+-- ending hand #46 --
+-- starting hand #47 (id: owc0dkvyqubt)  (No Limit Texas Hold'em) (dealer: "ishida1xyz") --
+Player stacks: #2 "Jiriakel" (4710) | #4 "ishida1xyz" (3150) | #6 "medmes" (140)
+"medmes" posts a small blind of 75
+"Jiriakel" posts a big blind of 150
+"ishida1xyz" folds
+"medmes" folds
+Uncalled bet of 75 returned to "Jiriakel"
+"Jiriakel" collected 150 from pot
+-- ending hand #47 --
+-- starting hand #48 (id: cmojgnj7gfmr)  (No Limit Texas Hold'em) (dealer: "medmes") --
+Player stacks: #2 "Jiriakel" (4785) | #4 "ishida1xyz" (3150) | #6 "medmes" (65)
+"Jiriakel" posts a small blind of 75
+"ishida1xyz" posts a big blind of 150
+"medmes" folds
+"Jiriakel" raises to 300
+"ishida1xyz" calls 300
+Flop:  [8♥, J♠, 3♥]
+"Jiriakel" checks
+"ishida1xyz" checks
+Turn: 8♥, J♠, 3♥ [Q♠]
+"Jiriakel" checks
+"ishida1xyz" bets 300
+"Jiriakel" raises to 900
+"ishida1xyz" raises to 2850 and go all in
+"Jiriakel" calls 2850
+"Jiriakel" shows a 9♦, T♣.
+"ishida1xyz" shows a 2♠, Q♥.
+River: 8♥, J♠, 3♥, Q♠ [3♣]
+"Jiriakel" collected 6300 from pot with Straight, Q High (combination: Q♠, J♠, T♣, 9♦, 8♥)
+-- ending hand #48 --
+The player "ishida1xyz" quits the game with a stack of 0.
+-- starting hand #49 (id: m9r4hvjx4lwb)  (No Limit Texas Hold'em) (dealer: "Jiriakel") --
+Player stacks: #2 "Jiriakel" (7935) | #6 "medmes" (65)
+"Jiriakel" posts a small blind of 75
+"medmes" posts a big blind of 65 and go all in 
+Uncalled bet of 10 returned to "Jiriakel"
+"Jiriakel" shows a 6♠, 7♥.
+"medmes" shows a 8♣, 3♦.
+Flop:  [5♠, 3♣, Q♦]
+Turn: 5♠, 3♣, Q♦ [6♦]
+River: 5♠, 3♣, Q♦, 6♦ [2♠]
+"Jiriakel" collected 130 from pot with Pair, 6's (combination: 6♠, 6♦, Q♦, 7♥, 5♠)
+-- ending hand #49 --
+The player "medmes" quits the game with a stack of 0.
+The player "Jiriakel" quits the game with a stack of 8000.

@@ -25,4 +25,5 @@ class Deck():
         return dealtCards
     def remove(self, card):
         self.cards.remove(card)
+        return self
     

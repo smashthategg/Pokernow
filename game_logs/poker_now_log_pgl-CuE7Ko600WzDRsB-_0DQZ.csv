@@ -1,0 +1,641 @@
+entry,at,order
+"The player ""huncho3001 @ CM5Ic8CaV2"" quits the game with a stack of 7000.",2024-04-26T20:11:17.969Z,171416227796900
+"The player ""risskid_ @ BFYy5J7pfs"" quits the game with a stack of 0.",2024-04-26T20:05:23.884Z,171416192388400
+"-- ending hand #30 --",2024-04-26T20:05:17.872Z,171416191787201
+"""huncho3001 @ CM5Ic8CaV2"" collected 1040 from pot with Two Pair, 7's & 5's (combination: 7♠, 7♥, 5♠, 5♦, K♣)",2024-04-26T20:05:17.872Z,171416191787200
+"River: K♣, 5♠, 7♥, 8♦ [5♦]",2024-04-26T20:05:13.790Z,171416191379000
+"Turn: K♣, 5♠, 7♥ [8♦]",2024-04-26T20:05:09.783Z,171416190978300
+"Flop:  [K♣, 5♠, 7♥]",2024-04-26T20:05:05.777Z,171416190577700
+"""huncho3001 @ CM5Ic8CaV2"" shows a Q♦, 7♠.",2024-04-26T20:05:01.769Z,171416190176901
+"""risskid_ @ BFYy5J7pfs"" shows a A♥, 9♠.",2024-04-26T20:05:01.769Z,171416190176900
+"""huncho3001 @ CM5Ic8CaV2"" calls 520",2024-04-26T20:05:00.909Z,171416190090900
+"""risskid_ @ BFYy5J7pfs"" raises to 520 and go all in",2024-04-26T20:04:59.258Z,171416189925800
+"""huncho3001 @ CM5Ic8CaV2"" calls 200",2024-04-26T20:04:54.971Z,171416189497100
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 200",2024-04-26T20:04:52.245Z,171416189224507
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 100",2024-04-26T20:04:52.245Z,171416189224506
+"Player stacks: #2 ""risskid_ @ BFYy5J7pfs"" (520) | #7 ""huncho3001 @ CM5Ic8CaV2"" (6480)",2024-04-26T20:04:52.245Z,171416189224503
+"-- starting hand #30 (id: nkfjsgy7jhi9)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T20:04:52.245Z,171416189224502
+"The game's big blind was changed from 150 to 200.",2024-04-26T20:04:52.245Z,171416189224501
+"The game's small blind was changed from 75 to 100.",2024-04-26T20:04:52.245Z,171416189224500
+"-- ending hand #29 --",2024-04-26T20:04:46.229Z,171416188622901
+"""huncho3001 @ CM5Ic8CaV2"" collected 6480 from pot with Pair, 10's (combination: 10♦, 10♣, A♥, Q♣, 9♣)",2024-04-26T20:04:46.229Z,171416188622900
+"River: 10♦, 10♣, 4♣, 3♥ [9♣]",2024-04-26T20:04:42.210Z,171416188221000
+"Turn: 10♦, 10♣, 4♣ [3♥]",2024-04-26T20:04:38.204Z,171416187820400
+"Flop:  [10♦, 10♣, 4♣]",2024-04-26T20:04:34.183Z,171416187418300
+"""huncho3001 @ CM5Ic8CaV2"" shows a A♥, Q♣.",2024-04-26T20:04:30.178Z,171416187017801
+"""risskid_ @ BFYy5J7pfs"" shows a 7♠, K♣.",2024-04-26T20:04:30.178Z,171416187017800
+"""risskid_ @ BFYy5J7pfs"" calls 3240",2024-04-26T20:04:29.359Z,171416186935900
+"""huncho3001 @ CM5Ic8CaV2"" raises to 3240 and go all in",2024-04-26T20:04:26.181Z,171416186618100
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T20:04:15.937Z,171416185593700
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 150",2024-04-26T20:04:11.520Z,171416185152005
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 75",2024-04-26T20:04:11.520Z,171416185152004
+"Player stacks: #2 ""risskid_ @ BFYy5J7pfs"" (3760) | #7 ""huncho3001 @ CM5Ic8CaV2"" (3240)",2024-04-26T20:04:11.520Z,171416185152001
+"-- starting hand #29 (id: totkg4rkqmvu)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T20:04:11.520Z,171416185152000
+"-- ending hand #28 --",2024-04-26T20:04:08.594Z,171416184859402
+"""risskid_ @ BFYy5J7pfs"" collected 900 from pot",2024-04-26T20:04:08.594Z,171416184859401
+"Uncalled bet of 600 returned to ""risskid_ @ BFYy5J7pfs""",2024-04-26T20:04:08.594Z,171416184859400
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T20:04:07.743Z,171416184774300
+"""risskid_ @ BFYy5J7pfs"" bets 600",2024-04-26T20:04:04.739Z,171416184473900
+"Flop:  [7♥, K♥, 4♠]",2024-04-26T20:03:56.658Z,171416183665800
+"""huncho3001 @ CM5Ic8CaV2"" calls 450",2024-04-26T20:03:55.838Z,171416183583800
+"""risskid_ @ BFYy5J7pfs"" raises to 450",2024-04-26T20:03:51.560Z,171416183156000
+"""huncho3001 @ CM5Ic8CaV2"" calls 150",2024-04-26T20:03:45.837Z,171416182583700
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 150",2024-04-26T20:03:43.034Z,171416182303406
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 75",2024-04-26T20:03:43.034Z,171416182303405
+"Player stacks: #2 ""risskid_ @ BFYy5J7pfs"" (3310) | #7 ""huncho3001 @ CM5Ic8CaV2"" (3690)",2024-04-26T20:03:43.034Z,171416182303402
+"-- starting hand #28 (id: 6imjtmk8fiau)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T20:03:43.034Z,171416182303401
+"The player ""dr. disrespect @ crFwBVVQqY"" quits the game with a stack of 0.",2024-04-26T20:03:43.034Z,171416182303400
+"-- ending hand #27 --",2024-04-26T20:03:37.016Z,171416181701601
+"""risskid_ @ BFYy5J7pfs"" collected 2310 from pot with Pair, K's (combination: K♥, K♣, A♠, 10♥, 7♥)",2024-04-26T20:03:37.016Z,171416181701600
+"River: A♠, 7♥, 2♦, 10♥ [4♦]",2024-04-26T20:03:32.941Z,171416181294100
+"Turn: A♠, 7♥, 2♦ [10♥]",2024-04-26T20:03:28.925Z,171416180892500
+"""dr. disrespect @ crFwBVVQqY"" shows a 9♠, Q♠.",2024-04-26T20:03:24.921Z,171416180492101
+"""risskid_ @ BFYy5J7pfs"" shows a K♥, K♣.",2024-04-26T20:03:24.921Z,171416180492100
+"""risskid_ @ BFYy5J7pfs"" calls 420",2024-04-26T20:03:24.115Z,171416180411500
+"""dr. disrespect @ crFwBVVQqY"" bets 420 and go all in",2024-04-26T20:03:21.783Z,171416180178300
+"Flop:  [A♠, 7♥, 2♦]",2024-04-26T20:03:16.065Z,171416179606500
+"""dr. disrespect @ crFwBVVQqY"" calls 660",2024-04-26T20:03:15.241Z,171416179524100
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T20:03:10.526Z,171416179052600
+"""risskid_ @ BFYy5J7pfs"" raises to 660",2024-04-26T20:03:08.740Z,171416178874000
+"""dr. disrespect @ crFwBVVQqY"" raises to 330",2024-04-26T20:03:03.201Z,171416178320100
+"""huncho3001 @ CM5Ic8CaV2"" calls 150",2024-04-26T20:02:59.731Z,171416177973100
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T20:02:56.380Z,171416177638000
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 150",2024-04-26T20:02:53.267Z,171416177326706
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 75",2024-04-26T20:02:53.267Z,171416177326705
+"Player stacks: #2 ""risskid_ @ BFYy5J7pfs"" (2080) | #7 ""huncho3001 @ CM5Ic8CaV2"" (3840) | #8 ""dr. disrespect @ crFwBVVQqY"" (1080)",2024-04-26T20:02:53.267Z,171416177326701
+"-- starting hand #27 (id: 7euqdxlhgdah)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T20:02:53.267Z,171416177326700
+"-- ending hand #26 --",2024-04-26T20:02:50.332Z,171416177033202
+"""huncho3001 @ CM5Ic8CaV2"" collected 300 from pot",2024-04-26T20:02:50.332Z,171416177033201
+"Uncalled bet of 150 returned to ""huncho3001 @ CM5Ic8CaV2""",2024-04-26T20:02:50.332Z,171416177033200
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T20:02:49.499Z,171416176949900
+"""huncho3001 @ CM5Ic8CaV2"" bets 150",2024-04-26T20:02:48.391Z,171416176839100
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T20:02:44.918Z,171416176491800
+"Flop:  [A♦, 5♠, 2♠]",2024-04-26T20:02:41.456Z,171416176145600
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T20:02:40.646Z,171416176064600
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T20:02:38.311Z,171416175831100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T20:02:36.277Z,171416175627700
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 150",2024-04-26T20:02:33.938Z,171416175393807
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 75",2024-04-26T20:02:33.938Z,171416175393806
+"Player stacks: #2 ""risskid_ @ BFYy5J7pfs"" (2230) | #7 ""huncho3001 @ CM5Ic8CaV2"" (3690) | #8 ""dr. disrespect @ crFwBVVQqY"" (1080)",2024-04-26T20:02:33.938Z,171416175393802
+"-- starting hand #26 (id: rhvy7ybyuepc)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T20:02:33.938Z,171416175393801
+"The player ""akarvat @ oDlSGRCrSp"" quits the game with a stack of 0.",2024-04-26T20:02:33.938Z,171416175393800
+"-- ending hand #25 --",2024-04-26T20:02:27.934Z,171416174793405
+"""akarvat @ oDlSGRCrSp"" shows a 7♥, 6♣.",2024-04-26T20:02:27.934Z,171416174793404
+"""risskid_ @ BFYy5J7pfs"" collected 300 from pot with Flush, As High (combination: A♠, J♠, 10♠, 9♠, 3♠)",2024-04-26T20:02:27.934Z,171416174793403
+"""risskid_ @ BFYy5J7pfs"" collected 600 from pot with Flush, As High (combination: A♠, J♠, 10♠, 9♠, 3♠)",2024-04-26T20:02:27.934Z,171416174793402
+"""risskid_ @ BFYy5J7pfs"" shows a 3♣, A♠.",2024-04-26T20:02:27.934Z,171416174793401
+"Uncalled bet of 1330 returned to ""risskid_ @ BFYy5J7pfs""",2024-04-26T20:02:27.934Z,171416174793400
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T20:02:27.116Z,171416174711600
+"""risskid_ @ BFYy5J7pfs"" bets 1330 and go all in",2024-04-26T20:02:25.505Z,171416174550500
+"River: 9♠, 10♥, 3♠, J♠ [10♠]",2024-04-26T20:02:19.202Z,171416173920200
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T20:02:18.362Z,171416173836200
+"""huncho3001 @ CM5Ic8CaV2"" bets 150",2024-04-26T20:02:16.008Z,171416173600800
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T20:02:12.777Z,171416173277700
+"Turn: 9♠, 10♥, 3♠ [J♠]",2024-04-26T20:02:09.755Z,171416172975500
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T20:02:08.939Z,171416172893900
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T20:02:06.838Z,171416172683800
+"Flop:  [9♠, 10♥, 3♠]",2024-04-26T20:02:03.025Z,171416172302500
+"""huncho3001 @ CM5Ic8CaV2"" calls 200",2024-04-26T20:02:02.211Z,171416172221100
+"""risskid_ @ BFYy5J7pfs"" calls 200",2024-04-26T20:02:00.099Z,171416172009900
+"""akarvat @ oDlSGRCrSp"" raises to 200 and go all in",2024-04-26T20:01:55.771Z,171416171577100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T20:01:52.747Z,171416171274700
+"""huncho3001 @ CM5Ic8CaV2"" calls 150",2024-04-26T20:01:51.391Z,171416171139100
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 150",2024-04-26T20:01:48.798Z,171416170879807
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T20:01:48.798Z,171416170879806
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (200) | #2 ""risskid_ @ BFYy5J7pfs"" (1680) | #7 ""huncho3001 @ CM5Ic8CaV2"" (4040) | #8 ""dr. disrespect @ crFwBVVQqY"" (1080)",2024-04-26T20:01:48.798Z,171416170879801
+"-- starting hand #25 (id: fg9sgb5vgl32)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-26T20:01:48.798Z,171416170879800
+"-- ending hand #24 --",2024-04-26T20:01:42.794Z,171416170279405
+"""huncho3001 @ CM5Ic8CaV2"" collected 900 from pot with Two Pair, J's & 9's (combination: J♦, J♣, 9♠, 9♣, 6♥)",2024-04-26T20:01:42.794Z,171416170279404
+"""huncho3001 @ CM5Ic8CaV2"" shows a 6♥, 6♦.",2024-04-26T20:01:42.794Z,171416170279403
+"""akarvat @ oDlSGRCrSp"" collected 200 from pot with Full House, 9's over J's (combination: 9♥, 9♠, 9♣, J♦, J♣)",2024-04-26T20:01:42.794Z,171416170279402
+"""akarvat @ oDlSGRCrSp"" shows a 9♥, A♦.",2024-04-26T20:01:42.794Z,171416170279401
+"Uncalled bet of 700 returned to ""huncho3001 @ CM5Ic8CaV2""",2024-04-26T20:01:42.794Z,171416170279400
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T20:01:41.964Z,171416170196400
+"""huncho3001 @ CM5Ic8CaV2"" bets 700",2024-04-26T20:01:39.858Z,171416169985800
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T20:01:29.386Z,171416168938600
+"River: 9♠, 3♠, J♦, J♣ [9♣]",2024-04-26T20:01:24.971Z,171416168497100
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T20:01:24.158Z,171416168415800
+"""dr. disrespect @ crFwBVVQqY"" calls 300",2024-04-26T20:01:20.324Z,171416168032400
+"""huncho3001 @ CM5Ic8CaV2"" bets 300",2024-04-26T20:01:18.242Z,171416167824200
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T20:01:13.517Z,171416167351700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T20:01:11.419Z,171416167141900
+"Turn: 9♠, 3♠, J♦ [J♣]",2024-04-26T20:01:09.269Z,171416166926900
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T20:01:08.405Z,171416166840500
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T20:01:05.937Z,171416166593700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T20:01:03.374Z,171416166337400
+"Flop:  [9♠, 3♠, J♦]",2024-04-26T20:01:00.903Z,171416166090300
+"""dr. disrespect @ crFwBVVQqY"" calls 150",2024-04-26T20:01:00.086Z,171416166008600
+"""huncho3001 @ CM5Ic8CaV2"" calls 150",2024-04-26T20:00:58.390Z,171416165839000
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T20:00:56.197Z,171416165619700
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 50 and go all in ",2024-04-26T20:00:52.193Z,171416165219307
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 75",2024-04-26T20:00:52.193Z,171416165219306
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (50) | #2 ""risskid_ @ BFYy5J7pfs"" (1830) | #7 ""huncho3001 @ CM5Ic8CaV2"" (3590) | #8 ""dr. disrespect @ crFwBVVQqY"" (1530)",2024-04-26T20:00:52.193Z,171416165219301
+"-- starting hand #24 (id: 7rkmly0f4xmk)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T20:00:52.193Z,171416165219300
+"""dr. disrespect @ crFwBVVQqY"" shows a 2♣, 8♦.",2024-04-26T20:00:49.605Z,171416164960500
+"-- ending hand #23 --",2024-04-26T20:00:45.663Z,171416164566301
+"""huncho3001 @ CM5Ic8CaV2"" collected 3590 from pot with Flush, Ah High (combination: A♥, K♥, J♥, 10♥, 2♥)",2024-04-26T20:00:45.663Z,171416164566300
+"River: A♥, J♥, A♦, K♥ [5♠]",2024-04-26T20:00:41.621Z,171416164162100
+"Turn: A♥, J♥, A♦ [K♥]",2024-04-26T20:00:37.607Z,171416163760700
+"Flop:  [A♥, J♥, A♦]",2024-04-26T20:00:33.564Z,171416163356400
+"""huncho3001 @ CM5Ic8CaV2"" shows a 10♥, 2♥.",2024-04-26T20:00:29.553Z,171416162955302
+"""akarvat @ oDlSGRCrSp"" shows a 9♦, K♠.",2024-04-26T20:00:29.553Z,171416162955301
+"Uncalled bet of 50 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T20:00:29.553Z,171416162955300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T20:00:28.704Z,171416162870400
+"""huncho3001 @ CM5Ic8CaV2"" calls 1720 and go all in",2024-04-26T20:00:08.342Z,171416160834200
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:59:59.037Z,171416159903700
+"""akarvat @ oDlSGRCrSp"" raises to 1770 and go all in",2024-04-26T19:59:55.057Z,171416159505700
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 150",2024-04-26T19:59:51.715Z,171416159171509
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 75",2024-04-26T19:59:51.715Z,171416159171508
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1770) | #2 ""risskid_ @ BFYy5J7pfs"" (1830) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1720) | #8 ""dr. disrespect @ crFwBVVQqY"" (1680)",2024-04-26T19:59:51.715Z,171416159171503
+"-- starting hand #23 (id: nuoteixdteyf)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T19:59:51.715Z,171416159171502
+"The game's big blind was changed from 100 to 150.",2024-04-26T19:59:51.715Z,171416159171501
+"The game's small blind was changed from 50 to 75.",2024-04-26T19:59:51.715Z,171416159171500
+"-- ending hand #22 --",2024-04-26T19:59:48.767Z,171416158876702
+"""akarvat @ oDlSGRCrSp"" collected 250 from pot",2024-04-26T19:59:48.767Z,171416158876701
+"Uncalled bet of 1520 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:59:48.767Z,171416158876700
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:59:47.950Z,171416158795000
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:59:42.656Z,171416158265600
+"""akarvat @ oDlSGRCrSp"" raises to 1620 and go all in",2024-04-26T19:59:41.248Z,171416158124800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:59:37.126Z,171416157712600
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 100",2024-04-26T19:59:34.013Z,171416157401307
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 50",2024-04-26T19:59:34.013Z,171416157401306
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1620) | #2 ""risskid_ @ BFYy5J7pfs"" (1880) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1820) | #8 ""dr. disrespect @ crFwBVVQqY"" (1680)",2024-04-26T19:59:34.013Z,171416157401301
+"-- starting hand #22 (id: 8frs14fyonsp)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T19:59:34.013Z,171416157401300
+"-- ending hand #21 --",2024-04-26T19:59:31.075Z,171416157107502
+"""akarvat @ oDlSGRCrSp"" collected 200 from pot",2024-04-26T19:59:31.075Z,171416157107501
+"Uncalled bet of 1420 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:59:31.075Z,171416157107500
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:59:30.258Z,171416157025800
+"""akarvat @ oDlSGRCrSp"" raises to 1520 and go all in",2024-04-26T19:59:23.613Z,171416156361300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:59:20.079Z,171416156007900
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:59:19.159Z,171416155915900
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 100",2024-04-26T19:59:16.791Z,171416155679107
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T19:59:16.791Z,171416155679106
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1520) | #2 ""risskid_ @ BFYy5J7pfs"" (1980) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1820) | #8 ""dr. disrespect @ crFwBVVQqY"" (1680)",2024-04-26T19:59:16.791Z,171416155679101
+"-- starting hand #21 (id: jn7wf42kxhkl)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-26T19:59:16.791Z,171416155679100
+"-- ending hand #20 --",2024-04-26T19:59:10.786Z,171416155078601
+"""huncho3001 @ CM5Ic8CaV2"" collected 1820 from pot with Flush, Qd High (combination: Q♦, 10♦, 9♦, 3♦, 2♦)",2024-04-26T19:59:10.786Z,171416155078600
+"River: 3♦, Q♦, 2♦, K♣ [2♥]",2024-04-26T19:59:06.743Z,171416154674300
+"Turn: 3♦, Q♦, 2♦ [K♣]",2024-04-26T19:59:02.728Z,171416154272800
+"Flop:  [3♦, Q♦, 2♦]",2024-04-26T19:58:58.717Z,171416153871700
+"""huncho3001 @ CM5Ic8CaV2"" shows a 9♦, 10♦.",2024-04-26T19:58:54.687Z,171416153468702
+"""akarvat @ oDlSGRCrSp"" shows a 7♠, 4♣.",2024-04-26T19:58:54.687Z,171416153468701
+"Uncalled bet of 1245 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:58:54.687Z,171416153468700
+"""huncho3001 @ CM5Ic8CaV2"" calls 835 and go all in",2024-04-26T19:58:53.868Z,171416153386800
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:58:51.065Z,171416153106500
+"""akarvat @ oDlSGRCrSp"" raises to 2080",2024-04-26T19:58:48.052Z,171416152805200
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:58:44.973Z,171416152497300
+"""huncho3001 @ CM5Ic8CaV2"" calls 100",2024-04-26T19:58:39.654Z,171416151965400
+"""risskid_ @ BFYy5J7pfs"" calls 100",2024-04-26T19:58:32.057Z,171416151205700
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 100",2024-04-26T19:58:24.796Z,171416150479607
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 50",2024-04-26T19:58:24.796Z,171416150479606
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (2355) | #2 ""risskid_ @ BFYy5J7pfs"" (2080) | #7 ""huncho3001 @ CM5Ic8CaV2"" (835) | #8 ""dr. disrespect @ crFwBVVQqY"" (1730)",2024-04-26T19:58:24.796Z,171416150479601
+"-- starting hand #20 (id: oozaei2dwfrd)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T19:58:24.796Z,171416150479600
+"-- ending hand #19 --",2024-04-26T19:58:18.788Z,171416149878801
+"""risskid_ @ BFYy5J7pfs"" collected 2080 from pot with K High (combination: K♥, 10♥, 9♦, 8♣, 7♦)",2024-04-26T19:58:18.788Z,171416149878800
+"River: 3♦, 2♥, 10♥, 9♦ [7♦]",2024-04-26T19:58:14.781Z,171416149478100
+"Turn: 3♦, 2♥, 10♥ [9♦]",2024-04-26T19:58:10.734Z,171416149073400
+"Flop:  [3♦, 2♥, 10♥]",2024-04-26T19:58:06.727Z,171416148672700
+"""risskid_ @ BFYy5J7pfs"" shows a 8♣, K♥.",2024-04-26T19:58:02.675Z,171416148267502
+"""akarvat @ oDlSGRCrSp"" shows a 5♣, K♦.",2024-04-26T19:58:02.675Z,171416148267501
+"Uncalled bet of 865 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:58:02.675Z,171416148267500
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:58:01.841Z,171416148184100
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:58:00.910Z,171416148091000
+"""risskid_ @ BFYy5J7pfs"" calls 965 and go all in",2024-04-26T19:57:57.578Z,171416147757800
+"""akarvat @ oDlSGRCrSp"" raises to 1830",2024-04-26T19:57:52.337Z,171416147233700
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 100",2024-04-26T19:57:48.384Z,171416146838408
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 50",2024-04-26T19:57:48.384Z,171416146838407
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (3320) | #2 ""risskid_ @ BFYy5J7pfs"" (965) | #7 ""huncho3001 @ CM5Ic8CaV2"" (885) | #8 ""dr. disrespect @ crFwBVVQqY"" (1830)",2024-04-26T19:57:48.384Z,171416146838402
+"-- starting hand #19 (id: dnn4lr9rjozb)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T19:57:48.384Z,171416146838401
+"The player ""trillveeeeeech @ ENp71Ra0t-"" quits the game with a stack of 0.",2024-04-26T19:57:48.384Z,171416146838400
+"-- ending hand #18 --",2024-04-26T19:57:42.377Z,171416146237701
+"""akarvat @ oDlSGRCrSp"" collected 2420 from pot with Two Pair, 10's & 8's (combination: 10♥, 10♠, 8♥, 8♦, K♥)",2024-04-26T19:57:42.377Z,171416146237700
+"River: K♥, 8♦, 4♦, 4♠ [10♠]",2024-04-26T19:57:38.369Z,171416145836900
+"Turn: K♥, 8♦, 4♦ [4♠]",2024-04-26T19:57:34.293Z,171416145429300
+"Flop:  [K♥, 8♦, 4♦]",2024-04-26T19:57:30.284Z,171416145028400
+"""trillveeeeeech @ ENp71Ra0t-"" shows a 5♠, 5♣.",2024-04-26T19:57:26.253Z,171416144625301
+"""akarvat @ oDlSGRCrSp"" shows a 8♥, 10♥.",2024-04-26T19:57:26.253Z,171416144625300
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:57:25.431Z,171416144543100
+"""trillveeeeeech @ ENp71Ra0t-"" calls 1160 and go all in",2024-04-26T19:57:23.159Z,171416144315900
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:57:21.575Z,171416144157500
+"""akarvat @ oDlSGRCrSp"" raises to 1160",2024-04-26T19:57:20.443Z,171416144044300
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:57:17.447Z,171416143744700
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 100",2024-04-26T19:57:11.937Z,171416143193709
+"Dead Small Blind",2024-04-26T19:57:11.937Z,171416143193708
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (2060) | #2 ""risskid_ @ BFYy5J7pfs"" (965) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1160) | #7 ""huncho3001 @ CM5Ic8CaV2"" (985) | #8 ""dr. disrespect @ crFwBVVQqY"" (1830)",2024-04-26T19:57:11.937Z,171416143193702
+"-- starting hand #18 (id: swpk3j0zoqnj)  (No Limit Texas Hold'em) (dealer: ""trillveeeeeech @ ENp71Ra0t-"") --",2024-04-26T19:57:11.937Z,171416143193701
+"The player ""JimmyLongwood @ RI0-p7hOKE"" quits the game with a stack of 0.",2024-04-26T19:57:11.937Z,171416143193700
+"""trillveeeeeech @ ENp71Ra0t-"" shows a 7♠, K♥.",2024-04-26T19:57:08.602Z,171416142860200
+"""dr. disrespect @ crFwBVVQqY"" shows a 3♣, 9♥.",2024-04-26T19:57:05.867Z,171416142586700
+"-- ending hand #17 --",2024-04-26T19:57:04.922Z,171416142492201
+"""akarvat @ oDlSGRCrSp"" collected 1600 from pot with Three of a Kind, 8's (combination: 8♦, 8♠, 8♣, Q♣, J♥)",2024-04-26T19:57:04.922Z,171416142492200
+"River: 8♣, Q♣, J♥, 2♦ [10♣]",2024-04-26T19:57:00.915Z,171416142091500
+"Turn: 8♣, Q♣, J♥ [2♦]",2024-04-26T19:56:56.847Z,171416141684700
+"Flop:  [8♣, Q♣, J♥]",2024-04-26T19:56:52.827Z,171416141282700
+"""JimmyLongwood @ RI0-p7hOKE"" shows a J♦, K♦.",2024-04-26T19:56:48.825Z,171416140882502
+"""akarvat @ oDlSGRCrSp"" shows a 8♦, 8♠.",2024-04-26T19:56:48.825Z,171416140882501
+"Uncalled bet of 435 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:56:48.825Z,171416140882500
+"""JimmyLongwood @ RI0-p7hOKE"" calls 775 and go all in",2024-04-26T19:56:48.004Z,171416140800400
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:56:43.724Z,171416140372400
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:56:42.863Z,171416140286300
+"""akarvat @ oDlSGRCrSp"" raises to 1210",2024-04-26T19:56:40.216Z,171416140021600
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:56:29.982Z,171416138998200
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:56:28.994Z,171416138899400
+"""JimmyLongwood @ RI0-p7hOKE"" posts a big blind of 100",2024-04-26T19:56:26.169Z,171416138616909
+"""trillveeeeeech @ ENp71Ra0t-"" posts a small blind of 50",2024-04-26T19:56:26.169Z,171416138616908
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1235) | #2 ""risskid_ @ BFYy5J7pfs"" (965) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1210) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (775) | #7 ""huncho3001 @ CM5Ic8CaV2"" (985) | #8 ""dr. disrespect @ crFwBVVQqY"" (1830)",2024-04-26T19:56:26.169Z,171416138616901
+"-- starting hand #17 (id: t4jyzekgxw2z)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T19:56:26.169Z,171416138616900
+"-- ending hand #16 --",2024-04-26T19:56:23.244Z,171416138324402
+"""dr. disrespect @ crFwBVVQqY"" collected 830 from pot",2024-04-26T19:56:23.244Z,171416138324401
+"Uncalled bet of 1000 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-26T19:56:23.244Z,171416138324400
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:56:22.422Z,171416138242200
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:56:12.447Z,171416137244700
+"""dr. disrespect @ crFwBVVQqY"" bets 1000 and go all in",2024-04-26T19:56:09.587Z,171416136958700
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:56:06.564Z,171416136656400
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:55:57.599Z,171416135759900
+"Flop:  [A♠, 9♦, 2♦]",2024-04-26T19:55:55.562Z,171416135556200
+"""huncho3001 @ CM5Ic8CaV2"" calls 260",2024-04-26T19:55:54.731Z,171416135473100
+"""trillveeeeeech @ ENp71Ra0t-"" calls 260",2024-04-26T19:55:41.887Z,171416134188700
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:55:37.236Z,171416133723600
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:55:36.017Z,171416133601700
+"""dr. disrespect @ crFwBVVQqY"" raises to 260",2024-04-26T19:55:34.434Z,171416133443400
+"""huncho3001 @ CM5Ic8CaV2"" calls 100",2024-04-26T19:55:30.960Z,171416133096000
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:55:25.129Z,171416132512900
+"""trillveeeeeech @ ENp71Ra0t-"" posts a big blind of 100",2024-04-26T19:55:21.803Z,171416132180309
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 50",2024-04-26T19:55:21.803Z,171416132180308
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1235) | #2 ""risskid_ @ BFYy5J7pfs"" (1015) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1470) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (775) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1245) | #8 ""dr. disrespect @ crFwBVVQqY"" (1260)",2024-04-26T19:55:21.803Z,171416132180301
+"-- starting hand #16 (id: striiqccvmvq)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T19:55:21.803Z,171416132180300
+"""trillveeeeeech @ ENp71Ra0t-"" shows a 2♣, 2♥.",2024-04-26T19:55:20.670Z,171416132067000
+"-- ending hand #15 --",2024-04-26T19:55:18.187Z,171416131818702
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T19:55:18.187Z,171416131818701
+"Uncalled bet of 935 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T19:55:18.187Z,171416131818700
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:55:17.362Z,171416131736200
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:55:06.338Z,171416130633800
+"""akarvat @ oDlSGRCrSp"" raises to 1035 and go all in",2024-04-26T19:55:01.400Z,171416130140000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:54:57.413Z,171416129741300
+"""huncho3001 @ CM5Ic8CaV2"" calls 100",2024-04-26T19:54:56.488Z,171416129648800
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:54:49.946Z,171416128994600
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:54:43.057Z,171416128305700
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 100",2024-04-26T19:54:41.115Z,171416128111511
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T19:54:41.115Z,171416128111510
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1035) | #2 ""risskid_ @ BFYy5J7pfs"" (1115) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1470) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (775) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1345) | #8 ""dr. disrespect @ crFwBVVQqY"" (1260)",2024-04-26T19:54:41.115Z,171416128111503
+"-- starting hand #15 (id: swznxki4dcko)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-26T19:54:41.115Z,171416128111502
+"The game's big blind was changed from 60 to 100.",2024-04-26T19:54:41.115Z,171416128111501
+"The game's small blind was changed from 30 to 50.",2024-04-26T19:54:41.115Z,171416128111500
+"-- ending hand #14 --",2024-04-26T19:54:35.077Z,171416127507704
+"""dr. disrespect @ crFwBVVQqY"" collected 570 from pot with Two Pair, 9's & 4's (combination: 9♦, 9♣, 4♠, 4♥, A♠)",2024-04-26T19:54:35.077Z,171416127507703
+"""dr. disrespect @ crFwBVVQqY"" shows a 4♠, A♠.",2024-04-26T19:54:35.077Z,171416127507702
+"""akarvat @ oDlSGRCrSp"" collected 1035 from pot with Two Pair, A's & 9's (combination: A♥, A♦, 9♦, 9♣, J♣)",2024-04-26T19:54:35.077Z,171416127507701
+"""akarvat @ oDlSGRCrSp"" shows a A♥, A♦.",2024-04-26T19:54:35.077Z,171416127507700
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:54:34.257Z,171416127425700
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:54:32.092Z,171416127209200
+"River: 4♥, J♣, 5♥, 9♦ [9♣]",2024-04-26T19:54:26.702Z,171416126670200
+"""risskid_ @ BFYy5J7pfs"" calls 120",2024-04-26T19:54:25.868Z,171416126586800
+"""dr. disrespect @ crFwBVVQqY"" bets 120",2024-04-26T19:54:22.630Z,171416126263000
+"Turn: 4♥, J♣, 5♥ [9♦]",2024-04-26T19:54:19.495Z,171416125949500
+"""risskid_ @ BFYy5J7pfs"" calls 60",2024-04-26T19:54:18.659Z,171416125865900
+"""dr. disrespect @ crFwBVVQqY"" bets 60",2024-04-26T19:54:15.915Z,171416125591500
+"Flop:  [4♥, J♣, 5♥]",2024-04-26T19:54:11.244Z,171416125124400
+"""dr. disrespect @ crFwBVVQqY"" calls 450",2024-04-26T19:54:10.408Z,171416125040800
+"""risskid_ @ BFYy5J7pfs"" raises to 450",2024-04-26T19:54:07.877Z,171416124787700
+"""akarvat @ oDlSGRCrSp"" raises to 345 and go all in",2024-04-26T19:54:03.335Z,171416124333500
+"""dr. disrespect @ crFwBVVQqY"" calls 240",2024-04-26T19:53:59.972Z,171416123997200
+"""risskid_ @ BFYy5J7pfs"" raises to 240",2024-04-26T19:53:57.617Z,171416123761700
+"""akarvat @ oDlSGRCrSp"" calls 150",2024-04-26T19:53:53.609Z,171416123360900
+"""dr. disrespect @ crFwBVVQqY"" raises to 150",2024-04-26T19:53:51.710Z,171416123171000
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:53:43.333Z,171416122333300
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:53:40.857Z,171416122085700
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:53:39.934Z,171416121993400
+"""risskid_ @ BFYy5J7pfs"" calls 60",2024-04-26T19:53:39.037Z,171416121903700
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 60",2024-04-26T19:53:35.884Z,171416121588409
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 30",2024-04-26T19:53:35.884Z,171416121588408
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (345) | #2 ""risskid_ @ BFYy5J7pfs"" (1745) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1470) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (775) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1345) | #8 ""dr. disrespect @ crFwBVVQqY"" (1320)",2024-04-26T19:53:35.884Z,171416121588401
+"-- starting hand #14 (id: w5anbzenu4v6)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T19:53:35.884Z,171416121588400
+"""risskid_ @ BFYy5J7pfs"" shows a 5♣, 5♥.",2024-04-26T19:53:33.391Z,171416121339100
+"""akarvat @ oDlSGRCrSp"" shows a A♣, K♦.",2024-04-26T19:53:31.225Z,171416121122500
+"-- ending hand #13 --",2024-04-26T19:53:28.878Z,171416120887802
+"""huncho3001 @ CM5Ic8CaV2"" collected 1050 from pot with Full House, 10's over 6's (combination: 10♣, 10♠, 10♥, 6♥, 6♣)",2024-04-26T19:53:28.878Z,171416120887801
+"""huncho3001 @ CM5Ic8CaV2"" shows a 10♣, 6♥.",2024-04-26T19:53:28.878Z,171416120887800
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:53:28.052Z,171416120805200
+"""akarvat @ oDlSGRCrSp"" calls 315",2024-04-26T19:53:22.320Z,171416120232000
+"""huncho3001 @ CM5Ic8CaV2"" bets 315",2024-04-26T19:53:20.788Z,171416120078800
+"River: 6♣, 10♠, 10♥, K♠ [2♦]",2024-04-26T19:53:15.451Z,171416119545100
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:53:14.617Z,171416119461700
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T19:53:12.612Z,171416119261200
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:53:10.160Z,171416119016000
+"Turn: 6♣, 10♠, 10♥ [K♠]",2024-04-26T19:53:06.570Z,171416118657000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:53:05.692Z,171416118569200
+"""huncho3001 @ CM5Ic8CaV2"" calls 60",2024-04-26T19:53:04.712Z,171416118471200
+"""risskid_ @ BFYy5J7pfs"" calls 60",2024-04-26T19:52:57.523Z,171416117752300
+"""akarvat @ oDlSGRCrSp"" bets 60",2024-04-26T19:52:55.669Z,171416117566900
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:52:54.217Z,171416117421700
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:52:53.161Z,171416117316100
+"Flop:  [6♣, 10♠, 10♥]",2024-04-26T19:52:49.834Z,171416116983400
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:52:49.023Z,171416116902300
+"""huncho3001 @ CM5Ic8CaV2"" calls 60",2024-04-26T19:52:45.690Z,171416116569000
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:52:43.871Z,171416116387100
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:52:41.326Z,171416116132600
+"""risskid_ @ BFYy5J7pfs"" calls 60",2024-04-26T19:52:35.077Z,171416115507700
+"""akarvat @ oDlSGRCrSp"" calls 60",2024-04-26T19:52:32.263Z,171416115226300
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 60",2024-04-26T19:52:30.713Z,171416115071309
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 30",2024-04-26T19:52:30.713Z,171416115071308
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (780) | #2 ""risskid_ @ BFYy5J7pfs"" (1865) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1470) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (775) | #7 ""huncho3001 @ CM5Ic8CaV2"" (730) | #8 ""dr. disrespect @ crFwBVVQqY"" (1380)",2024-04-26T19:52:30.713Z,171416115071301
+"-- starting hand #13 (id: 8uavoifp1js9)  (No Limit Texas Hold'em) (dealer: ""JimmyLongwood @ RI0-p7hOKE"") --",2024-04-26T19:52:30.713Z,171416115071300
+"-- ending hand #12 --",2024-04-26T19:52:27.717Z,171416114771702
+"""risskid_ @ BFYy5J7pfs"" collected 150 from pot",2024-04-26T19:52:27.717Z,171416114771701
+"Uncalled bet of 60 returned to ""risskid_ @ BFYy5J7pfs""",2024-04-26T19:52:27.717Z,171416114771700
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:52:26.885Z,171416114688500
+"""risskid_ @ BFYy5J7pfs"" bets 60",2024-04-26T19:52:25.458Z,171416114545800
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:52:22.661Z,171416114266100
+"Turn: 8♥, 2♦, 8♠ [J♦]",2024-04-26T19:52:20.699Z,171416114069900
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:52:19.837Z,171416113983700
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:52:17.798Z,171416113779800
+"Flop:  [8♥, 2♦, 8♠]",2024-04-26T19:52:13.980Z,171416113398000
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:52:13.110Z,171416113311000
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:52:03.281Z,171416112328100
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:52:02.346Z,171416112234600
+"""risskid_ @ BFYy5J7pfs"" calls 60",2024-04-26T19:52:00.798Z,171416112079800
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:51:59.171Z,171416111917100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:51:57.072Z,171416111707200
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 60",2024-04-26T19:51:54.219Z,171416111421909
+"""JimmyLongwood @ RI0-p7hOKE"" posts a small blind of 30",2024-04-26T19:51:54.219Z,171416111421908
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (780) | #2 ""risskid_ @ BFYy5J7pfs"" (1775) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1470) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (805) | #7 ""huncho3001 @ CM5Ic8CaV2"" (790) | #8 ""dr. disrespect @ crFwBVVQqY"" (1380)",2024-04-26T19:51:54.219Z,171416111421901
+"-- starting hand #12 (id: 9647idcalqwg)  (No Limit Texas Hold'em) (dealer: ""trillveeeeeech @ ENp71Ra0t-"") --",2024-04-26T19:51:54.219Z,171416111421900
+"-- ending hand #11 --",2024-04-26T19:51:51.304Z,171416111130402
+"""trillveeeeeech @ ENp71Ra0t-"" collected 180 from pot",2024-04-26T19:51:51.304Z,171416111130401
+"Uncalled bet of 60 returned to ""trillveeeeeech @ ENp71Ra0t-""",2024-04-26T19:51:51.304Z,171416111130400
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:51:50.458Z,171416111045800
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:51:45.091Z,171416110509100
+"""trillveeeeeech @ ENp71Ra0t-"" bets 60",2024-04-26T19:51:36.482Z,171416109648200
+"Flop:  [10♣, 4♣, 5♦]",2024-04-26T19:51:34.069Z,171416109406900
+"""JimmyLongwood @ RI0-p7hOKE"" checks",2024-04-26T19:51:33.249Z,171416109324900
+"""trillveeeeeech @ ENp71Ra0t-"" calls 60",2024-04-26T19:51:12.945Z,171416107294500
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:51:08.105Z,171416106810500
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:51:06.968Z,171416106696800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:51:02.956Z,171416106295600
+"""huncho3001 @ CM5Ic8CaV2"" calls 60",2024-04-26T19:51:00.421Z,171416106042100
+"""JimmyLongwood @ RI0-p7hOKE"" posts a big blind of 60",2024-04-26T19:50:55.577Z,171416105557709
+"""trillveeeeeech @ ENp71Ra0t-"" posts a small blind of 30",2024-04-26T19:50:55.577Z,171416105557708
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (780) | #2 ""risskid_ @ BFYy5J7pfs"" (1775) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1350) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (865) | #7 ""huncho3001 @ CM5Ic8CaV2"" (850) | #8 ""dr. disrespect @ crFwBVVQqY"" (1380)",2024-04-26T19:50:55.577Z,171416105557701
+"-- starting hand #11 (id: 4z18a3rexcmy)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T19:50:55.577Z,171416105557700
+"-- ending hand #10 --",2024-04-26T19:50:52.669Z,171416105266902
+"""huncho3001 @ CM5Ic8CaV2"" collected 330 from pot",2024-04-26T19:50:52.669Z,171416105266901
+"Uncalled bet of 120 returned to ""huncho3001 @ CM5Ic8CaV2""",2024-04-26T19:50:52.669Z,171416105266900
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:50:51.821Z,171416105182100
+"""huncho3001 @ CM5Ic8CaV2"" bets 120",2024-04-26T19:50:46.851Z,171416104685100
+"Turn: A♥, 10♥, 8♣ [9♦]",2024-04-26T19:50:39.162Z,171416103916200
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:50:38.313Z,171416103831300
+"""dr. disrespect @ crFwBVVQqY"" calls 60",2024-04-26T19:50:35.190Z,171416103519000
+"""huncho3001 @ CM5Ic8CaV2"" bets 60",2024-04-26T19:50:31.801Z,171416103180100
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:50:24.516Z,171416102451600
+"Flop:  [A♥, 10♥, 8♣]",2024-04-26T19:50:20.888Z,171416102088800
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:50:20.066Z,171416102006600
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:50:19.197Z,171416101919700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:50:06.357Z,171416100635700
+"""dr. disrespect @ crFwBVVQqY"" calls 60",2024-04-26T19:50:03.631Z,171416100363100
+"""huncho3001 @ CM5Ic8CaV2"" calls 60",2024-04-26T19:50:02.713Z,171416100271300
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:49:59.567Z,171416099956700
+"""trillveeeeeech @ ENp71Ra0t-"" posts a big blind of 60",2024-04-26T19:49:55.058Z,171416099505809
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 30",2024-04-26T19:49:55.058Z,171416099505808
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (780) | #2 ""risskid_ @ BFYy5J7pfs"" (1805) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1410) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (865) | #7 ""huncho3001 @ CM5Ic8CaV2"" (640) | #8 ""dr. disrespect @ crFwBVVQqY"" (1500)",2024-04-26T19:49:55.058Z,171416099505801
+"-- starting hand #10 (id: woiej1g6vkze)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T19:49:55.058Z,171416099505800
+"""akarvat @ oDlSGRCrSp"" shows a 7♣, J♥.",2024-04-26T19:49:50.874Z,171416099087400
+"-- ending hand #9 --",2024-04-26T19:49:48.529Z,171416098852902
+"""JimmyLongwood @ RI0-p7hOKE"" collected 865 from pot with A High (combination: A♠, K♥, Q♠, 9♥, 8♣)",2024-04-26T19:49:48.529Z,171416098852901
+"""risskid_ @ BFYy5J7pfs"" collected 865 from pot with A High (combination: A♠, K♣, Q♥, 9♥, 8♣)",2024-04-26T19:49:48.529Z,171416098852900
+"River: 9♥, 8♣, 6♣, 5♠ [A♠]",2024-04-26T19:49:44.488Z,171416098448800
+"""JimmyLongwood @ RI0-p7hOKE"" shows a Q♠, K♥.",2024-04-26T19:49:40.485Z,171416098048501
+"""risskid_ @ BFYy5J7pfs"" shows a Q♥, K♣.",2024-04-26T19:49:40.485Z,171416098048500
+"""risskid_ @ BFYy5J7pfs"" calls 150",2024-04-26T19:49:39.678Z,171416097967800
+"""JimmyLongwood @ RI0-p7hOKE"" bets 150 and go all in",2024-04-26T19:49:31.122Z,171416097112200
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:49:25.213Z,171416096521300
+"Turn: 9♥, 8♣, 6♣ [5♠]",2024-04-26T19:49:21.344Z,171416096134400
+"""risskid_ @ BFYy5J7pfs"" calls 350",2024-04-26T19:49:20.457Z,171416096045700
+"""JimmyLongwood @ RI0-p7hOKE"" bets 350",2024-04-26T19:49:12.572Z,171416095257200
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:49:09.558Z,171416094955800
+"Flop:  [9♥, 8♣, 6♣]",2024-04-26T19:49:06.337Z,171416094633700
+"""risskid_ @ BFYy5J7pfs"" calls 350",2024-04-26T19:49:05.459Z,171416094545900
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:49:03.071Z,171416094307100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:49:00.447Z,171416094044700
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:48:59.491Z,171416093949100
+"""JimmyLongwood @ RI0-p7hOKE"" raises to 350",2024-04-26T19:48:56.021Z,171416093602100
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:48:44.265Z,171416092426500
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 60",2024-04-26T19:48:42.813Z,171416092281311
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 30",2024-04-26T19:48:42.813Z,171416092281310
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (810) | #2 ""risskid_ @ BFYy5J7pfs"" (1790) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1410) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (850) | #7 ""huncho3001 @ CM5Ic8CaV2"" (640) | #8 ""dr. disrespect @ crFwBVVQqY"" (1500)",2024-04-26T19:48:42.813Z,171416092281303
+"-- starting hand #9 (id: tpabtuh3nhtf)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-26T19:48:42.813Z,171416092281302
+"The game's big blind was changed from 40 to 60.",2024-04-26T19:48:42.813Z,171416092281301
+"The game's small blind was changed from 20 to 30.",2024-04-26T19:48:42.813Z,171416092281300
+"-- ending hand #8 --",2024-04-26T19:48:39.867Z,171416091986702
+"""trillveeeeeech @ ENp71Ra0t-"" collected 360 from pot",2024-04-26T19:48:39.867Z,171416091986701
+"Uncalled bet of 200 returned to ""trillveeeeeech @ ENp71Ra0t-""",2024-04-26T19:48:39.867Z,171416091986700
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:48:39.030Z,171416091903000
+"""trillveeeeeech @ ENp71Ra0t-"" bets 200",2024-04-26T19:48:31.004Z,171416091100400
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:48:20.262Z,171416090026200
+"Turn: A♠, 9♠, 2♥ [6♠]",2024-04-26T19:48:17.597Z,171416089759700
+"""dr. disrespect @ crFwBVVQqY"" calls 80",2024-04-26T19:48:16.766Z,171416089676600
+"""trillveeeeeech @ ENp71Ra0t-"" bets 80",2024-04-26T19:48:15.358Z,171416089535800
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:48:09.375Z,171416088937500
+"Flop:  [A♠, 9♠, 2♥]",2024-04-26T19:48:03.164Z,171416088316400
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:48:02.319Z,171416088231900
+"""dr. disrespect @ crFwBVVQqY"" calls 80",2024-04-26T19:48:00.027Z,171416088002700
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:47:59.062Z,171416087906200
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:47:52.166Z,171416087216600
+"""trillveeeeeech @ ENp71Ra0t-"" raises to 80",2024-04-26T19:47:44.640Z,171416086464000
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:47:39.380Z,171416085938000
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 40",2024-04-26T19:47:34.644Z,171416085464409
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 20",2024-04-26T19:47:34.644Z,171416085464408
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (850) | #2 ""risskid_ @ BFYy5J7pfs"" (1790) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1210) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (850) | #7 ""huncho3001 @ CM5Ic8CaV2"" (640) | #8 ""dr. disrespect @ crFwBVVQqY"" (1660)",2024-04-26T19:47:34.644Z,171416085464401
+"-- starting hand #8 (id: jmrcnktnxh4w)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T19:47:34.644Z,171416085464400
+"""risskid_ @ BFYy5J7pfs"" shows a 10♠, K♥.",2024-04-26T19:47:33.357Z,171416085335700
+"""trillveeeeeech @ ENp71Ra0t-"" shows a Q♣, 9♣.",2024-04-26T19:47:31.298Z,171416085129800
+"-- ending hand #7 --",2024-04-26T19:47:30.247Z,171416085024702
+"""risskid_ @ BFYy5J7pfs"" collected 1500 from pot",2024-04-26T19:47:30.247Z,171416085024701
+"Uncalled bet of 290 returned to ""risskid_ @ BFYy5J7pfs""",2024-04-26T19:47:30.247Z,171416085024700
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:47:29.435Z,171416084943500
+"""risskid_ @ BFYy5J7pfs"" raises to 740 and go all in",2024-04-26T19:47:27.457Z,171416084745700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:47:24.147Z,171416084414700
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:47:23.201Z,171416084320100
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:47:22.286Z,171416084228600
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:47:08.510Z,171416082851000
+"""trillveeeeeech @ ENp71Ra0t-"" raises to 450",2024-04-26T19:46:54.371Z,171416081437100
+"""risskid_ @ BFYy5J7pfs"" bets 40",2024-04-26T19:46:50.337Z,171416081033700
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T19:46:47.640Z,171416080764000
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:46:46.397Z,171416080639700
+"""huncho3001 @ CM5Ic8CaV2"" checks",2024-04-26T19:46:45.431Z,171416080543100
+"Flop:  [5♥, K♦, A♦]",2024-04-26T19:46:40.892Z,171416080089200
+"""risskid_ @ BFYy5J7pfs"" calls 100",2024-04-26T19:46:40.057Z,171416080005700
+"""akarvat @ oDlSGRCrSp"" calls 100",2024-04-26T19:46:36.457Z,171416079645700
+"""dr. disrespect @ crFwBVVQqY"" calls 100",2024-04-26T19:46:35.246Z,171416079524600
+"""huncho3001 @ CM5Ic8CaV2"" calls 100",2024-04-26T19:46:34.261Z,171416079426100
+"""JimmyLongwood @ RI0-p7hOKE"" calls 100",2024-04-26T19:46:29.349Z,171416078934900
+"""trillveeeeeech @ ENp71Ra0t-"" raises to 100",2024-04-26T19:46:16.886Z,171416077688600
+"""risskid_ @ BFYy5J7pfs"" calls 40",2024-04-26T19:46:03.146Z,171416076314600
+"""akarvat @ oDlSGRCrSp"" calls 40",2024-04-26T19:46:01.852Z,171416076185200
+"""dr. disrespect @ crFwBVVQqY"" posts a big blind of 40",2024-04-26T19:45:53.468Z,171416075346810
+"""huncho3001 @ CM5Ic8CaV2"" posts a small blind of 20",2024-04-26T19:45:53.468Z,171416075346809
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (950) | #2 ""risskid_ @ BFYy5J7pfs"" (840) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1760) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (950) | #7 ""huncho3001 @ CM5Ic8CaV2"" (740) | #8 ""dr. disrespect @ crFwBVVQqY"" (1760)",2024-04-26T19:45:53.468Z,171416075346802
+"-- starting hand #7 (id: sc1zjqyup3bb)  (No Limit Texas Hold'em) (dealer: ""JimmyLongwood @ RI0-p7hOKE"") --",2024-04-26T19:45:53.468Z,171416075346801
+"The player ""Pumpkineater69 @ B4pEZB-R0t"" quits the game with a stack of 0.",2024-04-26T19:45:53.468Z,171416075346800
+"""trillveeeeeech @ ENp71Ra0t-"" shows a 5♦, 6♣.",2024-04-26T19:45:50.386Z,171416075038600
+"-- ending hand #6 --",2024-04-26T19:45:46.939Z,171416074693901
+"""dr. disrespect @ crFwBVVQqY"" collected 1400 from pot with Straight, J High (combination: J♥, 10♥, 9♣, 8♥, 7♠)",2024-04-26T19:45:46.939Z,171416074693900
+"River: J♥, 8♥, K♦, 7♠ [9♣]",2024-04-26T19:45:42.928Z,171416074292800
+"Turn: J♥, 8♥, K♦ [7♠]",2024-04-26T19:45:38.911Z,171416073891100
+"""dr. disrespect @ crFwBVVQqY"" shows a 10♥, K♣.",2024-04-26T19:45:34.880Z,171416073488002
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a K♠, Q♥.",2024-04-26T19:45:34.880Z,171416073488001
+"Uncalled bet of 10 returned to ""dr. disrespect @ crFwBVVQqY""",2024-04-26T19:45:34.880Z,171416073488000
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 550 and go all in",2024-04-26T19:45:34.070Z,171416073407000
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:45:26.099Z,171416072609900
+"""dr. disrespect @ crFwBVVQqY"" raises to 560",2024-04-26T19:45:23.702Z,171416072370200
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 240",2024-04-26T19:45:14.296Z,171416071429600
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:45:02.739Z,171416070273900
+"""dr. disrespect @ crFwBVVQqY"" checks",2024-04-26T19:45:00.156Z,171416070015600
+"Flop:  [J♥, 8♥, K♦]",2024-04-26T19:44:55.272Z,171416069527200
+"""risskid_ @ BFYy5J7pfs"" calls 80",2024-04-26T19:44:54.459Z,171416069445900
+"""dr. disrespect @ crFwBVVQqY"" calls 80",2024-04-26T19:44:51.823Z,171416069182300
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:44:50.848Z,171416069084800
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:44:44.063Z,171416068406300
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 80",2024-04-26T19:44:43.095Z,171416068309500
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:44:39.150Z,171416067915000
+"""risskid_ @ BFYy5J7pfs"" calls 40",2024-04-26T19:44:24.379Z,171416066437900
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:44:20.692Z,171416066069200
+"""dr. disrespect @ crFwBVVQqY"" calls 40",2024-04-26T19:44:19.648Z,171416065964800
+"""huncho3001 @ CM5Ic8CaV2"" posts a big blind of 40",2024-04-26T19:44:17.707Z,171416065770710
+"""JimmyLongwood @ RI0-p7hOKE"" posts a small blind of 20",2024-04-26T19:44:17.707Z,171416065770709
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (950) | #2 ""risskid_ @ BFYy5J7pfs"" (920) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1760) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (630) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (970) | #7 ""huncho3001 @ CM5Ic8CaV2"" (780) | #8 ""dr. disrespect @ crFwBVVQqY"" (990)",2024-04-26T19:44:17.707Z,171416065770701
+"-- starting hand #6 (id: dgs2i0ilw9ev)  (No Limit Texas Hold'em) (dealer: ""Pumpkineater69 @ B4pEZB-R0t"") --",2024-04-26T19:44:17.707Z,171416065770700
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 7♥, Q♦.",2024-04-26T19:44:15.100Z,171416065510000
+"-- ending hand #5 --",2024-04-26T19:44:14.013Z,171416065401302
+"""risskid_ @ BFYy5J7pfs"" collected 420 from pot",2024-04-26T19:44:14.013Z,171416065401301
+"Uncalled bet of 500 returned to ""risskid_ @ BFYy5J7pfs""",2024-04-26T19:44:14.013Z,171416065401300
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:44:13.179Z,171416065317900
+"""risskid_ @ BFYy5J7pfs"" raises to 540 and go all in",2024-04-26T19:44:11.562Z,171416065156200
+"""JimmyLongwood @ RI0-p7hOKE"" bets 40",2024-04-26T19:44:05.798Z,171416064579800
+"River: 6♠, 5♥, 7♣, 10♣ [J♣]",2024-04-26T19:44:03.964Z,171416064396400
+"""risskid_ @ BFYy5J7pfs"" calls 40",2024-04-26T19:44:03.156Z,171416064315600
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:44:01.158Z,171416064115800
+"""JimmyLongwood @ RI0-p7hOKE"" bets 40",2024-04-26T19:43:57.423Z,171416063742300
+"Turn: 6♠, 5♥, 7♣ [10♣]",2024-04-26T19:43:55.449Z,171416063544900
+"""JimmyLongwood @ RI0-p7hOKE"" calls 40",2024-04-26T19:43:54.645Z,171416063464500
+"""risskid_ @ BFYy5J7pfs"" calls 40",2024-04-26T19:43:52.620Z,171416063262000
+"""huncho3001 @ CM5Ic8CaV2"" bets 40",2024-04-26T19:43:47.991Z,171416062799100
+"""JimmyLongwood @ RI0-p7hOKE"" checks",2024-04-26T19:43:42.919Z,171416062291900
+"Flop:  [6♠, 5♥, 7♣]",2024-04-26T19:43:38.964Z,171416061896400
+"""JimmyLongwood @ RI0-p7hOKE"" checks",2024-04-26T19:43:38.091Z,171416061809100
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T19:43:31.789Z,171416061178900
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:43:19.765Z,171416059976500
+"""risskid_ @ BFYy5J7pfs"" calls 40",2024-04-26T19:43:16.867Z,171416059686700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:43:15.338Z,171416059533800
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:43:10.338Z,171416059033800
+"""huncho3001 @ CM5Ic8CaV2"" calls 40",2024-04-26T19:43:09.244Z,171416058924400
+"""JimmyLongwood @ RI0-p7hOKE"" posts a big blind of 40",2024-04-26T19:43:03.229Z,171416058322912
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a small blind of 20",2024-04-26T19:43:03.229Z,171416058322911
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (950) | #2 ""risskid_ @ BFYy5J7pfs"" (660) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1760) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (650) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (1130) | #7 ""huncho3001 @ CM5Ic8CaV2"" (860) | #8 ""dr. disrespect @ crFwBVVQqY"" (990)",2024-04-26T19:43:03.229Z,171416058322903
+"-- starting hand #5 (id: 24akq77kcuhq)  (No Limit Texas Hold'em) (dealer: ""trillveeeeeech @ ENp71Ra0t-"") --",2024-04-26T19:43:03.229Z,171416058322902
+"The game's big blind was changed from 20 to 40.",2024-04-26T19:43:03.229Z,171416058322901
+"The game's small blind was changed from 10 to 20.",2024-04-26T19:43:03.229Z,171416058322900
+"""risskid_ @ BFYy5J7pfs"" shows a K♣, 7♠.",2024-04-26T19:42:58.438Z,171416057843800
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a J♦, J♣.",2024-04-26T19:42:57.392Z,171416057739200
+"-- ending hand #4 --",2024-04-26T19:42:56.224Z,171416057622402
+"""trillveeeeeech @ ENp71Ra0t-"" collected 1240 from pot with Two Pair, A's & 5's (combination: A♦, A♥, 5♦, 5♠, K♦)",2024-04-26T19:42:56.224Z,171416057622401
+"""trillveeeeeech @ ENp71Ra0t-"" shows a A♦, 5♦.",2024-04-26T19:42:56.224Z,171416057622400
+"""Pumpkineater69 @ B4pEZB-R0t"" checks",2024-04-26T19:42:55.382Z,171416057538200
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:42:53.815Z,171416057381500
+"River: 8♣, A♥, 6♠, 5♠ [K♦]",2024-04-26T19:42:44.925Z,171416056492500
+"""Pumpkineater69 @ B4pEZB-R0t"" calls 200",2024-04-26T19:42:44.106Z,171416056410600
+"""trillveeeeeech @ ENp71Ra0t-"" raises to 200",2024-04-26T19:42:36.847Z,171416055684700
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 20",2024-04-26T19:42:32.066Z,171416055206600
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:42:30.610Z,171416055061000
+"Turn: 8♣, A♥, 6♠ [5♠]",2024-04-26T19:42:22.704Z,171416054270400
+"""trillveeeeeech @ ENp71Ra0t-"" calls 100",2024-04-26T19:42:21.874Z,171416054187400
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:42:20.080Z,171416054008000
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 100",2024-04-26T19:42:16.008Z,171416053600800
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:42:10.649Z,171416053064900
+"Flop:  [8♣, A♥, 6♠]",2024-04-26T19:42:06.956Z,171416052695600
+"""trillveeeeeech @ ENp71Ra0t-"" calls 200",2024-04-26T19:42:06.149Z,171416052614900
+"""risskid_ @ BFYy5J7pfs"" calls 200",2024-04-26T19:42:04.400Z,171416052440000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:42:01.731Z,171416052173100
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:42:00.635Z,171416052063500
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 200",2024-04-26T19:41:54.374Z,171416051437400
+"""trillveeeeeech @ ENp71Ra0t-"" calls 20",2024-04-26T19:41:45.225Z,171416050522500
+"""risskid_ @ BFYy5J7pfs"" calls 20",2024-04-26T19:41:43.999Z,171416050399900
+"""akarvat @ oDlSGRCrSp"" calls 20",2024-04-26T19:41:42.780Z,171416050278000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:41:31.024Z,171416049102400
+"""huncho3001 @ CM5Ic8CaV2"" calls 20",2024-04-26T19:41:28.895Z,171416048889500
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:41:25.166Z,171416048516600
+"""Pumpkineater69 @ B4pEZB-R0t"" posts a big blind of 20",2024-04-26T19:41:00.138Z,171416046013811
+"""trillveeeeeech @ ENp71Ra0t-"" posts a small blind of 10",2024-04-26T19:41:00.138Z,171416046013810
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (970) | #2 ""risskid_ @ BFYy5J7pfs"" (860) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1020) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (1150) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (1130) | #7 ""huncho3001 @ CM5Ic8CaV2"" (880) | #8 ""dr. disrespect @ crFwBVVQqY"" (990)",2024-04-26T19:41:00.138Z,171416046013802
+"-- starting hand #4 (id: 5ijpppukdrqq)  (No Limit Texas Hold'em) (dealer: ""risskid_ @ BFYy5J7pfs"") --",2024-04-26T19:41:00.138Z,171416046013801
+"The player ""goodyearbut @ 6X-towkTYq"" quits the game with a stack of 1000.",2024-04-26T19:41:00.138Z,171416046013800
+"""Pumpkineater69 @ B4pEZB-R0t"" shows a 10♠, 7♣.",2024-04-26T19:40:57.454Z,171416045745400
+"-- ending hand #3 --",2024-04-26T19:40:56.500Z,171416045650002
+"""trillveeeeeech @ ENp71Ra0t-"" collected 40 from pot",2024-04-26T19:40:56.500Z,171416045650001
+"Uncalled bet of 240 returned to ""trillveeeeeech @ ENp71Ra0t-""",2024-04-26T19:40:56.500Z,171416045650000
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:40:55.651Z,171416045565100
+"""trillveeeeeech @ ENp71Ra0t-"" bets 240",2024-04-26T19:40:54.274Z,171416045427400
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:40:47.932Z,171416044793200
+"River: 5♦, 3♦, A♦, 9♥ [10♣]",2024-04-26T19:40:43.661Z,171416044366100
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:40:42.738Z,171416044273800
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:40:41.909Z,171416044190900
+"Turn: 5♦, 3♦, A♦ [9♥]",2024-04-26T19:40:38.281Z,171416043828100
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:40:37.445Z,171416043744500
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:40:36.541Z,171416043654100
+"Flop:  [5♦, 3♦, A♦]",2024-04-26T19:40:31.271Z,171416043127100
+"""trillveeeeeech @ ENp71Ra0t-"" checks",2024-04-26T19:40:30.415Z,171416043041500
+"""risskid_ @ BFYy5J7pfs"" calls 20",2024-04-26T19:40:14.534Z,171416041453400
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:40:13.420Z,171416041342000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:40:12.578Z,171416041257800
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:40:11.474Z,171416041147400
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:40:09.119Z,171416040911900
+"""goodyearbut @ 6X-towkTYq"" folds",2024-04-26T19:40:08.213Z,171416040821300
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T19:40:07.359Z,171416040735900
+"""trillveeeeeech @ ENp71Ra0t-"" posts a big blind of 20",2024-04-26T19:40:00.346Z,171416040034611
+"""risskid_ @ BFYy5J7pfs"" posts a small blind of 10",2024-04-26T19:40:00.346Z,171416040034610
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (970) | #2 ""risskid_ @ BFYy5J7pfs"" (880) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1000) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (1150) | #5 ""goodyearbut @ 6X-towkTYq"" (1000) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (1130) | #7 ""huncho3001 @ CM5Ic8CaV2"" (880) | #8 ""dr. disrespect @ crFwBVVQqY"" (990)",2024-04-26T19:40:00.346Z,171416040034601
+"-- starting hand #3 (id: 2pudkhzeijb7)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T19:40:00.346Z,171416040034600
+"-- ending hand #2 --",2024-04-26T19:39:57.396Z,171416039739602
+"""JimmyLongwood @ RI0-p7hOKE"" collected 250 from pot",2024-04-26T19:39:57.396Z,171416039739601
+"Uncalled bet of 120 returned to ""JimmyLongwood @ RI0-p7hOKE""",2024-04-26T19:39:57.396Z,171416039739600
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:39:56.585Z,171416039658500
+"""JimmyLongwood @ RI0-p7hOKE"" bets 120",2024-04-26T19:39:50.238Z,171416039023800
+"""risskid_ @ BFYy5J7pfs"" checks",2024-04-26T19:39:44.483Z,171416038448300
+"Flop:  [2♣, J♦, 5♣]",2024-04-26T19:39:40.518Z,171416038051800
+"""risskid_ @ BFYy5J7pfs"" calls 120",2024-04-26T19:39:39.677Z,171416037967700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:39:38.440Z,171416037844000
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:39:22.622Z,171416036262200
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:39:21.420Z,171416036142000
+"""JimmyLongwood @ RI0-p7hOKE"" raises to 120",2024-04-26T19:39:20.116Z,171416036011600
+"""goodyearbut @ 6X-towkTYq"" folds",2024-04-26T19:39:17.787Z,171416035778700
+"""Pumpkineater69 @ B4pEZB-R0t"" folds",2024-04-26T19:39:16.937Z,171416035693700
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:39:10.921Z,171416035092100
+"""risskid_ @ BFYy5J7pfs"" posts a big blind of 20",2024-04-26T19:38:55.902Z,171416033590211
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 10",2024-04-26T19:38:55.902Z,171416033590210
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (980) | #2 ""risskid_ @ BFYy5J7pfs"" (1000) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1000) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (1150) | #5 ""goodyearbut @ 6X-towkTYq"" (1000) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (1000) | #7 ""huncho3001 @ CM5Ic8CaV2"" (880) | #8 ""dr. disrespect @ crFwBVVQqY"" (990)",2024-04-26T19:38:55.902Z,171416033590201
+"-- starting hand #2 (id: ilng0miyd0g2)  (No Limit Texas Hold'em) (dealer: ""dr. disrespect @ crFwBVVQqY"") --",2024-04-26T19:38:55.902Z,171416033590200
+"-- ending hand #1 --",2024-04-26T19:38:52.902Z,171416033290202
+"""Pumpkineater69 @ B4pEZB-R0t"" collected 270 from pot",2024-04-26T19:38:52.902Z,171416033290201
+"Uncalled bet of 20 returned to ""Pumpkineater69 @ B4pEZB-R0t""",2024-04-26T19:38:52.902Z,171416033290200
+"""huncho3001 @ CM5Ic8CaV2"" folds",2024-04-26T19:38:52.083Z,171416033208300
+"""Pumpkineater69 @ B4pEZB-R0t"" bets 20",2024-04-26T19:38:39.877Z,171416031987700
+"Flop:  [Q♥, 8♠, K♦]",2024-04-26T19:38:34.700Z,171416031470000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T19:38:33.881Z,171416031388100
+"""dr. disrespect @ crFwBVVQqY"" folds",2024-04-26T19:38:32.557Z,171416031255700
+"""huncho3001 @ CM5Ic8CaV2"" calls 120",2024-04-26T19:38:31.599Z,171416031159900
+"""JimmyLongwood @ RI0-p7hOKE"" folds",2024-04-26T19:38:26.783Z,171416030678300
+"""goodyearbut @ 6X-towkTYq"" folds",2024-04-26T19:38:25.853Z,171416030585300
+"""Pumpkineater69 @ B4pEZB-R0t"" raises to 120",2024-04-26T19:38:09.960Z,171416028996000
+"""trillveeeeeech @ ENp71Ra0t-"" folds",2024-04-26T19:37:56.345Z,171416027634500
+"""risskid_ @ BFYy5J7pfs"" folds",2024-04-26T19:37:53.776Z,171416027377600
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 20",2024-04-26T19:37:46.630Z,171416026663019
+"""dr. disrespect @ crFwBVVQqY"" posts a small blind of 10",2024-04-26T19:37:46.630Z,171416026663018
+"Player stacks: #1 ""akarvat @ oDlSGRCrSp"" (1000) | #2 ""risskid_ @ BFYy5J7pfs"" (1000) | #3 ""trillveeeeeech @ ENp71Ra0t-"" (1000) | #4 ""Pumpkineater69 @ B4pEZB-R0t"" (1000) | #5 ""goodyearbut @ 6X-towkTYq"" (1000) | #6 ""JimmyLongwood @ RI0-p7hOKE"" (1000) | #7 ""huncho3001 @ CM5Ic8CaV2"" (1000) | #8 ""dr. disrespect @ crFwBVVQqY"" (1000)",2024-04-26T19:37:46.630Z,171416026663009
+"The player ""dr. disrespect @ crFwBVVQqY"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663008
+"The player ""huncho3001 @ CM5Ic8CaV2"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663007
+"The player ""JimmyLongwood @ RI0-p7hOKE"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663006
+"The player ""goodyearbut @ 6X-towkTYq"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663005
+"The player ""Pumpkineater69 @ B4pEZB-R0t"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663004
+"The player ""trillveeeeeech @ ENp71Ra0t-"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663003
+"The player ""risskid_ @ BFYy5J7pfs"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663002
+"The player ""akarvat @ oDlSGRCrSp"" joined the game with a stack of 1000.",2024-04-26T19:37:46.630Z,171416026663001
+"-- starting hand #1 (id: nycxpcjjzm4o)  (No Limit Texas Hold'em) (dealer: ""huncho3001 @ CM5Ic8CaV2"") --",2024-04-26T19:37:46.630Z,171416026663000

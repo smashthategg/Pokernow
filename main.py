@@ -1,5 +1,4 @@
 import os
-from sqlbuilder import build_sql_database_framework
 from reader import Reader
 
 '''
@@ -13,11 +12,13 @@ from reader import Reader
     (after they go broke) will not be recorded.
  '''
 
-r = Reader("smashthategg")
+r = Reader("smashthategg") 
 
 for fileName in os.listdir('./game_logs'): 
     r.set_csv(fileName)
     r.csv_to_txt()
     r.csv_to_data()
 
-r.print_player_as_df("smashthategg")
+
+
+r.print_all_players_as_df()

@@ -1,0 +1,688 @@
+entry,at,order
+"The player ""JurgBean @ XWESiVcu1R"" quits the game with a stack of 8000.",2024-04-26T18:42:31.023Z,171415695102300
+"The player ""CottonBet @ gzP8GfAb7P"" quits the game with a stack of 0.",2024-04-26T18:37:10.456Z,171415663045600
+"-- ending hand #29 --",2024-04-26T18:37:04.453Z,171415662445301
+"""JurgBean @ XWESiVcu1R"" collected 5860 from pot with Flush, Ad High (combination: A♦, Q♦, J♦, 10♦, 9♦)",2024-04-26T18:37:04.453Z,171415662445300
+"River: A♦, Q♦, 7♣, 10♦ [9♦]",2024-04-26T18:37:00.415Z,171415662041500
+"Turn: A♦, Q♦, 7♣ [10♦]",2024-04-26T18:36:56.382Z,171415661638200
+"Flop:  [A♦, Q♦, 7♣]",2024-04-26T18:36:52.365Z,171415661236500
+"""CottonBet @ gzP8GfAb7P"" shows a 2♠, K♠.",2024-04-26T18:36:48.322Z,171415660832201
+"""JurgBean @ XWESiVcu1R"" shows a J♦, Q♥.",2024-04-26T18:36:48.322Z,171415660832200
+"""JurgBean @ XWESiVcu1R"" calls 2930",2024-04-26T18:36:47.469Z,171415660746900
+"""CottonBet @ gzP8GfAb7P"" raises to 2930 and go all in",2024-04-26T18:36:45.245Z,171415660524500
+"""JurgBean @ XWESiVcu1R"" raises to 450",2024-04-26T18:36:42.242Z,171415660224200
+"""CottonBet @ gzP8GfAb7P"" calls 150",2024-04-26T18:36:40.073Z,171415660007300
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 150",2024-04-26T18:36:37.317Z,171415659731705
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 75",2024-04-26T18:36:37.317Z,171415659731704
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (5070) | #4 ""CottonBet @ gzP8GfAb7P"" (2930)",2024-04-26T18:36:37.317Z,171415659731701
+"-- starting hand #29 (id: zwe1nmy2b6ow)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:36:37.317Z,171415659731700
+"-- ending hand #28 --",2024-04-26T18:36:34.408Z,171415659440802
+"""CottonBet @ gzP8GfAb7P"" collected 150 from pot",2024-04-26T18:36:34.408Z,171415659440801
+"Uncalled bet of 75 returned to ""CottonBet @ gzP8GfAb7P""",2024-04-26T18:36:34.408Z,171415659440800
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:36:33.564Z,171415659356400
+"""CottonBet @ gzP8GfAb7P"" posts a big blind of 150",2024-04-26T18:36:30.911Z,171415659091106
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 75",2024-04-26T18:36:30.911Z,171415659091105
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (5145) | #4 ""CottonBet @ gzP8GfAb7P"" (2855)",2024-04-26T18:36:30.911Z,171415659091102
+"-- starting hand #28 (id: rbextmm2qpkv)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-26T18:36:30.911Z,171415659091101
+"The player ""wide1234 @ kdOt3QP_fm"" quits the game with a stack of 0.",2024-04-26T18:36:30.911Z,171415659091100
+"-- ending hand #27 --",2024-04-26T18:36:24.900Z,171415658490002
+"""JurgBean @ XWESiVcu1R"" collected 240 from pot with Full House, 10's over 7's (combination: 10♣, 10♦, 10♥, 7♠, 7♦)",2024-04-26T18:36:24.900Z,171415658490001
+"""JurgBean @ XWESiVcu1R"" collected 540 from pot with Full House, 10's over 7's (combination: 10♣, 10♦, 10♥, 7♠, 7♦)",2024-04-26T18:36:24.900Z,171415658490000
+"River: 7♠, 10♦, 10♥, 7♦ [2♦]",2024-04-26T18:36:20.896Z,171415658089600
+"Turn: 7♠, 10♦, 10♥ [7♦]",2024-04-26T18:36:16.843Z,171415657684300
+"""wide1234 @ kdOt3QP_fm"" shows a Q♠, J♣.",2024-04-26T18:36:12.776Z,171415657277602
+"""JurgBean @ XWESiVcu1R"" shows a 10♣, K♦.",2024-04-26T18:36:12.776Z,171415657277601
+"Uncalled bet of 150 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:36:12.776Z,171415657277600
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:36:11.942Z,171415657194200
+"""JurgBean @ XWESiVcu1R"" bets 150",2024-04-26T18:35:50.530Z,171415655053000
+"Flop:  [7♠, 10♦, 10♥]",2024-04-26T18:35:47.122Z,171415654712200
+"""wide1234 @ kdOt3QP_fm"" calls 180 and go all in",2024-04-26T18:35:46.243Z,171415654624300
+"""CottonBet @ gzP8GfAb7P"" calls 300",2024-04-26T18:35:45.309Z,171415654530900
+"""JurgBean @ XWESiVcu1R"" raises to 300",2024-04-26T18:35:42.550Z,171415654255000
+"""wide1234 @ kdOt3QP_fm"" calls 150",2024-04-26T18:35:40.494Z,171415654049400
+"""CottonBet @ gzP8GfAb7P"" calls 150",2024-04-26T18:35:35.875Z,171415653587500
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 150",2024-04-26T18:35:32.934Z,171415653293406
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 75",2024-04-26T18:35:32.934Z,171415653293405
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (4665) | #4 ""CottonBet @ gzP8GfAb7P"" (3155) | #6 ""wide1234 @ kdOt3QP_fm"" (180)",2024-04-26T18:35:32.934Z,171415653293401
+"-- starting hand #27 (id: yxx36kq4967b)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:35:32.934Z,171415653293400
+"-- ending hand #26 --",2024-04-26T18:35:26.920Z,171415652692001
+"""wide1234 @ kdOt3QP_fm"" collected 180 from pot with Straight, 6 High (combination: 6♠, 5♦, 4♥, 3♠, 2♦)",2024-04-26T18:35:26.920Z,171415652692000
+"River: 2♦, A♠, 6♠, 4♥ [3♠]",2024-04-26T18:35:22.909Z,171415652290900
+"Turn: 2♦, A♠, 6♠ [4♥]",2024-04-26T18:35:18.904Z,171415651890400
+"Flop:  [2♦, A♠, 6♠]",2024-04-26T18:35:14.869Z,171415651486900
+"""wide1234 @ kdOt3QP_fm"" shows a 5♦, K♠.",2024-04-26T18:35:10.814Z,171415651081402
+"""JurgBean @ XWESiVcu1R"" shows a 6♣, 9♣.",2024-04-26T18:35:10.814Z,171415651081401
+"Uncalled bet of 60 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:35:10.814Z,171415651081400
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:35:09.974Z,171415650997400
+"""JurgBean @ XWESiVcu1R"" calls 150",2024-04-26T18:35:07.328Z,171415650732800
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 90 and go all in ",2024-04-26T18:35:05.482Z,171415650548207
+"Dead Small Blind",2024-04-26T18:35:05.482Z,171415650548206
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (4755) | #4 ""CottonBet @ gzP8GfAb7P"" (3155) | #6 ""wide1234 @ kdOt3QP_fm"" (90)",2024-04-26T18:35:05.482Z,171415650548202
+"-- starting hand #26 (id: kdewxmnzcq1n)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:35:05.482Z,171415650548201
+"The player ""gremlin @ iS84Ct9CPV"" quits the game with a stack of 0.",2024-04-26T18:35:05.482Z,171415650548200
+"-- ending hand #25 --",2024-04-26T18:34:59.464Z,171415649946401
+"""JurgBean @ XWESiVcu1R"" collected 315 from pot with Three of a Kind, 10's (combination: 10♠, 10♦, 10♣, A♦, J♥)",2024-04-26T18:34:59.464Z,171415649946400
+"River: 10♣, A♦, 6♣, 4♠ [J♥]",2024-04-26T18:34:55.398Z,171415649539800
+"Turn: 10♣, A♦, 6♣ [4♠]",2024-04-26T18:34:51.370Z,171415649137000
+"Flop:  [10♣, A♦, 6♣]",2024-04-26T18:34:47.354Z,171415648735400
+"""gremlin @ iS84Ct9CPV"" shows a 8♥, 7♣.",2024-04-26T18:34:43.347Z,171415648334702
+"""JurgBean @ XWESiVcu1R"" shows a 10♠, 10♦.",2024-04-26T18:34:43.347Z,171415648334701
+"Uncalled bet of 330 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:34:43.347Z,171415648334700
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:34:42.530Z,171415648253000
+"""JurgBean @ XWESiVcu1R"" raises to 450",2024-04-26T18:34:40.670Z,171415648067000
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:34:31.329Z,171415647132900
+"""gremlin @ iS84Ct9CPV"" posts a big blind of 120 and go all in ",2024-04-26T18:34:29.412Z,171415646941207
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 75",2024-04-26T18:34:29.412Z,171415646941206
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (4560) | #4 ""CottonBet @ gzP8GfAb7P"" (3230) | #5 ""gremlin @ iS84Ct9CPV"" (120) | #6 ""wide1234 @ kdOt3QP_fm"" (90)",2024-04-26T18:34:29.412Z,171415646941201
+"-- starting hand #25 (id: dsir3gumw7fu)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-26T18:34:29.412Z,171415646941200
+"""CottonBet @ gzP8GfAb7P"" shows a 4♠, Q♠.",2024-04-26T18:34:26.963Z,171415646696300
+"-- ending hand #24 --",2024-04-26T18:34:25.807Z,171415646580702
+"""CottonBet @ gzP8GfAb7P"" collected 1350 from pot",2024-04-26T18:34:25.807Z,171415646580701
+"Uncalled bet of 300 returned to ""CottonBet @ gzP8GfAb7P""",2024-04-26T18:34:25.807Z,171415646580700
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:34:24.930Z,171415646493000
+"""CottonBet @ gzP8GfAb7P"" raises to 600",2024-04-26T18:34:20.938Z,171415646093800
+"""JurgBean @ XWESiVcu1R"" bets 300",2024-04-26T18:34:18.187Z,171415645818700
+"River: Q♦, 5♥, 4♥, Q♥ [7♠]",2024-04-26T18:34:15.040Z,171415645504000
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:34:14.221Z,171415645422100
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:34:12.113Z,171415645211300
+"Turn: Q♦, 5♥, 4♥ [Q♥]",2024-04-26T18:34:06.240Z,171415644624000
+"""JurgBean @ XWESiVcu1R"" calls 150",2024-04-26T18:34:05.394Z,171415644539400
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:34:04.481Z,171415644448100
+"""CottonBet @ gzP8GfAb7P"" bets 150",2024-04-26T18:34:02.769Z,171415644276900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:34:01.035Z,171415644103500
+"Flop:  [Q♦, 5♥, 4♥]",2024-04-26T18:33:58.365Z,171415643836500
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:33:57.499Z,171415643749900
+"""JurgBean @ XWESiVcu1R"" calls 150",2024-04-26T18:33:55.669Z,171415643566900
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:33:54.822Z,171415643482200
+"""gremlin @ iS84Ct9CPV"" calls 150",2024-04-26T18:33:51.819Z,171415643181900
+"""CottonBet @ gzP8GfAb7P"" posts a big blind of 150",2024-04-26T18:33:50.819Z,171415643081907
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 75",2024-04-26T18:33:50.819Z,171415643081906
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (5160) | #4 ""CottonBet @ gzP8GfAb7P"" (2480) | #5 ""gremlin @ iS84Ct9CPV"" (270) | #6 ""wide1234 @ kdOt3QP_fm"" (90)",2024-04-26T18:33:50.819Z,171415643081901
+"-- starting hand #24 (id: atcp13wflvjw)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:33:50.819Z,171415643081900
+"-- ending hand #23 --",2024-04-26T18:33:44.799Z,171415642479902
+"""JurgBean @ XWESiVcu1R"" collected 300 from pot with A High (combination: A♣, K♠, 10♥, 7♦, 6♥)",2024-04-26T18:33:44.799Z,171415642479901
+"""JurgBean @ XWESiVcu1R"" shows a 5♦, A♣.",2024-04-26T18:33:44.799Z,171415642479900
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:33:43.989Z,171415642398900
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:33:43.070Z,171415642307000
+"River: 6♥, 10♥, 7♦, K♠ [3♠]",2024-04-26T18:33:41.335Z,171415642133500
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:33:40.502Z,171415642050200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:33:39.625Z,171415641962500
+"Turn: 6♥, 10♥, 7♦ [K♠]",2024-04-26T18:33:37.926Z,171415641792600
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:33:37.032Z,171415641703200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:33:35.922Z,171415641592200
+"Flop:  [6♥, 10♥, 7♦]",2024-04-26T18:33:34.552Z,171415641455200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:33:33.742Z,171415641374200
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:33:32.874Z,171415641287400
+"""gremlin @ iS84Ct9CPV"" calls 150",2024-04-26T18:33:31.964Z,171415641196400
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:33:30.420Z,171415641042000
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 150",2024-04-26T18:33:25.965Z,171415640596510
+"Dead Small Blind",2024-04-26T18:33:25.965Z,171415640596509
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (5010) | #4 ""CottonBet @ gzP8GfAb7P"" (2480) | #5 ""gremlin @ iS84Ct9CPV"" (420) | #6 ""wide1234 @ kdOt3QP_fm"" (90)",2024-04-26T18:33:25.965Z,171415640596504
+"-- starting hand #23 (id: ngghrqqo8uhw)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:33:25.965Z,171415640596503
+"The game's big blind was changed from 100 to 150.",2024-04-26T18:33:25.965Z,171415640596502
+"The game's small blind was changed from 50 to 75.",2024-04-26T18:33:25.965Z,171415640596501
+"The player ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" quits the game with a stack of 0.",2024-04-26T18:33:25.965Z,171415640596500
+"-- ending hand #22 --",2024-04-26T18:33:19.938Z,171415639993804
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" shows a 6♣, 5♥.",2024-04-26T18:33:19.938Z,171415639993803
+"""JurgBean @ XWESiVcu1R"" collected 3170 from pot with Straight, 5 High (combination: 5♣, 4♦, 3♥, 2♣, A♣)",2024-04-26T18:33:19.938Z,171415639993802
+"""JurgBean @ XWESiVcu1R"" shows a 3♥, A♣.",2024-04-26T18:33:19.938Z,171415639993801
+"Uncalled bet of 420 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:33:19.938Z,171415639993800
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:33:19.105Z,171415639910500
+"""JurgBean @ XWESiVcu1R"" bets 420",2024-04-26T18:33:17.484Z,171415639748400
+"River: 2♣, 4♦, 5♣, 10♦ [2♦]",2024-04-26T18:33:08.655Z,171415638865500
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:33:07.802Z,171415638780200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:33:06.308Z,171415638630800
+"Turn: 2♣, 4♦, 5♣ [10♦]",2024-04-26T18:33:03.989Z,171415638398900
+"""gremlin @ iS84Ct9CPV"" calls 940",2024-04-26T18:33:03.148Z,171415638314800
+"""JurgBean @ XWESiVcu1R"" calls 940",2024-04-26T18:32:58.206Z,171415637820600
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" raises to 940 and go all in",2024-04-26T18:32:56.421Z,171415637642100
+"""gremlin @ iS84Ct9CPV"" bets 100",2024-04-26T18:32:52.186Z,171415637218600
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:32:50.791Z,171415637079100
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:32:48.611Z,171415636861100
+"Flop:  [2♣, 4♦, 5♣]",2024-04-26T18:32:44.746Z,171415636474600
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:32:43.922Z,171415636392200
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:32:41.423Z,171415636142300
+"""gremlin @ iS84Ct9CPV"" calls 100",2024-04-26T18:32:40.481Z,171415636048100
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:32:38.202Z,171415635820200
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:32:32.899Z,171415635289900
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a big blind of 100",2024-04-26T18:32:31.382Z,171415635138208
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 50",2024-04-26T18:32:31.382Z,171415635138207
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (2880) | #4 ""CottonBet @ gzP8GfAb7P"" (2480) | #5 ""gremlin @ iS84Ct9CPV"" (1460) | #6 ""wide1234 @ kdOt3QP_fm"" (140) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1040)",2024-04-26T18:32:31.382Z,171415635138201
+"-- starting hand #22 (id: nxdbbpt8tc1m)  (No Limit Texas Hold'em) (dealer: ""gremlin @ iS84Ct9CPV"") --",2024-04-26T18:32:31.382Z,171415635138200
+"-- ending hand #21 --",2024-04-26T18:32:28.463Z,171415634846302
+"""gremlin @ iS84Ct9CPV"" collected 900 from pot",2024-04-26T18:32:28.463Z,171415634846301
+"Uncalled bet of 560 returned to ""gremlin @ iS84Ct9CPV""",2024-04-26T18:32:28.463Z,171415634846300
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:32:27.651Z,171415634765100
+"""gremlin @ iS84Ct9CPV"" bets 560 and go all in",2024-04-26T18:32:26.420Z,171415634642000
+"River: K♥, 10♠, Q♣, 3♥ [3♦]",2024-04-26T18:32:22.334Z,171415634233400
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:32:21.499Z,171415634149900
+"""gremlin @ iS84Ct9CPV"" bets 100",2024-04-26T18:32:20.079Z,171415634007900
+"Turn: K♥, 10♠, Q♣ [3♥]",2024-04-26T18:32:13.251Z,171415633325100
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-26T18:32:12.431Z,171415633243100
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:32:09.234Z,171415632923400
+"""gremlin @ iS84Ct9CPV"" raises to 200",2024-04-26T18:32:07.216Z,171415632721600
+"""JurgBean @ XWESiVcu1R"" bets 100",2024-04-26T18:32:01.160Z,171415632116000
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:31:56.150Z,171415631615000
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:31:53.675Z,171415631367500
+"Flop:  [K♥, 10♠, Q♣]",2024-04-26T18:31:49.797Z,171415630979700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:31:48.964Z,171415630896400
+"""gremlin @ iS84Ct9CPV"" calls 100",2024-04-26T18:31:46.980Z,171415630698000
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:31:45.873Z,171415630587300
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:31:44.907Z,171415630490700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:31:32.209Z,171415629220900
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 100",2024-04-26T18:31:30.506Z,171415629050608
+"""gremlin @ iS84Ct9CPV"" posts a small blind of 50",2024-04-26T18:31:30.506Z,171415629050607
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (3280) | #4 ""CottonBet @ gzP8GfAb7P"" (2480) | #5 ""gremlin @ iS84Ct9CPV"" (960) | #6 ""wide1234 @ kdOt3QP_fm"" (240) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1040)",2024-04-26T18:31:30.506Z,171415629050601
+"-- starting hand #21 (id: lb1rfefig9tw)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:31:30.506Z,171415629050600
+"-- ending hand #20 --",2024-04-26T18:31:27.577Z,171415628757702
+"""JurgBean @ XWESiVcu1R"" collected 500 from pot",2024-04-26T18:31:27.577Z,171415628757701
+"Uncalled bet of 300 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:31:27.577Z,171415628757700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:31:26.769Z,171415628676900
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:31:25.807Z,171415628580700
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:31:20.555Z,171415628055500
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:31:19.605Z,171415627960500
+"""JurgBean @ XWESiVcu1R"" bets 300",2024-04-26T18:31:17.733Z,171415627773300
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:31:14.318Z,171415627431800
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:31:12.464Z,171415627246400
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:31:08.939Z,171415626893900
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:31:06.915Z,171415626691500
+"Flop:  [5♦, A♥, 10♣]",2024-04-26T18:31:03.320Z,171415626332000
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:31:02.501Z,171415626250100
+"""CottonBet @ gzP8GfAb7P"" calls 100",2024-04-26T18:31:01.542Z,171415626154200
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:30:56.850Z,171415625685000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" calls 100",2024-04-26T18:30:56.007Z,171415625600700
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:30:54.446Z,171415625444600
+"""gremlin @ iS84Ct9CPV"" posts a big blind of 100",2024-04-26T18:30:48.897Z,171415624889708
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 50",2024-04-26T18:30:48.897Z,171415624889707
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (2880) | #4 ""CottonBet @ gzP8GfAb7P"" (2580) | #5 ""gremlin @ iS84Ct9CPV"" (1060) | #6 ""wide1234 @ kdOt3QP_fm"" (340) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1140)",2024-04-26T18:30:48.897Z,171415624889701
+"-- starting hand #20 (id: haft1a5igcw7)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-26T18:30:48.897Z,171415624889700
+"-- ending hand #19 --",2024-04-26T18:30:45.980Z,171415624598002
+"""JurgBean @ XWESiVcu1R"" collected 200 from pot",2024-04-26T18:30:45.980Z,171415624598001
+"Uncalled bet of 100 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:30:45.980Z,171415624598000
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:30:45.169Z,171415624516900
+"""JurgBean @ XWESiVcu1R"" bets 100",2024-04-26T18:30:40.863Z,171415624086300
+"River: 7♦, A♥, Q♣, 7♥ [6♥]",2024-04-26T18:30:38.215Z,171415623821500
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:30:37.400Z,171415623740000
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:30:34.653Z,171415623465300
+"Turn: 7♦, A♥, Q♣ [7♥]",2024-04-26T18:30:32.727Z,171415623272700
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:30:31.882Z,171415623188200
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:30:28.397Z,171415622839700
+"Flop:  [7♦, A♥, Q♣]",2024-04-26T18:30:23.985Z,171415622398500
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:30:23.138Z,171415622313800
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:30:18.159Z,171415621815900
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:30:17.136Z,171415621713600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:30:16.212Z,171415621621200
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:30:15.267Z,171415621526700
+"""CottonBet @ gzP8GfAb7P"" posts a big blind of 100",2024-04-26T18:30:14.217Z,171415621421708
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 50",2024-04-26T18:30:14.217Z,171415621421707
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (2780) | #4 ""CottonBet @ gzP8GfAb7P"" (2680) | #5 ""gremlin @ iS84Ct9CPV"" (1060) | #6 ""wide1234 @ kdOt3QP_fm"" (340) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1140)",2024-04-26T18:30:14.217Z,171415621421701
+"-- starting hand #19 (id: h93fkexivp38)  (No Limit Texas Hold'em) (dealer: ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"") --",2024-04-26T18:30:14.217Z,171415621421700
+"-- ending hand #18 --",2024-04-26T18:30:11.289Z,171415621128902
+"""gremlin @ iS84Ct9CPV"" collected 250 from pot",2024-04-26T18:30:11.289Z,171415621128901
+"Uncalled bet of 100 returned to ""gremlin @ iS84Ct9CPV""",2024-04-26T18:30:11.289Z,171415621128900
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:30:10.468Z,171415621046800
+"""gremlin @ iS84Ct9CPV"" bets 100",2024-04-26T18:30:08.740Z,171415620874000
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:30:07.753Z,171415620775300
+"Flop:  [A♣, 8♦, 10♦]",2024-04-26T18:30:05.856Z,171415620585600
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:30:05.017Z,171415620501700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:30:04.134Z,171415620413400
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:30:03.062Z,171415620306200
+"""gremlin @ iS84Ct9CPV"" calls 100",2024-04-26T18:30:02.122Z,171415620212200
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:30:00.154Z,171415620015400
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 100",2024-04-26T18:29:57.944Z,171415619794409
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a small blind of 50",2024-04-26T18:29:57.944Z,171415619794408
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (2880) | #4 ""CottonBet @ gzP8GfAb7P"" (2680) | #5 ""gremlin @ iS84Ct9CPV"" (910) | #6 ""wide1234 @ kdOt3QP_fm"" (340) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1190)",2024-04-26T18:29:57.944Z,171415619794402
+"-- starting hand #18 (id: 0peqfpnvwjeb)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:29:57.944Z,171415619794401
+"The player ""kidsaint @ PwtdL6PLN0"" quits the game with a stack of 0.",2024-04-26T18:29:57.944Z,171415619794400
+"-- ending hand #17 --",2024-04-26T18:29:51.935Z,171415619193503
+"""kidsaint @ PwtdL6PLN0"" shows a 8♦, 6♦.",2024-04-26T18:29:51.935Z,171415619193502
+"""JurgBean @ XWESiVcu1R"" collected 1900 from pot with Pair, A's (combination: A♣, A♠, K♣, J♦, 6♣)",2024-04-26T18:29:51.935Z,171415619193501
+"""JurgBean @ XWESiVcu1R"" shows a K♣, A♣.",2024-04-26T18:29:51.935Z,171415619193500
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-26T18:29:51.113Z,171415619111300
+"""kidsaint @ PwtdL6PLN0"" bets 200 and go all in",2024-04-26T18:29:48.652Z,171415618865200
+"River: 5♥, 6♣, A♠, 3♠ [J♦]",2024-04-26T18:29:46.087Z,171415618608700
+"""kidsaint @ PwtdL6PLN0"" calls 200",2024-04-26T18:29:45.266Z,171415618526600
+"""JurgBean @ XWESiVcu1R"" bets 200",2024-04-26T18:29:42.974Z,171415618297400
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:29:40.311Z,171415618031100
+"Turn: 5♥, 6♣, A♠ [3♠]",2024-04-26T18:29:37.703Z,171415617770300
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:29:36.885Z,171415617688500
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-26T18:29:35.847Z,171415617584700
+"""kidsaint @ PwtdL6PLN0"" bets 200",2024-04-26T18:29:33.733Z,171415617373300
+"Flop:  [5♥, 6♣, A♠]",2024-04-26T18:29:24.626Z,171415616462600
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:29:23.787Z,171415616378700
+"""kidsaint @ PwtdL6PLN0"" calls 200",2024-04-26T18:29:22.816Z,171415616281600
+"""wide1234 @ kdOt3QP_fm"" calls 200",2024-04-26T18:29:20.043Z,171415616004300
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:29:18.677Z,171415615867700
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:29:17.732Z,171415615773200
+"""JurgBean @ XWESiVcu1R"" raises to 200",2024-04-26T18:29:16.744Z,171415615674400
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a big blind of 100",2024-04-26T18:29:11.901Z,171415615190109
+"""kidsaint @ PwtdL6PLN0"" posts a small blind of 50",2024-04-26T18:29:11.901Z,171415615190108
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1780) | #4 ""CottonBet @ gzP8GfAb7P"" (2680) | #5 ""gremlin @ iS84Ct9CPV"" (910) | #6 ""wide1234 @ kdOt3QP_fm"" (540) | #7 ""kidsaint @ PwtdL6PLN0"" (800) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1290)",2024-04-26T18:29:11.901Z,171415615190101
+"-- starting hand #17 (id: r2rpjtc2msna)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:29:11.901Z,171415615190100
+"""kidsaint @ PwtdL6PLN0"" shows a J♦, K♦.",2024-04-26T18:29:08.904Z,171415614890400
+"-- ending hand #16 --",2024-04-26T18:29:08.249Z,171415614824902
+"""JurgBean @ XWESiVcu1R"" collected 1000 from pot",2024-04-26T18:29:08.249Z,171415614824901
+"Uncalled bet of 300 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:29:08.249Z,171415614824900
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:29:07.424Z,171415614742400
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:28:53.585Z,171415613358500
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:28:48.565Z,171415612856500
+"""JurgBean @ XWESiVcu1R"" raises to 400",2024-04-26T18:28:47.635Z,171415612763500
+"""kidsaint @ PwtdL6PLN0"" bets 100",2024-04-26T18:28:44.588Z,171415612458800
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:28:37.774Z,171415611777400
+"Flop:  [2♥, 6♠, 8♠]",2024-04-26T18:28:34.403Z,171415611440300
+"""wide1234 @ kdOt3QP_fm"" calls 200",2024-04-26T18:28:33.592Z,171415611359200
+"""gremlin @ iS84Ct9CPV"" calls 200",2024-04-26T18:28:32.509Z,171415611250900
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-26T18:28:30.485Z,171415611048500
+"""kidsaint @ PwtdL6PLN0"" raises to 200",2024-04-26T18:28:27.473Z,171415610747300
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:28:25.176Z,171415610517600
+"""gremlin @ iS84Ct9CPV"" calls 100",2024-04-26T18:28:12.774Z,171415609277400
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:28:11.739Z,171415609173900
+"""JurgBean @ XWESiVcu1R"" calls 100",2024-04-26T18:28:05.669Z,171415608566900
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:27:50.722Z,171415607072200
+"""kidsaint @ PwtdL6PLN0"" posts a big blind of 100",2024-04-26T18:27:48.388Z,171415606838811
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 50",2024-04-26T18:27:48.388Z,171415606838810
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1080) | #4 ""CottonBet @ gzP8GfAb7P"" (2680) | #5 ""gremlin @ iS84Ct9CPV"" (1110) | #6 ""wide1234 @ kdOt3QP_fm"" (740) | #7 ""kidsaint @ PwtdL6PLN0"" (1100) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1290)",2024-04-26T18:27:48.388Z,171415606838803
+"-- starting hand #16 (id: odk20rpzndud)  (No Limit Texas Hold'em) (dealer: ""gremlin @ iS84Ct9CPV"") --",2024-04-26T18:27:48.388Z,171415606838802
+"The game's big blind was changed from 60 to 100.",2024-04-26T18:27:48.388Z,171415606838801
+"The game's small blind was changed from 30 to 50.",2024-04-26T18:27:48.388Z,171415606838800
+"-- ending hand #15 --",2024-04-26T18:27:42.381Z,171415606238103
+"""gremlin @ iS84Ct9CPV"" shows a J♥, J♦.",2024-04-26T18:27:42.381Z,171415606238102
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" collected 780 from pot with Two Pair, A's & Q's (combination: A♦, A♠, Q♦, Q♥, K♥)",2024-04-26T18:27:42.381Z,171415606238101
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" shows a K♥, A♦.",2024-04-26T18:27:42.381Z,171415606238100
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:27:41.560Z,171415606156000
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:27:39.270Z,171415605927000
+"River: 3♣, 5♦, A♠, Q♦ [Q♥]",2024-04-26T18:27:37.976Z,171415605797600
+"""gremlin @ iS84Ct9CPV"" calls 120",2024-04-26T18:27:37.170Z,171415605717000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" bets 120",2024-04-26T18:27:35.043Z,171415605504300
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:27:31.067Z,171415605106700
+"Turn: 3♣, 5♦, A♠ [Q♦]",2024-04-26T18:27:29.537Z,171415604953700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:27:28.682Z,171415604868200
+"""gremlin @ iS84Ct9CPV"" calls 180",2024-04-26T18:27:25.430Z,171415604543000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" bets 180",2024-04-26T18:27:24.092Z,171415604409200
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:27:19.283Z,171415603928300
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:27:13.658Z,171415603365800
+"Flop:  [3♣, 5♦, A♠]",2024-04-26T18:27:12.100Z,171415603210000
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:27:11.286Z,171415603128600
+"""gremlin @ iS84Ct9CPV"" calls 60",2024-04-26T18:27:10.341Z,171415603034100
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:27:09.234Z,171415602923400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:27:08.261Z,171415602826100
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" calls 60",2024-04-26T18:27:07.381Z,171415602738100
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:27:06.484Z,171415602648400
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 60",2024-04-26T18:26:53.267Z,171415601326709
+"""gremlin @ iS84Ct9CPV"" posts a small blind of 30",2024-04-26T18:26:53.267Z,171415601326708
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1080) | #4 ""CottonBet @ gzP8GfAb7P"" (2680) | #5 ""gremlin @ iS84Ct9CPV"" (1470) | #6 ""wide1234 @ kdOt3QP_fm"" (800) | #7 ""kidsaint @ PwtdL6PLN0"" (1100) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (870)",2024-04-26T18:26:53.267Z,171415601326701
+"-- starting hand #15 (id: 0coes5xv6zyj)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:26:53.267Z,171415601326700
+"""JurgBean @ XWESiVcu1R"" shows a J♥, Q♣.",2024-04-26T18:26:49.733Z,171415600973300
+"""wide1234 @ kdOt3QP_fm"" shows a 9♦, K♣.",2024-04-26T18:26:49.708Z,171415600970800
+"-- ending hand #14 --",2024-04-26T18:26:48.952Z,171415600895202
+"""JurgBean @ XWESiVcu1R"" collected 510 from pot",2024-04-26T18:26:48.952Z,171415600895201
+"Uncalled bet of 60 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:26:48.952Z,171415600895200
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:26:48.146Z,171415600814600
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:26:39.936Z,171415599993600
+"""JurgBean @ XWESiVcu1R"" raises to 120",2024-04-26T18:26:38.261Z,171415599826100
+"""kidsaint @ PwtdL6PLN0"" bets 60",2024-04-26T18:26:35.669Z,171415599566900
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:26:30.165Z,171415599016500
+"Flop:  [7♣, 10♠, Q♥]",2024-04-26T18:26:28.402Z,171415598840200
+"""kidsaint @ PwtdL6PLN0"" calls 120",2024-04-26T18:26:27.520Z,171415598752000
+"""gremlin @ iS84Ct9CPV"" calls 120",2024-04-26T18:26:25.075Z,171415598507500
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:26:23.756Z,171415598375600
+"""JurgBean @ XWESiVcu1R"" raises to 120",2024-04-26T18:26:22.800Z,171415598280000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:26:19.484Z,171415597948400
+"""kidsaint @ PwtdL6PLN0"" calls 60",2024-04-26T18:26:18.456Z,171415597845600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:26:17.305Z,171415597730500
+"""gremlin @ iS84Ct9CPV"" posts a big blind of 60",2024-04-26T18:26:02.284Z,171415596228409
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 30",2024-04-26T18:26:02.284Z,171415596228408
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (750) | #4 ""CottonBet @ gzP8GfAb7P"" (2710) | #5 ""gremlin @ iS84Ct9CPV"" (1590) | #6 ""wide1234 @ kdOt3QP_fm"" (800) | #7 ""kidsaint @ PwtdL6PLN0"" (1280) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (870)",2024-04-26T18:26:02.284Z,171415596228401
+"-- starting hand #14 (id: xrbux7vab8t4)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-26T18:26:02.284Z,171415596228400
+"-- ending hand #13 --",2024-04-26T18:25:59.338Z,171415595933802
+"""kidsaint @ PwtdL6PLN0"" collected 300 from pot",2024-04-26T18:25:59.338Z,171415595933801
+"Uncalled bet of 180 returned to ""kidsaint @ PwtdL6PLN0""",2024-04-26T18:25:59.338Z,171415595933800
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:25:58.522Z,171415595852200
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:25:32.915Z,171415593291500
+"""kidsaint @ PwtdL6PLN0"" raises to 240",2024-04-26T18:25:19.431Z,171415591943100
+"""CottonBet @ gzP8GfAb7P"" bets 60",2024-04-26T18:25:13.303Z,171415591330300
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:25:08.808Z,171415590880800
+"Flop:  [9♣, 2♠, 6♥]",2024-04-26T18:25:05.931Z,171415590593100
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:25:05.083Z,171415590508300
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-26T18:25:02.923Z,171415590292300
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:24:57.963Z,171415589796300
+"""kidsaint @ PwtdL6PLN0"" calls 60",2024-04-26T18:24:56.940Z,171415589694000
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:24:51.710Z,171415589171000
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:24:50.876Z,171415589087600
+"""CottonBet @ gzP8GfAb7P"" posts a big blind of 60",2024-04-26T18:24:49.507Z,171415588950709
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 30",2024-04-26T18:24:49.507Z,171415588950708
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (810) | #4 ""CottonBet @ gzP8GfAb7P"" (2830) | #5 ""gremlin @ iS84Ct9CPV"" (1590) | #6 ""wide1234 @ kdOt3QP_fm"" (800) | #7 ""kidsaint @ PwtdL6PLN0"" (1100) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (870)",2024-04-26T18:24:49.507Z,171415588950701
+"-- starting hand #13 (id: 3ncc7b16uwwz)  (No Limit Texas Hold'em) (dealer: ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"") --",2024-04-26T18:24:49.507Z,171415588950700
+"-- ending hand #12 --",2024-04-26T18:24:46.569Z,171415588656902
+"""JurgBean @ XWESiVcu1R"" collected 390 from pot",2024-04-26T18:24:46.569Z,171415588656901
+"Uncalled bet of 420 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:24:46.569Z,171415588656900
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:24:45.748Z,171415588574800
+"""JurgBean @ XWESiVcu1R"" bets 420 and go all in",2024-04-26T18:24:44.625Z,171415588462500
+"River: 9♣, J♥, 8♣, A♠ [7♦]",2024-04-26T18:24:40.998Z,171415588099800
+"""gremlin @ iS84Ct9CPV"" calls 60",2024-04-26T18:24:40.147Z,171415588014700
+"""JurgBean @ XWESiVcu1R"" bets 60",2024-04-26T18:24:37.807Z,171415587780700
+"Turn: 9♣, J♥, 8♣ [A♠]",2024-04-26T18:24:36.074Z,171415587607400
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:24:35.254Z,171415587525400
+"""JurgBean @ XWESiVcu1R"" checks",2024-04-26T18:24:34.005Z,171415587400500
+"Flop:  [9♣, J♥, 8♣]",2024-04-26T18:24:31.970Z,171415587197000
+"""gremlin @ iS84Ct9CPV"" calls 120",2024-04-26T18:24:31.127Z,171415587112700
+"""JurgBean @ XWESiVcu1R"" raises to 120",2024-04-26T18:24:29.467Z,171415586946700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:24:26.836Z,171415586683600
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:24:25.897Z,171415586589700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:24:22.401Z,171415586240100
+"""gremlin @ iS84Ct9CPV"" calls 60",2024-04-26T18:24:21.598Z,171415586159800
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:24:19.818Z,171415585981800
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 60",2024-04-26T18:24:17.107Z,171415585710710
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a small blind of 30",2024-04-26T18:24:17.107Z,171415585710709
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (600) | #4 ""CottonBet @ gzP8GfAb7P"" (2830) | #5 ""gremlin @ iS84Ct9CPV"" (1770) | #6 ""wide1234 @ kdOt3QP_fm"" (800) | #7 ""kidsaint @ PwtdL6PLN0"" (1100) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (900)",2024-04-26T18:24:17.107Z,171415585710702
+"-- starting hand #12 (id: ado1vcwwtbcy)  (No Limit Texas Hold'em) (dealer: ""kidsaint @ PwtdL6PLN0"") --",2024-04-26T18:24:17.107Z,171415585710701
+"The player ""Maybe999 @ DyQEeTODPj"" quits the game with a stack of 0.",2024-04-26T18:24:17.107Z,171415585710700
+"-- ending hand #11 --",2024-04-26T18:24:11.051Z,171415585105102
+"""CottonBet @ gzP8GfAb7P"" collected 580 from pot with Two Pair, K's & Q's (combination: K♠, K♦, Q♠, Q♦, 9♥)",2024-04-26T18:24:11.051Z,171415585105101
+"""CottonBet @ gzP8GfAb7P"" collected 2250 from pot with Two Pair, K's & Q's (combination: K♠, K♦, Q♠, Q♦, 9♥)",2024-04-26T18:24:11.051Z,171415585105100
+"River: Q♠, 9♥, 2♠, Q♦ [3♣]",2024-04-26T18:24:07.041Z,171415584704100
+"Turn: Q♠, 9♥, 2♠ [Q♦]",2024-04-26T18:24:02.974Z,171415584297400
+"""kidsaint @ PwtdL6PLN0"" shows a A♠, 8♠.",2024-04-26T18:23:58.959Z,171415583895902
+"""CottonBet @ gzP8GfAb7P"" shows a K♠, K♦.",2024-04-26T18:23:58.959Z,171415583895901
+"""Maybe999 @ DyQEeTODPj"" shows a J♦, 5♦.",2024-04-26T18:23:58.959Z,171415583895900
+"""CottonBet @ gzP8GfAb7P"" calls 290 and go all in",2024-04-26T18:23:58.154Z,171415583815400
+"""kidsaint @ PwtdL6PLN0"" bets 290",2024-04-26T18:23:56.541Z,171415583654100
+"Flop:  [Q♠, 9♥, 2♠]",2024-04-26T18:23:46.998Z,171415582699800
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:23:46.174Z,171415582617400
+"""kidsaint @ PwtdL6PLN0"" calls 730",2024-04-26T18:23:45.184Z,171415582518400
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:23:43.896Z,171415582389600
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:23:43.065Z,171415582306500
+"""CottonBet @ gzP8GfAb7P"" calls 730",2024-04-26T18:23:42.174Z,171415582217400
+"""Maybe999 @ DyQEeTODPj"" raises to 730 and go all in",2024-04-26T18:23:36.508Z,171415581650800
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:23:33.143Z,171415581314300
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a big blind of 60",2024-04-26T18:23:30.998Z,171415581099810
+"""kidsaint @ PwtdL6PLN0"" posts a small blind of 30",2024-04-26T18:23:30.998Z,171415581099809
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (600) | #2 ""Maybe999 @ DyQEeTODPj"" (730) | #4 ""CottonBet @ gzP8GfAb7P"" (1020) | #5 ""gremlin @ iS84Ct9CPV"" (1770) | #6 ""wide1234 @ kdOt3QP_fm"" (800) | #7 ""kidsaint @ PwtdL6PLN0"" (2120) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:23:30.998Z,171415581099801
+"-- starting hand #11 (id: bl34ui1tvtcr)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:23:30.998Z,171415581099800
+"-- ending hand #10 --",2024-04-26T18:23:24.962Z,171415580496201
+"""gremlin @ iS84Ct9CPV"" collected 1770 from pot with Pair, K's (combination: K♠, K♦, A♣, J♣, 6♠)",2024-04-26T18:23:24.962Z,171415580496200
+"River: 4♥, 6♠, A♣, J♣ [K♦]",2024-04-26T18:23:20.951Z,171415580095100
+"Turn: 4♥, 6♠, A♣ [J♣]",2024-04-26T18:23:16.869Z,171415579686900
+"Flop:  [4♥, 6♠, A♣]",2024-04-26T18:23:12.862Z,171415579286200
+"""gremlin @ iS84Ct9CPV"" shows a 3♠, K♠.",2024-04-26T18:23:08.841Z,171415578884102
+"""Maybe999 @ DyQEeTODPj"" shows a 5♠, 8♦.",2024-04-26T18:23:08.841Z,171415578884101
+"Uncalled bet of 730 returned to ""Maybe999 @ DyQEeTODPj""",2024-04-26T18:23:08.841Z,171415578884100
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:23:07.983Z,171415578798300
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:23:05.435Z,171415578543500
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:23:04.335Z,171415578433500
+"""gremlin @ iS84Ct9CPV"" calls 810 and go all in",2024-04-26T18:23:03.521Z,171415578352100
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:22:56.387Z,171415577638700
+"""Maybe999 @ DyQEeTODPj"" raises to 1540 and go all in",2024-04-26T18:22:55.388Z,171415577538800
+"""JurgBean @ XWESiVcu1R"" calls 60",2024-04-26T18:22:52.507Z,171415577250700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:22:44.636Z,171415576463600
+"""kidsaint @ PwtdL6PLN0"" posts a big blind of 60",2024-04-26T18:22:42.761Z,171415576276112
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 30",2024-04-26T18:22:42.761Z,171415576276111
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (660) | #2 ""Maybe999 @ DyQEeTODPj"" (1540) | #4 ""CottonBet @ gzP8GfAb7P"" (1020) | #5 ""gremlin @ iS84Ct9CPV"" (810) | #6 ""wide1234 @ kdOt3QP_fm"" (830) | #7 ""kidsaint @ PwtdL6PLN0"" (2180) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:22:42.761Z,171415576276103
+"-- starting hand #10 (id: t21e9nfylbnr)  (No Limit Texas Hold'em) (dealer: ""gremlin @ iS84Ct9CPV"") --",2024-04-26T18:22:42.761Z,171415576276102
+"The game's big blind was changed from 40 to 60.",2024-04-26T18:22:42.761Z,171415576276101
+"The game's small blind was changed from 20 to 30.",2024-04-26T18:22:42.761Z,171415576276100
+"""Maybe999 @ DyQEeTODPj"" shows a 3♦, Q♥.",2024-04-26T18:22:41.047Z,171415576104700
+"-- ending hand #9 --",2024-04-26T18:22:39.158Z,171415575915802
+"""Maybe999 @ DyQEeTODPj"" collected 120 from pot",2024-04-26T18:22:39.158Z,171415575915801
+"Uncalled bet of 830 returned to ""Maybe999 @ DyQEeTODPj""",2024-04-26T18:22:39.158Z,171415575915800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:22:38.311Z,171415575831100
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:22:37.463Z,171415575746300
+"""Maybe999 @ DyQEeTODPj"" bets 830",2024-04-26T18:22:35.869Z,171415575586900
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:22:32.906Z,171415575290600
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:22:32.071Z,171415575207100
+"Flop:  [K♥, 7♥, 4♣]",2024-04-26T18:22:30.291Z,171415575029100
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:22:29.485Z,171415574948500
+"""gremlin @ iS84Ct9CPV"" calls 40",2024-04-26T18:22:28.639Z,171415574863900
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:22:27.553Z,171415574755300
+"""Maybe999 @ DyQEeTODPj"" calls 40",2024-04-26T18:22:25.721Z,171415574572100
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:22:16.557Z,171415573655700
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:22:15.675Z,171415573567500
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:22:14.793Z,171415573479300
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 40",2024-04-26T18:22:10.207Z,171415573020710
+"""gremlin @ iS84Ct9CPV"" posts a small blind of 20",2024-04-26T18:22:10.207Z,171415573020709
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (660) | #2 ""Maybe999 @ DyQEeTODPj"" (1460) | #4 ""CottonBet @ gzP8GfAb7P"" (1020) | #5 ""gremlin @ iS84Ct9CPV"" (850) | #6 ""wide1234 @ kdOt3QP_fm"" (870) | #7 ""kidsaint @ PwtdL6PLN0"" (2180) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:22:10.207Z,171415573020701
+"-- starting hand #9 (id: fjysdvoh4mx8)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:22:10.207Z,171415573020700
+"""Maybe999 @ DyQEeTODPj"" shows a 2♠, 10♣.",2024-04-26T18:22:08.101Z,171415572810100
+"-- ending hand #8 --",2024-04-26T18:22:06.600Z,171415572660002
+"""Maybe999 @ DyQEeTODPj"" collected 540 from pot",2024-04-26T18:22:06.600Z,171415572660001
+"Uncalled bet of 920 returned to ""Maybe999 @ DyQEeTODPj""",2024-04-26T18:22:06.600Z,171415572660000
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:22:05.767Z,171415572576700
+"""Maybe999 @ DyQEeTODPj"" raises to 1000 and go all in",2024-04-26T18:22:00.095Z,171415572009500
+"""kidsaint @ PwtdL6PLN0"" raises to 80",2024-04-26T18:21:48.249Z,171415570824900
+"""Maybe999 @ DyQEeTODPj"" bets 40",2024-04-26T18:21:45.081Z,171415570508100
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:21:31.163Z,171415569116300
+"Turn: 9♣, 2♦, 8♠ [7♦]",2024-04-26T18:21:26.657Z,171415568665700
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:21:25.828Z,171415568582800
+"""Maybe999 @ DyQEeTODPj"" calls 120",2024-04-26T18:21:23.965Z,171415568396500
+"""kidsaint @ PwtdL6PLN0"" bets 120",2024-04-26T18:21:18.927Z,171415567892700
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:21:14.726Z,171415567472600
+"Flop:  [9♣, 2♦, 8♠]",2024-04-26T18:21:13.229Z,171415567322900
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:21:12.405Z,171415567240500
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:21:11.256Z,171415567125600
+"""Maybe999 @ DyQEeTODPj"" calls 40",2024-04-26T18:21:10.292Z,171415567029200
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:21:07.398Z,171415566739800
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:21:06.342Z,171415566634200
+"""kidsaint @ PwtdL6PLN0"" calls 40",2024-04-26T18:21:05.461Z,171415566546100
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:20:58.069Z,171415565806911
+"""gremlin @ iS84Ct9CPV"" posts a big blind of 40",2024-04-26T18:20:58.069Z,171415565806910
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 20",2024-04-26T18:20:58.069Z,171415565806909
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (660) | #2 ""Maybe999 @ DyQEeTODPj"" (1160) | #4 ""CottonBet @ gzP8GfAb7P"" (1040) | #5 ""gremlin @ iS84Ct9CPV"" (890) | #6 ""wide1234 @ kdOt3QP_fm"" (870) | #7 ""kidsaint @ PwtdL6PLN0"" (2420) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:20:58.069Z,171415565806901
+"-- starting hand #8 (id: kbgidub4tjlh)  (No Limit Texas Hold'em) (dealer: ""Maybe999 @ DyQEeTODPj"") --",2024-04-26T18:20:58.069Z,171415565806900
+"-- ending hand #7 --",2024-04-26T18:20:52.060Z,171415565206004
+"""Maybe999 @ DyQEeTODPj"" shows a K♥, 3♣.",2024-04-26T18:20:52.060Z,171415565206003
+"""kidsaint @ PwtdL6PLN0"" collected 2420 from pot with Full House, J's over 8's (combination: J♠, J♦, J♣, 8♥, 8♦)",2024-04-26T18:20:52.060Z,171415565206002
+"""kidsaint @ PwtdL6PLN0"" shows a 8♥, 8♦.",2024-04-26T18:20:52.060Z,171415565206001
+"Uncalled bet of 70 returned to ""Maybe999 @ DyQEeTODPj""",2024-04-26T18:20:52.060Z,171415565206000
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:20:51.240Z,171415565124000
+"""kidsaint @ PwtdL6PLN0"" calls 590 and go all in",2024-04-26T18:20:37.019Z,171415563701900
+"""Maybe999 @ DyQEeTODPj"" bets 660",2024-04-26T18:20:35.289Z,171415563528900
+"River: J♠, J♦, 4♠, J♣ [3♦]",2024-04-26T18:20:23.549Z,171415562354900
+"""kidsaint @ PwtdL6PLN0"" calls 120",2024-04-26T18:20:22.734Z,171415562273400
+"""Maybe999 @ DyQEeTODPj"" calls 120",2024-04-26T18:20:11.821Z,171415561182100
+"""JurgBean @ XWESiVcu1R"" bets 120",2024-04-26T18:20:08.579Z,171415560857900
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:20:05.920Z,171415560592000
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:20:04.802Z,171415560480200
+"Turn: J♠, J♦, 4♠ [J♣]",2024-04-26T18:20:01.181Z,171415560118100
+"""kidsaint @ PwtdL6PLN0"" calls 80",2024-04-26T18:20:00.320Z,171415560032000
+"""Maybe999 @ DyQEeTODPj"" calls 80",2024-04-26T18:19:58.880Z,171415559888000
+"""JurgBean @ XWESiVcu1R"" bets 80",2024-04-26T18:19:56.353Z,171415559635300
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:19:53.813Z,171415559381300
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:19:51.009Z,171415559100900
+"Flop:  [J♠, J♦, 4♠]",2024-04-26T18:19:47.441Z,171415558744100
+"""Maybe999 @ DyQEeTODPj"" calls 200",2024-04-26T18:19:46.638Z,171415558663800
+"""JurgBean @ XWESiVcu1R"" calls 200",2024-04-26T18:19:36.592Z,171415557659200
+"""kidsaint @ PwtdL6PLN0"" raises to 200",2024-04-26T18:19:34.803Z,171415557480300
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:19:29.414Z,171415556941400
+"""Maybe999 @ DyQEeTODPj"" calls 120",2024-04-26T18:19:24.251Z,171415556425100
+"""JurgBean @ XWESiVcu1R"" raises to 120",2024-04-26T18:19:21.793Z,171415556179300
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:19:13.017Z,171415555301700
+"""kidsaint @ PwtdL6PLN0"" calls 40",2024-04-26T18:19:11.593Z,171415555159300
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:19:10.479Z,171415555047900
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:19:09.662Z,171415554966200
+"""CottonBet @ gzP8GfAb7P"" posts a big blind of 40",2024-04-26T18:19:07.373Z,171415554737310
+"""Maybe999 @ DyQEeTODPj"" posts a small blind of 20",2024-04-26T18:19:07.373Z,171415554737309
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1060) | #2 ""Maybe999 @ DyQEeTODPj"" (2150) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (890) | #6 ""wide1234 @ kdOt3QP_fm"" (870) | #7 ""kidsaint @ PwtdL6PLN0"" (990) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:19:07.373Z,171415554737301
+"-- starting hand #7 (id: p2zhdxumw7xu)  (No Limit Texas Hold'em) (dealer: ""JurgBean @ XWESiVcu1R"") --",2024-04-26T18:19:07.373Z,171415554737300
+"-- ending hand #6 --",2024-04-26T18:19:04.413Z,171415554441302
+"""JurgBean @ XWESiVcu1R"" collected 160 from pot",2024-04-26T18:19:04.413Z,171415554441301
+"Uncalled bet of 80 returned to ""JurgBean @ XWESiVcu1R""",2024-04-26T18:19:04.413Z,171415554441300
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:19:03.568Z,171415554356800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:19:02.478Z,171415554247800
+"""Maybe999 @ DyQEeTODPj"" folds",2024-04-26T18:18:46.568Z,171415552656800
+"""JurgBean @ XWESiVcu1R"" bets 80",2024-04-26T18:18:41.399Z,171415552139900
+"Flop:  [K♠, 2♣, 8♣]",2024-04-26T18:18:31.949Z,171415551194900
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:18:31.115Z,171415551111500
+"""JurgBean @ XWESiVcu1R"" calls 40",2024-04-26T18:18:28.284Z,171415550828400
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:18:27.397Z,171415550739700
+"""kidsaint @ PwtdL6PLN0"" calls 40",2024-04-26T18:18:26.493Z,171415550649300
+"""wide1234 @ kdOt3QP_fm"" calls 40",2024-04-26T18:18:23.424Z,171415550342400
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:18:22.442Z,171415550244200
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:18:21.514Z,171415550151400
+"""Maybe999 @ DyQEeTODPj"" posts a big blind of 40",2024-04-26T18:18:18.042Z,171415549804211
+"""JurgBean @ XWESiVcu1R"" posts a small blind of 20",2024-04-26T18:18:18.042Z,171415549804210
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (940) | #2 ""Maybe999 @ DyQEeTODPj"" (2190) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (890) | #6 ""wide1234 @ kdOt3QP_fm"" (910) | #7 ""kidsaint @ PwtdL6PLN0"" (1030) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (960)",2024-04-26T18:18:18.042Z,171415549804202
+"-- starting hand #6 (id: 44s3kroboc2e)  (No Limit Texas Hold'em) (dealer: ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"") --",2024-04-26T18:18:18.042Z,171415549804201
+"The player ""Milk. @ D72IAXJn7x"" quits the game with a stack of 0.",2024-04-26T18:18:18.042Z,171415549804200
+"-- ending hand #5 --",2024-04-26T18:18:12.036Z,171415549203603
+"""Milk. @ D72IAXJn7x"" shows a 7♣, 4♣.",2024-04-26T18:18:12.036Z,171415549203602
+"""Maybe999 @ DyQEeTODPj"" collected 1780 from pot with Pair, Q's (combination: Q♣, Q♦, A♠, J♥, 9♠)",2024-04-26T18:18:12.036Z,171415549203601
+"""Maybe999 @ DyQEeTODPj"" shows a Q♣, Q♦.",2024-04-26T18:18:12.036Z,171415549203600
+"""Milk. @ D72IAXJn7x"" calls 380 and go all in",2024-04-26T18:18:11.147Z,171415549114700
+"""Maybe999 @ DyQEeTODPj"" bets 380",2024-04-26T18:17:52.578Z,171415547257800
+"River: A♠, J♥, 7♦, 5♠ [9♠]",2024-04-26T18:17:47.047Z,171415546704700
+"""Milk. @ D72IAXJn7x"" calls 240",2024-04-26T18:17:46.238Z,171415546623800
+"""Maybe999 @ DyQEeTODPj"" bets 240",2024-04-26T18:17:44.934Z,171415546493400
+"Turn: A♠, J♥, 7♦ [5♠]",2024-04-26T18:17:39.735Z,171415545973500
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:17:38.929Z,171415545892900
+"""Milk. @ D72IAXJn7x"" calls 120",2024-04-26T18:17:38.012Z,171415545801200
+"""Maybe999 @ DyQEeTODPj"" bets 120",2024-04-26T18:17:36.159Z,171415545615900
+"Flop:  [A♠, J♥, 7♦]",2024-04-26T18:17:30.227Z,171415545022700
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:17:29.380Z,171415544938000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:17:28.531Z,171415544853100
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:17:27.563Z,171415544756300
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:17:26.392Z,171415544639200
+"""gremlin @ iS84Ct9CPV"" calls 80",2024-04-26T18:17:25.572Z,171415544557200
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:17:24.595Z,171415544459500
+"""Milk. @ D72IAXJn7x"" calls 80",2024-04-26T18:17:23.621Z,171415544362100
+"""Maybe999 @ DyQEeTODPj"" raises to 80",2024-04-26T18:17:21.073Z,171415544107300
+"""JurgBean @ XWESiVcu1R"" posts a big blind of 40",2024-04-26T18:17:12.364Z,171415543236413
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a small blind of 20",2024-04-26T18:17:12.364Z,171415543236412
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (980) | #2 ""Maybe999 @ DyQEeTODPj"" (1230) | #3 ""Milk. @ D72IAXJn7x"" (820) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (970) | #6 ""wide1234 @ kdOt3QP_fm"" (910) | #7 ""kidsaint @ PwtdL6PLN0"" (1030) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (980)",2024-04-26T18:17:12.364Z,171415543236403
+"-- starting hand #5 (id: wghxml4n8vga)  (No Limit Texas Hold'em) (dealer: ""kidsaint @ PwtdL6PLN0"") --",2024-04-26T18:17:12.364Z,171415543236402
+"The game's big blind was changed from 20 to 40.",2024-04-26T18:17:12.364Z,171415543236401
+"The game's small blind was changed from 10 to 20.",2024-04-26T18:17:12.364Z,171415543236400
+"-- ending hand #4 --",2024-04-26T18:17:06.358Z,171415542635804
+"""Maybe999 @ DyQEeTODPj"" shows a K♠, 6♦.",2024-04-26T18:17:06.358Z,171415542635803
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" shows a 5♠, 10♥.",2024-04-26T18:17:06.358Z,171415542635802
+"""gremlin @ iS84Ct9CPV"" collected 110 from pot with Pair, 8's (combination: 8♠, 8♦, A♥, 9♥, 4♦)",2024-04-26T18:17:06.358Z,171415542635801
+"""gremlin @ iS84Ct9CPV"" shows a A♥, 2♠.",2024-04-26T18:17:06.358Z,171415542635800
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:17:05.531Z,171415542553100
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:17:04.717Z,171415542471700
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:17:01.101Z,171415542110100
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:17:00.160Z,171415542016000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:16:56.950Z,171415541695000
+"River: 8♠, 8♦, 9♥, 4♦ [3♦]",2024-04-26T18:16:55.445Z,171415541544500
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:16:54.597Z,171415541459700
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:16:53.768Z,171415541376800
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:16:52.830Z,171415541283000
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:16:49.800Z,171415540980000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:16:47.603Z,171415540760300
+"Turn: 8♠, 8♦, 9♥ [4♦]",2024-04-26T18:16:45.597Z,171415540559700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:16:44.769Z,171415540476900
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:16:28.925Z,171415538892500
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:16:26.522Z,171415538652200
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:16:25.613Z,171415538561300
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:16:21.014Z,171415538101400
+"Flop:  [8♠, 8♦, 9♥]",2024-04-26T18:16:19.065Z,171415537906500
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" checks",2024-04-26T18:16:18.233Z,171415537823300
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:16:15.665Z,171415537566500
+"""wide1234 @ kdOt3QP_fm"" calls 20",2024-04-26T18:16:14.560Z,171415537456000
+"""gremlin @ iS84Ct9CPV"" calls 20",2024-04-26T18:16:13.633Z,171415537363300
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:16:10.580Z,171415537058000
+"""Milk. @ D72IAXJn7x"" calls 20",2024-04-26T18:16:09.622Z,171415536962200
+"""Maybe999 @ DyQEeTODPj"" calls 20",2024-04-26T18:16:08.667Z,171415536866700
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:15:58.845Z,171415535884500
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" posts a big blind of 20",2024-04-26T18:15:52.519Z,171415535251911
+"""kidsaint @ PwtdL6PLN0"" posts a small blind of 10",2024-04-26T18:15:52.519Z,171415535251910
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (980) | #2 ""Maybe999 @ DyQEeTODPj"" (1250) | #3 ""Milk. @ D72IAXJn7x"" (840) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (880) | #6 ""wide1234 @ kdOt3QP_fm"" (930) | #7 ""kidsaint @ PwtdL6PLN0"" (1040) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1000)",2024-04-26T18:15:52.519Z,171415535251901
+"-- starting hand #4 (id: r0i8jw1b9hsn)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:15:52.519Z,171415535251900
+"-- ending hand #3 --",2024-04-26T18:15:49.610Z,171415534961002
+"""Maybe999 @ DyQEeTODPj"" collected 490 from pot",2024-04-26T18:15:49.610Z,171415534961001
+"Uncalled bet of 490 returned to ""Maybe999 @ DyQEeTODPj""",2024-04-26T18:15:49.610Z,171415534961000
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:15:48.763Z,171415534876300
+"""Maybe999 @ DyQEeTODPj"" raises to 530",2024-04-26T18:15:22.851Z,171415532285100
+"""kidsaint @ PwtdL6PLN0"" bets 40",2024-04-26T18:15:18.432Z,171415531843200
+"Turn: 5♣, 10♥, 3♦ [9♠]",2024-04-26T18:15:12.734Z,171415531273400
+"""kidsaint @ PwtdL6PLN0"" calls 80",2024-04-26T18:15:11.883Z,171415531188300
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:14:59.286Z,171415529928600
+"""Maybe999 @ DyQEeTODPj"" bets 80",2024-04-26T18:14:58.268Z,171415529826800
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:14:51.792Z,171415529179200
+"Flop:  [5♣, 10♥, 3♦]",2024-04-26T18:14:48.335Z,171415528833500
+"""gremlin @ iS84Ct9CPV"" calls 80",2024-04-26T18:14:47.491Z,171415528749100
+"""Maybe999 @ DyQEeTODPj"" calls 80",2024-04-26T18:14:45.365Z,171415528536500
+"""kidsaint @ PwtdL6PLN0"" raises to 80",2024-04-26T18:14:41.971Z,171415528197100
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:14:35.563Z,171415527556300
+"""gremlin @ iS84Ct9CPV"" calls 40",2024-04-26T18:14:19.697Z,171415525969700
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:14:18.262Z,171415525826200
+"""Milk. @ D72IAXJn7x"" folds",2024-04-26T18:14:17.182Z,171415525718200
+"""Maybe999 @ DyQEeTODPj"" raises to 40",2024-04-26T18:14:16.200Z,171415525620000
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:14:13.436Z,171415525343600
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:14:09.147Z,171415524914700
+"""kidsaint @ PwtdL6PLN0"" posts a big blind of 20",2024-04-26T18:14:05.864Z,171415524586411
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 10",2024-04-26T18:14:05.864Z,171415524586410
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (980) | #2 ""Maybe999 @ DyQEeTODPj"" (960) | #3 ""Milk. @ D72IAXJn7x"" (840) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (960) | #6 ""wide1234 @ kdOt3QP_fm"" (940) | #7 ""kidsaint @ PwtdL6PLN0"" (1240) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1000)",2024-04-26T18:14:05.864Z,171415524586401
+"-- starting hand #3 (id: bpgi3x0je47s)  (No Limit Texas Hold'em) (dealer: ""gremlin @ iS84Ct9CPV"") --",2024-04-26T18:14:05.864Z,171415524586400
+"-- ending hand #2 --",2024-04-26T18:13:59.858Z,171415523985802
+"""kidsaint @ PwtdL6PLN0"" collected 380 from pot with Two Pair, K's & 8's (combination: K♥, K♠, 8♣, 8♠, J♣)",2024-04-26T18:13:59.858Z,171415523985801
+"""kidsaint @ PwtdL6PLN0"" shows a K♥, 8♣.",2024-04-26T18:13:59.858Z,171415523985800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:13:58.966Z,171415523896600
+"""Milk. @ D72IAXJn7x"" calls 100",2024-04-26T18:13:54.760Z,171415523476000
+"""kidsaint @ PwtdL6PLN0"" bets 100",2024-04-26T18:13:40.505Z,171415522050500
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:13:34.566Z,171415521456600
+"River: J♣, 8♠, 6♥, K♠ [10♦]",2024-04-26T18:13:24.375Z,171415520437500
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:13:23.538Z,171415520353800
+"""kidsaint @ PwtdL6PLN0"" checks",2024-04-26T18:13:22.015Z,171415520201500
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:13:19.723Z,171415519972300
+"Turn: J♣, 8♠, 6♥ [K♠]",2024-04-26T18:13:17.632Z,171415519763200
+"""wide1234 @ kdOt3QP_fm"" calls 20",2024-04-26T18:13:16.822Z,171415519682200
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:13:15.270Z,171415519527000
+"""Milk. @ D72IAXJn7x"" calls 20",2024-04-26T18:13:10.471Z,171415519047100
+"""Maybe999 @ DyQEeTODPj"" folds",2024-04-26T18:13:09.564Z,171415518956400
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:13:08.581Z,171415518858100
+"""kidsaint @ PwtdL6PLN0"" bets 20",2024-04-26T18:13:06.296Z,171415518629600
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:13:03.662Z,171415518366200
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:13:02.726Z,171415518272600
+"Flop:  [J♣, 8♠, 6♥]",2024-04-26T18:13:00.535Z,171415518053500
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:12:59.694Z,171415517969400
+"""gremlin @ iS84Ct9CPV"" calls 20",2024-04-26T18:12:57.317Z,171415517731700
+"""CottonBet @ gzP8GfAb7P"" folds",2024-04-26T18:12:56.268Z,171415517626800
+"""Milk. @ D72IAXJn7x"" calls 20",2024-04-26T18:12:51.170Z,171415517117000
+"""Maybe999 @ DyQEeTODPj"" calls 20",2024-04-26T18:12:50.206Z,171415517020600
+"""JurgBean @ XWESiVcu1R"" calls 20",2024-04-26T18:12:46.620Z,171415516662000
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:12:33.723Z,171415515372300
+"""kidsaint @ PwtdL6PLN0"" calls 20",2024-04-26T18:12:28.052Z,171415514805200
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 20",2024-04-26T18:12:23.431Z,171415514343111
+"""gremlin @ iS84Ct9CPV"" posts a small blind of 10",2024-04-26T18:12:23.431Z,171415514343110
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1000) | #2 ""Maybe999 @ DyQEeTODPj"" (980) | #3 ""Milk. @ D72IAXJn7x"" (980) | #4 ""CottonBet @ gzP8GfAb7P"" (1080) | #5 ""gremlin @ iS84Ct9CPV"" (980) | #6 ""wide1234 @ kdOt3QP_fm"" (980) | #7 ""kidsaint @ PwtdL6PLN0"" (1000) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1000)",2024-04-26T18:12:23.431Z,171415514343101
+"-- starting hand #2 (id: p4z5fthvwfs8)  (No Limit Texas Hold'em) (dealer: ""CottonBet @ gzP8GfAb7P"") --",2024-04-26T18:12:23.431Z,171415514343100
+"-- ending hand #1 --",2024-04-26T18:12:20.435Z,171415514043502
+"""CottonBet @ gzP8GfAb7P"" collected 100 from pot",2024-04-26T18:12:20.435Z,171415514043501
+"Uncalled bet of 50 returned to ""CottonBet @ gzP8GfAb7P""",2024-04-26T18:12:20.435Z,171415514043500
+"""Milk. @ D72IAXJn7x"" folds",2024-04-26T18:12:19.623Z,171415513962300
+"""Maybe999 @ DyQEeTODPj"" folds",2024-04-26T18:12:18.698Z,171415513869800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:12:11.770Z,171415513177000
+"""gremlin @ iS84Ct9CPV"" folds",2024-04-26T18:12:08.648Z,171415512864800
+"""CottonBet @ gzP8GfAb7P"" bets 50",2024-04-26T18:12:05.122Z,171415512512200
+"River: A♥, 3♥, 6♥, 10♣ [4♣]",2024-04-26T18:11:58.227Z,171415511822700
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:11:57.404Z,171415511740400
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:11:56.483Z,171415511648300
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:11:54.272Z,171415511427200
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:11:48.729Z,171415510872900
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:11:47.471Z,171415510747100
+"Turn: A♥, 3♥, 6♥ [10♣]",2024-04-26T18:11:44.561Z,171415510456100
+"""Milk. @ D72IAXJn7x"" checks",2024-04-26T18:11:43.742Z,171415510374200
+"""Maybe999 @ DyQEeTODPj"" checks",2024-04-26T18:11:42.315Z,171415510231500
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:11:41.415Z,171415510141500
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:11:38.005Z,171415509800500
+"""CottonBet @ gzP8GfAb7P"" checks",2024-04-26T18:11:36.099Z,171415509609900
+"Flop:  [A♥, 3♥, 6♥]",2024-04-26T18:11:27.345Z,171415508734500
+"""gremlin @ iS84Ct9CPV"" checks",2024-04-26T18:11:26.527Z,171415508652700
+"""CottonBet @ gzP8GfAb7P"" calls 20",2024-04-26T18:11:24.954Z,171415508495400
+"""Milk. @ D72IAXJn7x"" calls 20",2024-04-26T18:11:24.010Z,171415508401000
+"""Maybe999 @ DyQEeTODPj"" calls 20",2024-04-26T18:11:23.039Z,171415508303900
+"""JurgBean @ XWESiVcu1R"" folds",2024-04-26T18:11:18.204Z,171415507820400
+"""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" folds",2024-04-26T18:11:17.329Z,171415507732900
+"""kidsaint @ PwtdL6PLN0"" folds",2024-04-26T18:11:16.351Z,171415507635100
+"""wide1234 @ kdOt3QP_fm"" calls 20",2024-04-26T18:11:13.340Z,171415507334000
+"""gremlin @ iS84Ct9CPV"" posts a big blind of 20",2024-04-26T18:11:08.509Z,171415506850919
+"""CottonBet @ gzP8GfAb7P"" posts a small blind of 10",2024-04-26T18:11:08.509Z,171415506850918
+"Player stacks: #1 ""JurgBean @ XWESiVcu1R"" (1000) | #2 ""Maybe999 @ DyQEeTODPj"" (1000) | #3 ""Milk. @ D72IAXJn7x"" (1000) | #4 ""CottonBet @ gzP8GfAb7P"" (1000) | #5 ""gremlin @ iS84Ct9CPV"" (1000) | #6 ""wide1234 @ kdOt3QP_fm"" (1000) | #7 ""kidsaint @ PwtdL6PLN0"" (1000) | #8 ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" (1000)",2024-04-26T18:11:08.509Z,171415506850909
+"The player ""~𝒜𝓃𝑔𝒾𝑒~ @ S-CIc_0Pzl"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850908
+"The player ""kidsaint @ PwtdL6PLN0"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850907
+"The player ""wide1234 @ kdOt3QP_fm"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850906
+"The player ""gremlin @ iS84Ct9CPV"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850905
+"The player ""CottonBet @ gzP8GfAb7P"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850904
+"The player ""Milk. @ D72IAXJn7x"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850903
+"The player ""Maybe999 @ DyQEeTODPj"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850902
+"The player ""JurgBean @ XWESiVcu1R"" joined the game with a stack of 1000.",2024-04-26T18:11:08.509Z,171415506850901
+"-- starting hand #1 (id: fjco6vv9smdy)  (No Limit Texas Hold'em) (dealer: ""Milk. @ D72IAXJn7x"") --",2024-04-26T18:11:08.509Z,171415506850900
