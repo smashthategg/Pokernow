@@ -117,8 +117,13 @@ def go_to_game2(driver):
     )
     time.sleep(5)
     link = driver.find_element(By.XPATH, go_to_game_xpath)
-    link.click()
-    print("Clicked on go to game link")
+
+    room_link = link.get_attribute('href')
+    print("Found the room link:", room_link)
+        
+    # Return the URL found in the href attribute
+    return room_link
+
     time.sleep(10)
 
 
@@ -129,8 +134,8 @@ def crib_go_to_game(driver, user, password):
     register_for_game(driver)
     print("waiting 10 seconds")
     time.sleep(9)
-    go_to_game2(driver)
-
+    link = go_to_game2(driver)
+    driver.get(link)
 
 
 # ----------------- READ LOG FUNCTION -------------------
@@ -459,7 +464,8 @@ if __name__ == "__main__":
 
     discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
     time.sleep(5)
-    driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
+    # driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
+    driver.get('https://network.pokernow.club/sng_tournaments')
 
 
     # register_for_game(driver) # remove if already a game in progress
@@ -478,7 +484,8 @@ if __name__ == "__main__":
     # fold(driver)
 
     # print(get_cards(driver))
-    print(check_turn(driver))
+    # print(check_turn(driver))
+    print(go_to_game2(driver))
     time.sleep(10)
 
 
