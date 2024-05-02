@@ -300,8 +300,8 @@ def all_in(driver):
         print("No 'All In' button found with the specified text.")
         return False
 
-    except TimeoutException:
-        print("Timeout waiting for 'All In' button.")
+    except:
+        print("No 'All In' button.")
         return False
 
 
@@ -332,6 +332,7 @@ def raise_func(driver, amount):
     raise_input.send_keys(str(int(amount)) + Keys.ENTER)
     print("Sent raise amount")
 
+    time.sleep(1)
     if (check_turn(driver)):
         all_in(driver)
 
