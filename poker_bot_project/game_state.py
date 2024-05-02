@@ -5,10 +5,7 @@ from deck import Deck
 import json
 # from actions import read_log, get_cards
 
-# with open('../Pokernow/stats.json') as json_file:
-#    stats = json.load(json_file)
-
-with open(r'C:\Users\uclam\Downloads\python_workspaces\pokernow\Pokernow\stats.json') as json_file:
+with open('../Pokernow/stats.json') as json_file:
     stats = json.load(json_file)
 
 
@@ -98,8 +95,8 @@ class Game_State:
 
     def read_blinds(self, blinds_string):
         # Regular expression to find the player's name and the "big/small blind" text and extract both the name and the amount
-        match = re.search(r'(\w+) posts a big blind of (\d+)', blinds_string)
-        match2 = re.search(r'(\w+) posts a small blind of (\d+)', blinds_string)
+        match = re.search(r'(.+?) posts a big blind of (\d+)', blinds_string)
+        match2 = re.search(r'(.+?) posts a small blind of (\d+)', blinds_string)
 
         # Regular expression to detect changes in the big blind
         match3 = re.search(r'The game\'s big blind was changed from \d+ to (\d+)', blinds_string)

@@ -113,12 +113,17 @@ def go_to_game2(driver):
     go_to_game_xpath = "//a[contains(@class, 'button-1') and contains(@class, 'big') and contains(@class, 'green')]"
     
     WebDriverWait(driver, 300).until(
-        EC.presence_of_element_located((By.XPATH, go_to_game_xpath))
+        EC.element_to_be_clickable((By.XPATH, go_to_game_xpath))
     )
-    time.sleep(1)
+    time.sleep(5)
     link = driver.find_element(By.XPATH, go_to_game_xpath)
-    link.click()
-    print("Clicked on go to game link")
+
+    room_link = link.get_attribute('href')
+    print("Found the room link:", room_link)
+        
+    # Return the URL found in the href attribute
+    return room_link
+
     time.sleep(10)
 
 
@@ -129,8 +134,8 @@ def crib_go_to_game(driver, user, password):
     register_for_game(driver)
     print("waiting 10 seconds")
     time.sleep(9)
-    go_to_game2(driver)
-
+    link = go_to_game2(driver)
+    driver.get(link)
 
 
 # ----------------- READ LOG FUNCTION -------------------
@@ -219,6 +224,28 @@ def read_log(driver):
 
 
 
+def check_turn0(driver):
+    try:
+        # Define the CSS selector for the "Your Turn" element
+        your_turn_selector = "p.action-signal.suspended"
+
+        # Wait for the element to be visible on the page
+        element = WebDriverWait(driver, 2).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, your_turn_selector))
+        )
+
+        # Check the text of the element to confirm it's the "Your Turn" signal
+        if element.text == "Your Turn":
+            print("It's your turn.")
+            return True
+        else:
+            print("Element found, but text does not match.")
+            return False
+
+    except:
+        return False
+
+
 def check_turn(driver):
     try:
         # Define the button selector
@@ -230,8 +257,8 @@ def check_turn(driver):
         # If the button is visible, it's your turn
         return True
     except:
+        return check_turn0(driver)
         # If the button is not found or not visible within the timeout, it's not your turn
-        return False
 
 
 # ----------------- CALL FUNCTION -------------------
@@ -273,8 +300,8 @@ def all_in(driver):
         print("No 'All In' button found with the specified text.")
         return False
 
-    except TimeoutException:
-        print("Timeout waiting for 'All In' button.")
+    except:
+        print("No 'All In' button.")
         return False
 
 
@@ -305,6 +332,7 @@ def raise_func(driver, amount):
     raise_input.send_keys(str(int(amount)) + Keys.ENTER)
     print("Sent raise amount")
 
+    time.sleep(1)
     if (check_turn(driver)):
         all_in(driver)
 
@@ -432,16 +460,19 @@ if __name__ == "__main__":
     service = Service(executable_path=chromedriver_path)
     driver = webdriver.Chrome(service=service)
 
-    # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 
     discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    time.sleep(5)
+    driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
+
 
     # register_for_game(driver) # remove if already a game in progress
 
     # go_to_game2(driver)
 
     time.sleep(10)
-    driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
+    # driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
     time.sleep(1)
     
     #log = read_log(driver)
@@ -451,7 +482,7 @@ if __name__ == "__main__":
     # check(driver)
     # fold(driver)
 
-    print(get_cards(driver))
+    # print(get_cards(driver))
     print(check_turn(driver))
     time.sleep(10)
 
