@@ -113,9 +113,9 @@ def go_to_game2(driver):
     go_to_game_xpath = "//a[contains(@class, 'button-1') and contains(@class, 'big') and contains(@class, 'green')]"
     
     WebDriverWait(driver, 300).until(
-        EC.presence_of_element_located((By.XPATH, go_to_game_xpath))
+        EC.element_to_be_clickable((By.XPATH, go_to_game_xpath))
     )
-    time.sleep(1)
+    time.sleep(5)
     link = driver.find_element(By.XPATH, go_to_game_xpath)
     link.click()
     print("Clicked on go to game link")
@@ -218,6 +218,26 @@ def read_log(driver):
     return text
 
 
+def check_turn0(driver):
+    try:
+        # Define the CSS selector for the "Your Turn" element
+        your_turn_selector = "p.action-signal.suspended"
+
+        # Wait for the element to be visible on the page
+        element = WebDriverWait(driver, 2).until(
+            EC.visibility_of_element_located((By.CSS_SELECTOR, your_turn_selector))
+        )
+
+        # Check the text of the element to confirm it's the "Your Turn" signal
+        if element.text == "Your Turn":
+            return True
+        else:
+            print("Element found, but text does not match.")
+            return False
+
+    except:
+        return False
+
 
 def check_turn(driver):
     try:
@@ -225,12 +245,14 @@ def check_turn(driver):
         button_selector = 'button.button-1.with-tip.time-bank.suspended-action'
         
         # Wait for the button to be visible on the page
-        WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
+        WebDriverWait(driver, 3).until(EC.visibility_of_element_located((By.CSS_SELECTOR, button_selector)))
         
         # If the button is visible, it's your turn
         return True
     except:
         # If the button is not found or not visible within the timeout, it's not your turn
+        if check_turn0(driver):
+            return True
         return False
 
 
@@ -432,17 +454,21 @@ if __name__ == "__main__":
     service = Service(executable_path=chromedriver_path)
     driver = webdriver.Chrome(service=service)
 
-    crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    # crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    # driver.get(r'https://www.pokernow.club/games/pglZNexZmWZd2POyDldrW0qBl')
 
-    # discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+    time.sleep(5)
+    driver.get(r'https://www.pokernow.club/games/pgloE9xqVVmpKmM-BiKK5Fkg-')
+
 
     # register_for_game(driver) # remove if already a game in progress
 
     # go_to_game2(driver)
 
-    time.sleep(10)
+    # time.sleep(10)
     # driver.get(r"https://www.pokernow.club/games/pgl2DU_IERjgn3gojbVHVo387")
-    time.sleep(1)
+    # time.sleep(1)
     
     #log = read_log(driver)
     # print(log)
@@ -452,7 +478,7 @@ if __name__ == "__main__":
     # fold(driver)
 
     # print(get_cards(driver))
-    # print(check_turn(driver))
+    print(check_turn(driver))
     time.sleep(10)
 
 
