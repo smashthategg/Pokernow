@@ -11,15 +11,16 @@ service = Service(executable_path=chromedriver_path)
 driver = webdriver.Chrome(service=service)
 
 
-# crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
+crib_go_to_game(driver, "pokertest0915@gmail.com", "Pokernowbot")
 # register_for_game(driver) # remove if already a game in progress
 # go_to_game2(driver)
 user = "pokertest0915@gmail.com"
 password = "Pokernowbot"
 
-crib_go_to_game(driver, user, password)
-# driver.get(r"(LINK HERE)")
-#discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+# crib_go_to_game(driver, user, password)
+# discord_login(driver, "pokertest0915@gmail.com", "Pokernowbot")
+time.sleep(5)
+# driver.get(r'https://www.pokernow.club/games/pglhdmreNNGpguHlVPyaeI6p7')
 
 game = Game_State("You're a Bot")
 # TO BE LOOPED: 
