@@ -16,5 +16,5 @@ fig = px.scatter(x, y)
 fig.show()
 '''
 
-fig = px.histogram(df, x, nbins = 60)
+fig = px.histogram(df, x, labels={'x':'VPIP'}, nbins = 50, title = "Distribution of VPIP Among Players")
 fig.show()
