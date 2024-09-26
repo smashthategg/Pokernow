@@ -1,3 +1,5 @@
-/parsed_files.txt
-/pokernow_sqlite.db
 /__pycache__
+poker_bot_project/pokernow_actions/actions.py
+notes.txt
+LOGIN INFO.txt
+poker_bot_project/pokernow_bot.py

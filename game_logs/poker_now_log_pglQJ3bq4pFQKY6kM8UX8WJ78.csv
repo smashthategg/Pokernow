@@ -1,0 +1,851 @@
+entry,at,order
+"The player ""akarvat @ oDlSGRCrSp"" quits the game with a stack of 7000.",2024-04-26T17:58:25.033Z,171415430503300
+"The player ""Одинокий @ IJTnbMhqJ9"" quits the game with a stack of 0.",2024-04-26T17:52:38.962Z,171415395896200
+"-- ending hand #60 --",2024-04-26T17:52:32.950Z,171415395295001
+"""akarvat @ oDlSGRCrSp"" collected 5394 from pot with Straight, K High (combination: K♦, Q♣, J♥, 10♣, 9♠)",2024-04-26T17:52:32.950Z,171415395295000
+"River: 3♣, 10♣, 9♠, Q♣ [K♦]",2024-04-26T17:52:28.946Z,171415394894600
+"Turn: 3♣, 10♣, 9♠ [Q♣]",2024-04-26T17:52:24.931Z,171415394493100
+"Flop:  [3♣, 10♣, 9♠]",2024-04-26T17:52:20.923Z,171415394092300
+"""akarvat @ oDlSGRCrSp"" shows a J♥, J♦.",2024-04-26T17:52:16.851Z,171415393685101
+"""Одинокий @ IJTnbMhqJ9"" shows a 6♦, A♣.",2024-04-26T17:52:16.851Z,171415393685100
+"""akarvat @ oDlSGRCrSp"" calls 2697",2024-04-26T17:52:16.003Z,171415393600300
+"""Одинокий @ IJTnbMhqJ9"" raises to 2697 and go all in",2024-04-26T17:52:14.284Z,171415393428400
+"""akarvat @ oDlSGRCrSp"" raises to 600",2024-04-26T17:52:10.831Z,171415393083100
+"""Одинокий @ IJTnbMhqJ9"" calls 200",2024-04-26T17:52:06.115Z,171415392611500
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 200",2024-04-26T17:52:04.633Z,171415392463307
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 100",2024-04-26T17:52:04.633Z,171415392463306
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2697) | #4 ""akarvat @ oDlSGRCrSp"" (4303)",2024-04-26T17:52:04.633Z,171415392463303
+"-- starting hand #60 (id: srvxpfrfps6d)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:52:04.633Z,171415392463302
+"The game's big blind was changed from 150 to 200.",2024-04-26T17:52:04.633Z,171415392463301
+"The game's small blind was changed from 75 to 100.",2024-04-26T17:52:04.633Z,171415392463300
+"-- ending hand #59 --",2024-04-26T17:52:01.631Z,171415392163102
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:52:01.631Z,171415392163101
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:52:01.631Z,171415392163100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:52:00.799Z,171415392079900
+"""akarvat @ oDlSGRCrSp"" bets 150",2024-04-26T17:51:59.633Z,171415391963300
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:51:58.044Z,171415391804400
+"Flop:  [J♠, 7♠, A♣]",2024-04-26T17:51:56.414Z,171415391641400
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:51:55.605Z,171415391560500
+"""akarvat @ oDlSGRCrSp"" calls 150",2024-04-26T17:51:54.070Z,171415391407000
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:51:52.502Z,171415391250205
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:51:52.502Z,171415391250204
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2847) | #4 ""akarvat @ oDlSGRCrSp"" (4153)",2024-04-26T17:51:52.502Z,171415391250201
+"-- starting hand #59 (id: upslbimlxh4v)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:51:52.502Z,171415391250200
+"-- ending hand #58 --",2024-04-26T17:51:49.591Z,171415390959102
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:51:49.591Z,171415390959101
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:51:49.591Z,171415390959100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:51:48.720Z,171415390872000
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:51:47.186Z,171415390718605
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:51:47.186Z,171415390718604
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2922) | #4 ""akarvat @ oDlSGRCrSp"" (4078)",2024-04-26T17:51:47.186Z,171415390718601
+"-- starting hand #58 (id: 1hs1s0uy5hsu)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:51:47.186Z,171415390718600
+"-- ending hand #57 --",2024-04-26T17:51:44.240Z,171415390424002
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:51:44.240Z,171415390424001
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:51:44.240Z,171415390424000
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:51:43.399Z,171415390339900
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:51:42.201Z,171415390220100
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:51:38.777Z,171415389877705
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:51:38.777Z,171415389877704
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (3072) | #4 ""akarvat @ oDlSGRCrSp"" (3928)",2024-04-26T17:51:38.777Z,171415389877701
+"-- starting hand #57 (id: dp164yy1j0a8)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:51:38.777Z,171415389877700
+"-- ending hand #56 --",2024-04-26T17:51:35.813Z,171415389581302
+"""Одинокий @ IJTnbMhqJ9"" collected 1200 from pot",2024-04-26T17:51:35.813Z,171415389581301
+"Uncalled bet of 1872 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:51:35.813Z,171415389581300
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:51:34.993Z,171415389499300
+"""Одинокий @ IJTnbMhqJ9"" raises to 2472 and go all in",2024-04-26T17:51:30.586Z,171415389058600
+"""akarvat @ oDlSGRCrSp"" raises to 600",2024-04-26T17:51:26.876Z,171415388687600
+"""Одинокий @ IJTnbMhqJ9"" calls 150",2024-04-26T17:51:22.083Z,171415388208300
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:51:19.544Z,171415387954405
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:51:19.544Z,171415387954404
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2472) | #4 ""akarvat @ oDlSGRCrSp"" (4528)",2024-04-26T17:51:19.544Z,171415387954401
+"-- starting hand #56 (id: 9hcp2sbasb1l)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:51:19.544Z,171415387954400
+"-- ending hand #55 --",2024-04-26T17:51:16.555Z,171415387655502
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:51:16.555Z,171415387655501
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:51:16.555Z,171415387655500
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:51:15.740Z,171415387574000
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:51:14.544Z,171415387454400
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:51:10.124Z,171415387012405
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:51:10.124Z,171415387012404
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2622) | #4 ""akarvat @ oDlSGRCrSp"" (4378)",2024-04-26T17:51:10.124Z,171415387012401
+"-- starting hand #55 (id: bp7kjxq1li3w)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:51:10.124Z,171415387012400
+"-- ending hand #54 --",2024-04-26T17:51:07.158Z,171415386715802
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:51:07.158Z,171415386715801
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:51:07.158Z,171415386715800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:51:06.356Z,171415386635600
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:51:04.120Z,171415386412005
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:51:04.120Z,171415386412004
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2697) | #4 ""akarvat @ oDlSGRCrSp"" (4303)",2024-04-26T17:51:04.120Z,171415386412001
+"-- starting hand #54 (id: nvgu8acmndh9)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:51:04.120Z,171415386412000
+"-- ending hand #53 --",2024-04-26T17:51:01.190Z,171415386119002
+"""Одинокий @ IJTnbMhqJ9"" collected 150 from pot",2024-04-26T17:51:01.190Z,171415386119001
+"Uncalled bet of 75 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:51:01.190Z,171415386119000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:51:00.359Z,171415386035900
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:50:58.871Z,171415385887105
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:50:58.871Z,171415385887104
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2622) | #4 ""akarvat @ oDlSGRCrSp"" (4378)",2024-04-26T17:50:58.871Z,171415385887101
+"-- starting hand #53 (id: zt9bqzitboop)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:50:58.871Z,171415385887100
+"-- ending hand #52 --",2024-04-26T17:50:52.864Z,171415385286401
+"""Одинокий @ IJTnbMhqJ9"" collected 2622 from pot with Pair, Q's (combination: Q♦, Q♥, 10♦, 5♥, 4♠)",2024-04-26T17:50:52.864Z,171415385286400
+"River: 5♥, Q♥, 4♠, 3♦ [2♠]",2024-04-26T17:50:48.850Z,171415384885000
+"Turn: 5♥, Q♥, 4♠ [3♦]",2024-04-26T17:50:44.839Z,171415384483900
+"Flop:  [5♥, Q♥, 4♠]",2024-04-26T17:50:40.777Z,171415384077700
+"""akarvat @ oDlSGRCrSp"" shows a K♥, J♠.",2024-04-26T17:50:36.770Z,171415383677001
+"""Одинокий @ IJTnbMhqJ9"" shows a Q♦, 10♦.",2024-04-26T17:50:36.770Z,171415383677000
+"""akarvat @ oDlSGRCrSp"" calls 1311",2024-04-26T17:50:35.956Z,171415383595600
+"""Одинокий @ IJTnbMhqJ9"" raises to 1311 and go all in",2024-04-26T17:50:32.351Z,171415383235100
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:50:28.908Z,171415382890805
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:50:28.908Z,171415382890804
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1311) | #4 ""akarvat @ oDlSGRCrSp"" (5689)",2024-04-26T17:50:28.908Z,171415382890801
+"-- starting hand #52 (id: 3xhz9lb7zvd7)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:50:28.908Z,171415382890800
+"-- ending hand #51 --",2024-04-26T17:50:25.983Z,171415382598302
+"""Одинокий @ IJTnbMhqJ9"" collected 150 from pot",2024-04-26T17:50:25.983Z,171415382598301
+"Uncalled bet of 75 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:50:25.983Z,171415382598300
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:50:25.171Z,171415382517100
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:50:23.904Z,171415382390405
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:50:23.904Z,171415382390404
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1236) | #4 ""akarvat @ oDlSGRCrSp"" (5764)",2024-04-26T17:50:23.904Z,171415382390401
+"-- starting hand #51 (id: ailzdpgtutcr)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:50:23.904Z,171415382390400
+"-- ending hand #50 --",2024-04-26T17:50:20.925Z,171415382092502
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:50:20.925Z,171415382092501
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:50:20.925Z,171415382092500
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:50:20.113Z,171415382011300
+"""akarvat @ oDlSGRCrSp"" bets 150",2024-04-26T17:50:18.318Z,171415381831800
+"River: 4♣, 8♠, 6♦, 10♥ [8♣]",2024-04-26T17:50:17.217Z,171415381721700
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:50:16.393Z,171415381639300
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:50:15.189Z,171415381518900
+"Turn: 4♣, 8♠, 6♦ [10♥]",2024-04-26T17:50:14.615Z,171415381461500
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:50:13.766Z,171415381376600
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:50:10.882Z,171415381088200
+"Flop:  [4♣, 8♠, 6♦]",2024-04-26T17:50:09.612Z,171415380961200
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:50:08.785Z,171415380878500
+"""Одинокий @ IJTnbMhqJ9"" calls 150",2024-04-26T17:50:07.007Z,171415380700700
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:50:03.402Z,171415380340205
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:50:03.402Z,171415380340204
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1386) | #4 ""akarvat @ oDlSGRCrSp"" (5614)",2024-04-26T17:50:03.402Z,171415380340201
+"-- starting hand #50 (id: 10lvtmopyoej)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:50:03.402Z,171415380340200
+"-- ending hand #49 --",2024-04-26T17:50:00.470Z,171415380047002
+"""Одинокий @ IJTnbMhqJ9"" collected 300 from pot",2024-04-26T17:50:00.470Z,171415380047001
+"Uncalled bet of 150 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:50:00.470Z,171415380047000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:49:59.655Z,171415379965500
+"""Одинокий @ IJTnbMhqJ9"" bets 150",2024-04-26T17:49:57.030Z,171415379703000
+"Flop:  [Q♥, 8♠, 4♣]",2024-04-26T17:49:53.695Z,171415379369500
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:49:52.881Z,171415379288100
+"""akarvat @ oDlSGRCrSp"" calls 150",2024-04-26T17:49:44.573Z,171415378457300
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:49:41.881Z,171415378188105
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:49:41.881Z,171415378188104
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1236) | #4 ""akarvat @ oDlSGRCrSp"" (5764)",2024-04-26T17:49:41.881Z,171415378188101
+"-- starting hand #49 (id: flzp2vgzc8ad)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:49:41.881Z,171415378188100
+"-- ending hand #48 --",2024-04-26T17:49:38.974Z,171415377897402
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:49:38.974Z,171415377897401
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:49:38.974Z,171415377897400
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:49:38.156Z,171415377815600
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:49:35.671Z,171415377567105
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:49:35.671Z,171415377567104
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1311) | #4 ""akarvat @ oDlSGRCrSp"" (5689)",2024-04-26T17:49:35.671Z,171415377567101
+"-- starting hand #48 (id: 58cktuwl6olt)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:49:35.671Z,171415377567100
+"-- ending hand #47 --",2024-04-26T17:49:32.752Z,171415377275202
+"""Одинокий @ IJTnbMhqJ9"" collected 150 from pot",2024-04-26T17:49:32.752Z,171415377275201
+"Uncalled bet of 75 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:49:32.752Z,171415377275200
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:49:31.901Z,171415377190100
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:49:30.672Z,171415377067205
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:49:30.672Z,171415377067204
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1236) | #4 ""akarvat @ oDlSGRCrSp"" (5764)",2024-04-26T17:49:30.672Z,171415377067201
+"-- starting hand #47 (id: fy3hb4d3tklq)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:49:30.672Z,171415377067200
+"-- ending hand #46 --",2024-04-26T17:49:27.747Z,171415376774702
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:49:27.747Z,171415376774701
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:49:27.747Z,171415376774700
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:49:26.897Z,171415376689700
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:49:23.962Z,171415376396205
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:49:23.962Z,171415376396204
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1311) | #4 ""akarvat @ oDlSGRCrSp"" (5689)",2024-04-26T17:49:23.962Z,171415376396201
+"-- starting hand #46 (id: 4emjusiqdsi5)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:49:23.962Z,171415376396200
+"""akarvat @ oDlSGRCrSp"" shows a 3♠, 8♣.",2024-04-26T17:49:21.804Z,171415376180400
+"-- ending hand #45 --",2024-04-26T17:49:20.358Z,171415376035802
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:49:20.358Z,171415376035801
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:49:20.358Z,171415376035800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:49:19.508Z,171415375950800
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:49:17.613Z,171415375761300
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:49:13.160Z,171415375316005
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:49:13.160Z,171415375316004
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1461) | #4 ""akarvat @ oDlSGRCrSp"" (5539)",2024-04-26T17:49:13.160Z,171415375316001
+"-- starting hand #45 (id: sdicbpvi7gs1)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:49:13.160Z,171415375316000
+"-- ending hand #44 --",2024-04-26T17:49:07.134Z,171415374713402
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot with A High (combination: A♠, Q♥, 10♦, 7♥, 5♣)",2024-04-26T17:49:07.134Z,171415374713401
+"""akarvat @ oDlSGRCrSp"" shows a A♠, 2♠.",2024-04-26T17:49:07.134Z,171415374713400
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:49:06.308Z,171415374630800
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:49:05.223Z,171415374522300
+"River: 5♣, Q♥, 10♦, 7♥ [3♦]",2024-04-26T17:49:04.692Z,171415374469200
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:49:03.846Z,171415374384600
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:49:02.560Z,171415374256000
+"Turn: 5♣, Q♥, 10♦ [7♥]",2024-04-26T17:49:01.865Z,171415374186500
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:49:01.034Z,171415374103400
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:48:58.387Z,171415373838700
+"Flop:  [5♣, Q♥, 10♦]",2024-04-26T17:48:57.261Z,171415373726100
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:48:56.357Z,171415373635700
+"""Одинокий @ IJTnbMhqJ9"" calls 150",2024-04-26T17:48:55.029Z,171415373502900
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:48:48.653Z,171415372865305
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:48:48.653Z,171415372865304
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1611) | #4 ""akarvat @ oDlSGRCrSp"" (5389)",2024-04-26T17:48:48.653Z,171415372865301
+"-- starting hand #44 (id: i47jrgt9fthz)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:48:48.653Z,171415372865300
+"-- ending hand #43 --",2024-04-26T17:48:45.666Z,171415372566602
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:48:45.666Z,171415372566601
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:48:45.666Z,171415372566600
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:48:44.749Z,171415372474900
+"""akarvat @ oDlSGRCrSp"" bets 150",2024-04-26T17:48:41.694Z,171415372169400
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:48:40.244Z,171415372024400
+"Flop:  [Q♦, K♦, K♥]",2024-04-26T17:48:38.510Z,171415371851000
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:48:37.669Z,171415371766900
+"""akarvat @ oDlSGRCrSp"" calls 150",2024-04-26T17:48:35.149Z,171415371514900
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:48:33.819Z,171415371381905
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:48:33.819Z,171415371381904
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1761) | #4 ""akarvat @ oDlSGRCrSp"" (5239)",2024-04-26T17:48:33.819Z,171415371381901
+"-- starting hand #43 (id: jqbpj1jqblrd)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:48:33.819Z,171415371381900
+"-- ending hand #42 --",2024-04-26T17:48:30.821Z,171415371082102
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:48:30.821Z,171415371082101
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:48:30.821Z,171415371082100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:48:29.995Z,171415370999500
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:48:24.036Z,171415370403605
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:48:24.036Z,171415370403604
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1836) | #4 ""akarvat @ oDlSGRCrSp"" (5164)",2024-04-26T17:48:24.036Z,171415370403601
+"-- starting hand #42 (id: k38i17qg0qed)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:48:24.036Z,171415370403600
+"-- ending hand #41 --",2024-04-26T17:48:21.073Z,171415370107302
+"""Одинокий @ IJTnbMhqJ9"" collected 150 from pot",2024-04-26T17:48:21.073Z,171415370107301
+"Uncalled bet of 75 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:48:21.073Z,171415370107300
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:48:20.246Z,171415370024600
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:48:19.193Z,171415369919305
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:48:19.193Z,171415369919304
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1761) | #4 ""akarvat @ oDlSGRCrSp"" (5239)",2024-04-26T17:48:19.193Z,171415369919301
+"-- starting hand #41 (id: 4t4izwf10dgk)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:48:19.193Z,171415369919300
+"-- ending hand #40 --",2024-04-26T17:48:16.263Z,171415369626302
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:48:16.263Z,171415369626301
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:48:16.263Z,171415369626300
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:48:15.441Z,171415369544100
+"""akarvat @ oDlSGRCrSp"" bets 150",2024-04-26T17:48:14.023Z,171415369402300
+"Flop:  [7♥, J♥, 2♣]",2024-04-26T17:48:12.624Z,171415369262400
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:48:11.807Z,171415369180700
+"""Одинокий @ IJTnbMhqJ9"" calls 150",2024-04-26T17:48:10.262Z,171415369026200
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:48:05.570Z,171415368557005
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:48:05.570Z,171415368557004
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1911) | #4 ""akarvat @ oDlSGRCrSp"" (5089)",2024-04-26T17:48:05.570Z,171415368557001
+"-- starting hand #40 (id: jivibte8oybz)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:48:05.570Z,171415368557000
+"-- ending hand #39 --",2024-04-26T17:48:02.618Z,171415368261802
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:48:02.618Z,171415368261801
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:48:02.618Z,171415368261800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:48:01.806Z,171415368180600
+"""akarvat @ oDlSGRCrSp"" bets 150",2024-04-26T17:47:58.368Z,171415367836800
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:47:56.717Z,171415367671700
+"Flop:  [9♠, 2♣, Q♠]",2024-04-26T17:47:55.533Z,171415367553300
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:47:54.638Z,171415367463800
+"""akarvat @ oDlSGRCrSp"" calls 150",2024-04-26T17:47:53.498Z,171415367349800
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:47:51.923Z,171415367192305
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:47:51.923Z,171415367192304
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2061) | #4 ""akarvat @ oDlSGRCrSp"" (4939)",2024-04-26T17:47:51.923Z,171415367192301
+"-- starting hand #39 (id: zdmlvrufpizm)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:47:51.923Z,171415367192300
+"-- ending hand #38 --",2024-04-26T17:47:48.998Z,171415366899802
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:47:48.998Z,171415366899801
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:47:48.998Z,171415366899800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:47:48.188Z,171415366818800
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:47:46.499Z,171415366649905
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:47:46.499Z,171415366649904
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2136) | #4 ""akarvat @ oDlSGRCrSp"" (4864)",2024-04-26T17:47:46.499Z,171415366649901
+"-- starting hand #38 (id: piqdxtjx5rxg)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:47:46.499Z,171415366649900
+"-- ending hand #37 --",2024-04-26T17:47:43.555Z,171415366355502
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:47:43.555Z,171415366355501
+"Uncalled bet of 2136 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:47:43.555Z,171415366355500
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:47:42.750Z,171415366275000
+"""akarvat @ oDlSGRCrSp"" raises to 2286",2024-04-26T17:47:40.961Z,171415366096100
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:47:38.096Z,171415365809605
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:47:38.096Z,171415365809604
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2286) | #4 ""akarvat @ oDlSGRCrSp"" (4714)",2024-04-26T17:47:38.096Z,171415365809601
+"-- starting hand #37 (id: qsgyupkyds7z)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:47:38.096Z,171415365809600
+"-- ending hand #36 --",2024-04-26T17:47:35.178Z,171415365517802
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:47:35.178Z,171415365517801
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:47:35.178Z,171415365517800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:47:34.310Z,171415365431000
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:47:32.373Z,171415365237305
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:47:32.373Z,171415365237304
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2361) | #4 ""akarvat @ oDlSGRCrSp"" (4639)",2024-04-26T17:47:32.373Z,171415365237301
+"-- starting hand #36 (id: xnibzd1jtols)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:47:32.373Z,171415365237300
+"-- ending hand #35 --",2024-04-26T17:47:29.464Z,171415364946402
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:47:29.464Z,171415364946401
+"Uncalled bet of 150 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:47:29.464Z,171415364946400
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:47:28.634Z,171415364863400
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:47:26.833Z,171415364683300
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:47:24.455Z,171415364445505
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:47:24.455Z,171415364445504
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2511) | #4 ""akarvat @ oDlSGRCrSp"" (4489)",2024-04-26T17:47:24.455Z,171415364445501
+"-- starting hand #35 (id: 28mphiy7okdm)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:47:24.455Z,171415364445500
+"-- ending hand #34 --",2024-04-26T17:47:21.485Z,171415364148502
+"""Одинокий @ IJTnbMhqJ9"" collected 600 from pot",2024-04-26T17:47:21.485Z,171415364148501
+"Uncalled bet of 150 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:47:21.485Z,171415364148500
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:47:20.666Z,171415364066600
+"""Одинокий @ IJTnbMhqJ9"" bets 150",2024-04-26T17:47:19.194Z,171415363919400
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:47:17.038Z,171415363703800
+"Flop:  [10♠, A♠, Q♥]",2024-04-26T17:47:15.630Z,171415363563000
+"""akarvat @ oDlSGRCrSp"" calls 300",2024-04-26T17:47:14.823Z,171415363482300
+"""Одинокий @ IJTnbMhqJ9"" raises to 300",2024-04-26T17:47:13.359Z,171415363335900
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:47:09.730Z,171415362973005
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:47:09.730Z,171415362973004
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2211) | #4 ""akarvat @ oDlSGRCrSp"" (4789)",2024-04-26T17:47:09.730Z,171415362973001
+"-- starting hand #34 (id: bw0zntwr4eif)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:47:09.730Z,171415362973000
+"-- ending hand #33 --",2024-04-26T17:47:06.792Z,171415362679202
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:47:06.792Z,171415362679201
+"Uncalled bet of 2211 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:47:06.792Z,171415362679200
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:47:05.949Z,171415362594900
+"""akarvat @ oDlSGRCrSp"" raises to 2361",2024-04-26T17:47:02.386Z,171415362238600
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 150",2024-04-26T17:46:57.992Z,171415361799205
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 75",2024-04-26T17:46:57.992Z,171415361799204
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2361) | #4 ""akarvat @ oDlSGRCrSp"" (4639)",2024-04-26T17:46:57.992Z,171415361799201
+"-- starting hand #33 (id: wb5bilzpy5tj)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:46:57.992Z,171415361799200
+"-- ending hand #32 --",2024-04-26T17:46:55.067Z,171415361506702
+"""akarvat @ oDlSGRCrSp"" collected 150 from pot",2024-04-26T17:46:55.067Z,171415361506701
+"Uncalled bet of 75 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:46:55.067Z,171415361506700
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:46:54.262Z,171415361426200
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 150",2024-04-26T17:46:53.059Z,171415361305907
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 75",2024-04-26T17:46:53.059Z,171415361305906
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2436) | #4 ""akarvat @ oDlSGRCrSp"" (4564)",2024-04-26T17:46:53.059Z,171415361305903
+"-- starting hand #32 (id: 5n4ufyy5emmx)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:46:53.059Z,171415361305902
+"The game's big blind was changed from 100 to 150.",2024-04-26T17:46:53.059Z,171415361305901
+"The game's small blind was changed from 50 to 75.",2024-04-26T17:46:53.059Z,171415361305900
+"-- ending hand #31 --",2024-04-26T17:46:50.156Z,171415361015602
+"""Одинокий @ IJTnbMhqJ9"" collected 100 from pot",2024-04-26T17:46:50.156Z,171415361015601
+"Uncalled bet of 50 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:46:50.156Z,171415361015600
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:46:49.280Z,171415360928000
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 100",2024-04-26T17:46:46.656Z,171415360665606
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T17:46:46.656Z,171415360665605
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2386) | #4 ""akarvat @ oDlSGRCrSp"" (4614)",2024-04-26T17:46:46.656Z,171415360665602
+"-- starting hand #31 (id: odjgqbhvooot)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:46:46.656Z,171415360665601
+"The player ""鸡你太美 @ XFkLowRD-r"" quits the game with a stack of 0.",2024-04-26T17:46:46.656Z,171415360665600
+"-- ending hand #30 --",2024-04-26T17:46:40.649Z,171415360064901
+"""akarvat @ oDlSGRCrSp"" collected 3610 from pot with Pair, 6's (combination: 6♠, 6♥, A♦, Q♥, 10♦)",2024-04-26T17:46:40.649Z,171415360064900
+"River: Q♥, 10♦, 5♥, 6♥ [3♠]",2024-04-26T17:46:36.612Z,171415359661200
+"Turn: Q♥, 10♦, 5♥ [6♥]",2024-04-26T17:46:32.548Z,171415359254800
+"Flop:  [Q♥, 10♦, 5♥]",2024-04-26T17:46:28.545Z,171415358854500
+"""鸡你太美 @ XFkLowRD-r"" shows a 6♣, 7♣.",2024-04-26T17:46:24.499Z,171415358449901
+"""akarvat @ oDlSGRCrSp"" shows a 6♠, A♦.",2024-04-26T17:46:24.499Z,171415358449900
+"""鸡你太美 @ XFkLowRD-r"" calls 1805 and go all in",2024-04-26T17:46:23.641Z,171415358364100
+"""akarvat @ oDlSGRCrSp"" raises to 1805",2024-04-26T17:46:15.619Z,171415357561900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:46:12.509Z,171415357250900
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 100",2024-04-26T17:46:10.261Z,171415357026106
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T17:46:10.261Z,171415357026105
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2386) | #4 ""akarvat @ oDlSGRCrSp"" (2809) | #8 ""鸡你太美 @ XFkLowRD-r"" (1805)",2024-04-26T17:46:10.261Z,171415357026101
+"-- starting hand #30 (id: 2kbw0yj94hie)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:46:10.261Z,171415357026100
+"-- ending hand #29 --",2024-04-26T17:46:04.254Z,171415356425402
+"""鸡你太美 @ XFkLowRD-r"" collected 1805 from pot with Pair, J's (combination: J♥, J♠, K♠, 7♠, 6♦)",2024-04-26T17:46:04.254Z,171415356425401
+"""akarvat @ oDlSGRCrSp"" collected 1805 from pot with Pair, J's (combination: J♦, J♠, K♥, 7♠, 6♦)",2024-04-26T17:46:04.254Z,171415356425400
+"River: 3♦, 6♦, 7♠, J♠ [2♠]",2024-04-26T17:46:00.247Z,171415356024700
+"Turn: 3♦, 6♦, 7♠ [J♠]",2024-04-26T17:45:56.213Z,171415355621300
+"Flop:  [3♦, 6♦, 7♠]",2024-04-26T17:45:52.209Z,171415355220900
+"""鸡你太美 @ XFkLowRD-r"" shows a K♠, J♥.",2024-04-26T17:45:48.200Z,171415354820001
+"""akarvat @ oDlSGRCrSp"" shows a J♦, K♥.",2024-04-26T17:45:48.200Z,171415354820000
+"""akarvat @ oDlSGRCrSp"" calls 1780",2024-04-26T17:45:47.359Z,171415354735900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:45:45.563Z,171415354556300
+"""鸡你太美 @ XFkLowRD-r"" raises to 1780 and go all in",2024-04-26T17:45:41.491Z,171415354149100
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 100",2024-04-26T17:45:37.678Z,171415353767806
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 50",2024-04-26T17:45:37.678Z,171415353767805
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2436) | #4 ""akarvat @ oDlSGRCrSp"" (2784) | #8 ""鸡你太美 @ XFkLowRD-r"" (1780)",2024-04-26T17:45:37.678Z,171415353767801
+"-- starting hand #29 (id: h5hio8ryf8kh)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:45:37.678Z,171415353767800
+"-- ending hand #28 --",2024-04-26T17:45:34.776Z,171415353477602
+"""Одинокий @ IJTnbMhqJ9"" collected 600 from pot",2024-04-26T17:45:34.776Z,171415353477601
+"Uncalled bet of 1836 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:45:34.776Z,171415353477600
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:45:33.927Z,171415353392700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:45:32.690Z,171415353269000
+"""Одинокий @ IJTnbMhqJ9"" raises to 2036 and go all in",2024-04-26T17:45:31.263Z,171415353126300
+"""鸡你太美 @ XFkLowRD-r"" calls 200",2024-04-26T17:45:26.287Z,171415352628700
+"""akarvat @ oDlSGRCrSp"" raises to 200",2024-04-26T17:45:23.655Z,171415352365500
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 100",2024-04-26T17:45:20.765Z,171415352076506
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 50",2024-04-26T17:45:20.765Z,171415352076505
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2036) | #4 ""akarvat @ oDlSGRCrSp"" (2984) | #8 ""鸡你太美 @ XFkLowRD-r"" (1980)",2024-04-26T17:45:20.765Z,171415352076501
+"-- starting hand #28 (id: ya5v4znrtsal)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:45:20.765Z,171415352076500
+"-- ending hand #27 --",2024-04-26T17:45:17.806Z,171415351780602
+"""akarvat @ oDlSGRCrSp"" collected 200 from pot",2024-04-26T17:45:17.806Z,171415351780601
+"Uncalled bet of 200 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:45:17.806Z,171415351780600
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:45:16.987Z,171415351698700
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:45:02.348Z,171415350234800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:44:57.541Z,171415349754100
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 100",2024-04-26T17:44:55.523Z,171415349552306
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T17:44:55.523Z,171415349552305
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2036) | #4 ""akarvat @ oDlSGRCrSp"" (2884) | #8 ""鸡你太美 @ XFkLowRD-r"" (2080)",2024-04-26T17:44:55.523Z,171415349552301
+"-- starting hand #27 (id: cbla1okfxgfo)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:44:55.523Z,171415349552300
+"-- ending hand #26 --",2024-04-26T17:44:52.614Z,171415349261402
+"""akarvat @ oDlSGRCrSp"" collected 100 from pot",2024-04-26T17:44:52.614Z,171415349261401
+"Uncalled bet of 50 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:44:52.614Z,171415349261400
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:44:51.752Z,171415349175200
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:44:50.705Z,171415349070500
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 100",2024-04-26T17:44:38.104Z,171415347810406
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 50",2024-04-26T17:44:38.104Z,171415347810405
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (2086) | #4 ""akarvat @ oDlSGRCrSp"" (2834) | #8 ""鸡你太美 @ XFkLowRD-r"" (2080)",2024-04-26T17:44:38.104Z,171415347810401
+"-- starting hand #26 (id: ieuhivilu6ob)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:44:38.104Z,171415347810400
+"-- ending hand #25 --",2024-04-26T17:44:32.063Z,171415347206301
+"""Одинокий @ IJTnbMhqJ9"" collected 2086 from pot with Pair, 7's (combination: 7♣, 7♥, A♠, J♦, 10♥)",2024-04-26T17:44:32.063Z,171415347206300
+"River: 10♥, 2♣, 7♣, 8♦ [7♥]",2024-04-26T17:44:28.040Z,171415346804000
+"Turn: 10♥, 2♣, 7♣ [8♦]",2024-04-26T17:44:23.959Z,171415346395900
+"Flop:  [10♥, 2♣, 7♣]",2024-04-26T17:44:19.950Z,171415345995000
+"""akarvat @ oDlSGRCrSp"" shows a 3♦, A♦.",2024-04-26T17:44:15.943Z,171415345594301
+"""Одинокий @ IJTnbMhqJ9"" shows a A♠, J♦.",2024-04-26T17:44:15.943Z,171415345594300
+"""akarvat @ oDlSGRCrSp"" calls 1018",2024-04-26T17:44:15.079Z,171415345507900
+"""Одинокий @ IJTnbMhqJ9"" raises to 1018 and go all in",2024-04-26T17:44:13.424Z,171415345342400
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:44:09.221Z,171415344922100
+"""akarvat @ oDlSGRCrSp"" raises to 350",2024-04-26T17:44:08.388Z,171415344838800
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 100",2024-04-26T17:44:05.132Z,171415344513206
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 50",2024-04-26T17:44:05.132Z,171415344513205
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1018) | #4 ""akarvat @ oDlSGRCrSp"" (3852) | #8 ""鸡你太美 @ XFkLowRD-r"" (2130)",2024-04-26T17:44:05.132Z,171415344513201
+"-- starting hand #25 (id: tg69olf1nojo)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:44:05.132Z,171415344513200
+"-- ending hand #24 --",2024-04-26T17:44:02.219Z,171415344221902
+"""akarvat @ oDlSGRCrSp"" collected 200 from pot",2024-04-26T17:44:02.219Z,171415344221901
+"Uncalled bet of 200 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:44:02.219Z,171415344221900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:44:01.372Z,171415344137200
+"""akarvat @ oDlSGRCrSp"" raises to 300",2024-04-26T17:44:00.528Z,171415344052800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:43:56.898Z,171415343689800
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 100",2024-04-26T17:43:41.877Z,171415342187706
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T17:43:41.877Z,171415342187705
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1018) | #4 ""akarvat @ oDlSGRCrSp"" (3752) | #8 ""鸡你太美 @ XFkLowRD-r"" (2230)",2024-04-26T17:43:41.877Z,171415342187701
+"-- starting hand #24 (id: efpniodqropq)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:43:41.877Z,171415342187700
+"-- ending hand #23 --",2024-04-26T17:43:38.931Z,171415341893102
+"""akarvat @ oDlSGRCrSp"" collected 100 from pot",2024-04-26T17:43:38.931Z,171415341893101
+"Uncalled bet of 50 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:43:38.931Z,171415341893100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:43:38.085Z,171415341808500
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:43:30.943Z,171415341094300
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 100",2024-04-26T17:43:15.926Z,171415339592607
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 50",2024-04-26T17:43:15.926Z,171415339592606
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1068) | #4 ""akarvat @ oDlSGRCrSp"" (3702) | #8 ""鸡你太美 @ XFkLowRD-r"" (2230)",2024-04-26T17:43:15.926Z,171415339592602
+"-- starting hand #23 (id: dlukrmnesxri)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:43:15.926Z,171415339592601
+"The player ""shivarana12346 @ 70U6fx0Khy"" quits the game with a stack of 0.",2024-04-26T17:43:15.926Z,171415339592600
+"-- ending hand #22 --",2024-04-26T17:43:09.917Z,171415338991701
+"""鸡你太美 @ XFkLowRD-r"" collected 1400 from pot with Three of a Kind, 3's (combination: 3♦, 3♣, 3♠, A♦, K♣)",2024-04-26T17:43:09.917Z,171415338991700
+"River: 3♠, A♦, 5♣, K♣ [10♥]",2024-04-26T17:43:05.914Z,171415338591400
+"Turn: 3♠, A♦, 5♣ [K♣]",2024-04-26T17:43:01.873Z,171415338187300
+"Flop:  [3♠, A♦, 5♣]",2024-04-26T17:42:57.858Z,171415337785800
+"""鸡你太美 @ XFkLowRD-r"" shows a 3♦, 3♣.",2024-04-26T17:42:53.849Z,171415337384902
+"""shivarana12346 @ 70U6fx0Khy"" shows a K♠, 2♠.",2024-04-26T17:42:53.849Z,171415337384901
+"Uncalled bet of 830 returned to ""鸡你太美 @ XFkLowRD-r""",2024-04-26T17:42:53.849Z,171415337384900
+"""shivarana12346 @ 70U6fx0Khy"" calls 600 and go all in",2024-04-26T17:42:52.957Z,171415337295700
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:42:51.859Z,171415337185900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:42:50.900Z,171415337090000
+"""鸡你太美 @ XFkLowRD-r"" raises to 1430 and go all in",2024-04-26T17:42:46.421Z,171415336642100
+"""shivarana12346 @ 70U6fx0Khy"" calls 100",2024-04-26T17:42:44.208Z,171415336420800
+"""akarvat @ oDlSGRCrSp"" calls 100",2024-04-26T17:42:43.085Z,171415336308500
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 100",2024-04-26T17:42:41.239Z,171415336123907
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 50",2024-04-26T17:42:41.239Z,171415336123906
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1168) | #4 ""akarvat @ oDlSGRCrSp"" (3802) | #7 ""shivarana12346 @ 70U6fx0Khy"" (600) | #8 ""鸡你太美 @ XFkLowRD-r"" (1430)",2024-04-26T17:42:41.239Z,171415336123901
+"-- starting hand #22 (id: e3cgtxsr4saq)  (No Limit Texas Hold'em) (dealer: ""shivarana12346 @ 70U6fx0Khy"") --",2024-04-26T17:42:41.239Z,171415336123900
+"-- ending hand #21 --",2024-04-26T17:42:38.335Z,171415335833502
+"""shivarana12346 @ 70U6fx0Khy"" collected 200 from pot",2024-04-26T17:42:38.335Z,171415335833501
+"Uncalled bet of 100 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:42:38.335Z,171415335833500
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:42:37.509Z,171415335750900
+"""shivarana12346 @ 70U6fx0Khy"" bets 100",2024-04-26T17:42:36.693Z,171415335669300
+"Flop:  [4♣, 5♥, 2♠]",2024-04-26T17:42:34.611Z,171415335461100
+"""鸡你太美 @ XFkLowRD-r"" checks",2024-04-26T17:42:33.806Z,171415335380600
+"""shivarana12346 @ 70U6fx0Khy"" calls 100",2024-04-26T17:42:33.000Z,171415335300000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:42:31.895Z,171415335189500
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:42:29.649Z,171415334964900
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 100",2024-04-26T17:42:27.289Z,171415334728907
+"""shivarana12346 @ 70U6fx0Khy"" posts a small blind of 50",2024-04-26T17:42:27.289Z,171415334728906
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1168) | #4 ""akarvat @ oDlSGRCrSp"" (3802) | #7 ""shivarana12346 @ 70U6fx0Khy"" (500) | #8 ""鸡你太美 @ XFkLowRD-r"" (1530)",2024-04-26T17:42:27.289Z,171415334728901
+"-- starting hand #21 (id: wahkobsyxjqm)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:42:27.289Z,171415334728900
+"-- ending hand #20 --",2024-04-26T17:42:21.262Z,171415334126201
+"""akarvat @ oDlSGRCrSp"" collected 3802 from pot with Two Pair, K's & 8's (combination: K♠, K♥, 8♦, 8♥, 7♠)",2024-04-26T17:42:21.262Z,171415334126200
+"River: K♠, 6♣, 7♣, 8♥ [K♥]",2024-04-26T17:42:17.254Z,171415333725400
+"Turn: K♠, 6♣, 7♣ [8♥]",2024-04-26T17:42:13.251Z,171415333325100
+"""shivarana12346 @ 70U6fx0Khy"" shows a A♣, 4♣.",2024-04-26T17:42:09.226Z,171415332922601
+"""akarvat @ oDlSGRCrSp"" shows a 7♠, 8♦.",2024-04-26T17:42:09.226Z,171415332922600
+"""shivarana12346 @ 70U6fx0Khy"" calls 1601",2024-04-26T17:42:08.414Z,171415332841400
+"""akarvat @ oDlSGRCrSp"" bets 1601 and go all in",2024-04-26T17:42:05.652Z,171415332565200
+"Flop:  [K♠, 6♣, 7♣]",2024-04-26T17:42:01.395Z,171415332139500
+"""akarvat @ oDlSGRCrSp"" calls 300",2024-04-26T17:42:00.557Z,171415332055700
+"""shivarana12346 @ 70U6fx0Khy"" raises to 300",2024-04-26T17:41:58.764Z,171415331876400
+"""akarvat @ oDlSGRCrSp"" calls 100",2024-04-26T17:41:54.701Z,171415331470100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:41:51.745Z,171415331174500
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:41:49.757Z,171415330975710
+"""shivarana12346 @ 70U6fx0Khy"" posts a big blind of 100",2024-04-26T17:41:49.757Z,171415330975709
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 50",2024-04-26T17:41:49.757Z,171415330975708
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1168) | #4 ""akarvat @ oDlSGRCrSp"" (1901) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2401) | #8 ""鸡你太美 @ XFkLowRD-r"" (1530)",2024-04-26T17:41:49.757Z,171415330975703
+"-- starting hand #20 (id: fqs7nvfhgieb)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:41:49.757Z,171415330975702
+"The game's big blind was changed from 60 to 100.",2024-04-26T17:41:49.757Z,171415330975701
+"The game's small blind was changed from 30 to 50.",2024-04-26T17:41:49.757Z,171415330975700
+"-- ending hand #19 --",2024-04-26T17:41:46.749Z,171415330674902
+"""shivarana12346 @ 70U6fx0Khy"" collected 300 from pot",2024-04-26T17:41:46.749Z,171415330674901
+"Uncalled bet of 210 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:41:46.749Z,171415330674900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:41:45.840Z,171415330584000
+"""shivarana12346 @ 70U6fx0Khy"" bets 210",2024-04-26T17:41:41.441Z,171415330144100
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:41:33.797Z,171415329379700
+"Flop:  [4♠, Q♠, 2♦]",2024-04-26T17:41:32.382Z,171415329238200
+"""shivarana12346 @ 70U6fx0Khy"" calls 120",2024-04-26T17:41:31.572Z,171415329157200
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:41:28.577Z,171415328857700
+"""Одинокий @ IJTnbMhqJ9"" raises to 120",2024-04-26T17:41:27.149Z,171415328714900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:41:22.469Z,171415328246900
+"""shivarana12346 @ 70U6fx0Khy"" calls 60",2024-04-26T17:41:21.641Z,171415328164100
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 60",2024-04-26T17:41:15.914Z,171415327591407
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 30",2024-04-26T17:41:15.914Z,171415327591406
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1288) | #4 ""akarvat @ oDlSGRCrSp"" (1961) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2221) | #8 ""鸡你太美 @ XFkLowRD-r"" (1530)",2024-04-26T17:41:15.914Z,171415327591401
+"-- starting hand #19 (id: zrxxupxe8l0p)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:41:15.914Z,171415327591400
+"-- ending hand #18 --",2024-04-26T17:41:12.941Z,171415327294102
+"""Одинокий @ IJTnbMhqJ9"" collected 60 from pot",2024-04-26T17:41:12.941Z,171415327294101
+"Uncalled bet of 30 returned to ""Одинокий @ IJTnbMhqJ9""",2024-04-26T17:41:12.941Z,171415327294100
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:41:12.106Z,171415327210600
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:40:56.285Z,171415325628500
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:40:52.879Z,171415325287900
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 60",2024-04-26T17:40:51.407Z,171415325140708
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 30",2024-04-26T17:40:51.407Z,171415325140707
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1258) | #4 ""akarvat @ oDlSGRCrSp"" (1961) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2221) | #8 ""鸡你太美 @ XFkLowRD-r"" (1560)",2024-04-26T17:40:51.407Z,171415325140702
+"-- starting hand #18 (id: gjsjgr7wzgjf)  (No Limit Texas Hold'em) (dealer: ""shivarana12346 @ 70U6fx0Khy"") --",2024-04-26T17:40:51.407Z,171415325140701
+"The player ""Clownfest @ DQEIYvISCQ"" quits the game with a stack of 0.",2024-04-26T17:40:51.407Z,171415325140700
+"""shivarana12346 @ 70U6fx0Khy"" shows a A♦, 7♥.",2024-04-26T17:40:45.874Z,171415324587400
+"-- ending hand #17 --",2024-04-26T17:40:44.882Z,171415324488201
+"""akarvat @ oDlSGRCrSp"" collected 1692 from pot with Two Pair, J's & 3's (combination: J♥, J♣, 3♣, 3♥, Q♦)",2024-04-26T17:40:44.882Z,171415324488200
+"River: 3♣, Q♦, 3♥, 5♦ [2♠]",2024-04-26T17:40:40.859Z,171415324085900
+"Turn: 3♣, Q♦, 3♥ [5♦]",2024-04-26T17:40:36.852Z,171415323685200
+"Flop:  [3♣, Q♦, 3♥]",2024-04-26T17:40:32.847Z,171415323284700
+"""Clownfest @ DQEIYvISCQ"" shows a 7♠, A♥.",2024-04-26T17:40:28.829Z,171415322882901
+"""akarvat @ oDlSGRCrSp"" shows a J♥, J♣.",2024-04-26T17:40:28.829Z,171415322882900
+"""Clownfest @ DQEIYvISCQ"" calls 801 and go all in",2024-04-26T17:40:28.012Z,171415322801200
+"""akarvat @ oDlSGRCrSp"" raises to 801",2024-04-26T17:40:24.766Z,171415322476600
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:40:21.702Z,171415322170200
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:40:20.851Z,171415322085100
+"""Clownfest @ DQEIYvISCQ"" raises to 270",2024-04-26T17:40:17.276Z,171415321727600
+"""akarvat @ oDlSGRCrSp"" calls 60",2024-04-26T17:40:14.159Z,171415321415900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:40:12.609Z,171415321260900
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 60",2024-04-26T17:40:10.603Z,171415321060308
+"""shivarana12346 @ 70U6fx0Khy"" posts a small blind of 30",2024-04-26T17:40:10.603Z,171415321060307
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1258) | #4 ""akarvat @ oDlSGRCrSp"" (1070) | #5 ""Clownfest @ DQEIYvISCQ"" (801) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2251) | #8 ""鸡你太美 @ XFkLowRD-r"" (1620)",2024-04-26T17:40:10.603Z,171415321060301
+"-- starting hand #17 (id: 95iuaeoi3y6c)  (No Limit Texas Hold'em) (dealer: ""Clownfest @ DQEIYvISCQ"") --",2024-04-26T17:40:10.603Z,171415321060300
+"-- ending hand #16 --",2024-04-26T17:40:07.639Z,171415320763902
+"""akarvat @ oDlSGRCrSp"" collected 210 from pot",2024-04-26T17:40:07.639Z,171415320763901
+"Uncalled bet of 860 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:40:07.639Z,171415320763900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:40:06.796Z,171415320679600
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:39:50.904Z,171415319090400
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:39:48.082Z,171415318808200
+"""akarvat @ oDlSGRCrSp"" raises to 920 and go all in",2024-04-26T17:39:46.847Z,171415318684700
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:39:43.508Z,171415318350800
+"""鸡你太美 @ XFkLowRD-r"" calls 60",2024-04-26T17:39:41.865Z,171415318186500
+"""shivarana12346 @ 70U6fx0Khy"" posts a big blind of 60",2024-04-26T17:39:39.568Z,171415317956808
+"""Clownfest @ DQEIYvISCQ"" posts a small blind of 30",2024-04-26T17:39:39.568Z,171415317956807
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1258) | #4 ""akarvat @ oDlSGRCrSp"" (920) | #5 ""Clownfest @ DQEIYvISCQ"" (831) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2311) | #8 ""鸡你太美 @ XFkLowRD-r"" (1680)",2024-04-26T17:39:39.568Z,171415317956801
+"-- starting hand #16 (id: hw39as2otnaf)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:39:39.568Z,171415317956800
+"""鸡你太美 @ XFkLowRD-r"" shows a 9♥, 8♥.",2024-04-26T17:39:36.646Z,171415317664600
+"-- ending hand #15 --",2024-04-26T17:39:35.958Z,171415317595802
+"""鸡你太美 @ XFkLowRD-r"" collected 960 from pot",2024-04-26T17:39:35.958Z,171415317595801
+"Uncalled bet of 720 returned to ""鸡你太美 @ XFkLowRD-r""",2024-04-26T17:39:35.958Z,171415317595800
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:39:35.073Z,171415317507300
+"""鸡你太美 @ XFkLowRD-r"" raises to 990 and go all in",2024-04-26T17:39:29.258Z,171415316925800
+"""shivarana12346 @ 70U6fx0Khy"" bets 270",2024-04-26T17:39:27.079Z,171415316707900
+"Flop:  [A♠, 8♠, K♥]",2024-04-26T17:39:14.168Z,171415315416800
+"""shivarana12346 @ 70U6fx0Khy"" calls 165",2024-04-26T17:39:13.363Z,171415315336300
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:39:10.784Z,171415315078400
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:39:06.469Z,171415314646900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:39:05.410Z,171415314541000
+"""鸡你太美 @ XFkLowRD-r"" raises to 165",2024-04-26T17:39:04.183Z,171415314418300
+"""shivarana12346 @ 70U6fx0Khy"" calls 60",2024-04-26T17:39:01.029Z,171415314102900
+"""Clownfest @ DQEIYvISCQ"" posts a big blind of 60",2024-04-26T17:38:59.672Z,171415313967208
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 30",2024-04-26T17:38:59.672Z,171415313967207
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1258) | #4 ""akarvat @ oDlSGRCrSp"" (950) | #5 ""Clownfest @ DQEIYvISCQ"" (891) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2746) | #8 ""鸡你太美 @ XFkLowRD-r"" (1155)",2024-04-26T17:38:59.672Z,171415313967201
+"-- starting hand #15 (id: 3mpvks3jwguh)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:38:59.672Z,171415313967200
+"-- ending hand #14 --",2024-04-26T17:38:56.762Z,171415313676202
+"""鸡你太美 @ XFkLowRD-r"" collected 360 from pot",2024-04-26T17:38:56.762Z,171415313676201
+"Uncalled bet of 795 returned to ""鸡你太美 @ XFkLowRD-r""",2024-04-26T17:38:56.762Z,171415313676200
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:38:55.946Z,171415313594600
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:38:51.812Z,171415313181200
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:38:50.872Z,171415313087200
+"""鸡你太美 @ XFkLowRD-r"" raises to 930 and go all in",2024-04-26T17:38:49.753Z,171415312975300
+"""shivarana12346 @ 70U6fx0Khy"" raises to 135",2024-04-26T17:38:47.311Z,171415312731100
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:38:44.184Z,171415312418400
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 60",2024-04-26T17:38:40.652Z,171415312065208
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 30",2024-04-26T17:38:40.652Z,171415312065207
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1288) | #4 ""akarvat @ oDlSGRCrSp"" (1010) | #5 ""Clownfest @ DQEIYvISCQ"" (891) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2881) | #8 ""鸡你太美 @ XFkLowRD-r"" (930)",2024-04-26T17:38:40.652Z,171415312065201
+"-- starting hand #14 (id: wxv4pwqc8vb9)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:38:40.652Z,171415312065200
+"-- ending hand #13 --",2024-04-26T17:38:37.736Z,171415311773602
+"""shivarana12346 @ 70U6fx0Khy"" collected 510 from pot",2024-04-26T17:38:37.736Z,171415311773601
+"Uncalled bet of 255 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:38:37.736Z,171415311773600
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:38:36.910Z,171415311691000
+"""shivarana12346 @ 70U6fx0Khy"" bets 255",2024-04-26T17:38:35.228Z,171415311522800
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:38:29.207Z,171415310920700
+"Turn: 3♠, 10♠, Q♦ [K♦]",2024-04-26T17:38:27.982Z,171415310798200
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:38:27.154Z,171415310715400
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:38:20.146Z,171415310014600
+"Flop:  [3♠, 10♠, Q♦]",2024-04-26T17:38:16.748Z,171415309674800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:38:15.817Z,171415309581700
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:38:11.975Z,171415309197500
+"""shivarana12346 @ 70U6fx0Khy"" calls 210",2024-04-26T17:38:11.111Z,171415309111100
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:38:05.336Z,171415308533600
+"""akarvat @ oDlSGRCrSp"" raises to 210",2024-04-26T17:38:04.373Z,171415308437300
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 60",2024-04-26T17:37:57.919Z,171415307791909
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 30",2024-04-26T17:37:57.919Z,171415307791908
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1348) | #4 ""akarvat @ oDlSGRCrSp"" (1220) | #5 ""Clownfest @ DQEIYvISCQ"" (891) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2581) | #8 ""鸡你太美 @ XFkLowRD-r"" (960)",2024-04-26T17:37:57.919Z,171415307791902
+"-- starting hand #13 (id: vgsuzrap4244)  (No Limit Texas Hold'em) (dealer: ""shivarana12346 @ 70U6fx0Khy"") --",2024-04-26T17:37:57.919Z,171415307791901
+"The player ""Technimatic @ VXJ8gNXv0-"" quits the game with a stack of 0.",2024-04-26T17:37:57.919Z,171415307791900
+"-- ending hand #12 --",2024-04-26T17:37:51.875Z,171415307187501
+"""shivarana12346 @ 70U6fx0Khy"" collected 1550 from pot with Pair, K's (combination: K♠, K♥, Q♣, J♠, 10♠)",2024-04-26T17:37:51.875Z,171415307187500
+"River: K♥, 8♦, 10♠, Q♣ [3♦]",2024-04-26T17:37:47.867Z,171415306786700
+"Turn: K♥, 8♦, 10♠ [Q♣]",2024-04-26T17:37:43.768Z,171415306376800
+"""shivarana12346 @ 70U6fx0Khy"" shows a K♠, J♠.",2024-04-26T17:37:39.710Z,171415305971001
+"""Technimatic @ VXJ8gNXv0-"" shows a 8♠, J♣.",2024-04-26T17:37:39.710Z,171415305971000
+"""shivarana12346 @ 70U6fx0Khy"" calls 445",2024-04-26T17:37:38.894Z,171415305889400
+"""Technimatic @ VXJ8gNXv0-"" raises to 445 and go all in",2024-04-26T17:37:36.439Z,171415305643900
+"""shivarana12346 @ 70U6fx0Khy"" bets 330",2024-04-26T17:37:31.952Z,171415305195200
+"Flop:  [K♥, 8♦, 10♠]",2024-04-26T17:37:21.654Z,171415304165400
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:37:20.851Z,171415304085100
+"""shivarana12346 @ 70U6fx0Khy"" calls 300",2024-04-26T17:37:19.977Z,171415303997700
+"""Technimatic @ VXJ8gNXv0-"" raises to 300",2024-04-26T17:37:17.590Z,171415303759000
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:37:06.152Z,171415302615200
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:37:05.226Z,171415302522600
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:37:04.289Z,171415302428900
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 60",2024-04-26T17:37:02.291Z,171415302229109
+"""shivarana12346 @ 70U6fx0Khy"" posts a small blind of 30",2024-04-26T17:37:02.291Z,171415302229108
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1348) | #4 ""akarvat @ oDlSGRCrSp"" (1220) | #5 ""Clownfest @ DQEIYvISCQ"" (891) | #6 ""Technimatic @ VXJ8gNXv0-"" (745) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1776) | #8 ""鸡你太美 @ XFkLowRD-r"" (1020)",2024-04-26T17:37:02.291Z,171415302229101
+"-- starting hand #12 (id: bjdrhgntpl9f)  (No Limit Texas Hold'em) (dealer: ""Technimatic @ VXJ8gNXv0-"") --",2024-04-26T17:37:02.291Z,171415302229100
+"-- ending hand #11 --",2024-04-26T17:36:56.280Z,171415301628003
+"""shivarana12346 @ 70U6fx0Khy"" shows a A♥, 4♣.",2024-04-26T17:36:56.280Z,171415301628002
+"""akarvat @ oDlSGRCrSp"" collected 450 from pot with Pair, 4's (combination: 4♠, 4♦, Q♣, 10♦, 9♣)",2024-04-26T17:36:56.280Z,171415301628001
+"""akarvat @ oDlSGRCrSp"" shows a 4♠, 4♦.",2024-04-26T17:36:56.280Z,171415301628000
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:36:55.444Z,171415301544400
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:36:54.050Z,171415301405000
+"River: 10♦, 9♣, 6♦, Q♣ [3♦]",2024-04-26T17:36:49.340Z,171415300934000
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:36:48.524Z,171415300852400
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:36:46.366Z,171415300636600
+"Turn: 10♦, 9♣, 6♦ [Q♣]",2024-04-26T17:36:38.301Z,171415299830100
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:36:37.467Z,171415299746700
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:36:35.890Z,171415299589000
+"Flop:  [10♦, 9♣, 6♦]",2024-04-26T17:36:31.827Z,171415299182700
+"""shivarana12346 @ 70U6fx0Khy"" calls 210",2024-04-26T17:36:31.014Z,171415299101400
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:36:29.510Z,171415298951000
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:36:28.565Z,171415298856500
+"""akarvat @ oDlSGRCrSp"" raises to 210",2024-04-26T17:36:25.204Z,171415298520400
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:36:19.809Z,171415297980900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:36:16.993Z,171415297699312
+"""shivarana12346 @ 70U6fx0Khy"" posts a big blind of 60",2024-04-26T17:36:16.993Z,171415297699311
+"""Technimatic @ VXJ8gNXv0-"" posts a small blind of 30",2024-04-26T17:36:16.993Z,171415297699310
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1348) | #4 ""akarvat @ oDlSGRCrSp"" (980) | #5 ""Clownfest @ DQEIYvISCQ"" (891) | #6 ""Technimatic @ VXJ8gNXv0-"" (775) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1986) | #8 ""鸡你太美 @ XFkLowRD-r"" (1020)",2024-04-26T17:36:16.993Z,171415297699303
+"-- starting hand #11 (id: s64fnvyerffb)  (No Limit Texas Hold'em) (dealer: ""Clownfest @ DQEIYvISCQ"") --",2024-04-26T17:36:16.993Z,171415297699302
+"The game's big blind was changed from 40 to 60.",2024-04-26T17:36:16.993Z,171415297699301
+"The game's small blind was changed from 20 to 30.",2024-04-26T17:36:16.993Z,171415297699300
+"-- ending hand #10 --",2024-04-26T17:36:14.063Z,171415297406302
+"""shivarana12346 @ 70U6fx0Khy"" collected 120 from pot",2024-04-26T17:36:14.063Z,171415297406301
+"Uncalled bet of 90 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:36:14.063Z,171415297406300
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:36:13.230Z,171415297323000
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:36:00.839Z,171415296083900
+"""shivarana12346 @ 70U6fx0Khy"" bets 90",2024-04-26T17:35:46.706Z,171415294670600
+"""Technimatic @ VXJ8gNXv0-"" checks",2024-04-26T17:35:41.792Z,171415294179200
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:35:33.840Z,171415293384000
+"Flop:  [J♥, 8♥, 6♥]",2024-04-26T17:35:32.211Z,171415293221100
+"""Technimatic @ VXJ8gNXv0-"" checks",2024-04-26T17:35:31.395Z,171415293139500
+"""Clownfest @ DQEIYvISCQ"" calls 40",2024-04-26T17:35:30.405Z,171415293040500
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:35:29.469Z,171415292946900
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:35:28.423Z,171415292842300
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:35:27.350Z,171415292735000
+"""shivarana12346 @ 70U6fx0Khy"" calls 40",2024-04-26T17:35:26.510Z,171415292651000
+"""Technimatic @ VXJ8gNXv0-"" posts a big blind of 40",2024-04-26T17:35:24.656Z,171415292465609
+"""Clownfest @ DQEIYvISCQ"" posts a small blind of 20",2024-04-26T17:35:24.656Z,171415292465608
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1348) | #4 ""akarvat @ oDlSGRCrSp"" (980) | #5 ""Clownfest @ DQEIYvISCQ"" (931) | #6 ""Technimatic @ VXJ8gNXv0-"" (815) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1906) | #8 ""鸡你太美 @ XFkLowRD-r"" (1020)",2024-04-26T17:35:24.656Z,171415292465601
+"-- starting hand #10 (id: xudq7vi8uf57)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:35:24.656Z,171415292465600
+"-- ending hand #9 --",2024-04-26T17:35:21.745Z,171415292174502
+"""Clownfest @ DQEIYvISCQ"" collected 480 from pot",2024-04-26T17:35:21.745Z,171415292174501
+"Uncalled bet of 451 returned to ""Clownfest @ DQEIYvISCQ""",2024-04-26T17:35:21.745Z,171415292174500
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:35:20.875Z,171415292087500
+"""Clownfest @ DQEIYvISCQ"" bets 451 and go all in",2024-04-26T17:35:14.504Z,171415291450400
+"Turn: Q♠, 10♦, 2♠ [10♠]",2024-04-26T17:35:09.769Z,171415290976900
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:35:08.951Z,171415290895100
+"""Clownfest @ DQEIYvISCQ"" calls 160",2024-04-26T17:35:03.873Z,171415290387300
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:35:02.941Z,171415290294100
+"""shivarana12346 @ 70U6fx0Khy"" bets 160",2024-04-26T17:35:01.741Z,171415290174100
+"""Technimatic @ VXJ8gNXv0-"" checks",2024-04-26T17:34:54.801Z,171415289480100
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:34:53.881Z,171415289388100
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:34:51.313Z,171415289131300
+"Flop:  [Q♠, 10♦, 2♠]",2024-04-26T17:34:49.678Z,171415288967800
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:34:48.793Z,171415288879300
+"""akarvat @ oDlSGRCrSp"" calls 40",2024-04-26T17:34:47.886Z,171415288788600
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:34:46.151Z,171415288615100
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:34:45.080Z,171415288508000
+"""shivarana12346 @ 70U6fx0Khy"" calls 40",2024-04-26T17:34:44.178Z,171415288417800
+"""Technimatic @ VXJ8gNXv0-"" calls 40",2024-04-26T17:34:43.088Z,171415288308800
+"""Clownfest @ DQEIYvISCQ"" posts a big blind of 40",2024-04-26T17:34:35.761Z,171415287576109
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 20",2024-04-26T17:34:35.761Z,171415287576108
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1348) | #4 ""akarvat @ oDlSGRCrSp"" (1020) | #5 ""Clownfest @ DQEIYvISCQ"" (651) | #6 ""Technimatic @ VXJ8gNXv0-"" (855) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2106) | #8 ""鸡你太美 @ XFkLowRD-r"" (1020)",2024-04-26T17:34:35.761Z,171415287576101
+"-- starting hand #9 (id: ps34c3yacfts)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:34:35.761Z,171415287576100
+"-- ending hand #8 --",2024-04-26T17:34:32.816Z,171415287281602
+"""akarvat @ oDlSGRCrSp"" collected 300 from pot",2024-04-26T17:34:32.816Z,171415287281601
+"Uncalled bet of 720 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:34:32.816Z,171415287281600
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:34:32.013Z,171415287201300
+"""akarvat @ oDlSGRCrSp"" bets 720 and go all in",2024-04-26T17:34:29.052Z,171415286905200
+"Flop:  [9♥, Q♥, 3♦]",2024-04-26T17:34:25.283Z,171415286528300
+"""shivarana12346 @ 70U6fx0Khy"" calls 140",2024-04-26T17:34:24.428Z,171415286442800
+"""akarvat @ oDlSGRCrSp"" raises to 140",2024-04-26T17:34:19.682Z,171415285968200
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:34:14.422Z,171415285442200
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:34:11.965Z,171415285196500
+"""shivarana12346 @ 70U6fx0Khy"" calls 40",2024-04-26T17:33:56.120Z,171415283612000
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:33:54.993Z,171415283499300
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:33:49.552Z,171415282955200
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 40",2024-04-26T17:33:47.036Z,171415282703609
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 20",2024-04-26T17:33:47.036Z,171415282703608
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1368) | #4 ""akarvat @ oDlSGRCrSp"" (860) | #5 ""Clownfest @ DQEIYvISCQ"" (651) | #6 ""Technimatic @ VXJ8gNXv0-"" (855) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2246) | #8 ""鸡你太美 @ XFkLowRD-r"" (1020)",2024-04-26T17:33:47.036Z,171415282703601
+"-- starting hand #8 (id: tswgbg6wj63z)  (No Limit Texas Hold'em) (dealer: ""鸡你太美 @ XFkLowRD-r"") --",2024-04-26T17:33:47.036Z,171415282703600
+"-- ending hand #7 --",2024-04-26T17:33:44.080Z,171415282408002
+"""shivarana12346 @ 70U6fx0Khy"" collected 350 from pot",2024-04-26T17:33:44.080Z,171415282408001
+"Uncalled bet of 175 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:33:44.080Z,171415282408000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:33:43.269Z,171415282326900
+"""shivarana12346 @ 70U6fx0Khy"" bets 175",2024-04-26T17:33:40.092Z,171415282009200
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:33:32.508Z,171415281250800
+"Flop:  [5♦, 6♦, 5♥]",2024-04-26T17:33:30.909Z,171415281090900
+"""akarvat @ oDlSGRCrSp"" calls 145",2024-04-26T17:33:30.090Z,171415281009000
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:33:28.619Z,171415280861900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:33:24.496Z,171415280449600
+"""shivarana12346 @ 70U6fx0Khy"" raises to 145",2024-04-26T17:33:08.673Z,171415278867300
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:33:02.038Z,171415278203800
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:33:00.904Z,171415278090400
+"""akarvat @ oDlSGRCrSp"" calls 40",2024-04-26T17:32:51.231Z,171415277123100
+"""Одинокий @ IJTnbMhqJ9"" posts a big blind of 40",2024-04-26T17:32:49.740Z,171415276974009
+"""鸡你太美 @ XFkLowRD-r"" posts a small blind of 20",2024-04-26T17:32:49.740Z,171415276974008
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1408) | #4 ""akarvat @ oDlSGRCrSp"" (1005) | #5 ""Clownfest @ DQEIYvISCQ"" (651) | #6 ""Technimatic @ VXJ8gNXv0-"" (855) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2041) | #8 ""鸡你太美 @ XFkLowRD-r"" (1040)",2024-04-26T17:32:49.740Z,171415276974001
+"-- starting hand #7 (id: a5guz4y3boep)  (No Limit Texas Hold'em) (dealer: ""shivarana12346 @ 70U6fx0Khy"") --",2024-04-26T17:32:49.740Z,171415276974000
+"-- ending hand #6 --",2024-04-26T17:32:46.730Z,171415276673002
+"""shivarana12346 @ 70U6fx0Khy"" collected 420 from pot",2024-04-26T17:32:46.730Z,171415276673001
+"Uncalled bet of 170 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:32:46.730Z,171415276673000
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:32:45.863Z,171415276586300
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:32:37.771Z,171415275777100
+"""shivarana12346 @ 70U6fx0Khy"" bets 170",2024-04-26T17:32:36.781Z,171415275678100
+"Flop:  [5♣, Q♣, 2♠]",2024-04-26T17:32:28.713Z,171415274871300
+"""鸡你太美 @ XFkLowRD-r"" calls 140",2024-04-26T17:32:27.865Z,171415274786500
+"""shivarana12346 @ 70U6fx0Khy"" calls 140",2024-04-26T17:32:26.237Z,171415274623700
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:32:24.522Z,171415274452200
+"""Clownfest @ DQEIYvISCQ"" raises to 140",2024-04-26T17:32:12.061Z,171415273206100
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:32:06.210Z,171415272621000
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:32:05.227Z,171415272522700
+"""鸡你太美 @ XFkLowRD-r"" posts a big blind of 40",2024-04-26T17:32:03.455Z,171415272345509
+"""shivarana12346 @ 70U6fx0Khy"" posts a small blind of 20",2024-04-26T17:32:03.455Z,171415272345508
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1408) | #4 ""akarvat @ oDlSGRCrSp"" (1005) | #5 ""Clownfest @ DQEIYvISCQ"" (791) | #6 ""Technimatic @ VXJ8gNXv0-"" (855) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1761) | #8 ""鸡你太美 @ XFkLowRD-r"" (1180)",2024-04-26T17:32:03.455Z,171415272345501
+"-- starting hand #6 (id: 2zff3vidzsn1)  (No Limit Texas Hold'em) (dealer: ""Technimatic @ VXJ8gNXv0-"") --",2024-04-26T17:32:03.455Z,171415272345500
+"-- ending hand #5 --",2024-04-26T17:32:00.540Z,171415272054002
+"""akarvat @ oDlSGRCrSp"" collected 120 from pot",2024-04-26T17:32:00.540Z,171415272054001
+"Uncalled bet of 60 returned to ""akarvat @ oDlSGRCrSp""",2024-04-26T17:32:00.540Z,171415272054000
+"""shivarana12346 @ 70U6fx0Khy"" folds",2024-04-26T17:31:59.736Z,171415271973600
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:31:56.261Z,171415271626100
+"""akarvat @ oDlSGRCrSp"" bets 60",2024-04-26T17:31:51.733Z,171415271173300
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:31:47.729Z,171415270772900
+"""Technimatic @ VXJ8gNXv0-"" checks",2024-04-26T17:31:46.098Z,171415270609800
+"Flop:  [7♦, 9♥, K♣]",2024-04-26T17:31:41.260Z,171415270126000
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:31:40.456Z,171415270045600
+"""Technimatic @ VXJ8gNXv0-"" calls 40",2024-04-26T17:31:39.325Z,171415269932500
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:31:33.387Z,171415269338700
+"""akarvat @ oDlSGRCrSp"" calls 40",2024-04-26T17:31:17.468Z,171415267746800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:31:15.609Z,171415267560900
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:31:13.949Z,171415267394912
+"""shivarana12346 @ 70U6fx0Khy"" posts a big blind of 40",2024-04-26T17:31:13.949Z,171415267394911
+"""Technimatic @ VXJ8gNXv0-"" posts a small blind of 20",2024-04-26T17:31:13.949Z,171415267394910
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (1408) | #4 ""akarvat @ oDlSGRCrSp"" (925) | #5 ""Clownfest @ DQEIYvISCQ"" (791) | #6 ""Technimatic @ VXJ8gNXv0-"" (895) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1801) | #8 ""鸡你太美 @ XFkLowRD-r"" (1180)",2024-04-26T17:31:13.949Z,171415267394903
+"-- starting hand #5 (id: h9titzdaj7yd)  (No Limit Texas Hold'em) (dealer: ""Clownfest @ DQEIYvISCQ"") --",2024-04-26T17:31:13.949Z,171415267394902
+"The game's big blind was changed from 20 to 40.",2024-04-26T17:31:13.949Z,171415267394901
+"The game's small blind was changed from 10 to 20.",2024-04-26T17:31:13.949Z,171415267394900
+"-- ending hand #4 --",2024-04-26T17:31:07.923Z,171415266792304
+"""shivarana12346 @ 70U6fx0Khy"" shows a Q♣, 5♠.",2024-04-26T17:31:07.923Z,171415266792303
+"""Clownfest @ DQEIYvISCQ"" shows a 6♥, 4♥.",2024-04-26T17:31:07.923Z,171415266792302
+"""Одинокий @ IJTnbMhqJ9"" collected 607 from pot with Pair, J's (combination: J♣, J♦, A♠, K♥, 10♣)",2024-04-26T17:31:07.923Z,171415266792301
+"""Одинокий @ IJTnbMhqJ9"" shows a J♣, J♦.",2024-04-26T17:31:07.923Z,171415266792300
+"""Одинокий @ IJTnbMhqJ9"" checks",2024-04-26T17:31:07.048Z,171415266704800
+"""shivarana12346 @ 70U6fx0Khy"" checks",2024-04-26T17:31:05.837Z,171415266583700
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:30:58.629Z,171415265862900
+"River: 10♣, 7♠, 5♦, K♥ [A♠]",2024-04-26T17:30:57.311Z,171415265731100
+"""Clownfest @ DQEIYvISCQ"" calls 44",2024-04-26T17:30:56.483Z,171415265648300
+"""Одинокий @ IJTnbMhqJ9"" calls 44",2024-04-26T17:30:55.480Z,171415265548000
+"""shivarana12346 @ 70U6fx0Khy"" bets 44",2024-04-26T17:30:53.066Z,171415265306600
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:30:44.180Z,171415264418000
+"Turn: 10♣, 7♠, 5♦ [K♥]",2024-04-26T17:30:43.169Z,171415264316900
+"""Clownfest @ DQEIYvISCQ"" calls 95",2024-04-26T17:30:42.356Z,171415264235600
+"""Одинокий @ IJTnbMhqJ9"" calls 95",2024-04-26T17:30:41.380Z,171415264138000
+"""shivarana12346 @ 70U6fx0Khy"" bets 95",2024-04-26T17:30:39.111Z,171415263911100
+"""Clownfest @ DQEIYvISCQ"" checks",2024-04-26T17:30:32.945Z,171415263294500
+"Flop:  [10♣, 7♠, 5♦]",2024-04-26T17:30:29.923Z,171415262992300
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:30:29.119Z,171415262911900
+"""shivarana12346 @ 70U6fx0Khy"" calls 50",2024-04-26T17:30:13.268Z,171415261326800
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:30:09.141Z,171415260914100
+"""Clownfest @ DQEIYvISCQ"" calls 50",2024-04-26T17:30:05.481Z,171415260548100
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:30:00.763Z,171415260076300
+"""Одинокий @ IJTnbMhqJ9"" raises to 50",2024-04-26T17:29:59.708Z,171415259970800
+"""鸡你太美 @ XFkLowRD-r"" calls 20",2024-04-26T17:29:52.617Z,171415259261700
+"""shivarana12346 @ 70U6fx0Khy"" calls 20",2024-04-26T17:29:50.137Z,171415259013700
+"""Technimatic @ VXJ8gNXv0-"" posts a big blind of 20",2024-04-26T17:29:48.167Z,171415258816710
+"""Clownfest @ DQEIYvISCQ"" posts a small blind of 10",2024-04-26T17:29:48.167Z,171415258816709
+"Player stacks: #2 ""Одинокий @ IJTnbMhqJ9"" (990) | #4 ""akarvat @ oDlSGRCrSp"" (925) | #5 ""Clownfest @ DQEIYvISCQ"" (980) | #6 ""Technimatic @ VXJ8gNXv0-"" (915) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1990) | #8 ""鸡你太美 @ XFkLowRD-r"" (1200)",2024-04-26T17:29:48.167Z,171415258816702
+"-- starting hand #4 (id: lqzwnu78ixe5)  (No Limit Texas Hold'em) (dealer: ""akarvat @ oDlSGRCrSp"") --",2024-04-26T17:29:48.167Z,171415258816701
+"The player ""TinyTimTim @ CjKHHefMDt"" quits the game with a stack of 1000.",2024-04-26T17:29:48.167Z,171415258816700
+"-- ending hand #3 --",2024-04-26T17:29:45.190Z,171415258519002
+"""shivarana12346 @ 70U6fx0Khy"" collected 150 from pot",2024-04-26T17:29:45.190Z,171415258519001
+"Uncalled bet of 95 returned to ""shivarana12346 @ 70U6fx0Khy""",2024-04-26T17:29:45.190Z,171415258519000
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:29:44.374Z,171415258437400
+"""shivarana12346 @ 70U6fx0Khy"" bets 95",2024-04-26T17:29:43.537Z,171415258353700
+"""akarvat @ oDlSGRCrSp"" checks",2024-04-26T17:29:36.250Z,171415257625000
+"Flop:  [6♦, Q♣, 3♥]",2024-04-26T17:29:21.223Z,171415256122300
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:29:20.415Z,171415256041500
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:29:13.880Z,171415255388000
+"""akarvat @ oDlSGRCrSp"" calls 55",2024-04-26T17:29:12.938Z,171415255293800
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:29:07.609Z,171415254760900
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:29:06.484Z,171415254648400
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:29:05.639Z,171415254563900
+"""shivarana12346 @ 70U6fx0Khy"" raises to 55",2024-04-26T17:28:56.675Z,171415253667500
+"""Technimatic @ VXJ8gNXv0-"" calls 20",2024-04-26T17:28:53.579Z,171415253357900
+"""Clownfest @ DQEIYvISCQ"" posts a big blind of 20",2024-04-26T17:28:48.149Z,171415252814910
+"""akarvat @ oDlSGRCrSp"" posts a small blind of 10",2024-04-26T17:28:48.149Z,171415252814909
+"Player stacks: #1 ""TinyTimTim @ CjKHHefMDt"" (1000) | #2 ""Одинокий @ IJTnbMhqJ9"" (990) | #4 ""akarvat @ oDlSGRCrSp"" (980) | #5 ""Clownfest @ DQEIYvISCQ"" (1000) | #6 ""Technimatic @ VXJ8gNXv0-"" (935) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1895) | #8 ""鸡你太美 @ XFkLowRD-r"" (1200)",2024-04-26T17:28:48.149Z,171415252814901
+"-- starting hand #3 (id: npxc8uvlkfuf)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T17:28:48.149Z,171415252814900
+"-- ending hand #2 --",2024-04-26T17:28:42.134Z,171415252213401
+"""鸡你太美 @ XFkLowRD-r"" collected 1200 from pot with Full House, 5's over K's (combination: 5♣, 5♥, 5♠, K♦, K♣)",2024-04-26T17:28:42.134Z,171415252213400
+"River: 8♥, 5♥, K♦, 5♠ [K♣]",2024-04-26T17:28:38.130Z,171415251813000
+"Turn: 8♥, 5♥, K♦ [5♠]",2024-04-26T17:28:34.069Z,171415251406900
+"Flop:  [8♥, 5♥, K♦]",2024-04-26T17:28:29.985Z,171415250998500
+"""鸡你太美 @ XFkLowRD-r"" shows a 5♣, A♣.",2024-04-26T17:28:25.935Z,171415250593501
+"""shivarana12346 @ 70U6fx0Khy"" shows a A♠, J♥.",2024-04-26T17:28:25.935Z,171415250593500
+"""shivarana12346 @ 70U6fx0Khy"" calls 590",2024-04-26T17:28:25.122Z,171415250512200
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:28:23.981Z,171415250398100
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:28:14.042Z,171415249404200
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:28:06.432Z,171415248643200
+"""鸡你太美 @ XFkLowRD-r"" raises to 590 and go all in",2024-04-26T17:28:05.610Z,171415248561000
+"""shivarana12346 @ 70U6fx0Khy"" raises to 70",2024-04-26T17:27:59.980Z,171415247998000
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:27:54.326Z,171415247432600
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:27:53.202Z,171415247320200
+"""akarvat @ oDlSGRCrSp"" posts a big blind of 20",2024-04-26T17:27:51.050Z,171415247105011
+"Dead Small Blind",2024-04-26T17:27:51.050Z,171415247105010
+"Player stacks: #1 ""TinyTimTim @ CjKHHefMDt"" (1000) | #2 ""Одинокий @ IJTnbMhqJ9"" (990) | #4 ""akarvat @ oDlSGRCrSp"" (1000) | #5 ""Clownfest @ DQEIYvISCQ"" (1000) | #6 ""Technimatic @ VXJ8gNXv0-"" (935) | #7 ""shivarana12346 @ 70U6fx0Khy"" (2485) | #8 ""鸡你太美 @ XFkLowRD-r"" (590)",2024-04-26T17:27:51.050Z,171415247105002
+"-- starting hand #2 (id: yeebmelwx7d2)  (No Limit Texas Hold'em) (dealer: ""Одинокий @ IJTnbMhqJ9"") --",2024-04-26T17:27:51.050Z,171415247105001
+"The player ""Dina @ evYRe4ZmnF"" quits the game with a stack of 0.",2024-04-26T17:27:51.050Z,171415247105000
+"-- ending hand #1 --",2024-04-26T17:27:44.996Z,171415246499603
+"""Dina @ evYRe4ZmnF"" shows a 6♥, 10♥.",2024-04-26T17:27:44.996Z,171415246499602
+"""shivarana12346 @ 70U6fx0Khy"" collected 2485 from pot with Full House, Q's over 9's (combination: Q♦, Q♥, Q♠, 9♠, 9♣)",2024-04-26T17:27:44.996Z,171415246499601
+"""shivarana12346 @ 70U6fx0Khy"" shows a 9♠, Q♦.",2024-04-26T17:27:44.996Z,171415246499600
+"""Dina @ evYRe4ZmnF"" calls 590 and go all in",2024-04-26T17:27:44.175Z,171415246417500
+"""鸡你太美 @ XFkLowRD-r"" folds",2024-04-26T17:27:41.225Z,171415246122500
+"""shivarana12346 @ 70U6fx0Khy"" raises to 590 and go all in",2024-04-26T17:27:40.149Z,171415246014900
+"""Dina @ evYRe4ZmnF"" bets 74",2024-04-26T17:27:33.512Z,171415245351200
+"River: 9♣, Q♥, 6♣, Q♠ [7♣]",2024-04-26T17:27:27.264Z,171415244726400
+"""鸡你太美 @ XFkLowRD-r"" calls 160",2024-04-26T17:27:26.443Z,171415244644300
+"""shivarana12346 @ 70U6fx0Khy"" calls 160",2024-04-26T17:27:25.340Z,171415244534000
+"""Dina @ evYRe4ZmnF"" bets 160",2024-04-26T17:27:19.233Z,171415243923300
+"Turn: 9♣, Q♥, 6♣ [Q♠]",2024-04-26T17:27:11.040Z,171415243104000
+"""Dina @ evYRe4ZmnF"" calls 185",2024-04-26T17:27:10.187Z,171415243018700
+"""鸡你太美 @ XFkLowRD-r"" calls 185",2024-04-26T17:27:08.467Z,171415242846700
+"""shivarana12346 @ 70U6fx0Khy"" raises to 185",2024-04-26T17:27:06.574Z,171415242657400
+"""Dina @ evYRe4ZmnF"" raises to 130",2024-04-26T17:27:02.201Z,171415242220100
+"""鸡你太美 @ XFkLowRD-r"" calls 75",2024-04-26T17:26:57.979Z,171415241797900
+"""shivarana12346 @ 70U6fx0Khy"" raises to 75",2024-04-26T17:26:53.475Z,171415241347500
+"""Technimatic @ VXJ8gNXv0-"" folds",2024-04-26T17:26:44.510Z,171415240451000
+"""Dina @ evYRe4ZmnF"" bets 20",2024-04-26T17:26:42.623Z,171415240262300
+"Flop:  [9♣, Q♥, 6♣]",2024-04-26T17:26:39.332Z,171415239933200
+"""shivarana12346 @ 70U6fx0Khy"" calls 65",2024-04-26T17:26:38.461Z,171415239846100
+"""Technimatic @ VXJ8gNXv0-"" calls 65",2024-04-26T17:26:37.324Z,171415239732400
+"""Dina @ evYRe4ZmnF"" calls 65",2024-04-26T17:26:30.410Z,171415239041000
+"""Одинокий @ IJTnbMhqJ9"" folds",2024-04-26T17:26:26.699Z,171415238669900
+"""TinyTimTim @ CjKHHefMDt"" folds",2024-04-26T17:26:25.619Z,171415238561900
+"""鸡你太美 @ XFkLowRD-r"" raises to 65",2024-04-26T17:26:09.747Z,171415236974700
+"""shivarana12346 @ 70U6fx0Khy"" calls 20",2024-04-26T17:26:03.053Z,171415236305300
+"""Technimatic @ VXJ8gNXv0-"" calls 20",2024-04-26T17:25:54.494Z,171415235449400
+"""Clownfest @ DQEIYvISCQ"" folds",2024-04-26T17:25:50.882Z,171415235088200
+"""akarvat @ oDlSGRCrSp"" folds",2024-04-26T17:25:50.014Z,171415235001400
+"""Dina @ evYRe4ZmnF"" posts a big blind of 20",2024-04-26T17:25:46.696Z,171415234669619
+"""Одинокий @ IJTnbMhqJ9"" posts a small blind of 10",2024-04-26T17:25:46.696Z,171415234669618
+"Player stacks: #1 ""TinyTimTim @ CjKHHefMDt"" (1000) | #2 ""Одинокий @ IJTnbMhqJ9"" (1000) | #3 ""Dina @ evYRe4ZmnF"" (1000) | #4 ""akarvat @ oDlSGRCrSp"" (1000) | #5 ""Clownfest @ DQEIYvISCQ"" (1000) | #6 ""Technimatic @ VXJ8gNXv0-"" (1000) | #7 ""shivarana12346 @ 70U6fx0Khy"" (1000) | #8 ""鸡你太美 @ XFkLowRD-r"" (1000)",2024-04-26T17:25:46.696Z,171415234669609
+"The player ""鸡你太美 @ XFkLowRD-r"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669608
+"The player ""shivarana12346 @ 70U6fx0Khy"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669607
+"The player ""Technimatic @ VXJ8gNXv0-"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669606
+"The player ""Clownfest @ DQEIYvISCQ"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669605
+"The player ""akarvat @ oDlSGRCrSp"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669604
+"The player ""Dina @ evYRe4ZmnF"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669603
+"The player ""Одинокий @ IJTnbMhqJ9"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669602
+"The player ""TinyTimTim @ CjKHHefMDt"" joined the game with a stack of 1000.",2024-04-26T17:25:46.696Z,171415234669601
+"-- starting hand #1 (id: mynaka4zoxvn)  (No Limit Texas Hold'em) (dealer: ""TinyTimTim @ CjKHHefMDt"") --",2024-04-26T17:25:46.696Z,171415234669600

@@ -1,0 +1,934 @@
+entry,at,order
+"The player ""Powel @ 97PJp0u7AV"" quits the game with a stack of 4210.",2024-04-26T19:12:42.607Z,171415876260700
+"The player ""joinmatrix @ PLlBwSpVjY"" quits the game with a stack of 0.",2024-04-26T19:06:45.493Z,171415840549300
+"-- ending hand #44 --",2024-04-26T19:06:39.476Z,171415839947601
+"""Powel @ 97PJp0u7AV"" collected 1330 from pot with Pair, 9's (combination: 9♦, 9♥, K♦, 10♠, 7♠)",2024-04-26T19:06:39.476Z,171415839947600
+"River: 9♥, K♦, 5♦, 3♠ [7♠]",2024-04-26T19:06:35.470Z,171415839547000
+"Turn: 9♥, K♦, 5♦ [3♠]",2024-04-26T19:06:31.463Z,171415839146300
+"""joinmatrix @ PLlBwSpVjY"" shows a 4♦, 5♣.",2024-04-26T19:06:27.453Z,171415838745301
+"""Powel @ 97PJp0u7AV"" shows a 9♦, 10♠.",2024-04-26T19:06:27.453Z,171415838745300
+"""Powel @ 97PJp0u7AV"" calls 465",2024-04-26T19:06:26.636Z,171415838663600
+"""joinmatrix @ PLlBwSpVjY"" bets 465 and go all in",2024-04-26T19:06:25.693Z,171415838569300
+"Flop:  [9♥, K♦, 5♦]",2024-04-26T19:06:21.772Z,171415838177200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:06:20.948Z,171415838094800
+"""Powel @ 97PJp0u7AV"" calls 200",2024-04-26T19:06:20.016Z,171415838001600
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 200",2024-04-26T19:06:17.897Z,171415837789705
+"""Powel @ 97PJp0u7AV"" posts a small blind of 100",2024-04-26T19:06:17.897Z,171415837789704
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (3545) | #6 ""joinmatrix @ PLlBwSpVjY"" (665)",2024-04-26T19:06:17.897Z,171415837789701
+"-- starting hand #44 (id: hk5nm5gqjecl)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:06:17.897Z,171415837789700
+"-- ending hand #43 --",2024-04-26T19:06:11.875Z,171415837187503
+"""joinmatrix @ PLlBwSpVjY"" shows a 3♦, K♦.",2024-04-26T19:06:11.875Z,171415837187502
+"""Powel @ 97PJp0u7AV"" collected 2200 from pot with Two Pair, 9's & 7's (combination: 9♥, 9♦, 7♣, 7♠, 10♠)",2024-04-26T19:06:11.875Z,171415837187501
+"""Powel @ 97PJp0u7AV"" shows a 7♣, 10♠.",2024-04-26T19:06:11.875Z,171415837187500
+"""Powel @ 97PJp0u7AV"" calls 500",2024-04-26T19:06:11.034Z,171415837103400
+"""joinmatrix @ PLlBwSpVjY"" bets 500",2024-04-26T19:06:09.919Z,171415836991900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:06:07.073Z,171415836707300
+"River: 7♠, 9♥, 5♥, 3♠ [9♦]",2024-04-26T19:06:05.265Z,171415836526500
+"""joinmatrix @ PLlBwSpVjY"" calls 200",2024-04-26T19:06:04.393Z,171415836439300
+"""Powel @ 97PJp0u7AV"" bets 200",2024-04-26T19:06:03.377Z,171415836337700
+"Turn: 7♠, 9♥, 5♥ [3♠]",2024-04-26T19:06:00.729Z,171415836072900
+"""joinmatrix @ PLlBwSpVjY"" calls 200",2024-04-26T19:05:59.872Z,171415835987200
+"""Powel @ 97PJp0u7AV"" bets 200",2024-04-26T19:05:58.692Z,171415835869200
+"Flop:  [7♠, 9♥, 5♥]",2024-04-26T19:05:56.436Z,171415835643600
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:05:55.633Z,171415835563300
+"""joinmatrix @ PLlBwSpVjY"" calls 200",2024-04-26T19:05:51.646Z,171415835164600
+"""Powel @ 97PJp0u7AV"" posts a big blind of 200",2024-04-26T19:05:50.164Z,171415835016405
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 100",2024-04-26T19:05:50.164Z,171415835016404
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2445) | #6 ""joinmatrix @ PLlBwSpVjY"" (1765)",2024-04-26T19:05:50.164Z,171415835016401
+"-- starting hand #43 (id: 8ckgevntyfyc)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:05:50.164Z,171415835016400
+"-- ending hand #42 --",2024-04-26T19:05:47.227Z,171415834722702
+"""Powel @ 97PJp0u7AV"" collected 400 from pot",2024-04-26T19:05:47.227Z,171415834722701
+"Uncalled bet of 200 returned to ""Powel @ 97PJp0u7AV""",2024-04-26T19:05:47.227Z,171415834722700
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T19:05:46.421Z,171415834642100
+"""Powel @ 97PJp0u7AV"" bets 200",2024-04-26T19:05:44.879Z,171415834487900
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:05:42.338Z,171415834233800
+"Flop:  [A♦, 8♥, 4♦]",2024-04-26T19:05:40.961Z,171415834096100
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:05:40.110Z,171415834011000
+"""Powel @ 97PJp0u7AV"" calls 200",2024-04-26T19:05:39.113Z,171415833911300
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 200",2024-04-26T19:05:37.066Z,171415833706605
+"""Powel @ 97PJp0u7AV"" posts a small blind of 100",2024-04-26T19:05:37.066Z,171415833706604
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2245) | #6 ""joinmatrix @ PLlBwSpVjY"" (1965)",2024-04-26T19:05:37.066Z,171415833706601
+"-- starting hand #42 (id: z51uo2qk3bc6)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:05:37.066Z,171415833706600
+"-- ending hand #41 --",2024-04-26T19:05:34.147Z,171415833414702
+"""joinmatrix @ PLlBwSpVjY"" collected 400 from pot",2024-04-26T19:05:34.147Z,171415833414701
+"Uncalled bet of 250 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:05:34.147Z,171415833414700
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:05:33.265Z,171415833326500
+"""joinmatrix @ PLlBwSpVjY"" bets 250",2024-04-26T19:05:29.875Z,171415832987500
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:05:26.123Z,171415832612300
+"River: 10♣, 3♠, J♣, 7♥ [A♣]",2024-04-26T19:05:24.961Z,171415832496100
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:05:24.119Z,171415832411900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:05:23.082Z,171415832308200
+"Turn: 10♣, 3♠, J♣ [7♥]",2024-04-26T19:05:21.845Z,171415832184500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:05:21.040Z,171415832104000
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:05:19.536Z,171415831953600
+"Flop:  [10♣, 3♠, J♣]",2024-04-26T19:05:17.643Z,171415831764300
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:05:16.809Z,171415831680900
+"""joinmatrix @ PLlBwSpVjY"" calls 200",2024-04-26T19:05:14.706Z,171415831470600
+"""Powel @ 97PJp0u7AV"" posts a big blind of 200",2024-04-26T19:05:10.500Z,171415831050005
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 100",2024-04-26T19:05:10.500Z,171415831050004
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2445) | #6 ""joinmatrix @ PLlBwSpVjY"" (1765)",2024-04-26T19:05:10.500Z,171415831050001
+"-- starting hand #41 (id: 1ot0rfldcryl)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:05:10.500Z,171415831050000
+"-- ending hand #40 --",2024-04-26T19:05:07.548Z,171415830754802
+"""joinmatrix @ PLlBwSpVjY"" collected 200 from pot",2024-04-26T19:05:07.548Z,171415830754801
+"Uncalled bet of 100 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:05:07.548Z,171415830754800
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:05:06.728Z,171415830672800
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 200",2024-04-26T19:05:05.097Z,171415830509707
+"""Powel @ 97PJp0u7AV"" posts a small blind of 100",2024-04-26T19:05:05.097Z,171415830509706
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2545) | #6 ""joinmatrix @ PLlBwSpVjY"" (1665)",2024-04-26T19:05:05.097Z,171415830509703
+"-- starting hand #40 (id: chijvecdcb7q)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:05:05.097Z,171415830509702
+"The game's big blind was changed from 150 to 200.",2024-04-26T19:05:05.097Z,171415830509701
+"The game's small blind was changed from 75 to 100.",2024-04-26T19:05:05.097Z,171415830509700
+"-- ending hand #39 --",2024-04-26T19:05:02.141Z,171415830214102
+"""joinmatrix @ PLlBwSpVjY"" collected 300 from pot",2024-04-26T19:05:02.141Z,171415830214101
+"Uncalled bet of 150 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:05:02.141Z,171415830214100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:05:01.316Z,171415830131600
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T19:04:58.514Z,171415829851400
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:04:56.765Z,171415829676500
+"Flop:  [J♠, 4♥, J♥]",2024-04-26T19:04:55.214Z,171415829521400
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:04:54.394Z,171415829439400
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:04:52.758Z,171415829275800
+"""Powel @ 97PJp0u7AV"" posts a big blind of 150",2024-04-26T19:04:51.708Z,171415829170805
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 75",2024-04-26T19:04:51.708Z,171415829170804
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2695) | #6 ""joinmatrix @ PLlBwSpVjY"" (1515)",2024-04-26T19:04:51.708Z,171415829170801
+"-- starting hand #39 (id: fewmyywnywdq)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:04:51.708Z,171415829170800
+"-- ending hand #38 --",2024-04-26T19:04:48.799Z,171415828879902
+"""joinmatrix @ PLlBwSpVjY"" collected 300 from pot",2024-04-26T19:04:48.799Z,171415828879901
+"Uncalled bet of 300 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:04:48.799Z,171415828879900
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:04:47.973Z,171415828797300
+"""joinmatrix @ PLlBwSpVjY"" bets 300",2024-04-26T19:04:45.323Z,171415828532300
+"River: 3♠, 3♥, 10♥, K♥ [4♦]",2024-04-26T19:04:42.881Z,171415828288100
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:04:42.072Z,171415828207200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:04:41.106Z,171415828110600
+"Turn: 3♠, 3♥, 10♥ [K♥]",2024-04-26T19:04:39.673Z,171415827967300
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:04:38.870Z,171415827887000
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:04:35.876Z,171415827587600
+"Flop:  [3♠, 3♥, 10♥]",2024-04-26T19:04:34.245Z,171415827424500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:04:33.435Z,171415827343500
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:04:31.932Z,171415827193200
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 150",2024-04-26T19:04:30.256Z,171415827025605
+"""Powel @ 97PJp0u7AV"" posts a small blind of 75",2024-04-26T19:04:30.256Z,171415827025604
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2845) | #6 ""joinmatrix @ PLlBwSpVjY"" (1365)",2024-04-26T19:04:30.256Z,171415827025601
+"-- starting hand #38 (id: cqck98rxwwzw)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:04:30.256Z,171415827025600
+"-- ending hand #37 --",2024-04-26T19:04:27.346Z,171415826734602
+"""Powel @ 97PJp0u7AV"" collected 150 from pot",2024-04-26T19:04:27.346Z,171415826734601
+"Uncalled bet of 75 returned to ""Powel @ 97PJp0u7AV""",2024-04-26T19:04:27.346Z,171415826734600
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T19:04:26.529Z,171415826652900
+"""Powel @ 97PJp0u7AV"" posts a big blind of 150",2024-04-26T19:04:25.139Z,171415826513905
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 75",2024-04-26T19:04:25.139Z,171415826513904
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (2770) | #6 ""joinmatrix @ PLlBwSpVjY"" (1440)",2024-04-26T19:04:25.139Z,171415826513901
+"-- starting hand #37 (id: s1avcowmj9qk)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:04:25.139Z,171415826513900
+"-- ending hand #36 --",2024-04-26T19:04:19.126Z,171415825912603
+"""joinmatrix @ PLlBwSpVjY"" shows a 3♥, A♦.",2024-04-26T19:04:19.126Z,171415825912602
+"""Powel @ 97PJp0u7AV"" collected 2770 from pot with Pair, K's (combination: K♣, K♥, A♠, J♦, 10♣)",2024-04-26T19:04:19.126Z,171415825912601
+"""Powel @ 97PJp0u7AV"" shows a K♣, A♠.",2024-04-26T19:04:19.126Z,171415825912600
+"""Powel @ 97PJp0u7AV"" calls 935 and go all in",2024-04-26T19:04:18.255Z,171415825825500
+"""joinmatrix @ PLlBwSpVjY"" raises to 935",2024-04-26T19:04:17.140Z,171415825714000
+"""Powel @ 97PJp0u7AV"" bets 150",2024-04-26T19:04:11.879Z,171415825187900
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:04:09.403Z,171415824940300
+"River: 9♥, 10♣, J♦, K♥ [4♥]",2024-04-26T19:04:08.003Z,171415824800300
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:04:07.144Z,171415824714400
+"""Powel @ 97PJp0u7AV"" bets 150",2024-04-26T19:04:06.023Z,171415824602300
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:04:04.660Z,171415824466000
+"Turn: 9♥, 10♣, J♦ [K♥]",2024-04-26T19:04:03.584Z,171415824358400
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:04:02.729Z,171415824272900
+"""Powel @ 97PJp0u7AV"" bets 150",2024-04-26T19:04:01.801Z,171415824180100
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:03:59.972Z,171415823997200
+"Flop:  [9♥, 10♣, J♦]",2024-04-26T19:03:58.312Z,171415823831200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:03:57.465Z,171415823746500
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:03:55.964Z,171415823596400
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 150",2024-04-26T19:03:54.641Z,171415823464105
+"""Powel @ 97PJp0u7AV"" posts a small blind of 75",2024-04-26T19:03:54.641Z,171415823464104
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (1385) | #6 ""joinmatrix @ PLlBwSpVjY"" (2825)",2024-04-26T19:03:54.641Z,171415823464101
+"-- starting hand #36 (id: clkqcp4jxc5k)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:03:54.641Z,171415823464100
+"-- ending hand #35 --",2024-04-26T19:03:51.705Z,171415823170502
+"""Powel @ 97PJp0u7AV"" collected 300 from pot",2024-04-26T19:03:51.705Z,171415823170501
+"Uncalled bet of 150 returned to ""Powel @ 97PJp0u7AV""",2024-04-26T19:03:51.705Z,171415823170500
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T19:03:50.870Z,171415823087000
+"""Powel @ 97PJp0u7AV"" bets 150",2024-04-26T19:03:49.874Z,171415822987400
+"Flop:  [7♦, 2♠, 6♣]",2024-04-26T19:03:47.342Z,171415822734200
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:03:46.512Z,171415822651200
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:03:45.556Z,171415822555600
+"""Powel @ 97PJp0u7AV"" posts a big blind of 150",2024-04-26T19:03:42.978Z,171415822297805
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 75",2024-04-26T19:03:42.978Z,171415822297804
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (1235) | #6 ""joinmatrix @ PLlBwSpVjY"" (2975)",2024-04-26T19:03:42.978Z,171415822297801
+"-- starting hand #35 (id: jqpuzg7htmst)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:03:42.978Z,171415822297800
+"-- ending hand #34 --",2024-04-26T19:03:40.071Z,171415822007102
+"""joinmatrix @ PLlBwSpVjY"" collected 600 from pot",2024-04-26T19:03:40.071Z,171415822007101
+"Uncalled bet of 150 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:03:40.071Z,171415822007100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:03:39.262Z,171415821926200
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T19:03:37.684Z,171415821768400
+"River: 8♣, 4♣, 4♦, 10♦ [Q♦]",2024-04-26T19:03:36.765Z,171415821676500
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:03:35.932Z,171415821593200
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T19:03:34.573Z,171415821457300
+"Turn: 8♣, 4♣, 4♦ [10♦]",2024-04-26T19:03:33.817Z,171415821381700
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:03:33.011Z,171415821301100
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:03:32.070Z,171415821207000
+"Flop:  [8♣, 4♣, 4♦]",2024-04-26T19:03:29.415Z,171415820941500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:03:28.578Z,171415820857800
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:03:24.454Z,171415820445400
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 150",2024-04-26T19:03:22.631Z,171415820263106
+"""Powel @ 97PJp0u7AV"" posts a small blind of 75",2024-04-26T19:03:22.631Z,171415820263105
+"Player stacks: #2 ""Powel @ 97PJp0u7AV"" (1535) | #6 ""joinmatrix @ PLlBwSpVjY"" (2675)",2024-04-26T19:03:22.631Z,171415820263102
+"-- starting hand #34 (id: nqcyfkwzognn)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:03:22.631Z,171415820263101
+"The player ""tenten1010 @ 7bT8XwIUWr"" quits the game with a stack of 0.",2024-04-26T19:03:22.631Z,171415820263100
+"-- ending hand #33 --",2024-04-26T19:03:16.615Z,171415819661501
+"""joinmatrix @ PLlBwSpVjY"" collected 615 from pot with Two Pair, J's & 4's (combination: J♠, J♦, 4♠, 4♥, K♠)",2024-04-26T19:03:16.615Z,171415819661500
+"River: K♠, 4♠, 4♥, J♦ [10♦]",2024-04-26T19:03:12.602Z,171415819260200
+"Turn: K♠, 4♠, 4♥ [J♦]",2024-04-26T19:03:08.593Z,171415818859300
+"""joinmatrix @ PLlBwSpVjY"" shows a 5♦, J♠.",2024-04-26T19:03:04.589Z,171415818458901
+"""tenten1010 @ 7bT8XwIUWr"" shows a A♥, 10♠.",2024-04-26T19:03:04.589Z,171415818458900
+"""joinmatrix @ PLlBwSpVjY"" calls 120",2024-04-26T19:03:03.751Z,171415818375100
+"""tenten1010 @ 7bT8XwIUWr"" bets 120 and go all in",2024-04-26T19:03:01.277Z,171415818127700
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:02:58.647Z,171415817864700
+"Flop:  [K♠, 4♠, 4♥]",2024-04-26T19:02:57.422Z,171415817742200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:02:56.610Z,171415817661000
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:02:55.708Z,171415817570800
+"""tenten1010 @ 7bT8XwIUWr"" calls 150",2024-04-26T19:02:54.756Z,171415817475600
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 150",2024-04-26T19:02:51.508Z,171415817150806
+"""Powel @ 97PJp0u7AV"" posts a small blind of 75",2024-04-26T19:02:51.508Z,171415817150805
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (270) | #2 ""Powel @ 97PJp0u7AV"" (1610) | #6 ""joinmatrix @ PLlBwSpVjY"" (2330)",2024-04-26T19:02:51.508Z,171415817150801
+"-- starting hand #33 (id: ypkbye7dloh6)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T19:02:51.508Z,171415817150800
+"""Powel @ 97PJp0u7AV"" shows a A♥, 4♣.",2024-04-26T19:02:49.941Z,171415816994100
+"""joinmatrix @ PLlBwSpVjY"" shows a A♠, Q♠.",2024-04-26T19:02:47.569Z,171415816756900
+"-- ending hand #32 --",2024-04-26T19:02:47.174Z,171415816717402
+"""joinmatrix @ PLlBwSpVjY"" collected 675 from pot",2024-04-26T19:02:47.174Z,171415816717401
+"Uncalled bet of 350 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:02:47.174Z,171415816717400
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:02:46.332Z,171415816633200
+"""joinmatrix @ PLlBwSpVjY"" bets 350",2024-04-26T19:02:44.785Z,171415816478500
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:02:42.206Z,171415816220600
+"River: 5♣, 4♦, 8♦, 2♥ [10♦]",2024-04-26T19:02:41.005Z,171415816100500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:02:40.191Z,171415816019100
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:02:39.009Z,171415815900900
+"Turn: 5♣, 4♦, 8♦ [2♥]",2024-04-26T19:02:37.377Z,171415815737700
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:02:36.534Z,171415815653400
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T19:02:34.938Z,171415815493800
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:02:32.790Z,171415815279000
+"Flop:  [5♣, 4♦, 8♦]",2024-04-26T19:02:31.076Z,171415815107600
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:02:30.254Z,171415815025400
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T19:02:29.277Z,171415814927700
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:02:26.720Z,171415814672000
+"""Powel @ 97PJp0u7AV"" posts a big blind of 150",2024-04-26T19:02:25.016Z,171415814501606
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 75",2024-04-26T19:02:25.016Z,171415814501605
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (345) | #2 ""Powel @ 97PJp0u7AV"" (1910) | #6 ""joinmatrix @ PLlBwSpVjY"" (1955)",2024-04-26T19:02:25.016Z,171415814501601
+"-- starting hand #32 (id: cox69evyi9kl)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:02:25.016Z,171415814501600
+"""joinmatrix @ PLlBwSpVjY"" shows a 7♠, 9♥.",2024-04-26T19:02:21.882Z,171415814188200
+"-- ending hand #31 --",2024-04-26T19:02:21.407Z,171415814140702
+"""joinmatrix @ PLlBwSpVjY"" collected 300 from pot",2024-04-26T19:02:21.407Z,171415814140701
+"Uncalled bet of 345 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:02:21.407Z,171415814140700
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T19:02:20.597Z,171415814059700
+"""joinmatrix @ PLlBwSpVjY"" bets 345",2024-04-26T19:02:18.344Z,171415813834400
+"River: K♦, 2♦, Q♦, A♠ [A♥]",2024-04-26T19:02:15.701Z,171415813570100
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:02:14.877Z,171415813487700
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:02:13.325Z,171415813332500
+"Turn: K♦, 2♦, Q♦ [A♠]",2024-04-26T19:02:12.498Z,171415813249800
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:02:11.679Z,171415813167900
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:02:10.142Z,171415813014200
+"Flop:  [K♦, 2♦, Q♦]",2024-04-26T19:02:08.297Z,171415812829700
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:02:07.477Z,171415812747700
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:02:04.801Z,171415812480100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:02:03.611Z,171415812361100
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 150",2024-04-26T19:02:01.485Z,171415812148506
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 75",2024-04-26T19:02:01.485Z,171415812148505
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (495) | #2 ""Powel @ 97PJp0u7AV"" (1910) | #6 ""joinmatrix @ PLlBwSpVjY"" (1805)",2024-04-26T19:02:01.485Z,171415812148501
+"-- starting hand #31 (id: zdmghqexzeho)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:02:01.485Z,171415812148500
+"-- ending hand #30 --",2024-04-26T19:01:58.514Z,171415811851402
+"""joinmatrix @ PLlBwSpVjY"" collected 150 from pot",2024-04-26T19:01:58.514Z,171415811851401
+"Uncalled bet of 75 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:01:58.514Z,171415811851400
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:01:57.678Z,171415811767800
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T19:01:56.716Z,171415811671600
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 150",2024-04-26T19:01:53.059Z,171415811305906
+"""Powel @ 97PJp0u7AV"" posts a small blind of 75",2024-04-26T19:01:53.059Z,171415811305905
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (495) | #2 ""Powel @ 97PJp0u7AV"" (1985) | #6 ""joinmatrix @ PLlBwSpVjY"" (1730)",2024-04-26T19:01:53.059Z,171415811305901
+"-- starting hand #30 (id: 5wbdcztxkex0)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T19:01:53.059Z,171415811305900
+"-- ending hand #29 --",2024-04-26T19:01:50.129Z,171415811012902
+"""tenten1010 @ 7bT8XwIUWr"" collected 450 from pot",2024-04-26T19:01:50.129Z,171415811012901
+"Uncalled bet of 45 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T19:01:50.129Z,171415811012900
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T19:01:49.300Z,171415810930000
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:01:48.219Z,171415810821900
+"""tenten1010 @ 7bT8XwIUWr"" bets 45 and go all in",2024-04-26T19:01:46.039Z,171415810603900
+"Flop:  [8♦, 10♣, 3♠]",2024-04-26T19:01:34.559Z,171415809455900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T19:01:33.714Z,171415809371400
+"""tenten1010 @ 7bT8XwIUWr"" calls 150",2024-04-26T19:01:29.996Z,171415808999600
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:01:23.421Z,171415808342100
+"""Powel @ 97PJp0u7AV"" posts a big blind of 150",2024-04-26T19:01:20.684Z,171415808068407
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 75",2024-04-26T19:01:20.684Z,171415808068406
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (195) | #2 ""Powel @ 97PJp0u7AV"" (2135) | #6 ""joinmatrix @ PLlBwSpVjY"" (1880)",2024-04-26T19:01:20.684Z,171415808068402
+"-- starting hand #29 (id: qvdr8magwb27)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T19:01:20.684Z,171415808068401
+"The player ""wide1234 @ kdOt3QP_fm"" quits the game with a stack of 0.",2024-04-26T19:01:20.684Z,171415808068400
+"-- ending hand #28 --",2024-04-26T19:01:14.667Z,171415807466705
+"""wide1234 @ kdOt3QP_fm"" shows a Q♠, 8♠.",2024-04-26T19:01:14.667Z,171415807466704
+"""joinmatrix @ PLlBwSpVjY"" collected 510 from pot with Two Pair, A's & 5's (combination: A♠, A♣, 5♣, 5♦, 8♦)",2024-04-26T19:01:14.667Z,171415807466703
+"""joinmatrix @ PLlBwSpVjY"" collected 135 from pot with Two Pair, A's & 5's (combination: A♠, A♣, 5♣, 5♦, 8♦)",2024-04-26T19:01:14.667Z,171415807466702
+"""joinmatrix @ PLlBwSpVjY"" shows a A♠, 5♣.",2024-04-26T19:01:14.667Z,171415807466701
+"Uncalled bet of 150 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T19:01:14.667Z,171415807466700
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T19:01:13.836Z,171415807383600
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T19:01:12.135Z,171415807213500
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:01:10.299Z,171415807029900
+"River: 8♦, A♣, 5♦, 4♦ [4♠]",2024-04-26T19:01:08.066Z,171415806806600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:01:07.222Z,171415806722200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:01:06.195Z,171415806619500
+"Turn: 8♦, A♣, 5♦ [4♦]",2024-04-26T19:01:04.142Z,171415806414200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:01:03.321Z,171415806332100
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:01:01.261Z,171415806126100
+"Flop:  [8♦, A♣, 5♦]",2024-04-26T19:00:59.229Z,171415805922900
+"""tenten1010 @ 7bT8XwIUWr"" calls 300",2024-04-26T19:00:58.398Z,171415805839800
+"""joinmatrix @ PLlBwSpVjY"" raises to 300",2024-04-26T19:00:56.149Z,171415805614900
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T19:00:54.626Z,171415805462600
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 150",2024-04-26T19:00:52.221Z,171415805222107
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 45 and go all in ",2024-04-26T19:00:52.221Z,171415805222106
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (495) | #2 ""Powel @ 97PJp0u7AV"" (2135) | #6 ""joinmatrix @ PLlBwSpVjY"" (1535) | #8 ""wide1234 @ kdOt3QP_fm"" (45)",2024-04-26T19:00:52.221Z,171415805222101
+"-- starting hand #28 (id: x0jiahwutddm)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T19:00:52.221Z,171415805222100
+"-- ending hand #27 --",2024-04-26T19:00:46.197Z,171415804619701
+"""Powel @ 97PJp0u7AV"" collected 2135 from pot with Two Pair, A's & 3's (combination: A♥, A♦, 3♦, 3♥, J♣)",2024-04-26T19:00:46.197Z,171415804619700
+"River: 6♣, A♦, 3♦, 3♥ [10♥]",2024-04-26T19:00:42.188Z,171415804218800
+"""Powel @ 97PJp0u7AV"" shows a A♥, J♣.",2024-04-26T19:00:38.129Z,171415803812901
+"""tenten1010 @ 7bT8XwIUWr"" shows a J♥, 6♥.",2024-04-26T19:00:38.129Z,171415803812900
+"""tenten1010 @ 7bT8XwIUWr"" calls 505",2024-04-26T19:00:37.316Z,171415803731600
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T19:00:35.892Z,171415803589200
+"""Powel @ 97PJp0u7AV"" bets 505 and go all in",2024-04-26T19:00:33.684Z,171415803368400
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T19:00:30.250Z,171415803025000
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T19:00:28.608Z,171415802860800
+"Turn: 6♣, A♦, 3♦ [3♥]",2024-04-26T19:00:27.013Z,171415802701300
+"""Powel @ 97PJp0u7AV"" calls 175",2024-04-26T19:00:26.188Z,171415802618800
+"""tenten1010 @ 7bT8XwIUWr"" calls 175",2024-04-26T19:00:25.238Z,171415802523800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T19:00:23.478Z,171415802347800
+"""joinmatrix @ PLlBwSpVjY"" bets 175",2024-04-26T19:00:20.857Z,171415802085700
+"Flop:  [6♣, A♦, 3♦]",2024-04-26T19:00:13.707Z,171415801370700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T19:00:12.837Z,171415801283700
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T19:00:10.075Z,171415801007500
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T19:00:09.005Z,171415800900500
+"""tenten1010 @ 7bT8XwIUWr"" calls 150",2024-04-26T19:00:06.877Z,171415800687700
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 150",2024-04-26T19:00:03.831Z,171415800383109
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 75",2024-04-26T19:00:03.831Z,171415800383108
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1325) | #2 ""Powel @ 97PJp0u7AV"" (830) | #6 ""joinmatrix @ PLlBwSpVjY"" (1860) | #8 ""wide1234 @ kdOt3QP_fm"" (195)",2024-04-26T19:00:03.831Z,171415800383103
+"-- starting hand #27 (id: ucnhmrglevwz)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T19:00:03.831Z,171415800383102
+"The game's big blind was changed from 100 to 150.",2024-04-26T19:00:03.831Z,171415800383101
+"The game's small blind was changed from 50 to 75.",2024-04-26T19:00:03.831Z,171415800383100
+"-- ending hand #26 --",2024-04-26T18:59:57.784Z,171415799778401
+"""Powel @ 97PJp0u7AV"" collected 830 from pot with Two Pair, 10's & 5's (combination: 10♦, 10♠, 5♥, 5♣, 3♦)",2024-04-26T18:59:57.784Z,171415799778400
+"River: 3♦, 2♣, 5♥, 2♥ [5♣]",2024-04-26T18:59:53.734Z,171415799373400
+"Turn: 3♦, 2♣, 5♥ [2♥]",2024-04-26T18:59:49.725Z,171415798972500
+"""joinmatrix @ PLlBwSpVjY"" shows a 6♦, K♣.",2024-04-26T18:59:45.718Z,171415798571801
+"""Powel @ 97PJp0u7AV"" shows a 10♦, 10♠.",2024-04-26T18:59:45.718Z,171415798571800
+"""joinmatrix @ PLlBwSpVjY"" calls 40",2024-04-26T18:59:44.882Z,171415798488200
+"""Powel @ 97PJp0u7AV"" bets 40 and go all in",2024-04-26T18:59:43.862Z,171415798386200
+"Flop:  [3♦, 2♣, 5♥]",2024-04-26T18:59:41.448Z,171415798144800
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:59:40.597Z,171415798059700
+"""joinmatrix @ PLlBwSpVjY"" calls 325",2024-04-26T18:59:38.543Z,171415797854300
+"""Powel @ 97PJp0u7AV"" raises to 325",2024-04-26T18:59:36.709Z,171415797670900
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:59:30.720Z,171415797072000
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:59:29.208Z,171415796920800
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 100",2024-04-26T18:59:27.342Z,171415796734207
+"""Powel @ 97PJp0u7AV"" posts a small blind of 50",2024-04-26T18:59:27.342Z,171415796734206
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1425) | #2 ""Powel @ 97PJp0u7AV"" (365) | #6 ""joinmatrix @ PLlBwSpVjY"" (2225) | #8 ""wide1234 @ kdOt3QP_fm"" (195)",2024-04-26T18:59:27.342Z,171415796734201
+"-- starting hand #26 (id: kbstso111ysc)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T18:59:27.342Z,171415796734200
+"""Powel @ 97PJp0u7AV"" shows a 2♠, 4♦.",2024-04-26T18:59:25.128Z,171415796512800
+"-- ending hand #25 --",2024-04-26T18:59:20.825Z,171415796082502
+"""tenten1010 @ 7bT8XwIUWr"" collected 900 from pot with Pair, K's (combination: K♣, K♥, A♦, Q♦, 4♣)",2024-04-26T18:59:20.825Z,171415796082501
+"""tenten1010 @ 7bT8XwIUWr"" shows a A♦, K♣.",2024-04-26T18:59:20.825Z,171415796082500
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:59:20.015Z,171415796001500
+"""tenten1010 @ 7bT8XwIUWr"" bets 100",2024-04-26T18:59:18.711Z,171415795871100
+"River: 4♣, K♥, 3♣, Q♦ [2♦]",2024-04-26T18:59:15.308Z,171415795530800
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:59:14.504Z,171415795450400
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:59:13.246Z,171415795324600
+"Turn: 4♣, K♥, 3♣ [Q♦]",2024-04-26T18:59:10.471Z,171415795047100
+"""joinmatrix @ PLlBwSpVjY"" calls 200",2024-04-26T18:59:09.632Z,171415794963200
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:59:07.207Z,171415794720700
+"""tenten1010 @ 7bT8XwIUWr"" raises to 200",2024-04-26T18:59:03.359Z,171415794335900
+"""joinmatrix @ PLlBwSpVjY"" bets 100",2024-04-26T18:58:59.175Z,171415793917500
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:58:57.849Z,171415793784900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:58:55.676Z,171415793567600
+"Flop:  [4♣, K♥, 3♣]",2024-04-26T18:58:51.679Z,171415793167900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:58:50.865Z,171415793086500
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:58:45.515Z,171415792551500
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:58:42.017Z,171415792201700
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:58:40.985Z,171415792098500
+"""Powel @ 97PJp0u7AV"" posts a big blind of 100",2024-04-26T18:58:39.442Z,171415791944207
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T18:58:39.442Z,171415791944206
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (925) | #2 ""Powel @ 97PJp0u7AV"" (465) | #6 ""joinmatrix @ PLlBwSpVjY"" (2625) | #8 ""wide1234 @ kdOt3QP_fm"" (195)",2024-04-26T18:58:39.442Z,171415791944201
+"-- starting hand #25 (id: uycyixhltfic)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:58:39.442Z,171415791944200
+"-- ending hand #24 --",2024-04-26T18:58:33.429Z,171415791342903
+"""joinmatrix @ PLlBwSpVjY"" collected 140 from pot with Two Pair, 10's & 9's (combination: 10♦, 10♥, 9♣, 9♦, K♣)",2024-04-26T18:58:33.429Z,171415791342902
+"""wide1234 @ kdOt3QP_fm"" collected 195 from pot with Two Pair, 10's & 9's (combination: 10♦, 10♥, 9♣, 9♦, K♣)",2024-04-26T18:58:33.429Z,171415791342901
+"""joinmatrix @ PLlBwSpVjY"" collected 195 from pot with Two Pair, 10's & 9's (combination: 10♦, 10♥, 9♣, 9♦, K♣)",2024-04-26T18:58:33.429Z,171415791342900
+"River: 10♦, 9♣, K♣, 9♦ [10♥]",2024-04-26T18:58:29.425Z,171415790942500
+"""wide1234 @ kdOt3QP_fm"" shows a 3♦, Q♦.",2024-04-26T18:58:25.417Z,171415790541702
+"""joinmatrix @ PLlBwSpVjY"" shows a 3♣, Q♣.",2024-04-26T18:58:25.417Z,171415790541701
+"Uncalled bet of 250 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:58:25.417Z,171415790541700
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:58:24.580Z,171415790458000
+"""joinmatrix @ PLlBwSpVjY"" bets 250",2024-04-26T18:58:22.954Z,171415790295400
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:58:19.323Z,171415789932300
+"Turn: 10♦, 9♣, K♣ [9♦]",2024-04-26T18:58:15.507Z,171415789550700
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:58:14.638Z,171415789463800
+"""wide1234 @ kdOt3QP_fm"" calls 30 and go all in",2024-04-26T18:58:11.912Z,171415789191200
+"""joinmatrix @ PLlBwSpVjY"" bets 100",2024-04-26T18:58:10.262Z,171415789026200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:58:08.477Z,171415788847700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:58:06.998Z,171415788699800
+"Flop:  [10♦, 9♣, K♣]",2024-04-26T18:58:03.620Z,171415788362000
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:58:02.795Z,171415788279500
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:57:59.303Z,171415787930300
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:57:57.638Z,171415787763800
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:57:56.436Z,171415787643600
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T18:57:52.311Z,171415787231107
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 50",2024-04-26T18:57:52.311Z,171415787231106
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1125) | #2 ""Powel @ 97PJp0u7AV"" (465) | #6 ""joinmatrix @ PLlBwSpVjY"" (2490) | #8 ""wide1234 @ kdOt3QP_fm"" (130)",2024-04-26T18:57:52.311Z,171415787231101
+"-- starting hand #24 (id: q3hqidvmmrti)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T18:57:52.311Z,171415787231100
+"""tenten1010 @ 7bT8XwIUWr"" shows a Q♣, Q♦.",2024-04-26T18:57:49.476Z,171415786947600
+"""joinmatrix @ PLlBwSpVjY"" shows a A♥, 6♣.",2024-04-26T18:57:49.151Z,171415786915100
+"-- ending hand #23 --",2024-04-26T18:57:47.982Z,171415786798202
+"""tenten1010 @ 7bT8XwIUWr"" collected 250 from pot",2024-04-26T18:57:47.982Z,171415786798201
+"Uncalled bet of 200 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T18:57:47.982Z,171415786798200
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:57:47.155Z,171415786715500
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:57:43.219Z,171415786321900
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:57:36.432Z,171415785643200
+"""tenten1010 @ 7bT8XwIUWr"" raises to 300",2024-04-26T18:57:32.756Z,171415785275600
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 100",2024-04-26T18:57:27.667Z,171415784766707
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 50",2024-04-26T18:57:27.667Z,171415784766706
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (975) | #2 ""Powel @ 97PJp0u7AV"" (465) | #6 ""joinmatrix @ PLlBwSpVjY"" (2540) | #8 ""wide1234 @ kdOt3QP_fm"" (230)",2024-04-26T18:57:27.667Z,171415784766701
+"-- starting hand #23 (id: dfbncblldwzt)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T18:57:27.667Z,171415784766700
+"-- ending hand #22 --",2024-04-26T18:57:24.762Z,171415784476202
+"""tenten1010 @ 7bT8XwIUWr"" collected 350 from pot",2024-04-26T18:57:24.762Z,171415784476201
+"Uncalled bet of 200 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T18:57:24.762Z,171415784476200
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:57:23.954Z,171415784395400
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:57:18.858Z,171415783885800
+"""tenten1010 @ 7bT8XwIUWr"" bets 200",2024-04-26T18:57:17.797Z,171415783779700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:57:12.714Z,171415783271400
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:57:09.604Z,171415782960400
+"Flop:  [K♦, 7♦, A♦]",2024-04-26T18:57:07.536Z,171415782753600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:57:06.710Z,171415782671000
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:57:05.399Z,171415782539900
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:57:04.395Z,171415782439500
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:57:01.762Z,171415782176200
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 100",2024-04-26T18:56:59.525Z,171415781952507
+"""Powel @ 97PJp0u7AV"" posts a small blind of 50",2024-04-26T18:56:59.525Z,171415781952506
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (725) | #2 ""Powel @ 97PJp0u7AV"" (515) | #6 ""joinmatrix @ PLlBwSpVjY"" (2640) | #8 ""wide1234 @ kdOt3QP_fm"" (330)",2024-04-26T18:56:59.525Z,171415781952501
+"-- starting hand #22 (id: w0oxxxsszh9o)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T18:56:59.525Z,171415781952500
+"""joinmatrix @ PLlBwSpVjY"" shows a A♥, J♣.",2024-04-26T18:56:56.740Z,171415781674000
+"-- ending hand #21 --",2024-04-26T18:56:55.882Z,171415781588202
+"""joinmatrix @ PLlBwSpVjY"" collected 600 from pot",2024-04-26T18:56:55.882Z,171415781588201
+"Uncalled bet of 450 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:56:55.882Z,171415781588200
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:56:55.062Z,171415781506200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:56:54.121Z,171415781412100
+"""joinmatrix @ PLlBwSpVjY"" bets 450",2024-04-26T18:56:52.673Z,171415781267300
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:56:49.798Z,171415780979800
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:56:48.141Z,171415780814100
+"Turn: 10♠, 5♦, 2♠ [J♠]",2024-04-26T18:56:46.511Z,171415780651100
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:56:45.684Z,171415780568400
+"""Powel @ 97PJp0u7AV"" calls 100",2024-04-26T18:56:44.680Z,171415780468000
+"""tenten1010 @ 7bT8XwIUWr"" bets 100",2024-04-26T18:56:41.013Z,171415780101300
+"Flop:  [10♠, 5♦, 2♠]",2024-04-26T18:56:38.429Z,171415779842900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:56:37.558Z,171415779755800
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:56:36.556Z,171415779655600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:56:34.131Z,171415779413100
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:56:33.160Z,171415779316000
+"""Powel @ 97PJp0u7AV"" posts a big blind of 100",2024-04-26T18:56:31.860Z,171415779186007
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 50",2024-04-26T18:56:31.860Z,171415779186006
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (925) | #2 ""Powel @ 97PJp0u7AV"" (715) | #6 ""joinmatrix @ PLlBwSpVjY"" (2240) | #8 ""wide1234 @ kdOt3QP_fm"" (330)",2024-04-26T18:56:31.860Z,171415779186001
+"-- starting hand #21 (id: mmcou0ldhvvu)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:56:31.860Z,171415779186000
+"-- ending hand #20 --",2024-04-26T18:56:25.846Z,171415778584605
+"""joinmatrix @ PLlBwSpVjY"" collected 200 from pot with Pair, 3's (combination: 3♠, 3♥, A♦, K♣, Q♥)",2024-04-26T18:56:25.846Z,171415778584604
+"""joinmatrix @ PLlBwSpVjY"" shows a K♣, A♦.",2024-04-26T18:56:25.846Z,171415778584603
+"""wide1234 @ kdOt3QP_fm"" collected 330 from pot with Two Pair, 4's & 3's (combination: 4♠, 4♦, 3♠, 3♥, Q♥)",2024-04-26T18:56:25.846Z,171415778584602
+"""wide1234 @ kdOt3QP_fm"" shows a 4♠, 9♠.",2024-04-26T18:56:25.846Z,171415778584601
+"Uncalled bet of 400 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:56:25.846Z,171415778584600
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:56:25.037Z,171415778503700
+"""joinmatrix @ PLlBwSpVjY"" bets 400",2024-04-26T18:56:23.409Z,171415778340900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:56:20.638Z,171415778063800
+"River: 8♦, 4♦, 3♠, Q♥ [3♥]",2024-04-26T18:56:19.052Z,171415777905200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:56:18.242Z,171415777824200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:56:17.197Z,171415777719700
+"Turn: 8♦, 4♦, 3♠ [Q♥]",2024-04-26T18:56:15.445Z,171415777544500
+"""tenten1010 @ 7bT8XwIUWr"" calls 110",2024-04-26T18:56:14.597Z,171415777459700
+"""joinmatrix @ PLlBwSpVjY"" raises to 110",2024-04-26T18:56:11.728Z,171415777172800
+"""tenten1010 @ 7bT8XwIUWr"" calls 10",2024-04-26T18:56:09.884Z,171415776988400
+"""wide1234 @ kdOt3QP_fm"" bets 10 and go all in",2024-04-26T18:56:08.296Z,171415776829600
+"Flop:  [8♦, 4♦, 3♠]",2024-04-26T18:56:05.023Z,171415776502300
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:56:04.196Z,171415776419600
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:56:00.357Z,171415776035700
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:55:51.780Z,171415775178000
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:55:50.791Z,171415775079100
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 100",2024-04-26T18:55:48.051Z,171415774805107
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 50",2024-04-26T18:55:48.051Z,171415774805106
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1135) | #2 ""Powel @ 97PJp0u7AV"" (715) | #6 ""joinmatrix @ PLlBwSpVjY"" (2250) | #8 ""wide1234 @ kdOt3QP_fm"" (110)",2024-04-26T18:55:48.051Z,171415774805101
+"-- starting hand #20 (id: acpoasd8wifp)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T18:55:48.051Z,171415774805100
+"""joinmatrix @ PLlBwSpVjY"" shows a 10♣, 6♣.",2024-04-26T18:55:45.208Z,171415774520800
+"-- ending hand #19 --",2024-04-26T18:55:44.445Z,171415774444502
+"""joinmatrix @ PLlBwSpVjY"" collected 200 from pot",2024-04-26T18:55:44.445Z,171415774444501
+"Uncalled bet of 100 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:55:44.445Z,171415774444500
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:55:43.578Z,171415774357800
+"""joinmatrix @ PLlBwSpVjY"" bets 100",2024-04-26T18:55:38.685Z,171415773868500
+"Flop:  [4♠, A♠, 8♣]",2024-04-26T18:55:37.137Z,171415773713700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:55:36.296Z,171415773629600
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:55:34.529Z,171415773452900
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:55:33.342Z,171415773334200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:55:30.677Z,171415773067700
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 100",2024-04-26T18:55:27.861Z,171415772786107
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 50",2024-04-26T18:55:27.861Z,171415772786106
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1135) | #2 ""Powel @ 97PJp0u7AV"" (715) | #6 ""joinmatrix @ PLlBwSpVjY"" (2150) | #8 ""wide1234 @ kdOt3QP_fm"" (210)",2024-04-26T18:55:27.861Z,171415772786101
+"-- starting hand #19 (id: 0zl7mjaji038)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T18:55:27.861Z,171415772786100
+"-- ending hand #18 --",2024-04-26T18:55:21.842Z,171415772184204
+"""wide1234 @ kdOt3QP_fm"" shows a 10♣, 5♣.",2024-04-26T18:55:21.842Z,171415772184203
+"""joinmatrix @ PLlBwSpVjY"" shows a 4♦, 5♦.",2024-04-26T18:55:21.842Z,171415772184202
+"""tenten1010 @ 7bT8XwIUWr"" collected 350 from pot with Three of a Kind, A's (combination: A♠, A♦, A♥, K♥, J♥)",2024-04-26T18:55:21.842Z,171415772184201
+"""tenten1010 @ 7bT8XwIUWr"" shows a K♥, 8♥.",2024-04-26T18:55:21.842Z,171415772184200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:55:20.974Z,171415772097400
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:55:19.916Z,171415771991600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:55:16.534Z,171415771653400
+"River: J♥, A♠, 2♠, A♦ [A♥]",2024-04-26T18:55:13.786Z,171415771378600
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:55:12.912Z,171415771291200
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:55:11.882Z,171415771188200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:55:10.055Z,171415771005500
+"Turn: J♥, A♠, 2♠ [A♦]",2024-04-26T18:55:07.287Z,171415770728700
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:55:06.438Z,171415770643800
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:55:04.575Z,171415770457500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:55:00.880Z,171415770088000
+"Flop:  [J♥, A♠, 2♠]",2024-04-26T18:54:48.752Z,171415768875200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:54:47.882Z,171415768788200
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:54:44.529Z,171415768452900
+"""tenten1010 @ 7bT8XwIUWr"" calls 100",2024-04-26T18:54:43.596Z,171415768359600
+"""wide1234 @ kdOt3QP_fm"" calls 100",2024-04-26T18:54:41.282Z,171415768128200
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 100",2024-04-26T18:54:37.503Z,171415767750309
+"""Powel @ 97PJp0u7AV"" posts a small blind of 50",2024-04-26T18:54:37.503Z,171415767750308
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (885) | #2 ""Powel @ 97PJp0u7AV"" (765) | #6 ""joinmatrix @ PLlBwSpVjY"" (2250) | #8 ""wide1234 @ kdOt3QP_fm"" (310)",2024-04-26T18:54:37.503Z,171415767750303
+"-- starting hand #18 (id: pdxzafnz2zky)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T18:54:37.503Z,171415767750302
+"The game's big blind was changed from 60 to 100.",2024-04-26T18:54:37.503Z,171415767750301
+"The game's small blind was changed from 30 to 50.",2024-04-26T18:54:37.503Z,171415767750300
+"-- ending hand #17 --",2024-04-26T18:54:34.497Z,171415767449702
+"""tenten1010 @ 7bT8XwIUWr"" collected 240 from pot",2024-04-26T18:54:34.497Z,171415767449701
+"Uncalled bet of 60 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T18:54:34.497Z,171415767449700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:54:33.598Z,171415767359800
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:54:32.625Z,171415767262500
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:54:21.417Z,171415766141700
+"""tenten1010 @ 7bT8XwIUWr"" bets 60",2024-04-26T18:54:11.756Z,171415765175600
+"Turn: J♥, 3♦, 2♥ [J♣]",2024-04-26T18:54:09.733Z,171415764973300
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:54:08.906Z,171415764890600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:54:07.884Z,171415764788400
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:54:06.456Z,171415764645600
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:54:05.517Z,171415764551700
+"Flop:  [J♥, 3♦, 2♥]",2024-04-26T18:54:02.269Z,171415764226900
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:54:01.392Z,171415764139200
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T18:54:00.356Z,171415764035600
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:53:47.864Z,171415762786400
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:53:44.777Z,171415762477700
+"""Powel @ 97PJp0u7AV"" posts a big blind of 60",2024-04-26T18:53:39.179Z,171415761917907
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 30",2024-04-26T18:53:39.179Z,171415761917906
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (705) | #2 ""Powel @ 97PJp0u7AV"" (825) | #6 ""joinmatrix @ PLlBwSpVjY"" (2310) | #8 ""wide1234 @ kdOt3QP_fm"" (370)",2024-04-26T18:53:39.179Z,171415761917901
+"-- starting hand #17 (id: 3g9rrwgls0xv)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:53:39.179Z,171415761917900
+"""joinmatrix @ PLlBwSpVjY"" shows a 7♦, 10♥.",2024-04-26T18:53:34.604Z,171415761460400
+"-- ending hand #16 --",2024-04-26T18:53:32.634Z,171415761263402
+"""tenten1010 @ 7bT8XwIUWr"" collected 360 from pot with Flush, Qs High (combination: Q♠, J♠, 10♠, 7♠, 4♠, 3♠)",2024-04-26T18:53:32.634Z,171415761263401
+"""tenten1010 @ 7bT8XwIUWr"" shows a 9♣, J♠.",2024-04-26T18:53:32.634Z,171415761263400
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:53:31.813Z,171415761181300
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:53:29.228Z,171415760922800
+"River: 3♠, 7♠, 4♠, Q♠ [10♠]",2024-04-26T18:53:26.756Z,171415760675600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:53:25.922Z,171415760592200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:53:24.878Z,171415760487800
+"Turn: 3♠, 7♠, 4♠ [Q♠]",2024-04-26T18:53:23.554Z,171415760355400
+"""tenten1010 @ 7bT8XwIUWr"" calls 90",2024-04-26T18:53:22.717Z,171415760271700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:53:21.162Z,171415760116200
+"""joinmatrix @ PLlBwSpVjY"" bets 90",2024-04-26T18:53:17.670Z,171415759767000
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:53:15.753Z,171415759575300
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:53:14.129Z,171415759412900
+"Flop:  [3♠, 7♠, 4♠]",2024-04-26T18:53:11.849Z,171415759184900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:53:11.035Z,171415759103500
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:53:09.446Z,171415758944600
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:53:08.454Z,171415758845400
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:53:02.470Z,171415758247000
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 60",2024-04-26T18:53:01.029Z,171415758102907
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 30",2024-04-26T18:53:01.029Z,171415758102906
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (495) | #2 ""Powel @ 97PJp0u7AV"" (825) | #6 ""joinmatrix @ PLlBwSpVjY"" (2460) | #8 ""wide1234 @ kdOt3QP_fm"" (430)",2024-04-26T18:53:01.029Z,171415758102901
+"-- starting hand #16 (id: rvf46aazreh2)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T18:53:01.029Z,171415758102900
+"""Powel @ 97PJp0u7AV"" shows a A♣, K♣.",2024-04-26T18:52:59.040Z,171415757904000
+"-- ending hand #15 --",2024-04-26T18:52:57.409Z,171415757740902
+"""Powel @ 97PJp0u7AV"" collected 540 from pot",2024-04-26T18:52:57.409Z,171415757740901
+"Uncalled bet of 270 returned to ""Powel @ 97PJp0u7AV""",2024-04-26T18:52:57.409Z,171415757740900
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:52:56.597Z,171415757659700
+"""Powel @ 97PJp0u7AV"" bets 270",2024-04-26T18:52:48.849Z,171415756884900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:52:45.520Z,171415756552000
+"River: 3♠, 9♦, 4♥, K♦ [5♣]",2024-04-26T18:52:42.268Z,171415756226800
+"""Powel @ 97PJp0u7AV"" calls 60",2024-04-26T18:52:41.397Z,171415756139700
+"""tenten1010 @ 7bT8XwIUWr"" bets 60",2024-04-26T18:52:38.994Z,171415755899400
+"Turn: 3♠, 9♦, 4♥ [K♦]",2024-04-26T18:52:34.063Z,171415755406300
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:52:33.252Z,171415755325200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:52:31.081Z,171415755108100
+"Flop:  [3♠, 9♦, 4♥]",2024-04-26T18:52:28.453Z,171415754845300
+"""tenten1010 @ 7bT8XwIUWr"" calls 165",2024-04-26T18:52:27.593Z,171415754759300
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:52:22.339Z,171415754233900
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:52:21.344Z,171415754134400
+"""Powel @ 97PJp0u7AV"" raises to 165",2024-04-26T18:52:19.526Z,171415753952600
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T18:52:15.876Z,171415753587600
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 60",2024-04-26T18:52:08.858Z,171415752885807
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 30",2024-04-26T18:52:08.858Z,171415752885806
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (720) | #2 ""Powel @ 97PJp0u7AV"" (510) | #6 ""joinmatrix @ PLlBwSpVjY"" (2490) | #8 ""wide1234 @ kdOt3QP_fm"" (490)",2024-04-26T18:52:08.858Z,171415752885801
+"-- starting hand #15 (id: 0tacuauyfgen)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T18:52:08.858Z,171415752885800
+"""wide1234 @ kdOt3QP_fm"" shows a 6♣, 7♦.",2024-04-26T18:52:04.176Z,171415752417600
+"-- ending hand #14 --",2024-04-26T18:52:02.351Z,171415752235102
+"""joinmatrix @ PLlBwSpVjY"" collected 330 from pot with Straight, J High (combination: J♠, 10♣, 9♦, 8♠, 7♥)",2024-04-26T18:52:02.351Z,171415752235101
+"""joinmatrix @ PLlBwSpVjY"" shows a 6♥, J♠.",2024-04-26T18:52:02.351Z,171415752235100
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:52:01.478Z,171415752147800
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:51:59.203Z,171415751920300
+"""joinmatrix @ PLlBwSpVjY"" bets 60",2024-04-26T18:51:57.527Z,171415751752700
+"River: K♥, 10♣, 8♠, 7♥ [9♦]",2024-04-26T18:51:51.939Z,171415751193900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:51:51.122Z,171415751112200
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:51:49.402Z,171415750940200
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:51:45.573Z,171415750557300
+"Turn: K♥, 10♣, 8♠ [7♥]",2024-04-26T18:51:44.813Z,171415750481300
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:51:43.997Z,171415750399700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:51:40.994Z,171415750099400
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:51:39.334Z,171415749933400
+"Flop:  [K♥, 10♣, 8♠]",2024-04-26T18:51:37.836Z,171415749783600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:51:37.011Z,171415749701100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:51:35.890Z,171415749589000
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T18:51:34.921Z,171415749492100
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:51:31.104Z,171415749110400
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 60",2024-04-26T18:51:26.023Z,171415748602307
+"""Powel @ 97PJp0u7AV"" posts a small blind of 30",2024-04-26T18:51:26.023Z,171415748602306
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (780) | #2 ""Powel @ 97PJp0u7AV"" (540) | #6 ""joinmatrix @ PLlBwSpVjY"" (2280) | #8 ""wide1234 @ kdOt3QP_fm"" (610)",2024-04-26T18:51:26.023Z,171415748602301
+"-- starting hand #14 (id: npv2dzrtyp28)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T18:51:26.023Z,171415748602300
+"""wide1234 @ kdOt3QP_fm"" shows a 4♠, 4♣.",2024-04-26T18:51:20.632Z,171415748063200
+"-- ending hand #13 --",2024-04-26T18:51:19.515Z,171415747951501
+"""tenten1010 @ 7bT8XwIUWr"" collected 780 from pot with Pair, A's (combination: A♦, A♠, K♣, 10♦, 7♠)",2024-04-26T18:51:19.515Z,171415747951500
+"River: 7♠, K♣, A♠, 4♦ [3♠]",2024-04-26T18:51:15.505Z,171415747550500
+"""joinmatrix @ PLlBwSpVjY"" shows a K♦, 10♠.",2024-04-26T18:51:11.498Z,171415747149801
+"""tenten1010 @ 7bT8XwIUWr"" shows a A♦, 10♦.",2024-04-26T18:51:11.498Z,171415747149800
+"""joinmatrix @ PLlBwSpVjY"" calls 150",2024-04-26T18:51:10.684Z,171415747068400
+"""tenten1010 @ 7bT8XwIUWr"" bets 150 and go all in",2024-04-26T18:51:09.402Z,171415746940200
+"Turn: 7♠, K♣, A♠ [4♦]",2024-04-26T18:51:01.975Z,171415746197500
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:51:01.151Z,171415746115100
+"""tenten1010 @ 7bT8XwIUWr"" calls 120",2024-04-26T18:50:55.437Z,171415745543700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:50:53.516Z,171415745351600
+"""joinmatrix @ PLlBwSpVjY"" bets 120",2024-04-26T18:50:49.857Z,171415744985700
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:50:48.073Z,171415744807300
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:50:47.116Z,171415744711600
+"Flop:  [7♠, K♣, A♠]",2024-04-26T18:50:43.311Z,171415744331100
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:50:42.447Z,171415744244700
+"""tenten1010 @ 7bT8XwIUWr"" calls 60",2024-04-26T18:50:41.482Z,171415744148200
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:50:35.486Z,171415743548600
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:50:33.299Z,171415743329900
+"""Powel @ 97PJp0u7AV"" posts a big blind of 60",2024-04-26T18:50:31.522Z,171415743152207
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 30",2024-04-26T18:50:31.522Z,171415743152206
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (330) | #2 ""Powel @ 97PJp0u7AV"" (600) | #6 ""joinmatrix @ PLlBwSpVjY"" (2610) | #8 ""wide1234 @ kdOt3QP_fm"" (670)",2024-04-26T18:50:31.522Z,171415743152201
+"-- starting hand #13 (id: anauyqgs3cks)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:50:31.522Z,171415743152200
+"-- ending hand #12 --",2024-04-26T18:50:25.515Z,171415742551504
+"""wide1234 @ kdOt3QP_fm"" collected 90 from pot with Pair, J's (combination: J♣, J♠, A♦, K♦, 6♦)",2024-04-26T18:50:25.515Z,171415742551503
+"""wide1234 @ kdOt3QP_fm"" shows a K♦, 2♥.",2024-04-26T18:50:25.515Z,171415742551502
+"""joinmatrix @ PLlBwSpVjY"" collected 90 from pot with Pair, J's (combination: J♣, J♠, A♦, K♠, 6♦)",2024-04-26T18:50:25.515Z,171415742551501
+"""joinmatrix @ PLlBwSpVjY"" shows a K♠, 4♦.",2024-04-26T18:50:25.515Z,171415742551500
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:50:24.690Z,171415742469000
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:50:23.303Z,171415742330300
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:50:22.060Z,171415742206000
+"River: J♣, 6♦, J♠, 3♠ [A♦]",2024-04-26T18:50:16.534Z,171415741653400
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:50:15.709Z,171415741570900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:50:11.126Z,171415741112600
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:50:06.674Z,171415740667400
+"Turn: J♣, 6♦, J♠ [3♠]",2024-04-26T18:50:04.860Z,171415740486000
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:50:04.029Z,171415740402900
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:50:03.037Z,171415740303700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:49:49.588Z,171415738958800
+"Flop:  [J♣, 6♦, J♠]",2024-04-26T18:49:47.082Z,171415738708200
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:49:46.239Z,171415738623900
+"""wide1234 @ kdOt3QP_fm"" calls 60",2024-04-26T18:49:45.016Z,171415738501600
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:49:43.702Z,171415738370200
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:49:40.160Z,171415738016000
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 60",2024-04-26T18:49:38.500Z,171415737850007
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 30",2024-04-26T18:49:38.500Z,171415737850006
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (390) | #2 ""Powel @ 97PJp0u7AV"" (600) | #6 ""joinmatrix @ PLlBwSpVjY"" (2580) | #8 ""wide1234 @ kdOt3QP_fm"" (640)",2024-04-26T18:49:38.500Z,171415737850001
+"-- starting hand #12 (id: qneqod8l1ng8)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:49:38.500Z,171415737850000
+"""joinmatrix @ PLlBwSpVjY"" shows a Q♠, 8♣.",2024-04-26T18:49:35.313Z,171415737531300
+"-- ending hand #11 --",2024-04-26T18:49:34.871Z,171415737487102
+"""joinmatrix @ PLlBwSpVjY"" collected 180 from pot",2024-04-26T18:49:34.871Z,171415737487101
+"Uncalled bet of 90 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:49:34.871Z,171415737487100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:49:34.028Z,171415737402800
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:49:30.935Z,171415737093500
+"""joinmatrix @ PLlBwSpVjY"" bets 90",2024-04-26T18:49:27.630Z,171415736763000
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:49:25.258Z,171415736525800
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:49:24.258Z,171415736425800
+"River: 10♥, 5♠, 7♦, K♦ [4♦]",2024-04-26T18:49:21.333Z,171415736133300
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:49:20.522Z,171415736052200
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:49:18.987Z,171415735898700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:49:15.872Z,171415735587200
+"Turn: 10♥, 5♠, 7♦ [K♦]",2024-04-26T18:49:12.758Z,171415735275800
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:49:11.908Z,171415735190800
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:49:10.766Z,171415735076600
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:49:05.114Z,171415734511400
+"Flop:  [10♥, 5♠, 7♦]",2024-04-26T18:49:02.647Z,171415734264700
+"""wide1234 @ kdOt3QP_fm"" checks",2024-04-26T18:49:01.807Z,171415734180700
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:49:00.851Z,171415734085100
+"""Powel @ 97PJp0u7AV"" calls 60",2024-04-26T18:48:59.363Z,171415733936300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:48:55.325Z,171415733532500
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 60",2024-04-26T18:48:51.635Z,171415733163511
+"Dead Small Blind",2024-04-26T18:48:51.635Z,171415733163510
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (390) | #2 ""Powel @ 97PJp0u7AV"" (660) | #6 ""joinmatrix @ PLlBwSpVjY"" (2460) | #8 ""wide1234 @ kdOt3QP_fm"" (700)",2024-04-26T18:48:51.635Z,171415733163505
+"-- starting hand #11 (id: 5fwga3legh60)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T18:48:51.635Z,171415733163504
+"The game's big blind was changed from 40 to 60.",2024-04-26T18:48:51.635Z,171415733163503
+"The game's small blind was changed from 20 to 30.",2024-04-26T18:48:51.635Z,171415733163502
+"The player ""Catch4 @ TlkvtU55KV"" quits the game with a stack of 1830.",2024-04-26T18:48:51.635Z,171415733163501
+"The player ""Jagatek @ bdNVkZmPI7"" quits the game with a stack of 0.",2024-04-26T18:48:51.635Z,171415733163500
+"""tenten1010 @ 7bT8XwIUWr"" shows a A♥, 8♥.",2024-04-26T18:48:46.196Z,171415732619600
+"-- ending hand #10 --",2024-04-26T18:48:45.107Z,171415732510701
+"""Catch4 @ TlkvtU55KV"" collected 1320 from pot with Pair, A's (combination: A♣, A♠, K♣, 10♣, 6♦)",2024-04-26T18:48:45.107Z,171415732510700
+"River: 6♦, 10♣, 3♦, K♣ [2♥]",2024-04-26T18:48:41.018Z,171415732101800
+"Turn: 6♦, 10♣, 3♦ [K♣]",2024-04-26T18:48:36.990Z,171415731699000
+"Flop:  [6♦, 10♣, 3♦]",2024-04-26T18:48:32.985Z,171415731298500
+"""Jagatek @ bdNVkZmPI7"" shows a Q♥, A♦.",2024-04-26T18:48:28.976Z,171415730897602
+"""Catch4 @ TlkvtU55KV"" shows a A♣, A♠.",2024-04-26T18:48:28.976Z,171415730897601
+"Uncalled bet of 510 returned to ""Catch4 @ TlkvtU55KV""",2024-04-26T18:48:28.976Z,171415730897600
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:48:28.157Z,171415730815700
+"""Jagatek @ bdNVkZmPI7"" calls 630 and go all in",2024-04-26T18:48:25.375Z,171415730537500
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:48:24.395Z,171415730439500
+"""Catch4 @ TlkvtU55KV"" raises to 1140 and go all in",2024-04-26T18:48:22.959Z,171415730295900
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:48:20.199Z,171415730019900
+"""tenten1010 @ 7bT8XwIUWr"" calls 40",2024-04-26T18:48:19.196Z,171415729919600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:48:10.312Z,171415729031200
+"""Jagatek @ bdNVkZmPI7"" posts a big blind of 40",2024-04-26T18:48:08.157Z,171415728815709
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 20",2024-04-26T18:48:08.157Z,171415728815708
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (430) | #2 ""Powel @ 97PJp0u7AV"" (660) | #4 ""Catch4 @ TlkvtU55KV"" (1140) | #6 ""joinmatrix @ PLlBwSpVjY"" (2480) | #7 ""Jagatek @ bdNVkZmPI7"" (630) | #8 ""wide1234 @ kdOt3QP_fm"" (700)",2024-04-26T18:48:08.157Z,171415728815701
+"-- starting hand #10 (id: 2htaarnuxtax)  (No Limit Texas Hold'em) (dealer: ""Catch4 @ TlkvtU55KV"") --",2024-04-26T18:48:08.157Z,171415728815700
+"-- ending hand #9 --",2024-04-26T18:48:02.147Z,171415728214701
+"""joinmatrix @ PLlBwSpVjY"" collected 2480 from pot with Full House, 5's over 9's (combination: 5♠, 5♦, 5♥, 9♠, 9♦)",2024-04-26T18:48:02.147Z,171415728214700
+"River: 5♦, 5♥, 9♦, A♠ [J♠]",2024-04-26T18:47:58.123Z,171415727812300
+"""joinmatrix @ PLlBwSpVjY"" shows a 5♠, 9♠.",2024-04-26T18:47:54.117Z,171415727411701
+"""Catch4 @ TlkvtU55KV"" shows a 8♦, 10♠.",2024-04-26T18:47:54.117Z,171415727411700
+"""Catch4 @ TlkvtU55KV"" calls 1000",2024-04-26T18:47:53.277Z,171415727327700
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:47:51.718Z,171415727171800
+"""joinmatrix @ PLlBwSpVjY"" raises to 1000 and go all in",2024-04-26T18:47:49.487Z,171415726948700
+"""Catch4 @ TlkvtU55KV"" raises to 720",2024-04-26T18:47:43.962Z,171415726396200
+"""tenten1010 @ 7bT8XwIUWr"" calls 80",2024-04-26T18:47:39.678Z,171415725967800
+"""joinmatrix @ PLlBwSpVjY"" bets 80",2024-04-26T18:47:34.968Z,171415725496800
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:47:29.670Z,171415724967000
+"Turn: 5♦, 5♥, 9♦ [A♠]",2024-04-26T18:47:24.568Z,171415724456800
+"""tenten1010 @ 7bT8XwIUWr"" calls 80",2024-04-26T18:47:23.757Z,171415724375700
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:47:21.109Z,171415724110900
+"""joinmatrix @ PLlBwSpVjY"" calls 80",2024-04-26T18:47:14.397Z,171415723439700
+"""Catch4 @ TlkvtU55KV"" bets 80",2024-04-26T18:47:08.786Z,171415722878600
+"Flop:  [5♦, 5♥, 9♦]",2024-04-26T18:46:58.704Z,171415721870400
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:46:57.883Z,171415721788300
+"""Catch4 @ TlkvtU55KV"" calls 40",2024-04-26T18:46:56.640Z,171415721664000
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:46:52.023Z,171415721202300
+"""tenten1010 @ 7bT8XwIUWr"" calls 40",2024-04-26T18:46:51.076Z,171415721107600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:46:36.140Z,171415719614000
+"""Jagatek @ bdNVkZmPI7"" calls 40",2024-04-26T18:46:35.319Z,171415719531900
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 40",2024-04-26T18:46:31.720Z,171415719172009
+"""Catch4 @ TlkvtU55KV"" posts a small blind of 20",2024-04-26T18:46:31.720Z,171415719172008
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (630) | #2 ""Powel @ 97PJp0u7AV"" (660) | #4 ""Catch4 @ TlkvtU55KV"" (2260) | #6 ""joinmatrix @ PLlBwSpVjY"" (1120) | #7 ""Jagatek @ bdNVkZmPI7"" (670) | #8 ""wide1234 @ kdOt3QP_fm"" (700)",2024-04-26T18:46:31.720Z,171415719172001
+"-- starting hand #9 (id: tobe1h5qaqtf)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T18:46:31.720Z,171415719172000
+"""joinmatrix @ PLlBwSpVjY"" shows a 6♦, A♠.",2024-04-26T18:46:28.372Z,171415718837200
+"-- ending hand #8 --",2024-04-26T18:46:28.082Z,171415718808202
+"""Catch4 @ TlkvtU55KV"" collected 420 from pot",2024-04-26T18:46:28.082Z,171415718808201
+"Uncalled bet of 140 returned to ""Catch4 @ TlkvtU55KV""",2024-04-26T18:46:28.082Z,171415718808200
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:46:27.231Z,171415718723100
+"""Catch4 @ TlkvtU55KV"" raises to 280",2024-04-26T18:46:22.050Z,171415718205000
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:46:17.984Z,171415717798400
+"""joinmatrix @ PLlBwSpVjY"" raises to 140",2024-04-26T18:46:16.971Z,171415717697100
+"""Catch4 @ TlkvtU55KV"" bets 40",2024-04-26T18:46:10.021Z,171415717002100
+"Flop:  [6♥, K♠, 2♠]",2024-04-26T18:46:07.628Z,171415716762800
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:46:06.788Z,171415716678800
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:46:03.372Z,171415716337200
+"""tenten1010 @ 7bT8XwIUWr"" calls 40",2024-04-26T18:46:02.407Z,171415716240700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:46:00.094Z,171415716009400
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:45:59.277Z,171415715927700
+"""joinmatrix @ PLlBwSpVjY"" calls 40",2024-04-26T18:45:58.352Z,171415715835200
+"""Catch4 @ TlkvtU55KV"" posts a big blind of 40",2024-04-26T18:45:57.346Z,171415715734609
+"""Powel @ 97PJp0u7AV"" posts a small blind of 20",2024-04-26T18:45:57.346Z,171415715734608
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (670) | #2 ""Powel @ 97PJp0u7AV"" (680) | #4 ""Catch4 @ TlkvtU55KV"" (2020) | #6 ""joinmatrix @ PLlBwSpVjY"" (1300) | #7 ""Jagatek @ bdNVkZmPI7"" (670) | #8 ""wide1234 @ kdOt3QP_fm"" (700)",2024-04-26T18:45:57.346Z,171415715734601
+"-- starting hand #8 (id: tihjae5lyz8n)  (No Limit Texas Hold'em) (dealer: ""tenten1010 @ 7bT8XwIUWr"") --",2024-04-26T18:45:57.346Z,171415715734600
+"-- ending hand #7 --",2024-04-26T18:45:51.334Z,171415715133403
+"""Catch4 @ TlkvtU55KV"" shows a 9♠, 6♠.",2024-04-26T18:45:51.334Z,171415715133402
+"""joinmatrix @ PLlBwSpVjY"" collected 1060 from pot with Pair, 2's (combination: 2♠, 2♥, A♥, Q♣, J♣)",2024-04-26T18:45:51.334Z,171415715133401
+"""joinmatrix @ PLlBwSpVjY"" shows a 2♠, A♥.",2024-04-26T18:45:51.334Z,171415715133400
+"""joinmatrix @ PLlBwSpVjY"" calls 240",2024-04-26T18:45:50.494Z,171415715049400
+"""Catch4 @ TlkvtU55KV"" bets 240",2024-04-26T18:45:49.133Z,171415714913300
+"River: 2♥, 5♣, Q♣, J♣ [8♥]",2024-04-26T18:45:45.616Z,171415714561600
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:45:44.764Z,171415714476400
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:45:43.564Z,171415714356400
+"Turn: 2♥, 5♣, Q♣ [J♣]",2024-04-26T18:45:39.002Z,171415713900200
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:45:38.163Z,171415713816300
+"""joinmatrix @ PLlBwSpVjY"" calls 80",2024-04-26T18:45:37.242Z,171415713724200
+"""Catch4 @ TlkvtU55KV"" bets 80",2024-04-26T18:45:35.610Z,171415713561000
+"Flop:  [2♥, 5♣, Q♣]",2024-04-26T18:45:30.470Z,171415713047000
+"""Catch4 @ TlkvtU55KV"" calls 120",2024-04-26T18:45:29.613Z,171415712961300
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:45:27.312Z,171415712731200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:45:24.836Z,171415712483600
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:45:20.585Z,171415712058500
+"""Jagatek @ bdNVkZmPI7"" calls 120",2024-04-26T18:45:19.726Z,171415711972600
+"""joinmatrix @ PLlBwSpVjY"" raises to 120",2024-04-26T18:45:15.232Z,171415711523200
+"""Catch4 @ TlkvtU55KV"" calls 40",2024-04-26T18:45:12.876Z,171415711287600
+"""Powel @ 97PJp0u7AV"" posts a big blind of 40",2024-04-26T18:45:10.182Z,171415711018209
+"""tenten1010 @ 7bT8XwIUWr"" posts a small blind of 20",2024-04-26T18:45:10.182Z,171415711018208
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (690) | #2 ""Powel @ 97PJp0u7AV"" (720) | #4 ""Catch4 @ TlkvtU55KV"" (2460) | #6 ""joinmatrix @ PLlBwSpVjY"" (680) | #7 ""Jagatek @ bdNVkZmPI7"" (790) | #8 ""wide1234 @ kdOt3QP_fm"" (700)",2024-04-26T18:45:10.182Z,171415711018201
+"-- starting hand #7 (id: dlbouqdbg7ku)  (No Limit Texas Hold'em) (dealer: ""wide1234 @ kdOt3QP_fm"") --",2024-04-26T18:45:10.182Z,171415711018200
+"""tenten1010 @ 7bT8XwIUWr"" shows a J♦, J♥.",2024-04-26T18:45:07.357Z,171415710735700
+"-- ending hand #6 --",2024-04-26T18:45:03.651Z,171415710365103
+"""Powel @ 97PJp0u7AV"" shows a K♦, 7♦.",2024-04-26T18:45:03.651Z,171415710365102
+"""Catch4 @ TlkvtU55KV"" collected 1620 from pot with Pair, A's (combination: A♦, A♠, Q♥, 9♦, 8♦)",2024-04-26T18:45:03.651Z,171415710365101
+"""Catch4 @ TlkvtU55KV"" shows a 8♦, A♦.",2024-04-26T18:45:03.651Z,171415710365100
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:45:02.795Z,171415710279500
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:44:50.739Z,171415709073900
+"River: 9♦, 3♦, A♠, 5♠ [Q♥]",2024-04-26T18:44:48.783Z,171415708878300
+"""Powel @ 97PJp0u7AV"" calls 240",2024-04-26T18:44:47.976Z,171415708797600
+"""Catch4 @ TlkvtU55KV"" bets 240",2024-04-26T18:44:46.617Z,171415708661700
+"""Powel @ 97PJp0u7AV"" checks",2024-04-26T18:44:42.143Z,171415708214300
+"Turn: 9♦, 3♦, A♠ [5♠]",2024-04-26T18:44:39.526Z,171415707952600
+"""Powel @ 97PJp0u7AV"" calls 380",2024-04-26T18:44:38.661Z,171415707866100
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:44:37.702Z,171415707770200
+"""Catch4 @ TlkvtU55KV"" raises to 380",2024-04-26T18:44:27.354Z,171415706735400
+"""Powel @ 97PJp0u7AV"" bets 190",2024-04-26T18:44:23.035Z,171415706303500
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:44:18.957Z,171415705895700
+"Flop:  [9♦, 3♦, A♠]",2024-04-26T18:44:15.153Z,171415705515300
+"""Powel @ 97PJp0u7AV"" calls 120",2024-04-26T18:44:14.316Z,171415705431600
+"""tenten1010 @ 7bT8XwIUWr"" calls 120",2024-04-26T18:44:09.357Z,171415704935700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:44:04.871Z,171415704487100
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:44:03.994Z,171415704399400
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:44:03.055Z,171415704305500
+"""Catch4 @ TlkvtU55KV"" raises to 120",2024-04-26T18:44:01.955Z,171415704195500
+"""Powel @ 97PJp0u7AV"" calls 40",2024-04-26T18:43:56.974Z,171415703697400
+"""tenten1010 @ 7bT8XwIUWr"" posts a big blind of 40",2024-04-26T18:43:55.064Z,171415703506409
+"""wide1234 @ kdOt3QP_fm"" posts a small blind of 20",2024-04-26T18:43:55.064Z,171415703506408
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (810) | #2 ""Powel @ 97PJp0u7AV"" (1460) | #4 ""Catch4 @ TlkvtU55KV"" (1580) | #6 ""joinmatrix @ PLlBwSpVjY"" (680) | #7 ""Jagatek @ bdNVkZmPI7"" (790) | #8 ""wide1234 @ kdOt3QP_fm"" (720)",2024-04-26T18:43:55.064Z,171415703506401
+"-- starting hand #6 (id: dr3ln98j0hia)  (No Limit Texas Hold'em) (dealer: ""Jagatek @ bdNVkZmPI7"") --",2024-04-26T18:43:55.064Z,171415703506400
+"""Catch4 @ TlkvtU55KV"" shows a 5♦, K♠.",2024-04-26T18:43:53.784Z,171415703378400
+"""joinmatrix @ PLlBwSpVjY"" shows a 9♠, J♠.",2024-04-26T18:43:51.716Z,171415703171600
+"-- ending hand #5 --",2024-04-26T18:43:50.724Z,171415703072402
+"""joinmatrix @ PLlBwSpVjY"" collected 280 from pot",2024-04-26T18:43:50.724Z,171415703072401
+"Uncalled bet of 140 returned to ""joinmatrix @ PLlBwSpVjY""",2024-04-26T18:43:50.724Z,171415703072400
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:43:49.912Z,171415702991200
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:43:43.952Z,171415702395200
+"""joinmatrix @ PLlBwSpVjY"" bets 140",2024-04-26T18:43:37.334Z,171415701733400
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:43:33.108Z,171415701310800
+"""Jagatek @ bdNVkZmPI7"" checks",2024-04-26T18:43:28.179Z,171415700817900
+"Flop:  [7♥, Q♦, A♥]",2024-04-26T18:43:26.659Z,171415700665900
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:43:25.806Z,171415700580600
+"""Jagatek @ bdNVkZmPI7"" calls 80",2024-04-26T18:43:24.943Z,171415700494300
+"""joinmatrix @ PLlBwSpVjY"" calls 80",2024-04-26T18:43:20.502Z,171415700050200
+"""Catch4 @ TlkvtU55KV"" raises to 80",2024-04-26T18:43:17.253Z,171415699725300
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:43:14.394Z,171415699439400
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:43:11.159Z,171415699115900
+"""wide1234 @ kdOt3QP_fm"" posts a big blind of 40",2024-04-26T18:43:09.580Z,171415698958011
+"""Jagatek @ bdNVkZmPI7"" posts a small blind of 20",2024-04-26T18:43:09.580Z,171415698958010
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (810) | #2 ""Powel @ 97PJp0u7AV"" (1460) | #4 ""Catch4 @ TlkvtU55KV"" (1660) | #6 ""joinmatrix @ PLlBwSpVjY"" (480) | #7 ""Jagatek @ bdNVkZmPI7"" (870) | #8 ""wide1234 @ kdOt3QP_fm"" (760)",2024-04-26T18:43:09.580Z,171415698958003
+"-- starting hand #5 (id: h8bfwgtfbsck)  (No Limit Texas Hold'em) (dealer: ""joinmatrix @ PLlBwSpVjY"") --",2024-04-26T18:43:09.580Z,171415698958002
+"The game's big blind was changed from 20 to 40.",2024-04-26T18:43:09.580Z,171415698958001
+"The game's small blind was changed from 10 to 20.",2024-04-26T18:43:09.580Z,171415698958000
+"-- ending hand #4 --",2024-04-26T18:43:03.563Z,171415698356302
+"""Catch4 @ TlkvtU55KV"" collected 740 from pot with Pair, 9's (combination: 9♣, 9♥, 10♦, 7♣, 5♠)",2024-04-26T18:43:03.563Z,171415698356301
+"""Catch4 @ TlkvtU55KV"" shows a 2♣, 9♣.",2024-04-26T18:43:03.563Z,171415698356300
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:43:02.756Z,171415698275600
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:43:01.120Z,171415698112000
+"""Catch4 @ TlkvtU55KV"" bets 100",2024-04-26T18:42:59.815Z,171415697981500
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:42:55.951Z,171415697595100
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:42:54.455Z,171415697445500
+"River: 10♦, 9♥, 5♠, 4♦ [7♣]",2024-04-26T18:42:52.807Z,171415697280700
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:42:51.954Z,171415697195400
+"""tenten1010 @ 7bT8XwIUWr"" checks",2024-04-26T18:42:50.157Z,171415697015700
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:42:44.182Z,171415696418200
+"Turn: 10♦, 9♥, 5♠ [4♦]",2024-04-26T18:42:42.910Z,171415696291000
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:42:42.088Z,171415696208800
+"""joinmatrix @ PLlBwSpVjY"" calls 100",2024-04-26T18:42:41.137Z,171415696113700
+"""Catch4 @ TlkvtU55KV"" calls 100",2024-04-26T18:42:40.099Z,171415696009900
+"""tenten1010 @ 7bT8XwIUWr"" bets 100",2024-04-26T18:42:37.679Z,171415695767900
+"""Jagatek @ bdNVkZmPI7"" checks",2024-04-26T18:42:32.317Z,171415695231700
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:42:31.391Z,171415695139100
+"Flop:  [10♦, 9♥, 5♠]",2024-04-26T18:42:29.577Z,171415694957700
+"""Jagatek @ bdNVkZmPI7"" calls 60",2024-04-26T18:42:28.674Z,171415694867400
+"""joinmatrix @ PLlBwSpVjY"" calls 60",2024-04-26T18:42:25.727Z,171415694572700
+"""Catch4 @ TlkvtU55KV"" calls 60",2024-04-26T18:42:24.591Z,171415694459100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:42:22.901Z,171415694290100
+"""tenten1010 @ 7bT8XwIUWr"" raises to 60",2024-04-26T18:42:21.959Z,171415694195900
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:42:16.768Z,171415693676800
+"""Jagatek @ bdNVkZmPI7"" posts a big blind of 20",2024-04-26T18:42:01.711Z,171415692171111
+"""joinmatrix @ PLlBwSpVjY"" posts a small blind of 10",2024-04-26T18:42:01.711Z,171415692171110
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (970) | #2 ""Powel @ 97PJp0u7AV"" (1460) | #4 ""Catch4 @ TlkvtU55KV"" (1180) | #6 ""joinmatrix @ PLlBwSpVjY"" (740) | #7 ""Jagatek @ bdNVkZmPI7"" (930) | #8 ""wide1234 @ kdOt3QP_fm"" (760)",2024-04-26T18:42:01.711Z,171415692171103
+"-- starting hand #4 (id: fzhzkb6q4h6u)  (No Limit Texas Hold'em) (dead button) --",2024-04-26T18:42:01.711Z,171415692171102
+"The player ""Ghettoman @ ObYg8BYwue"" quits the game with a stack of 990.",2024-04-26T18:42:01.711Z,171415692171101
+"The player ""jndgg @ KmBgcKlIUR"" quits the game with a stack of 970.",2024-04-26T18:42:01.711Z,171415692171100
+"-- ending hand #3 --",2024-04-26T18:41:58.778Z,171415691877802
+"""Powel @ 97PJp0u7AV"" collected 800 from pot",2024-04-26T18:41:58.778Z,171415691877801
+"Uncalled bet of 400 returned to ""Powel @ 97PJp0u7AV""",2024-04-26T18:41:58.778Z,171415691877800
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:41:57.918Z,171415691791800
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:41:56.867Z,171415691686700
+"""Powel @ 97PJp0u7AV"" bets 400",2024-04-26T18:41:55.349Z,171415691534900
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:41:51.766Z,171415691176600
+"River: 8♠, 10♦, 5♠, Q♣ [6♠]",2024-04-26T18:41:49.761Z,171415690976100
+"""joinmatrix @ PLlBwSpVjY"" calls 20",2024-04-26T18:41:48.937Z,171415690893700
+"""Catch4 @ TlkvtU55KV"" calls 20",2024-04-26T18:41:47.868Z,171415690786800
+"""Powel @ 97PJp0u7AV"" bets 20",2024-04-26T18:41:42.420Z,171415690242000
+"""joinmatrix @ PLlBwSpVjY"" checks",2024-04-26T18:41:40.248Z,171415690024800
+"Turn: 8♠, 10♦, 5♠ [Q♣]",2024-04-26T18:41:38.947Z,171415689894700
+"""Catch4 @ TlkvtU55KV"" calls 150",2024-04-26T18:41:38.132Z,171415689813200
+"""Powel @ 97PJp0u7AV"" calls 150",2024-04-26T18:41:34.333Z,171415689433300
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:41:32.704Z,171415689270400
+"""joinmatrix @ PLlBwSpVjY"" bets 150",2024-04-26T18:41:30.912Z,171415689091200
+"Flop:  [8♠, 10♦, 5♠]",2024-04-26T18:41:22.978Z,171415688297800
+"""joinmatrix @ PLlBwSpVjY"" calls 70",2024-04-26T18:41:22.133Z,171415688213300
+"""jndgg @ KmBgcKlIUR"" folds",2024-04-26T18:41:21.075Z,171415688107500
+"""Catch4 @ TlkvtU55KV"" calls 70",2024-04-26T18:41:20.253Z,171415688025300
+"""Ghettoman @ ObYg8BYwue"" folds",2024-04-26T18:41:17.645Z,171415687764500
+"""Powel @ 97PJp0u7AV"" calls 70",2024-04-26T18:41:16.822Z,171415687682200
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:41:15.352Z,171415687535200
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:41:14.268Z,171415687426800
+"""Jagatek @ bdNVkZmPI7"" raises to 70",2024-04-26T18:41:10.507Z,171415687050700
+"""joinmatrix @ PLlBwSpVjY"" posts a big blind of 20",2024-04-26T18:40:57.548Z,171415685754811
+"""jndgg @ KmBgcKlIUR"" posts a small blind of 10",2024-04-26T18:40:57.548Z,171415685754810
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (970) | #2 ""Powel @ 97PJp0u7AV"" (900) | #3 ""Ghettoman @ ObYg8BYwue"" (990) | #4 ""Catch4 @ TlkvtU55KV"" (1420) | #5 ""jndgg @ KmBgcKlIUR"" (980) | #6 ""joinmatrix @ PLlBwSpVjY"" (980) | #7 ""Jagatek @ bdNVkZmPI7"" (1000) | #8 ""wide1234 @ kdOt3QP_fm"" (760)",2024-04-26T18:40:57.548Z,171415685754801
+"-- starting hand #3 (id: mxkioymj4pf4)  (No Limit Texas Hold'em) (dealer: ""Catch4 @ TlkvtU55KV"") --",2024-04-26T18:40:57.548Z,171415685754800
+"""joinmatrix @ PLlBwSpVjY"" shows a J♣, 5♥.",2024-04-26T18:40:56.082Z,171415685608200
+"""Catch4 @ TlkvtU55KV"" shows a 8♣, 8♠.",2024-04-26T18:40:54.823Z,171415685482300
+"-- ending hand #2 --",2024-04-26T18:40:53.173Z,171415685317302
+"""Catch4 @ TlkvtU55KV"" collected 680 from pot",2024-04-26T18:40:53.173Z,171415685317301
+"Uncalled bet of 80 returned to ""Catch4 @ TlkvtU55KV""",2024-04-26T18:40:53.173Z,171415685317300
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:40:52.355Z,171415685235500
+"""Catch4 @ TlkvtU55KV"" bets 80",2024-04-26T18:40:39.997Z,171415683999700
+"River: 7♣, 4♦, 3♥, J♦ [4♥]",2024-04-26T18:40:35.536Z,171415683553600
+"""wide1234 @ kdOt3QP_fm"" calls 80",2024-04-26T18:40:34.666Z,171415683466600
+"""Catch4 @ TlkvtU55KV"" bets 80",2024-04-26T18:40:31.891Z,171415683189100
+"Turn: 7♣, 4♦, 3♥ [J♦]",2024-04-26T18:40:27.711Z,171415682771100
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:40:26.851Z,171415682685100
+"""tenten1010 @ 7bT8XwIUWr"" folds",2024-04-26T18:40:25.871Z,171415682587100
+"""wide1234 @ kdOt3QP_fm"" calls 80",2024-04-26T18:40:24.700Z,171415682470000
+"""Catch4 @ TlkvtU55KV"" bets 80",2024-04-26T18:40:22.766Z,171415682276600
+"Flop:  [7♣, 4♦, 3♥]",2024-04-26T18:40:15.496Z,171415681549600
+"""Powel @ 97PJp0u7AV"" calls 80",2024-04-26T18:40:14.623Z,171415681462300
+"""tenten1010 @ 7bT8XwIUWr"" calls 80",2024-04-26T18:40:13.678Z,171415681367800
+"""wide1234 @ kdOt3QP_fm"" calls 80",2024-04-26T18:40:11.020Z,171415681102000
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:39:58.946Z,171415679894600
+"""jndgg @ KmBgcKlIUR"" folds",2024-04-26T18:39:55.589Z,171415679558900
+"""Catch4 @ TlkvtU55KV"" raises to 80",2024-04-26T18:39:54.778Z,171415679477800
+"""Ghettoman @ ObYg8BYwue"" folds",2024-04-26T18:39:49.423Z,171415678942300
+"""Powel @ 97PJp0u7AV"" calls 20",2024-04-26T18:39:48.596Z,171415678859600
+"""tenten1010 @ 7bT8XwIUWr"" calls 20",2024-04-26T18:39:46.208Z,171415678620800
+"""wide1234 @ kdOt3QP_fm"" calls 20",2024-04-26T18:39:45.134Z,171415678513400
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:39:40.160Z,171415678016000
+"""joinmatrix @ PLlBwSpVjY"" calls 20",2024-04-26T18:39:32.173Z,171415677217300
+"""jndgg @ KmBgcKlIUR"" posts a big blind of 20",2024-04-26T18:39:26.871Z,171415676687111
+"""Catch4 @ TlkvtU55KV"" posts a small blind of 10",2024-04-26T18:39:26.871Z,171415676687110
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1050) | #2 ""Powel @ 97PJp0u7AV"" (980) | #3 ""Ghettoman @ ObYg8BYwue"" (990) | #4 ""Catch4 @ TlkvtU55KV"" (980) | #5 ""jndgg @ KmBgcKlIUR"" (1000) | #6 ""joinmatrix @ PLlBwSpVjY"" (1000) | #7 ""Jagatek @ bdNVkZmPI7"" (1000) | #8 ""wide1234 @ kdOt3QP_fm"" (1000)",2024-04-26T18:39:26.871Z,171415676687101
+"-- starting hand #2 (id: hcti9a8b9f39)  (No Limit Texas Hold'em) (dealer: ""Ghettoman @ ObYg8BYwue"") --",2024-04-26T18:39:26.871Z,171415676687100
+"""joinmatrix @ PLlBwSpVjY"" shows a 3♣, 8♦.",2024-04-26T18:39:24.848Z,171415676484800
+"-- ending hand #1 --",2024-04-26T18:39:23.229Z,171415676322902
+"""tenten1010 @ 7bT8XwIUWr"" collected 70 from pot",2024-04-26T18:39:23.229Z,171415676322901
+"Uncalled bet of 60 returned to ""tenten1010 @ 7bT8XwIUWr""",2024-04-26T18:39:23.229Z,171415676322900
+"""Catch4 @ TlkvtU55KV"" folds",2024-04-26T18:39:22.407Z,171415676240700
+"""Powel @ 97PJp0u7AV"" folds",2024-04-26T18:39:16.842Z,171415675684200
+"""tenten1010 @ 7bT8XwIUWr"" bets 60",2024-04-26T18:39:11.396Z,171415675139600
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:39:06.588Z,171415674658800
+"Flop:  [10♣, 4♣, 8♣]",2024-04-26T18:39:01.636Z,171415674163600
+"""Catch4 @ TlkvtU55KV"" checks",2024-04-26T18:39:00.744Z,171415674074400
+"""Ghettoman @ ObYg8BYwue"" folds",2024-04-26T18:38:58.335Z,171415673833500
+"""Powel @ 97PJp0u7AV"" calls 20",2024-04-26T18:38:42.498Z,171415672249800
+"""tenten1010 @ 7bT8XwIUWr"" calls 20",2024-04-26T18:38:40.787Z,171415672078700
+"""wide1234 @ kdOt3QP_fm"" folds",2024-04-26T18:38:39.820Z,171415671982000
+"""Jagatek @ bdNVkZmPI7"" folds",2024-04-26T18:38:23.962Z,171415670396200
+"""joinmatrix @ PLlBwSpVjY"" folds",2024-04-26T18:38:23.043Z,171415670304300
+"""jndgg @ KmBgcKlIUR"" folds",2024-04-26T18:38:22.031Z,171415670203100
+"""Catch4 @ TlkvtU55KV"" posts a big blind of 20",2024-04-26T18:38:07.002Z,171415668700219
+"""Ghettoman @ ObYg8BYwue"" posts a small blind of 10",2024-04-26T18:38:07.002Z,171415668700218
+"Player stacks: #1 ""tenten1010 @ 7bT8XwIUWr"" (1000) | #2 ""Powel @ 97PJp0u7AV"" (1000) | #3 ""Ghettoman @ ObYg8BYwue"" (1000) | #4 ""Catch4 @ TlkvtU55KV"" (1000) | #5 ""jndgg @ KmBgcKlIUR"" (1000) | #6 ""joinmatrix @ PLlBwSpVjY"" (1000) | #7 ""Jagatek @ bdNVkZmPI7"" (1000) | #8 ""wide1234 @ kdOt3QP_fm"" (1000)",2024-04-26T18:38:07.002Z,171415668700209
+"The player ""wide1234 @ kdOt3QP_fm"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700208
+"The player ""Jagatek @ bdNVkZmPI7"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700207
+"The player ""joinmatrix @ PLlBwSpVjY"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700206
+"The player ""jndgg @ KmBgcKlIUR"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700205
+"The player ""Catch4 @ TlkvtU55KV"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700204
+"The player ""Ghettoman @ ObYg8BYwue"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700203
+"The player ""Powel @ 97PJp0u7AV"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700202
+"The player ""tenten1010 @ 7bT8XwIUWr"" joined the game with a stack of 1000.",2024-04-26T18:38:07.002Z,171415668700201
+"-- starting hand #1 (id: oanq6oi9wrgw)  (No Limit Texas Hold'em) (dealer: ""Powel @ 97PJp0u7AV"") --",2024-04-26T18:38:07.002Z,171415668700200
